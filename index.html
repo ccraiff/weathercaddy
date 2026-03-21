@@ -3,32 +3,115 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>WeatherCaddy v2.5 — Wind Briefings</title>
+<title>WeatherCaddy — Sand Ridge</title>
 <style>
   body { font-family: sans-serif; background: #1a1a2e; color: #ecf0f1; margin: 0; padding: 20px; }
   h1 { color: #e74c3c; text-align: center; }
-  .courses { display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; margin-top: 30px; }
-  .course-card { background: #2c2c4e; border: 2px solid #c0392b; border-radius: 12px; padding: 20px; width: 200px; text-align: center; cursor: pointer; text-decoration: none; color: #ecf0f1; }
-  .course-card:hover { background: #3a3a5e; }
-  .course-card h2 { color: #e74c3c; font-size: 18px; }
+  .back { color: #95a5a6; text-decoration: none; display: block; text-align: center; margin-bottom: 20px; }
+  .back:hover { color: #ecf0f1; }
+  .toggle-container { display: flex; justify-content: center; align-items: center; gap: 15px; margin: 20px 0; }
+  .toggle-label { font-size: 16px; color: #95a5a6; }
+  .toggle-label.active { color: #e74c3c; font-weight: bold; }
+  .toggle { position: relative; width: 60px; height: 30px; }
+  .toggle input { opacity: 0; width: 0; height: 0; }
+  .slider { position: absolute; cursor: pointer; top: 0; left: 0; right: 0; bottom: 0; background: #c0392b; border-radius: 30px; transition: 0.3s; }
+  .slider:before { position: absolute; content: ""; height: 22px; width: 22px; left: 4px; bottom: 4px; background: white; border-radius: 50%; transition: 0.3s; }
+  input:checked + .slider:before { transform: translateX(30px); }
+  .conditions { background: #2c2c4e; border: 1px solid #c0392b; border-radius: 8px; padding: 15px; margin: 20px 0; }
+  .conditions h3 { color: #e74c3c; margin: 0 0 8px 0; }
+  .hole { background: #2c2c4e; border-left: 4px solid #c0392b; border-radius: 4px; padding: 12px 15px; margin: 8px 0; }
+  .hole-name { color: #e74c3c; font-weight: bold; font-size: 14px; }
+  .hole-tip { color: #ecf0f1; font-size: 14px; margin-top: 4px; }
+  .hole-wind { color: #95a5a6; font-size: 12px; margin-top: 2px; }
+  .timestamp { text-align: center; color: #95a5a6; font-size: 12px; margin-top: 20px; }
+  .loading { text-align: center; color: #95a5a6; padding: 40px; }
+  .error { text-align: center; color: #e74c3c; padding: 40px; }
 </style>
 </head>
 <body>
-<h1>WeatherCaddy v2.5</h1>
-<p style="text-align:center;color:#95a5a6">AI-Powered Disc Golf Wind Briefings — Michigan</p>
-<div class="courses">
-  <a href="sandridge/index.html" class="course-card">
-    <h2>Sand Ridge</h2>
-    <p>Bridgman, MI</p>
-  </a>
-  <a href="shoreacres/index.html" class="course-card">
-    <h2>Shore Acres</h2>
-    <p>Holland, MI</p>
-  </a>
-  <a href="arvesta/index.html" class="course-card">
-    <h2>Lake Arvesta</h2>
-    <p>Kalamazoo, MI</p>
-  </a>
+<a href="../index.html" class="back">← All Courses</a>
+<h1>Sand Ridge Disc Golf</h1>
+<p style="text-align:center;color:#95a5a6">Bridgman, Michigan</p>
+
+<div class="toggle-container">
+  <span class="toggle-label active" id="rhLabel">Right Hand</span>
+  <label class="toggle">
+    <input type="checkbox" id="handToggle" onchange="renderReport()">
+    <span class="slider"></span>
+  </label>
+  <span class="toggle-label" id="lhLabel">Left Hand</span>
 </div>
+
+<div id="report"><div class="loading">Loading latest wind briefing...</div></div>
+<div class="timestamp" id="timestamp"></div>
+
+<script>
+const REPORT_URL = 'report.json';
+let reportData = null;
+
+const clockMirrorMap = {
+  '1 o\'clock': '11 o\'clock',
+  '2 o\'clock': '10 o\'clock',
+  '3 o\'clock crosswind from left': '9 o\'clock crosswind from right',
+  '4 o\'clock': '8 o\'clock',
+  '5 o\'clock': '7 o\'clock',
+  '6 o\'clock tailwind': '6 o\'clock tailwind',
+  '7 o\'clock': '5 o\'clock',
+  '8 o\'clock': '4 o\'clock',
+  '9 o\'clock crosswind from right': '3 o\'clock crosswind from left',
+  '10 o\'clock': '2 o\'clock',
+  '11 o\'clock': '1 o\'clock',
+  '12 o\'clock headwind': '12 o\'clock headwind'
+};
+
+function mirrorClock(position) {
+  const lower = position.toLowerCase().trim();
+  for (const [key, val] of Object.entries(clockMirrorMap)) {
+    if (lower === key.toLowerCase()) return val;
+  }
+  for (const [key, val] of Object.entries(clockMirrorMap)) {
+    if (lower.startsWith(key.toLowerCase())) return val;
+  }
+  return position;
+}
+
+function renderReport() {
+  if (!reportData) return;
+  const isLeftHand = document.getElementById('handToggle').checked;
+  document.getElementById('rhLabel').className = 'toggle-label' + (isLeftHand ? '' : ' active');
+  document.getElementById('lhLabel').className = 'toggle-label' + (isLeftHand ? ' active' : '');
+
+  let html = '';
+  if (reportData.conditions) {
+    html += '<div class="conditions"><h3>Current Conditions</h3><p>' + reportData.conditions + '</p></div>';
+  }
+
+  if (reportData.holes) {
+    reportData.holes.forEach(function(hole) {
+      const wind = isLeftHand ? mirrorClock(hole.clock) : hole.clock;
+      html += '<div class="hole">' +
+        '<div class="hole-name">' + hole.name + '</div>' +
+        '<div class="hole-wind">' + wind + '</div>' +
+        '<div class="hole-tip">' + hole.tip + '</div>' +
+        '</div>';
+    });
+  }
+
+  document.getElementById('report').innerHTML = html || '<div class="error">No report data available.</div>';
+  if (reportData.timestamp) {
+    document.getElementById('timestamp').textContent = 'Last updated: ' + reportData.timestamp;
+  }
+}
+
+fetch(REPORT_URL + '?t=' + Date.now())
+  .then(function(r) { return r.json(); })
+  .then(function(data) {
+    reportData = data;
+    renderReport();
+  })
+  .catch(function() {
+    document.getElementById('report').innerHTML = '<div class="error">Report not yet available. Check back soon!</div>';
+  });
+</script>
 </body>
 </html>
