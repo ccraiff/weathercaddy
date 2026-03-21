@@ -1,0 +1,1579 @@
+{
+  "course": "Lake Arvesta",
+  "report_generated_at": "2026-03-21 15:00 EDT",
+  "current_wind": {
+    "speed_mph": 14.4,
+    "direction_degrees": 185,
+    "gusts_mph": 18.6,
+    "description": "Moderate wind from SSE, gusts to 18.6 mph."
+  },
+  "forecast_5hr": [
+    {"time_edt": "2026-03-21 15:00 EDT", "speed_mph": 14.4, "direction_degrees": 185},
+    {"time_edt": "2026-03-21 16:00 EDT", "speed_mph": 14.8, "direction_degrees": 183},
+    {"time_edt": "2026-03-21 17:00 EDT", "speed_mph": 16.1, "direction_degrees": 182},
+    {"time_edt": "2026-03-21 18:00 EDT", "speed_mph": 13.4, "direction_degrees": 181},
+    {"time_edt": "2026-03-21 19:00 EDT", "speed_mph": 9.9, "direction_degrees": 176}
+  ],
+  "holes": [
+    {
+      "hole_number": 1,
+      "hole_label": "Hole 1 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 196.9,
+        "relative_degrees": 348.1,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH manageable with an overstable disc to fight the headwind."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH is also viable with an overstable disc."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH manageable with an overstable disc to fight the headwind."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH is also viable with an overstable disc."
+        }
+      }
+    },
+    {
+      "hole_number": 1,
+      "hole_label": "Hole 1 [white]",
+      "wind_info": {
+        "azimuth_degrees": 197.3,
+        "relative_degrees": 347.7,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH manageable with an overstable disc to fight the headwind."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH is also viable with an overstable disc."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH manageable with an overstable disc to fight the headwind."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH is also viable with an overstable disc."
+        }
+      }
+    },
+    {
+      "hole_number": 1,
+      "hole_label": "Hole 1 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 150.0,
+        "relative_degrees": 35.0,
+        "clock_face": "1 o-clock",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 2,
+      "hole_label": "Hole 2 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 283.1,
+        "relative_degrees": 261.9,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 2,
+      "hole_label": "Hole 2 [white]",
+      "wind_info": {
+        "azimuth_degrees": 271.8,
+        "relative_degrees": 273.2,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 2,
+      "hole_label": "Hole 2 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 264.9,
+        "relative_degrees": 280.1,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 3,
+      "hole_label": "Hole 3 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 219.3,
+        "relative_degrees": 325.7,
+        "clock_face": "11 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 3,
+      "hole_label": "Hole 3 [white]",
+      "wind_info": {
+        "azimuth_degrees": 231.7,
+        "relative_degrees": 313.3,
+        "clock_face": "10 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 3,
+      "hole_label": "Hole 3 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 235.6,
+        "relative_degrees": 309.4,
+        "clock_face": "10 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 4,
+      "hole_label": "Hole 4 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 167.1,
+        "relative_degrees": 17.9,
+        "clock_face": "1 o-clock",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 4,
+      "hole_label": "Hole 4 [white]",
+      "wind_info": {
+        "azimuth_degrees": 164.4,
+        "relative_degrees": 20.6,
+        "clock_face": "1 o-clock",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 4,
+      "hole_label": "Hole 4 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 168.6,
+        "relative_degrees": 16.4,
+        "clock_face": "1 o-clock",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 5,
+      "hole_label": "Hole 5 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 270.0,
+        "relative_degrees": 275.0,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 5,
+      "hole_label": "Hole 5 [white]",
+      "wind_info": {
+        "azimuth_degrees": 266.3,
+        "relative_degrees": 278.7,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 5,
+      "hole_label": "Hole 5 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 270.0,
+        "relative_degrees": 275.0,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 6,
+      "hole_label": "Hole 6 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 216.3,
+        "relative_degrees": 328.7,
+        "clock_face": "11 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 6,
+      "hole_label": "Hole 6 [white]",
+      "wind_info": {
+        "azimuth_degrees": 233.0,
+        "relative_degrees": 312.0,
+        "clock_face": "10 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 6,
+      "hole_label": "Hole 6 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 229.4,
+        "relative_degrees": 315.6,
+        "clock_face": "11 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 7,
+      "hole_label": "Hole 7 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 164.8,
+        "relative_degrees": 20.2,
+        "clock_face": "1 o-clock",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 7,
+      "hole_label": "Hole 7 [white]",
+      "wind_info": {
+        "azimuth_degrees": 182.2,
+        "relative_degrees": 2.8,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH manageable with an overstable disc to fight the headwind."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH is also viable with an overstable disc."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH manageable with an overstable disc to fight the headwind."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH is also viable with an overstable disc."
+        }
+      }
+    },
+    {
+      "hole_number": 7,
+      "hole_label": "Hole 7 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 176.6,
+        "relative_degrees": 8.4,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH manageable with an overstable disc to fight the headwind."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH is also viable with an overstable disc."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH manageable with an overstable disc to fight the headwind."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH is also viable with an overstable disc."
+        }
+      }
+    },
+    {
+      "hole_number": 8,
+      "hole_label": "Hole 8 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 347.4,
+        "relative_degrees": 197.6,
+        "clock_face": "7 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 8,
+      "hole_label": "Hole 8 [white]",
+      "wind_info": {
+        "azimuth_degrees": 0.1,
+        "relative_degrees": 184.9,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      }
+    },
+    {
+      "hole_number": 8,
+      "hole_label": "Hole 8 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 356.3,
+        "relative_degrees": 188.7,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      }
+    },
+    {
+      "hole_number": 9,
+      "hole_label": "Hole 9",
+      "wind_info": {
+        "azimuth_degrees": 296.3,
+        "relative_degrees": 248.7,
+        "clock_face": "8 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 10,
+      "hole_label": "Hole 10 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 344.3,
+        "relative_degrees": 200.7,
+        "clock_face": "7 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 10,
+      "hole_label": "Hole 10 [white]",
+      "wind_info": {
+        "azimuth_degrees": 357.3,
+        "relative_degrees": 187.7,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      }
+    },
+    {
+      "hole_number": 10,
+      "hole_label": "Hole 10 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 353.5,
+        "relative_degrees": 191.5,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      }
+    },
+    {
+      "hole_number": 11,
+      "hole_label": "Hole 11 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 83.5,
+        "relative_degrees": 101.5,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 11,
+      "hole_label": "Hole 11 [white]",
+      "wind_info": {
+        "azimuth_degrees": 71.1,
+        "relative_degrees": 113.9,
+        "clock_face": "4 o-clock",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 11,
+      "hole_label": "Hole 11 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 79.9,
+        "relative_degrees": 105.1,
+        "clock_face": "4 o-clock",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 12,
+      "hole_label": "Hole 12 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 330.0,
+        "relative_degrees": 215.0,
+        "clock_face": "7 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 12,
+      "hole_label": "Hole 12 [white]",
+      "wind_info": {
+        "azimuth_degrees": 316.5,
+        "relative_degrees": 228.5,
+        "clock_face": "8 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 12,
+      "hole_label": "Hole 12 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 306.5,
+        "relative_degrees": 238.5,
+        "clock_face": "8 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 13,
+      "hole_label": "Hole 13 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 332.0,
+        "relative_degrees": 213.0,
+        "clock_face": "7 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 13,
+      "hole_label": "Hole 13 [white]",
+      "wind_info": {
+        "azimuth_degrees": 330.0,
+        "relative_degrees": 215.0,
+        "clock_face": "7 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 13,
+      "hole_label": "Hole 13 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 322.9,
+        "relative_degrees": 222.1,
+        "clock_face": "7 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 14,
+      "hole_label": "Hole 14 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 330.0,
+        "relative_degrees": 215.0,
+        "clock_face": "7 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 14,
+      "hole_label": "Hole 14 [white]",
+      "wind_info": {
+        "azimuth_degrees": 330.0,
+        "relative_degrees": 215.0,
+        "clock_face": "7 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 14,
+      "hole_label": "Hole 14 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 336.2,
+        "relative_degrees": 208.8,
+        "clock_face": "7 o-clock",
+        "description": "Moderate right-to-left wind with strong gusts."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+        }
+      }
+    },
+    {
+      "hole_number": 15,
+      "hole_label": "Hole 15 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 163.1,
+        "relative_degrees": 21.9,
+        "clock_face": "1 o-clock",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 15,
+      "hole_label": "Hole 15 [white]",
+      "wind_info": {
+        "azimuth_degrees": 168.5,
+        "relative_degrees": 16.5,
+        "clock_face": "1 o-clock",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 15,
+      "hole_label": "Hole 15 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 173.2,
+        "relative_degrees": 11.8,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH manageable with an overstable disc to fight the headwind."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH is also viable with an overstable disc."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH manageable with an overstable disc to fight the headwind."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH is also viable with an overstable disc."
+        }
+      }
+    },
+    {
+      "hole_number": 16,
+      "hole_label": "Hole 16 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 141.1,
+        "relative_degrees": 43.9,
+        "clock_face": "1 o-clock",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 16,
+      "hole_label": "Hole 16 [white]",
+      "wind_info": {
+        "azimuth_degrees": 142.1,
+        "relative_degrees": 42.9,
+        "clock_face": "1 o-clock",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 16,
+      "hole_label": "Hole 16 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 141.8,
+        "relative_degrees": 43.2,
+        "clock_face": "1 o-clock",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 17,
+      "hole_label": "Hole 17 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 97.7,
+        "relative_degrees": 87.3,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 17,
+      "hole_label": "Hole 17 [white]",
+      "wind_info": {
+        "azimuth_degrees": 98.7,
+        "relative_degrees": 86.3,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 17,
+      "hole_label": "Hole 17 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 85.5,
+        "relative_degrees": 99.5,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate left-to-right wind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable/Overstable",
+          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+        },
+        "fh": {
+          "disc_recommendation": "Stable/Understable",
+          "shot_strategy": "RHFH is a viable alternative."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable/Stable",
+          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+        },
+        "fh": {
+          "disc_recommendation": "Understable/Stable",
+          "shot_strategy": "LHFH is the preferred shot."
+        }
+      }
+    },
+    {
+      "hole_number": 18,
+      "hole_label": "Hole 18 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 10.0,
+        "relative_degrees": 175.0,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      }
+    },
+    {
+      "hole_number": 18,
+      "hole_label": "Hole 18 [white]",
+      "wind_info": {
+        "azimuth_degrees": 7.0,
+        "relative_degrees": 178.0,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      }
+    },
+    {
+      "hole_number": 18,
+      "hole_label": "Hole 18 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 11.5,
+        "relative_degrees": 173.5,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind."
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH with an understable disc for extra distance. Watch for gust effects."
+        },
+        "fh": {
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH is also viable with an understable disc. Focus on smooth release."
+        }
+      }
+    }
+  ]
+}
