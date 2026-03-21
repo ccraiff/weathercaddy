@@ -1,74 +1,125 @@
 {
-  "course": "Shore Acres Disc Golf Park",
+  "course": "Lake Arvesta Sports Complex",
   "briefing_type": "Full Tactical Briefing (BH/FH)",
   "report_generated_at": "2026-03-21 02:00 EDT",
   "current_wind": {
-    "speed_mph": 5.9,
-    "direction_degrees": 99,
-    "gusts_mph": 11.6,
-    "description": "Moderate wind from the East, with significant gusts."
+    "speed_mph": 4.3,
+    "direction_degrees": 133,
+    "gusts_mph": 9.8,
+    "description": "Moderate wind from the East-Southeast, with significant gusts."
   },
   "forecast_5hr": [
-    {"time_utc": "2026-03-21 02:00 EDT", "speed_mph": 5.9, "direction_degrees": 99},
-    {"time_utc": "2026-03-21 03:00 EDT", "speed_mph": 7.2, "direction_degrees": 90},
-    {"time_utc": "2026-03-21 04:00 EDT", "speed_mph": 6.9, "direction_degrees": 103},
-    {"time_utc": "2026-03-21 05:00 EDT", "speed_mph": 6.2, "direction_degrees": 109},
-    {"time_utc": "2026-03-21 06:00 EDT", "speed_mph": 7.2, "direction_degrees": 112}
+    {"time_utc": "2026-03-21 02:00 EDT", "speed_mph": 4.3, "direction_degrees": 133},
+    {"time_utc": "2026-03-21 03:00 EDT", "speed_mph": 3.8, "direction_degrees": 97},
+    {"time_utc": "2026-03-21 04:00 EDT", "speed_mph": 2.0, "direction_degrees": 117},
+    {"time_utc": "2026-03-21 05:00 EDT", "speed_mph": 5.9, "direction_degrees": 83},
+    {"time_utc": "2026-03-21 06:00 EDT", "speed_mph": 5.6, "direction_degrees": 97}
   ],
   "holes": [
     {
       "hole_number": 1,
-      "sub_hole": "[yellow]",
-      "wind_info": {"azimuth_degrees": 349.9, "relative_degrees": 109.1, "clock_face": "4 o'clock", "description": "Tailwind with slight right crosswind"},
+      "sub_hole": "[blue]",
+      "wind_info": {"azimuth_degrees": 196.9, "relative_degrees": 296.1, "clock_face": "10 o'clock", "description": "Headwind with strong left crosswind"},
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Neutral disc.",
-          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push left."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHBH - Strong hyzer release to combat headwind and push right. Backhand offers better control."
         },
         "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape around obstacles."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHFH - Difficult, but manageable with precise anhyzer control."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Neutral disc.",
-          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push right."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHBH - Strong anhyzer release to combat headwind and push left. Backhand offers better control."
         },
         "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape around obstacles."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHFH - Difficult, but manageable with precise hyzer control."
         }
       }
     },
     {
       "hole_number": 1,
-      "sub_hole": "[black]",
-      "wind_info": {"azimuth_degrees": 342.6, "relative_degrees": 116.4, "clock_face": "4 o'clock", "description": "Tailwind with slight right crosswind"},
+      "sub_hole": "[white]",
+      "wind_info": {"azimuth_degrees": 197.3, "relative_degrees": 295.7, "clock_face": "10 o'clock", "description": "Headwind with strong left crosswind"},
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Neutral disc.",
-          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push left."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHBH - Strong hyzer release to combat headwind and push right. Backhand offers better control."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHFH - Difficult, but manageable with precise anhyzer control."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHBH - Strong anhyzer release to combat headwind and push left. Backhand offers better control."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHFH - Difficult, but manageable with precise hyzer control."
+        }
+      }
+    },
+    {
+      "hole_number": 1,
+      "sub_hole": "[yellow]",
+      "wind_info": {"azimuth_degrees": 150.0, "relative_degrees": 343.0, "clock_face": "11 o'clock", "description": "Slight headwind with slight left crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "RHBH - Flat or slight hyzer to manage slight headwind and push right."
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape around obstacles."
+          "shot_strategy": "RHFH - Slight anhyzer to counter push left."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "LHBH - Flat or slight anhyzer to manage slight headwind and push left."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "LHFH - Slight hyzer to counter push right."
+        }
+      }
+    },
+    {
+      "hole_number": 2,
+      "sub_hole": "[blue]",
+      "wind_info": {"azimuth_degrees": 283.1, "relative_degrees": 209.9, "clock_face": "7 o'clock", "description": "Tailwind with slight left crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push right."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape the shot."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Neutral disc.",
-          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push right."
+          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push left."
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape around obstacles."
+          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape the shot."
         }
       }
     },
     {
-      "hole_number": "A",
-      "wind_info": {"azimuth_degrees": 253.5, "relative_degrees": 205.5, "clock_face": "7 o'clock", "description": "Tailwind with slight left crosswind"},
+      "hole_number": 2,
+      "sub_hole": "[white]",
+      "wind_info": {"azimuth_degrees": 271.8, "relative_degrees": 211.2, "clock_face": "7 o'clock", "description": "Tailwind with slight left crosswind"},
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Neutral disc.",
@@ -93,157 +144,157 @@
     {
       "hole_number": 2,
       "sub_hole": "[yellow]",
-      "wind_info": {"azimuth_degrees": 64.1, "relative_degrees": 34.9, "clock_face": "1 o'clock", "description": "Slight headwind with slight right crosswind"},
+      "wind_info": {"azimuth_degrees": 264.9, "relative_degrees": 214.1, "clock_face": "7 o'clock", "description": "Tailwind with slight left crosswind"},
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHBH - Flat or slight hyzer to manage the slight headwind and gentle push left."
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push right."
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - Slight anhyzer to counter the push right."
+          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape the shot."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHBH - Flat or slight anhyzer to manage the slight headwind and push right."
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push left."
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - Slight hyzer to counter the push left."
+          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape the shot."
         }
       }
     },
     {
-      "hole_number": 2,
-      "sub_hole": "[black]",
-      "wind_info": {"azimuth_degrees": 77.3, "relative_degrees": 21.7, "clock_face": "1 o'clock", "description": "Slight headwind with slight right crosswind"},
+      "hole_number": 3,
+      "sub_hole": "[blue]",
+      "wind_info": {"azimuth_degrees": 219.3, "relative_degrees": 259.7, "clock_face": "9 o'clock", "description": "Crosswind from right"},
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHBH - Flat or slight hyzer to manage the slight headwind and gentle push left."
+          "disc_recommendation": "Overstable disc.",
+          "shot_strategy": "RHBH - Overstable disc on a hyzer to fight strong crosswind pushing left."
         },
         "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - Slight anhyzer to counter the push right."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHFH - Controlled flex shot if BH control is difficult."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHBH - Flat or slight anhyzer to manage the slight headwind and push right."
+          "disc_recommendation": "Overstable disc.",
+          "shot_strategy": "LHBH - Overstable disc on an anhyzer to fight strong crosswind pushing right."
         },
         "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - Slight hyzer to counter the push left."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHFH - Controlled flex shot if BH control is difficult."
+        }
+      }
+    },
+    {
+      "hole_number": 3,
+      "sub_hole": "[white]",
+      "wind_info": {"azimuth_degrees": 231.7, "relative_degrees": 247.3, "clock_face": "8 o'clock", "description": "Headwind with moderate left crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHBH - Strong hyzer release to combat headwind and push right. Backhand offers better control."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHFH - Difficult, but manageable with precise anhyzer control."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHBH - Strong anhyzer release to combat headwind and push left. Backhand offers better control."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHFH - Difficult, but manageable with precise hyzer control."
         }
       }
     },
     {
       "hole_number": 3,
       "sub_hole": "[yellow]",
-      "wind_info": {"azimuth_degrees": 323.2, "relative_degrees": 135.8, "clock_face": "5 o'clock", "description": "Tailwind with significant right crosswind"},
+      "wind_info": {"azimuth_degrees": 235.6, "relative_degrees": 243.4, "clock_face": "8 o'clock", "description": "Headwind with moderate left crosswind"},
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Neutral to understable disc.",
-          "shot_strategy": "RHBH - Use an anhyzer release to counter the crosswind pushing left, letting the tailwind provide extra glide."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHBH - Strong hyzer release to combat headwind and push right. Backhand offers better control."
         },
         "fh": {
-          "disc_recommendation": "Neutral to overstable disc.",
-          "shot_strategy": "RHFH - If the push left is too much for RHBH control, a RHFH with a hyzer angle can work, but may limit max distance."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHFH - Difficult, but manageable with precise anhyzer control."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Neutral to overstable disc.",
-          "shot_strategy": "LHBH - Use a hyzer release to counter the crosswind pushing left, allowing the tailwind to provide extra glide."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHBH - Strong anhyzer release to combat headwind and push left. Backhand offers better control."
         },
         "fh": {
-          "disc_recommendation": "Neutral to understable disc.",
-          "shot_strategy": "LHFH - If the push left is too much for LHBH control, a LHFH with an anhyzer angle can work, but may limit max distance."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHFH - Difficult, but manageable with precise hyzer control."
         }
       }
     },
     {
-      "hole_number": 3,
-      "sub_hole": "[black]",
-      "wind_info": {"azimuth_degrees": 304.9, "relative_degrees": 154.1, "clock_face": "5 o'clock", "description": "Tailwind with significant right crosswind"},
+      "hole_number": 4,
+      "sub_hole": "[blue]",
+      "wind_info": {"azimuth_degrees": 167.1, "relative_degrees": 311.9, "clock_face": "10 o'clock", "description": "Headwind with strong left crosswind"},
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Neutral to understable disc.",
-          "shot_strategy": "RHBH - Use an anhyzer release to counter the crosswind pushing left, letting the tailwind provide extra glide."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHBH - Strong hyzer release to combat headwind and push right. Backhand offers better control."
         },
         "fh": {
-          "disc_recommendation": "Neutral to overstable disc.",
-          "shot_strategy": "RHFH - If the push left is too much for RHBH control, a RHFH with a hyzer angle can work, but may limit max distance."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHFH - Can be used if obstacle avoidance is key or crosswind push is extreme, but control is harder."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Neutral to overstable disc.",
-          "shot_strategy": "LHBH - Use a hyzer release to counter the crosswind pushing left, allowing the tailwind to provide extra glide."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHBH - Strong anhyzer release to combat headwind and push left. Backhand offers better control."
         },
         "fh": {
-          "disc_recommendation": "Neutral to understable disc.",
-          "shot_strategy": "LHFH - If the push left is too much for LHBH control, a LHFH with an anhyzer angle can work, but may limit max distance."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHFH - Can be used if obstacle avoidance is key or crosswind push is extreme, but control is harder."
+        }
+      }
+    },
+    {
+      "hole_number": 4,
+      "sub_hole": "[white]",
+      "wind_info": {"azimuth_degrees": 164.4, "relative_degrees": 314.6, "clock_face": "10 o'clock", "description": "Headwind with strong left crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHBH - Strong hyzer release to combat headwind and push right. Backhand offers better control."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHFH - Can be used if obstacle avoidance is key or crosswind push is extreme, but control is harder."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHBH - Strong anhyzer release to combat headwind and push left. Backhand offers better control."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHFH - Can be used if obstacle avoidance is key or crosswind push is extreme, but control is harder."
         }
       }
     },
     {
       "hole_number": 4,
       "sub_hole": "[yellow]",
-      "wind_info": {"azimuth_degrees": 54.0, "relative_degrees": 45.0, "clock_face": "2 o'clock", "description": "Slight headwind with slight right crosswind"},
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHBH - Flat or slight hyzer to manage the slight headwind and gentle push left."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - Slight anhyzer to counter the push right."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHBH - Flat or slight anhyzer to manage the slight headwind and push right."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - Slight hyzer to counter the push left."
-        }
-      }
-    },
-    {
-      "hole_number": 4,
-      "sub_hole": "[black]",
-      "wind_info": {"azimuth_degrees": 49.5, "relative_degrees": 49.5, "clock_face": "2 o'clock", "description": "Slight headwind with slight right crosswind"},
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHBH - Flat or slight hyzer to manage the slight headwind and gentle push left."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - Slight anhyzer to counter the push right."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHBH - Flat or slight anhyzer to manage the slight headwind and push right."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - Slight hyzer to counter the push left."
-        }
-      }
-    },
-    {
-      "hole_number": 5,
-      "sub_hole": "[yellow]",
-      "wind_info": {"azimuth_degrees": 145.3, "relative_degrees": 313.7, "clock_face": "10 o'clock", "description": "Headwind with strong left crosswind"},
+      "wind_info": {"azimuth_degrees": 168.6, "relative_degrees": 310.4, "clock_face": "10 o'clock", "description": "Headwind with strong left crosswind"},
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable driver.",
@@ -267,83 +318,258 @@
     },
     {
       "hole_number": 5,
-      "sub_hole": "[black]",
-      "wind_info": {"azimuth_degrees": 134.0, "relative_degrees": 325.0, "clock_face": "11 o'clock", "description": "Slight headwind with slight left crosswind"},
+      "sub_hole": "[blue]",
+      "wind_info": {"azimuth_degrees": 270.0, "relative_degrees": 223.0, "clock_face": "7 o'clock", "description": "Tailwind with slight left crosswind"},
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHBH - Flat or slight hyzer to manage slight headwind and push right."
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push right."
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - Slight anhyzer to counter push left."
+          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape the shot."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHBH - Flat or slight anhyzer to manage slight headwind and push left."
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push left."
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - Slight hyzer to counter push right."
+          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape the shot."
+        }
+      }
+    },
+    {
+      "hole_number": 5,
+      "sub_hole": "[white]",
+      "wind_info": {"azimuth_degrees": 266.3, "relative_degrees": 212.7, "clock_face": "7 o'clock", "description": "Tailwind with slight left crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push right."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape the shot."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push left."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape the shot."
+        }
+      }
+    },
+    {
+      "hole_number": 5,
+      "sub_hole": "[yellow]",
+      "wind_info": {"azimuth_degrees": 270.0, "relative_degrees": 209.0, "clock_face": "7 o'clock", "description": "Tailwind with slight left crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push right."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape the shot."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push left."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape the shot."
+        }
+      }
+    },
+    {
+      "hole_number": 6,
+      "sub_hole": "[blue]",
+      "wind_info": {"azimuth_degrees": 216.3, "relative_degrees": 262.7, "clock_face": "9 o'clock", "description": "Crosswind from right"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable disc.",
+          "shot_strategy": "RHBH - Overstable disc on a hyzer to fight strong crosswind pushing left."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHFH - Controlled flex shot if BH control is difficult."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable disc.",
+          "shot_strategy": "LHBH - Overstable disc on an anhyzer to fight strong crosswind pushing right."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHFH - Controlled flex shot if BH control is difficult."
+        }
+      }
+    },
+    {
+      "hole_number": 6,
+      "sub_hole": "[white]",
+      "wind_info": {"azimuth_degrees": 233.0, "relative_degrees": 246.0, "clock_face": "8 o'clock", "description": "Headwind with moderate left crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHBH - Strong hyzer release to combat headwind and push right. Backhand offers better control."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHFH - Difficult, but manageable with precise anhyzer control."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHBH - Strong anhyzer release to combat headwind and push left. Backhand offers better control."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHFH - Difficult, but manageable with precise hyzer control."
         }
       }
     },
     {
       "hole_number": 6,
       "sub_hole": "[yellow]",
-      "wind_info": {"azimuth_degrees": 174.4, "relative_degrees": 284.6, "clock_face": "9 o'clock", "description": "Crosswind from right"},
+      "wind_info": {"azimuth_degrees": 229.4, "relative_degrees": 249.6, "clock_face": "8 o'clock", "description": "Headwind with moderate left crosswind"},
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc.",
-          "shot_strategy": "RHBH - Overstable disc on a hyzer to fight strong crosswind pushing left."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHBH - Strong hyzer release to combat headwind and push right. Backhand offers better control."
         },
         "fh": {
           "disc_recommendation": "Overstable driver.",
-          "shot_strategy": "RHFH - Controlled flex shot if BH control is difficult."
+          "shot_strategy": "RHFH - Difficult, but manageable with precise anhyzer control."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc.",
-          "shot_strategy": "LHBH - Overstable disc on an anhyzer to fight strong crosswind pushing right."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHBH - Strong anhyzer release to combat headwind and push left. Backhand offers better control."
         },
         "fh": {
           "disc_recommendation": "Overstable driver.",
-          "shot_strategy": "LHFH - Controlled flex shot if BH control is difficult."
+          "shot_strategy": "LHFH - Difficult, but manageable with precise hyzer control."
         }
       }
     },
     {
-      "hole_number": 6,
-      "sub_hole": "[black]",
-      "wind_info": {"azimuth_degrees": 178.0, "relative_degrees": 281.0, "clock_face": "9 o'clock", "description": "Crosswind from right"},
+      "hole_number": 7,
+      "sub_hole": "[blue]",
+      "wind_info": {"azimuth_degrees": 164.8, "relative_degrees": 314.2, "clock_face": "10 o'clock", "description": "Headwind with strong left crosswind"},
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc.",
-          "shot_strategy": "RHBH - Overstable disc on a hyzer to fight strong crosswind pushing left."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHBH - Strong hyzer release to combat headwind and push right. Backhand offers better control."
         },
         "fh": {
           "disc_recommendation": "Overstable driver.",
-          "shot_strategy": "RHFH - Controlled flex shot if BH control is difficult."
+          "shot_strategy": "RHFH - Can be used if obstacle avoidance is key or crosswind push is extreme, but control is harder."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc.",
-          "shot_strategy": "LHBH - Overstable disc on an anhyzer to fight strong crosswind pushing right."
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHBH - Strong anhyzer release to combat headwind and push left. Backhand offers better control."
         },
         "fh": {
           "disc_recommendation": "Overstable driver.",
-          "shot_strategy": "LHFH - Controlled flex shot if BH control is difficult."
+          "shot_strategy": "LHFH - Can be used if obstacle avoidance is key or crosswind push is extreme, but control is harder."
+        }
+      }
+    },
+    {
+      "hole_number": 7,
+      "sub_hole": "[white]",
+      "wind_info": {"azimuth_degrees": 182.2, "relative_degrees": 296.8, "clock_face": "10 o'clock", "description": "Headwind with strong left crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHBH - Strong hyzer release to combat headwind and push right. Backhand offers better control."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHFH - Can be used if obstacle avoidance is key or crosswind push is extreme, but control is harder."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHBH - Strong anhyzer release to combat headwind and push left. Backhand offers better control."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHFH - Can be used if obstacle avoidance is key or crosswind push is extreme, but control is harder."
         }
       }
     },
     {
       "hole_number": 7,
       "sub_hole": "[yellow]",
-      "wind_info": {"azimuth_degrees": 300.0, "relative_degrees": 159.0, "clock_face": "5 o'clock", "description": "Tailwind with slight right crosswind"},
+      "wind_info": {"azimuth_degrees": 176.6, "relative_degrees": 302.4, "clock_face": "10 o'clock", "description": "Headwind with strong left crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHBH - Strong hyzer release to combat headwind and push right. Backhand offers better control."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "RHFH - Can be used if obstacle avoidance is key or crosswind push is extreme, but control is harder."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHBH - Strong anhyzer release to combat headwind and push left. Backhand offers better control."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver.",
+          "shot_strategy": "LHFH - Can be used if obstacle avoidance is key or crosswind push is extreme, but control is harder."
+        }
+      }
+    },
+    {
+      "hole_number": 8,
+      "sub_hole": "[blue]",
+      "wind_info": {"azimuth_degrees": 347.4, "relative_degrees": 145.6, "clock_face": "5 o'clock", "description": "Tailwind with significant right crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Neutral to understable disc.",
+          "shot_strategy": "RHBH - Use an anhyzer release to counter the crosswind pushing left, letting the tailwind provide extra glide."
+        },
+        "fh": {
+          "disc_recommendation": "Neutral to overstable disc.",
+          "shot_strategy": "RHFH - If the push left is too much for RHBH control, a RHFH with a hyzer angle can work, but may limit max distance."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Neutral to overstable disc.",
+          "shot_strategy": "LHBH - Use a hyzer release to counter the crosswind pushing left, allowing the tailwind to provide extra glide."
+        },
+        "fh": {
+          "disc_recommendation": "Neutral to understable disc.",
+          "shot_strategy": "LHFH - If the push left is too much for LHBH control, a LHFH with an anhyzer angle can work, but may limit max distance."
+        }
+      }
+    },
+    {
+      "hole_number": 8,
+      "sub_hole": "[white]",
+      "wind_info": {"azimuth_degrees": 0.1, "relative_degrees": 132.9, "clock_face": "4 o'clock", "description": "Tailwind with slight right crosswind"},
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Neutral disc.",
@@ -351,7 +577,7 @@
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape the shot."
+          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape around obstacles."
         }
       },
       "tips_lh": {
@@ -361,139 +587,38 @@
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape the shot."
-        }
-      }
-    },
-    {
-      "hole_number": 7,
-      "sub_hole": "[black]",
-      "wind_info": {"azimuth_degrees": 293.4, "relative_degrees": 165.6, "clock_face": "6 o'clock", "description": "Tailwind"},
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Neutral to understable disc.",
-          "shot_strategy": "RHBH - Neutral to understable disc with an anhyzer release for maximum glide."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - If control is needed, a stable disc with a hyzer angle."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Neutral to overstable disc.",
-          "shot_strategy": "LHBH - Neutral to overstable disc with a hyzer release for maximum glide."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - If control is needed, a stable disc with an anhyzer angle."
+          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape around obstacles."
         }
       }
     },
     {
       "hole_number": 8,
       "sub_hole": "[yellow]",
-      "wind_info": {"azimuth_degrees": 270.0, "relative_degrees": 189.0, "clock_face": "6 o'clock", "description": "Tailwind"},
+      "wind_info": {"azimuth_degrees": 356.3, "relative_degrees": 136.7, "clock_face": "5 o'clock", "description": "Tailwind with slight right crosswind"},
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Neutral to understable disc.",
-          "shot_strategy": "RHBH - Neutral to understable disc with an anhyzer release for maximum glide."
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push left."
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - If control is needed, a stable disc with a hyzer angle."
+          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape around obstacles."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Neutral to overstable disc.",
-          "shot_strategy": "LHBH - Neutral to overstable disc with a hyzer release for maximum glide."
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push right."
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - If control is needed, a stable disc with an anhyzer angle."
-        }
-      }
-    },
-    {
-      "hole_number": 8,
-      "sub_hole": "[black]",
-      "wind_info": {"azimuth_degrees": 270.0, "relative_degrees": 189.0, "clock_face": "6 o'clock", "description": "Tailwind"},
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Neutral to understable disc.",
-          "shot_strategy": "RHBH - Neutral to understable disc with an anhyzer release for maximum glide."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - If control is needed, a stable disc with a hyzer angle."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Neutral to overstable disc.",
-          "shot_strategy": "LHBH - Neutral to overstable disc with a hyzer release for maximum glide."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - If control is needed, a stable disc with an anhyzer angle."
+          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape around obstacles."
         }
       }
     },
     {
       "hole_number": 9,
-      "sub_hole": "[yellow]",
-      "wind_info": {"azimuth_degrees": 74.3, "relative_degrees": 24.7, "clock_face": "1 o'clock", "description": "Slight headwind with slight right crosswind"},
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHBH - Flat or slight hyzer to manage slight headwind and push left."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - Slight anhyzer to counter push right."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHBH - Flat or slight anhyzer to manage slight headwind and push right."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - Slight hyzer to counter push left."
-        }
-      }
-    },
-    {
-      "hole_number": 9,
-      "sub_hole": "[black]",
-      "wind_info": {"azimuth_degrees": 72.3, "relative_degrees": 26.7, "clock_face": "1 o'clock", "description": "Slight headwind with slight right crosswind"},
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHBH - Flat or slight hyzer to manage slight headwind and push left."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - Slight anhyzer to counter push right."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHBH - Flat or slight anhyzer to manage slight headwind and push right."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - Slight hyzer to counter push left."
-        }
-      }
-    },
-    {
-      "hole_number": 10,
-      "sub_hole": "[yellow]",
-      "wind_info": {"azimuth_degrees": 249.7, "relative_degrees": 209.3, "clock_face": "7 o'clock", "description": "Tailwind with slight left crosswind"},
+      "wind_info": {"azimuth_degrees": 296.3, "relative_degrees": 196.7, "clock_face": "7 o'clock", "description": "Tailwind with slight left crosswind"},
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Neutral disc.",
@@ -517,76 +642,151 @@
     },
     {
       "hole_number": 10,
-      "sub_hole": "[black]",
-      "wind_info": {"azimuth_degrees": 255.5, "relative_degrees": 203.5, "clock_face": "7 o'clock", "description": "Tailwind with slight left crosswind"},
+      "sub_hole": "[blue]",
+      "wind_info": {"azimuth_degrees": 344.3, "relative_degrees": 134.7, "clock_face": "4 o'clock", "description": "Tailwind with slight right crosswind"},
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Neutral disc.",
-          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push right."
+          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push left."
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape the shot."
+          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape around obstacles."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Neutral disc.",
-          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push left."
+          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push right."
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape the shot."
+          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape around obstacles."
+        }
+      }
+    },
+    {
+      "hole_number": 10,
+      "sub_hole": "[white]",
+      "wind_info": {"azimuth_degrees": 357.3, "relative_degrees": 121.7, "clock_face": "4 o'clock", "description": "Tailwind with slight right crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push left."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape around obstacles."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push right."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape around obstacles."
+        }
+      }
+    },
+    {
+      "hole_number": 10,
+      "sub_hole": "[yellow]",
+      "wind_info": {"azimuth_degrees": 353.5, "relative_degrees": 125.5, "clock_face": "4 o'clock", "description": "Tailwind with slight right crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push left."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape around obstacles."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Neutral disc.",
+          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push right."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape around obstacles."
+        }
+      }
+    },
+    {
+      "hole_number": 11,
+      "sub_hole": "[blue]",
+      "wind_info": {"azimuth_degrees": 83.5, "relative_degrees": 35.5, "clock_face": "1 o'clock", "description": "Slight headwind with slight right crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "RHBH - Flat or slight hyzer to manage slight headwind and push left."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "RHFH - Slight anhyzer to counter push right."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "LHBH - Flat or slight anhyzer to manage slight headwind and push right."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "LHFH - Slight hyzer to counter push left."
+        }
+      }
+    },
+    {
+      "hole_number": 11,
+      "sub_hole": "[white]",
+      "wind_info": {"azimuth_degrees": 71.1, "relative_degrees": 47.9, "clock_face": "2 o'clock", "description": "Slight headwind with slight right crosswind"},
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "RHBH - Flat or slight hyzer to manage slight headwind and push left."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "RHFH - Slight anhyzer to counter push right."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "LHBH - Flat or slight anhyzer to manage slight headwind and push right."
+        },
+        "fh": {
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "LHFH - Slight hyzer to counter push left."
         }
       }
     },
     {
       "hole_number": 11,
       "sub_hole": "[yellow]",
-      "wind_info": {"azimuth_degrees": 234.7, "relative_degrees": 224.3, "clock_face": "7 o'clock", "description": "Tailwind with slight left crosswind"},
+      "wind_info": {"azimuth_degrees": 79.9, "relative_degrees": 39.1, "clock_face": "1 o'clock", "description": "Slight headwind with slight right crosswind"},
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Neutral disc.",
-          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push right."
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "RHBH - Flat or slight hyzer to manage slight headwind and push left."
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape the shot."
+          "shot_strategy": "RHFH - Slight anhyzer to counter push right."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Neutral disc.",
-          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push left."
+          "disc_recommendation": "Stable disc.",
+          "shot_strategy": "LHBH - Flat or slight anhyzer to manage slight headwind and push right."
         },
         "fh": {
           "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape the shot."
-        }
-      }
-    },
-    {
-      "hole_number": 11,
-      "sub_hole": "[black]",
-      "wind_info": {"azimuth_degrees": 247.6, "relative_degrees": 211.4, "clock_face": "7 o'clock", "description": "Tailwind with slight left crosswind"},
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Neutral disc.",
-          "shot_strategy": "RHBH - Use an anhyzer release to ride the tailwind and counter the push right."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "RHFH - A hyzer angle with a stable disc can shape the shot."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Neutral disc.",
-          "shot_strategy": "LHBH - Use a hyzer release to ride the tailwind and counter the push left."
-        },
-        "fh": {
-          "disc_recommendation": "Stable disc.",
-          "shot_strategy": "LHFH - An anhyzer angle with a stable disc can shape the shot."
+          "shot_strategy": "LHFH - Slight hyzer to counter push left."
         }
       }
     },
