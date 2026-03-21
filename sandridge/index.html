@@ -23,8 +23,9 @@
   .hole { background: #2c2c4e; border-left: 4px solid #c0392b; border-radius: 4px; padding: 12px 15px; margin: 8px 0; }
   .hole-name { color: #e74c3c; font-weight: bold; font-size: 15px; }
   .hole-wind { color: #f39c12; font-size: 13px; margin-top: 3px; }
-  .tip-label { color: #95a5a6; font-size: 11px; text-transform: uppercase; margin-top: 8px; }
-  .tip-disc { color: #3498db; font-size: 13px; margin-top: 2px; }
+  .throw-section { margin-top: 8px; padding-top: 8px; border-top: 1px solid #3a3a5e; }
+  .throw-type { color: #3498db; font-size: 12px; font-weight: bold; text-transform: uppercase; }
+  .tip-disc { color: #2ecc71; font-size: 13px; margin-top: 2px; }
   .tip-strategy { color: #ecf0f1; font-size: 13px; margin-top: 2px; }
   .timestamp { text-align: center; color: #95a5a6; font-size: 12px; margin-top: 20px; }
   .loading { text-align: center; color: #95a5a6; padding: 40px; }
@@ -52,23 +53,37 @@
 const REPORT_URL = 'report.json';
 let reportData = null;
 
+function getTips(hole, isLH) {
+  var tips = isLH ? (hole.tips_lh || hole.tips_lhbh) : (hole.tips_rh || hole.tips_rhbh);
+  return tips || null;
+}
+
+function renderThrow(label, tip) {
+  if (!tip) return '';
+  var html = '<div class="throw-section">';
+  html += '<div class="throw-type">' + label + '</div>';
+  if (tip.disc_recommendation) html += '<div class="tip-disc">' + tip.disc_recommendation + '</div>';
+  if (tip.shot_strategy) html += '<div class="tip-strategy">' + tip.shot_strategy + '</div>';
+  html += '</div>';
+  return html;
+}
+
 function renderReport() {
   if (!reportData) return;
-  const isLH = document.getElementById('handToggle').checked;
+  var isLH = document.getElementById('handToggle').checked;
   document.getElementById('rhLabel').className = 'toggle-label' + (isLH ? '' : ' active');
   document.getElementById('lhLabel').className = 'toggle-label' + (isLH ? ' active' : '');
 
-  let html = '';
+  var html = '';
 
   if (reportData.current_wind) {
-    const w = reportData.current_wind;
+    var w = reportData.current_wind;
     html += '<div class="conditions"><h3>Current Conditions</h3>';
     html += '<p>' + w.speed_mph + ' mph from ' + w.direction_degrees + '° — ' + (w.description || '') + ' Gusts to ' + w.gusts_mph + ' mph.</p>';
     if (reportData.forecast_5hr && reportData.forecast_5hr.length) {
       html += '<div class="forecast"><strong>5-Hour Forecast:</strong><br>';
       reportData.forecast_5hr.forEach(function(f) {
-        const t = f.time_utc ? f.time_utc.replace('T',' ').replace('Z','') + ' UTC' : '';
-        html += t + ': ' + f.speed_mph + ' mph from ' + f.direction_degrees + '°<br>';
+        html += (f.time_utc || '').replace('T',' ').replace('Z',' UTC') + ': ' + f.speed_mph + ' mph from ' + f.direction_degrees + '°<br>';
       });
       html += '</div>';
     }
@@ -79,43 +94,39 @@ function renderReport() {
 
   if (reportData.holes && reportData.holes.length) {
     reportData.holes.forEach(function(hole) {
-      const name = hole.hole_number ? 'Hole ' + hole.hole_number : (hole.name || 'Hole');
-      const wind = hole.wind_info;
-      const tips = isLH ? hole.tips_lhbh : hole.tips_rhbh;
-      const tipsAlt = isLH ? hole.tips_lh : hole.tips_rh;
-      const tip = tips || tipsAlt || {};
+      var name = hole.hole_number ? 'Hole ' + hole.hole_number : (hole.name || 'Hole');
+      var wind = hole.wind_info;
+      var tips = getTips(hole, isLH);
 
       html += '<div class="hole">';
       html += '<div class="hole-name">' + name + '</div>';
       if (wind) {
-        html += '<div class="hole-wind">' + wind.clock_face + ' — ' + (wind.description || '') + '</div>';
+        html += '<div class="hole-wind">' + (wind.clock_face || '') + (wind.description ? ' — ' + wind.description : '') + '</div>';
       }
-      if (tip.disc_recommendation) {
-        html += '<div class="tip-label">Disc</div>';
-        html += '<div class="tip-disc">' + tip.disc_recommendation + '</div>';
-      }
-      if (tip.shot_strategy) {
-        html += '<div class="tip-label">Strategy</div>';
-        html += '<div class="tip-strategy">' + tip.shot_strategy + '</div>';
-      }
-      if (typeof tip === 'string') {
-        html += '<div class="tip-strategy">' + tip + '</div>';
+
+      if (tips) {
+        if (tips.bh || tips.fh) {
+          var bhLabel = isLH ? 'LHBH (Backhand)' : 'RHBH (Backhand)';
+          var fhLabel = isLH ? 'LHFH (Forehand)' : 'RHFH (Forehand)';
+          html += renderThrow(bhLabel, tips.bh);
+          html += renderThrow(fhLabel, tips.fh);
+        } else {
+          if (tips.disc_recommendation) html += '<div class="tip-disc">' + tips.disc_recommendation + '</div>';
+          if (tips.shot_strategy) html += '<div class="tip-strategy">' + tips.shot_strategy + '</div>';
+        }
       }
       html += '</div>';
     });
   }
 
   document.getElementById('report').innerHTML = html || '<div class="error">No report data available.</div>';
-  const ts = reportData.report_generated_at || reportData.timestamp || '';
+  var ts = reportData.report_generated_at || reportData.timestamp || '';
   if (ts) document.getElementById('timestamp').textContent = 'Last updated: ' + ts;
 }
 
 fetch(REPORT_URL + '?t=' + Date.now())
   .then(function(r) { return r.json(); })
-  .then(function(data) {
-    reportData = data;
-    renderReport();
-  })
+  .then(function(data) { reportData = data; renderReport(); })
   .catch(function() {
     document.getElementById('report').innerHTML = '<div class="error">Report not yet available. Check back soon!</div>';
   });
