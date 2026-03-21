@@ -19,10 +19,13 @@
   input:checked + .slider:before { transform: translateX(30px); }
   .conditions { background: #2c2c4e; border: 1px solid #c0392b; border-radius: 8px; padding: 15px; margin: 20px 0; }
   .conditions h3 { color: #e74c3c; margin: 0 0 8px 0; }
+  .forecast { font-size: 12px; color: #95a5a6; margin-top: 8px; }
   .hole { background: #2c2c4e; border-left: 4px solid #c0392b; border-radius: 4px; padding: 12px 15px; margin: 8px 0; }
-  .hole-name { color: #e74c3c; font-weight: bold; font-size: 14px; }
-  .hole-tip { color: #ecf0f1; font-size: 14px; margin-top: 4px; }
-  .hole-wind { color: #95a5a6; font-size: 12px; margin-top: 2px; }
+  .hole-name { color: #e74c3c; font-weight: bold; font-size: 15px; }
+  .hole-wind { color: #f39c12; font-size: 13px; margin-top: 3px; }
+  .tip-label { color: #95a5a6; font-size: 11px; text-transform: uppercase; margin-top: 8px; }
+  .tip-disc { color: #3498db; font-size: 13px; margin-top: 2px; }
+  .tip-strategy { color: #ecf0f1; font-size: 13px; margin-top: 2px; }
   .timestamp { text-align: center; color: #95a5a6; font-size: 12px; margin-top: 20px; }
   .loading { text-align: center; color: #95a5a6; padding: 40px; }
   .error { text-align: center; color: #e74c3c; padding: 40px; }
@@ -49,65 +52,71 @@
 const REPORT_URL = 'report.json';
 let reportData = null;
 
-const clockMirror = {
-  '12 o\'clock headwind': '12 o\'clock headwind',
-  '1 o\'clock': '11 o\'clock',
-  '2 o\'clock': '10 o\'clock',
-  '3 o\'clock crosswind from left': '9 o\'clock crosswind from right',
-  '4 o\'clock': '8 o\'clock',
-  '5 o\'clock': '7 o\'clock',
-  '6 o\'clock tailwind': '6 o\'clock tailwind',
-  '7 o\'clock': '5 o\'clock',
-  '8 o\'clock': '4 o\'clock',
-  '9 o\'clock crosswind from right': '3 o\'clock crosswind from left',
-  '10 o\'clock': '2 o\'clock',
-  '11 o\'clock': '1 o\'clock'
-};
-
-function mirrorClock(position) {
-  for (const [rh, lh] of Object.entries(clockMirror)) {
-    if (position.toLowerCase().includes(rh.toLowerCase())) {
-      return position.toLowerCase().replace(rh.toLowerCase(), lh);
-    }
-  }
-  return position;
-}
-
 function renderReport() {
   if (!reportData) return;
-  const isLeftHand = document.getElementById('handToggle').checked;
-  document.getElementById('rhLabel').className = 'toggle-label' + (isLeftHand ? '' : ' active');
-  document.getElementById('lhLabel').className = 'toggle-label' + (isLeftHand ? ' active' : '');
+  const isLH = document.getElementById('handToggle').checked;
+  document.getElementById('rhLabel').className = 'toggle-label' + (isLH ? '' : ' active');
+  document.getElementById('lhLabel').className = 'toggle-label' + (isLH ? ' active' : '');
 
   let html = '';
-  if (reportData.conditions) {
-    html += `<div class="conditions"><h3>Current Conditions</h3><p>${reportData.conditions}</p></div>`;
+
+  if (reportData.current_wind) {
+    const w = reportData.current_wind;
+    html += '<div class="conditions"><h3>Current Conditions</h3>';
+    html += '<p>' + w.speed_mph + ' mph from ' + w.direction_degrees + '° — ' + (w.description || '') + ' Gusts to ' + w.gusts_mph + ' mph.</p>';
+    if (reportData.forecast_5hr && reportData.forecast_5hr.length) {
+      html += '<div class="forecast"><strong>5-Hour Forecast:</strong><br>';
+      reportData.forecast_5hr.forEach(function(f) {
+        const t = f.time_utc ? f.time_utc.replace('T',' ').replace('Z','') + ' UTC' : '';
+        html += t + ': ' + f.speed_mph + ' mph from ' + f.direction_degrees + '°<br>';
+      });
+      html += '</div>';
+    }
+    html += '</div>';
+  } else if (reportData.conditions) {
+    html += '<div class="conditions"><h3>Current Conditions</h3><p>' + reportData.conditions + '</p></div>';
   }
 
-  if (reportData.holes) {
-    reportData.holes.forEach(hole => {
-      const wind = isLeftHand ? mirrorClock(hole.clock) : hole.clock;
-      html += `<div class="hole">
-        <div class="hole-name">${hole.name}</div>
-        <div class="hole-wind">${wind}</div>
-        <div class="hole-tip">${hole.tip}</div>
-      </div>`;
+  if (reportData.holes && reportData.holes.length) {
+    reportData.holes.forEach(function(hole) {
+      const name = hole.hole_number ? 'Hole ' + hole.hole_number : (hole.name || 'Hole');
+      const wind = hole.wind_info;
+      const tips = isLH ? hole.tips_lhbh : hole.tips_rhbh;
+      const tipsAlt = isLH ? hole.tips_lh : hole.tips_rh;
+      const tip = tips || tipsAlt || {};
+
+      html += '<div class="hole">';
+      html += '<div class="hole-name">' + name + '</div>';
+      if (wind) {
+        html += '<div class="hole-wind">' + wind.clock_face + ' — ' + (wind.description || '') + '</div>';
+      }
+      if (tip.disc_recommendation) {
+        html += '<div class="tip-label">Disc</div>';
+        html += '<div class="tip-disc">' + tip.disc_recommendation + '</div>';
+      }
+      if (tip.shot_strategy) {
+        html += '<div class="tip-label">Strategy</div>';
+        html += '<div class="tip-strategy">' + tip.shot_strategy + '</div>';
+      }
+      if (typeof tip === 'string') {
+        html += '<div class="tip-strategy">' + tip + '</div>';
+      }
+      html += '</div>';
     });
   }
 
   document.getElementById('report').innerHTML = html || '<div class="error">No report data available.</div>';
-  if (reportData.timestamp) {
-    document.getElementById('timestamp').textContent = 'Last updated: ' + reportData.timestamp;
-  }
+  const ts = reportData.report_generated_at || reportData.timestamp || '';
+  if (ts) document.getElementById('timestamp').textContent = 'Last updated: ' + ts;
 }
 
 fetch(REPORT_URL + '?t=' + Date.now())
-  .then(r => r.json())
-  .then(data => {
+  .then(function(r) { return r.json(); })
+  .then(function(data) {
     reportData = data;
     renderReport();
   })
-  .catch(() => {
+  .catch(function() {
     document.getElementById('report').innerHTML = '<div class="error">Report not yet available. Check back soon!</div>';
   });
 </script>
