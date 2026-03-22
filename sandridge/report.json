@@ -1,18 +1,17 @@
 {
-  "course": "Sand Ridge",
-  "report_generated_at": "2026-03-21 15:00 EDT",
+  "course": "Sand Ridge Disc Golf Course",
+  "report_generated_at": "2026-03-21 20:01 EDT",
   "current_wind": {
-    "speed_mph": 13.4,
-    "direction_degrees": 170,
-    "gusts_mph": 17.7,
-    "description": "Moderate wind from SE, gusts to 17.7 mph."
+    "speed_mph": 10.5,
+    "direction_degrees": 181,
+    "gusts_mph": 19.9,
+    "description": "South wind, gusts up to 19.9 mph."
   },
   "forecast_5hr": [
-    {"time_edt": "2026-03-21 15:00 EDT", "speed_mph": 13.4, "direction_degrees": 178},
-    {"time_edt": "2026-03-21 16:00 EDT", "speed_mph": 14.8, "direction_degrees": 178},
-    {"time_edt": "2026-03-21 17:00 EDT", "speed_mph": 14.7, "direction_degrees": 188},
-    {"time_edt": "2026-03-21 18:00 EDT", "speed_mph": 11.1, "direction_degrees": 190},
-    {"time_edt": "2026-03-21 19:00 EDT", "speed_mph": 10.5, "direction_degrees": 181}
+    {"time_edt": "2026-03-21 19:00 EDT", "speed_mph": 10.3, "direction_degrees": 182},
+    {"time_edt": "2026-03-21 20:00 EDT", "speed_mph": 13.2, "direction_degrees": 191},
+    {"time_edt": "2026-03-21 21:00 EDT", "speed_mph": 8.7, "direction_degrees": 181},
+    {"time_edt": "2026-03-21 22:00 EDT", "speed_mph": 14.9, "direction_degrees": 204}
   ],
   "holes": [
     {
@@ -20,28 +19,28 @@
       "hole_label": "Hole 1",
       "wind_info": {
         "azimuth_degrees": 84.3,
-        "relative_degrees": 85.7,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Moderate left-to-right wind."
+        "relative_degrees": 96.7,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "Moderate crosswind from the left, pushing right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat to avoid updrafts."
+          "disc_recommendation": "Stable to Overstable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Play a hyzer to control the crosswind and potential fade."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "Execute a flat or slight hyzer shot to manage the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "LHBH faces double trouble with fade and wind. Prefer LHFH."
+          "disc_recommendation": "Understable for distance (e.g., Sidewinder, Roadrunner)",
+          "shot_strategy": "Use a flat or slight hyzer, as the wind and natural fade will work together."
         },
         "fh": {
-          "disc_recommendation": "Understable/Stable",
-          "shot_strategy": "LHFH is the preferred shot. Focus on controlling the angle."
+          "disc_recommendation": "Stable to Overstable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Throw flat or with a slight anhyzer to counter the natural fade and wind."
         }
       }
     },
@@ -50,28 +49,28 @@
       "hole_label": "Hole 2",
       "wind_info": {
         "azimuth_degrees": 40.8,
-        "relative_degrees": 129.2,
-        "clock_face": "4 o-clock",
-        "description": "Moderate left-to-right wind."
+        "relative_degrees": 140.2,
+        "clock_face": "5 o'clock",
+        "description": "Moderate wind from the right-rear, with a tailwind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+          "disc_recommendation": "Stable (e.g., Buzzz, Leopard3)",
+          "shot_strategy": "Execute a hyzer to keep the disc stable against the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative."
+          "disc_recommendation": "Stable (e.g., Teebird, Firebird)",
+          "shot_strategy": "A flat shot should be manageable."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+          "disc_recommendation": "Understable for distance (e.g., Sidewinder, Roadrunner)",
+          "shot_strategy": "The wind and fade will work together; use a flat or slight hyzer."
         },
         "fh": {
-          "disc_recommendation": "Understable/Stable",
-          "shot_strategy": "LHFH is the preferred shot."
+          "disc_recommendation": "Stable (e.g., Buzzz, Teebird)",
+          "shot_strategy": "Throw flat or with a slight anhyzer."
         }
       }
     },
@@ -80,28 +79,28 @@
       "hole_label": "Hole 3",
       "wind_info": {
         "azimuth_degrees": 20.0,
-        "relative_degrees": 150.0,
-        "clock_face": "5 o-clock",
-        "description": "Moderate left-to-right wind."
+        "relative_degrees": 161.0,
+        "clock_face": "5 o'clock",
+        "description": "Moderate tailwind with a slight crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+          "disc_recommendation": "Stable to Understable for distance (e.g., Leopard3, Buzzz)",
+          "shot_strategy": "Play a hyzer to get maximum distance."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative."
+          "disc_recommendation": "Stable (e.g., Teebird)",
+          "shot_strategy": "A flat shot is recommended."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+          "disc_recommendation": "Understable for distance (e.g., Sidewinder, Roadrunner)",
+          "shot_strategy": "Use a flat or slight hyzer for distance."
         },
         "fh": {
-          "disc_recommendation": "Understable/Stable",
-          "shot_strategy": "LHFH is the preferred shot."
+          "disc_recommendation": "Stable (e.g., Buzzz, Teebird)",
+          "shot_strategy": "Execute flat or with a slight anhyzer."
         }
       }
     },
@@ -110,28 +109,28 @@
       "hole_label": "Hole 4",
       "wind_info": {
         "azimuth_degrees": 7.2,
-        "relative_degrees": 162.8,
-        "clock_face": "5 o-clock",
-        "description": "Moderate left-to-right wind."
+        "relative_degrees": 173.8,
+        "clock_face": "6 o'clock tailwind",
+        "description": "Moderate direct tailwind."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+          "disc_recommendation": "Understable for distance (e.g., Roadrunner, Avenger SS)",
+          "shot_strategy": "Throw flat or with a slight hyzer for maximum distance."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative."
+          "disc_recommendation": "Understable (e.g., Roadrunner, Undertaker)",
+          "shot_strategy": "A flat shot will maximize glide."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+          "disc_recommendation": "Understable for distance (e.g., Mamba, Sidewinder)",
+          "shot_strategy": "Use a flat or slight hyzer to leverage the tailwind."
         },
         "fh": {
-          "disc_recommendation": "Understable/Stable",
-          "shot_strategy": "LHFH is the preferred shot."
+          "disc_recommendation": "Understable (e.g., Undertaker, Avenger SS)",
+          "shot_strategy": "Execute a flat or slight anhyzer to control the flight."
         }
       }
     },
@@ -140,28 +139,28 @@
       "hole_label": "Hole 5",
       "wind_info": {
         "azimuth_degrees": 168.7,
-        "relative_degrees": 1.3,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 12.3,
+        "clock_face": "12 o'clock headwind",
+        "description": "Moderate direct headwind."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH manageable with an overstable disc to fight the headwind."
+          "disc_recommendation": "Overstable (e.g., Firebird, Destroyer)",
+          "shot_strategy": "Throw flat or with a slight hyzer to combat the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is also viable with an overstable disc."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A flat shot is recommended to fight the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH manageable with an overstable disc to fight the headwind."
+          "disc_recommendation": "Overstable (e.g., Havoc, Predator)",
+          "shot_strategy": "Use a flat or slight hyzer against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is also viable with an overstable disc."
+          "disc_recommendation": "Overstable (e.g., Predator, Firebird)",
+          "shot_strategy": "Execute flat or with a slight anhyzer to maintain control."
         }
       }
     },
@@ -170,28 +169,28 @@
       "hole_label": "Hole 6",
       "wind_info": {
         "azimuth_degrees": 72.4,
-        "relative_degrees": 97.6,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Moderate left-to-right wind."
+        "relative_degrees": 108.6,
+        "clock_face": "4 o'clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+          "disc_recommendation": "Stable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Play a hyzer to control the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative."
+          "disc_recommendation": "Stable (e.g., Teebird, Firebird)",
+          "shot_strategy": "A flat shot should be manageable."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+          "disc_recommendation": "Understable for distance (e.g., Sidewinder, Roadrunner)",
+          "shot_strategy": "Use a flat or slight hyzer, as the wind and fade will conflict."
         },
         "fh": {
-          "disc_recommendation": "Understable/Stable",
-          "shot_strategy": "LHFH is the preferred shot."
+          "disc_recommendation": "Stable (e.g., Buzzz, Teebird)",
+          "shot_strategy": "Throw flat or with a slight anhyzer."
         }
       }
     },
@@ -200,28 +199,28 @@
       "hole_label": "Hole 7",
       "wind_info": {
         "azimuth_degrees": 20.8,
-        "relative_degrees": 149.2,
-        "clock_face": "5 o-clock",
-        "description": "Moderate left-to-right wind."
+        "relative_degrees": 160.2,
+        "clock_face": "5 o'clock",
+        "description": "Moderate tailwind with a slight crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+          "disc_recommendation": "Stable to Understable for distance (e.g., Leopard3, Buzzz)",
+          "shot_strategy": "Play a hyzer to maximize distance in the tailwind."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative."
+          "disc_recommendation": "Stable (e.g., Teebird)",
+          "shot_strategy": "A flat shot is recommended."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+          "disc_recommendation": "Understable for distance (e.g., Sidewinder, Roadrunner)",
+          "shot_strategy": "Use a flat or slight hyzer to leverage the tailwind and wind direction."
         },
         "fh": {
-          "disc_recommendation": "Understable/Stable",
-          "shot_strategy": "LHFH is the preferred shot."
+          "disc_recommendation": "Stable (e.g., Buzzz, Teebird)",
+          "shot_strategy": "Execute flat or with a slight anhyzer."
         }
       }
     },
@@ -230,28 +229,28 @@
       "hole_label": "Hole 8",
       "wind_info": {
         "azimuth_degrees": 235.0,
-        "relative_degrees": 295.0,
-        "clock_face": "10 o-clock",
-        "description": "Moderate right-to-left wind."
+        "relative_degrees": 306.0,
+        "clock_face": "10 o'clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "Avoid a backhand that exposes the flight plate to the wind; a flat or slight hyzer is safer."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "A flat or slight hyzer shot is recommended."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+          "disc_recommendation": "Stable to Understable (e.g., Buzzz, Mamba)",
+          "shot_strategy": "The wind and natural fade work together; throw flat for accuracy."
         },
         "fh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "Execute flat or with a slight anhyzer to manage the wind."
         }
       }
     },
@@ -260,88 +259,88 @@
       "hole_label": "Hole 9",
       "wind_info": {
         "azimuth_degrees": 264.5,
-        "relative_degrees": 265.5,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Moderate right-to-left wind."
+        "relative_degrees": 276.5,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "Strong crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A backhand is not advised due to wind exposure; opt for a flat or slight hyzer forehand."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A flat or slight hyzer shot is highly recommended."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+          "disc_recommendation": "Stable (e.g., Buzzz, Buzzz OS)",
+          "shot_strategy": "The wind and fade will work together; a flat shot is ideal."
         },
         "fh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "Throw flat or with a slight anhyzer to maintain control against the strong crosswind."
         }
       }
     },
     {
-      "hole_number": 10,
+      "hole_number": "10 [A]",
       "hole_label": "Hole 10 [A]",
       "wind_info": {
         "azimuth_degrees": 332.4,
-        "relative_degrees": 197.6,
-        "clock_face": "7 o-clock",
-        "description": "Moderate right-to-left wind."
+        "relative_degrees": 208.6,
+        "clock_face": "7 o'clock",
+        "description": "Strong crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Roc, Buzzz)",
+          "shot_strategy": "Play a hyzer to manage the crosswind and potential fade."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "Execute a flat or slight hyzer shot to control the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+          "disc_recommendation": "Understable for distance (e.g., Sidewinder, Roadrunner)",
+          "shot_strategy": "Use a flat or slight hyzer, as the wind and fade will conflict."
         },
         "fh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+          "disc_recommendation": "Stable to Overstable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Throw flat or with a slight anhyzer to counter the natural fade and wind."
         }
       }
     },
     {
-      "hole_number": 10,
+      "hole_number": "10 [B]",
       "hole_label": "Hole 10 [B]",
       "wind_info": {
         "azimuth_degrees": 327.6,
-        "relative_degrees": 202.4,
-        "clock_face": "7 o-clock",
-        "description": "Moderate right-to-left wind."
+        "relative_degrees": 213.4,
+        "clock_face": "7 o'clock",
+        "description": "Strong crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Roc, Buzzz)",
+          "shot_strategy": "Play a hyzer to manage the crosswind and potential fade."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "Execute a flat or slight hyzer shot to control the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+          "disc_recommendation": "Understable for distance (e.g., Sidewinder, Roadrunner)",
+          "shot_strategy": "Use a flat or slight hyzer, as the wind and fade will conflict."
         },
         "fh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+          "disc_recommendation": "Stable to Overstable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Throw flat or with a slight anhyzer to counter the natural fade and wind."
         }
       }
     },
@@ -350,28 +349,28 @@
       "hole_label": "Hole 11",
       "wind_info": {
         "azimuth_degrees": 246.6,
-        "relative_degrees": 283.4,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Moderate right-to-left wind."
+        "relative_degrees": 294.4,
+        "clock_face": "10 o'clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "A backhand is not advised due to wind exposure; a flat or slight hyzer forehand is safer."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "A flat or slight hyzer shot is recommended."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+          "disc_recommendation": "Stable to Understable (e.g., Buzzz, Mamba)",
+          "shot_strategy": "The wind and natural fade work together; throw flat for accuracy."
         },
         "fh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "Execute flat or with a slight anhyzer to manage the wind."
         }
       }
     },
@@ -380,148 +379,148 @@
       "hole_label": "Hole 12",
       "wind_info": {
         "azimuth_degrees": 317.9,
-        "relative_degrees": 212.1,
-        "clock_face": "7 o-clock",
-        "description": "Moderate right-to-left wind."
+        "relative_degrees": 223.1,
+        "clock_face": "7 o'clock",
+        "description": "Strong crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Roc, Buzzz)",
+          "shot_strategy": "Play a hyzer to manage the crosswind and potential fade."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "Execute a flat or slight hyzer shot to control the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+          "disc_recommendation": "Understable for distance (e.g., Sidewinder, Roadrunner)",
+          "shot_strategy": "Use a flat or slight hyzer, as the wind and fade will conflict."
         },
         "fh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+          "disc_recommendation": "Stable to Overstable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Throw flat or with a slight anhyzer to counter the natural fade and wind."
         }
       }
     },
     {
-      "hole_number": 13,
+      "hole_number": "13 [A]",
       "hole_label": "Hole 13 [A]",
       "wind_info": {
         "azimuth_degrees": 167.5,
-        "relative_degrees": 2.5,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 13.5,
+        "clock_face": "12 o'clock headwind",
+        "description": "Moderate direct headwind."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH manageable with an overstable disc to fight the headwind."
+          "disc_recommendation": "Overstable (e.g., Firebird, Destroyer)",
+          "shot_strategy": "Throw flat or with a slight hyzer to combat the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is also viable with an overstable disc."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A flat shot is recommended to fight the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH manageable with an overstable disc to fight the headwind."
+          "disc_recommendation": "Overstable (e.g., Havoc, Predator)",
+          "shot_strategy": "Use a flat or slight hyzer against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is also viable with an overstable disc."
+          "disc_recommendation": "Overstable (e.g., Predator, Firebird)",
+          "shot_strategy": "Execute flat or with a slight anhyzer to maintain control."
         }
       }
     },
     {
-      "hole_number": 13,
+      "hole_number": "13 [B]",
       "hole_label": "Hole 13 [B]",
       "wind_info": {
         "azimuth_degrees": 163.5,
-        "relative_degrees": 6.5,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 17.5,
+        "clock_face": "1 o'clock",
+        "description": "Moderate headwind with a slight crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH manageable with an overstable disc to fight the headwind."
+          "disc_recommendation": "Overstable (e.g., Destroyer, Firebird)",
+          "shot_strategy": "Throw flat or with a slight hyzer to handle the headwind and crosswind."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is also viable with an overstable disc."
+          "disc_recommendation": "Overstable (e.g., Predator, Firebird)",
+          "shot_strategy": "A flat shot is recommended."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH manageable with an overstable disc to fight the headwind."
+          "disc_recommendation": "Overstable (e.g., Havoc, Predator)",
+          "shot_strategy": "Use a flat or slight hyzer against the headwind and crosswind."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is also viable with an overstable disc."
+          "disc_recommendation": "Overstable (e.g., Predator, Firebird)",
+          "shot_strategy": "Execute flat or with a slight anhyzer to maintain control."
         }
       }
     },
     {
-      "hole_number": 14,
+      "hole_number": "14 [A]",
       "hole_label": "Hole 14 [A]",
       "wind_info": {
         "azimuth_degrees": 285.8,
-        "relative_degrees": 244.2,
-        "clock_face": "8 o-clock",
-        "description": "Moderate right-to-left wind."
+        "relative_degrees": 255.2,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "Strong crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A backhand is not advised due to wind exposure; opt for a flat or slight hyzer forehand."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A flat or slight hyzer shot is highly recommended."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+          "disc_recommendation": "Stable (e.g., Buzzz, Buzzz OS)",
+          "shot_strategy": "The wind and natural fade work together; a flat shot is ideal."
         },
         "fh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "Throw flat or with a slight anhyzer to maintain control against the strong crosswind."
         }
       }
     },
     {
-      "hole_number": 14,
+      "hole_number": "14 [B]",
       "hole_label": "Hole 14 [B]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 260.0,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Moderate right-to-left wind."
+        "relative_degrees": 271.0,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "Strong crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A backhand is not advised due to wind exposure; opt for a flat or slight hyzer forehand."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A flat or slight hyzer shot is highly recommended."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+          "disc_recommendation": "Stable (e.g., Buzzz, Buzzz OS)",
+          "shot_strategy": "The wind and natural fade work together; a flat shot is ideal."
         },
         "fh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "Throw flat or with a slight anhyzer to maintain control against the strong crosswind."
         }
       }
     },
@@ -530,28 +529,28 @@
       "hole_label": "Hole 15",
       "wind_info": {
         "azimuth_degrees": 83.8,
-        "relative_degrees": 86.2,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Moderate left-to-right wind."
+        "relative_degrees": 97.2,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Play a hyzer to manage the crosswind and potential fade."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "Execute a flat or slight hyzer shot to control the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+          "disc_recommendation": "Understable for distance (e.g., Sidewinder, Roadrunner)",
+          "shot_strategy": "Use a flat or slight hyzer, as the wind and fade will conflict."
         },
         "fh": {
-          "disc_recommendation": "Understable/Stable",
-          "shot_strategy": "LHFH is the preferred shot."
+          "disc_recommendation": "Stable to Overstable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Throw flat or with a slight anhyzer to counter the natural fade and wind."
         }
       }
     },
@@ -560,28 +559,28 @@
       "hole_label": "Hole 16",
       "wind_info": {
         "azimuth_degrees": 104.3,
-        "relative_degrees": 65.7,
-        "clock_face": "2 o-clock",
-        "description": "Moderate left-to-right wind."
+        "relative_degrees": 76.7,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Play a hyzer to manage the crosswind and potential fade."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "Execute a flat or slight hyzer shot to control the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+          "disc_recommendation": "Understable for distance (e.g., Sidewinder, Roadrunner)",
+          "shot_strategy": "Use a flat or slight hyzer, as the wind and fade will conflict."
         },
         "fh": {
-          "disc_recommendation": "Understable/Stable",
-          "shot_strategy": "LHFH is the preferred shot."
+          "disc_recommendation": "Stable to Overstable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Throw flat or with a slight anhyzer to counter the natural fade and wind."
         }
       }
     },
@@ -590,148 +589,148 @@
       "hole_label": "Hole 17",
       "wind_info": {
         "azimuth_degrees": 90.0,
-        "relative_degrees": 80.0,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Moderate left-to-right wind."
+        "relative_degrees": 91.0,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Play a hyzer to manage the crosswind and potential fade."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative."
+          "disc_recommendation": "Stable to Overstable (e.g., Teebird, Firebird)",
+          "shot_strategy": "Execute a flat or slight hyzer shot to control the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+          "disc_recommendation": "Understable for distance (e.g., Sidewinder, Roadrunner)",
+          "shot_strategy": "Use a flat or slight hyzer, as the wind and fade will conflict."
         },
         "fh": {
-          "disc_recommendation": "Understable/Stable",
-          "shot_strategy": "LHFH is the preferred shot."
+          "disc_recommendation": "Stable to Overstable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Throw flat or with a slight anhyzer to counter the natural fade and wind."
         }
       }
     },
     {
-      "hole_number": 18,
+      "hole_number": "18 [A]",
       "hole_label": "Hole 18 [A]",
       "wind_info": {
         "azimuth_degrees": 276.2,
-        "relative_degrees": 253.8,
-        "clock_face": "8 o-clock",
-        "description": "Moderate right-to-left wind."
+        "relative_degrees": 264.8,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "Strong crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A backhand is not advised due to wind exposure; opt for a flat or slight hyzer forehand."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A flat or slight hyzer shot is highly recommended."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+          "disc_recommendation": "Stable (e.g., Buzzz, Buzzz OS)",
+          "shot_strategy": "The wind and natural fade work together; a flat shot is ideal."
         },
         "fh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "Throw flat or with a slight anhyzer to maintain control against the strong crosswind."
         }
       }
     },
     {
-      "hole_number": 18,
+      "hole_number": "18 [B]",
       "hole_label": "Hole 18 [B]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 260.0,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Moderate right-to-left wind."
+        "relative_degrees": 271.0,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "Strong crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "RHBH exposes underside. Prefer RHFH. Keep disc low and flat."
+          "disc_recommendation": "Stable to Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A backhand is not advised due to wind exposure; opt for a flat or slight hyzer forehand."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative. Focus on a clean release."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A flat or slight hyzer shot is highly recommended."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "LHBH fade works with the wind. Comfortable shot. Focus on controlled fade."
+          "disc_recommendation": "Stable (e.g., Buzzz, Buzzz OS)",
+          "shot_strategy": "The wind and natural fade work together; a flat shot is ideal."
         },
         "fh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "LHFH is also viable. Ensure a smooth follow-through."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "Throw flat or with a slight anhyzer to maintain control against the strong crosswind."
         }
       }
     },
     {
-      "hole_number": "T1",
+      "hole_number": "T1-B",
       "hole_label": "Hole T1-B",
       "wind_info": {
         "azimuth_degrees": 117.1,
-        "relative_degrees": 52.9,
-        "clock_face": "2 o-clock",
-        "description": "Moderate left-to-right wind."
+        "relative_degrees": 63.9,
+        "clock_face": "2 o'clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable/Overstable",
-          "shot_strategy": "RHBH manageable with hyzer. Keep disc low and flat."
+          "disc_recommendation": "Stable (e.g., Buzzz, Roc)",
+          "shot_strategy": "Play a hyzer to control the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable/Understable",
-          "shot_strategy": "RHFH is a viable alternative."
+          "disc_recommendation": "Stable (e.g., Teebird, Firebird)",
+          "shot_strategy": "A flat shot should be manageable."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable/Stable",
-          "shot_strategy": "LHBH faces double trouble. Prefer LHFH."
+          "disc_recommendation": "Understable for distance (e.g., Sidewinder, Roadrunner)",
+          "shot_strategy": "Use a flat or slight hyzer, as the wind and fade will conflict."
         },
         "fh": {
-          "disc_recommendation": "Understable/Stable",
-          "shot_strategy": "LHFH is the preferred shot."
+          "disc_recommendation": "Stable (e.g., Buzzz, Teebird)",
+          "shot_strategy": "Throw flat or with a slight anhyzer."
         }
       }
     },
     {
-      "hole_number": "T17",
+      "hole_number": "T17-B",
       "hole_label": "Hole T17-B",
       "wind_info": {
         "azimuth_degrees": 181.8,
-        "relative_degrees": 348.2,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 359.2,
+        "clock_face": "12 o'clock headwind",
+        "description": "Moderate direct headwind."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH manageable with an overstable disc to fight the headwind."
+          "disc_recommendation": "Overstable (e.g., Firebird, Destroyer)",
+          "shot_strategy": "Throw flat or with a slight hyzer to combat the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is also viable with an overstable disc."
+          "disc_recommendation": "Overstable (e.g., Firebird, Predator)",
+          "shot_strategy": "A flat shot is recommended to fight the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH manageable with an overstable disc to fight the headwind."
+          "disc_recommendation": "Overstable (e.g., Havoc, Predator)",
+          "shot_strategy": "Use a flat or slight hyzer against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is also viable with an overstable disc."
+          "disc_recommendation": "Overstable (e.g., Predator, Firebird)",
+          "shot_strategy": "Execute flat or with a slight anhyzer to maintain control."
         }
       }
     }
