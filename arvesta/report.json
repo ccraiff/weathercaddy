@@ -1,1577 +1,1577 @@
 {
-  "course": "Lake Arvesta Sports Complex",
-  "report_generated_at": "2026-03-22 10:12 EDT",
+  "course": "Lake Arvesta",
+  "report_generated_at": "2026-03-22 12:11 EDT",
   "current_wind": {
-    "speed_mph": 11.7,
-    "direction_degrees": 29,
-    "gusts_mph": 23.5,
-    "description": "11.7 mph from 29° (NNE), gusts to 23.5 mph"
+    "speed_mph": 10.1,
+    "direction_degrees": 4,
+    "gusts_mph": 12.3,
+    "description": "Light headwind"
   },
   "forecast_5hr": [
-    {"time_edt": "2026-03-22 09:00 EDT", "speed_mph": 11.7, "direction_degrees": 29},
-    {"time_edt": "2026-03-22 10:00 EDT", "speed_mph": 9.8, "direction_degrees": 348},
-    {"time_edt": "2026-03-22 11:00 EDT", "speed_mph": 8.1, "direction_degrees": 2},
-    {"time_edt": "2026-03-22 12:00 EDT", "speed_mph": 15.2, "direction_degrees": 358},
-    {"time_edt": "2026-03-22 13:00 EDT", "speed_mph": 17.0, "direction_degrees": 13}
+    {"time_edt": "2026-03-22 11:00 EDT", "speed_mph": 10.1, "direction_degrees": 4},
+    {"time_edt": "2026-03-22 12:00 EDT", "speed_mph": 14.8, "direction_degrees": 32},
+    {"time_edt": "2026-03-22 13:00 EDT", "speed_mph": 12.0, "direction_degrees": 14},
+    {"time_edt": "2026-03-22 14:00 EDT", "speed_mph": 19.1, "direction_degrees": 16},
+    {"time_edt": "2026-03-22 15:00 EDT", "speed_mph": 16.0, "direction_degrees": 15}
   ],
   "holes": [
     {
-      "hole_number": 1,
+      "hole_number": "1",
       "hole_label": "Hole 1 [blue]",
       "wind_info": {
         "azimuth_degrees": 196.9,
-        "relative_degrees": 192.1,
+        "relative_degrees": 167.1,
         "clock_face": "6 o-clock tailwind",
-        "description": "Moderate to strong tailwind."
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to take advantage of tailwind and control flight."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead to maximize distance."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to control fade."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 1,
+      "hole_number": "1",
       "hole_label": "Hole 1 [white]",
       "wind_info": {
         "azimuth_degrees": 197.3,
-        "relative_degrees": 191.7,
+        "relative_degrees": 166.7,
         "clock_face": "6 o-clock tailwind",
-        "description": "Moderate to strong tailwind."
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to take advantage of tailwind and control flight."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead to maximize distance."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to control fade."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 1,
+      "hole_number": "1",
       "hole_label": "Hole 1 [yellow]",
       "wind_info": {
         "azimuth_degrees": 150.0,
-        "relative_degrees": 239.0,
-        "clock_face": "8 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "relative_degrees": 214.0,
+        "clock_face": "7 o-clock",
+        "description": "Slight Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to counter the wind and shape the flight."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 2,
+      "hole_number": "2",
       "hole_label": "Hole 2 [blue]",
       "wind_info": {
         "azimuth_degrees": 283.1,
-        "relative_degrees": 105.9,
-        "clock_face": "4 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 80.9,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to counter the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "shot_strategy": "LHBH: Prefer an LHFH shot to manage the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 2,
+      "hole_number": "2",
       "hole_label": "Hole 2 [white]",
       "wind_info": {
         "azimuth_degrees": 271.8,
-        "relative_degrees": 117.2,
-        "clock_face": "4 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 92.2,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to counter the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "shot_strategy": "LHBH: Prefer an LHFH shot to manage the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 2,
+      "hole_number": "2",
       "hole_label": "Hole 2 [yellow]",
       "wind_info": {
         "azimuth_degrees": 264.9,
-        "relative_degrees": 124.1,
-        "clock_face": "4 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 99.1,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to counter the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "shot_strategy": "LHBH: Prefer an LHFH shot to manage the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 3,
+      "hole_number": "3",
       "hole_label": "Hole 3 [blue]",
       "wind_info": {
         "azimuth_degrees": 219.3,
-        "relative_degrees": 169.7,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Moderate to strong tailwind."
+        "relative_degrees": 144.7,
+        "clock_face": "5 o-clock",
+        "description": "Slight Tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to take advantage of tailwind and control flight."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to manage the wind."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead to maximize distance."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to manage the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to control fade."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHBH: Use a stable driver to manage the wind."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to manage the wind."
         }
       }
     },
     {
-      "hole_number": 3,
+      "hole_number": "3",
       "hole_label": "Hole 3 [white]",
       "wind_info": {
         "azimuth_degrees": 231.7,
-        "relative_degrees": 157.3,
-        "clock_face": "5 o-clock",
-        "description": "Moderate to strong tailwind."
+        "relative_degrees": 132.3,
+        "clock_face": "4 o-clock",
+        "description": "Slight Tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Slight hyzer to take advantage of tailwind and control flight."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to manage the wind."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to manage the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release to control fade."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHBH: Use a stable driver to manage the wind."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to manage the wind."
         }
       }
     },
     {
-      "hole_number": 3,
+      "hole_number": "3",
       "hole_label": "Hole 3 [yellow]",
       "wind_info": {
         "azimuth_degrees": 235.6,
-        "relative_degrees": 153.4,
-        "clock_face": "5 o-clock",
-        "description": "Moderate to strong tailwind."
+        "relative_degrees": 128.4,
+        "clock_face": "4 o-clock",
+        "description": "Slight Tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Slight hyzer to take advantage of tailwind and control flight."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to manage the wind."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to manage the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release to control fade."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHBH: Use a stable driver to manage the wind."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to manage the wind."
         }
       }
     },
     {
-      "hole_number": 4,
+      "hole_number": "4",
       "hole_label": "Hole 4 [blue]",
       "wind_info": {
         "azimuth_degrees": 167.1,
-        "relative_degrees": 221.9,
+        "relative_degrees": 196.9,
         "clock_face": "7 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to manage the tailwind and crosswind, keeping it from drifting left."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead, controlling the flight path."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to counter the wind's push."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 4,
+      "hole_number": "4",
       "hole_label": "Hole 4 [white]",
       "wind_info": {
         "azimuth_degrees": 164.4,
-        "relative_degrees": 224.6,
+        "relative_degrees": 199.6,
         "clock_face": "7 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to manage the tailwind and crosswind, keeping it from drifting left."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead, controlling the flight path."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to counter the wind's push."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 4,
+      "hole_number": "4",
       "hole_label": "Hole 4 [yellow]",
       "wind_info": {
         "azimuth_degrees": 168.6,
-        "relative_degrees": 220.4,
+        "relative_degrees": 195.4,
         "clock_face": "7 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to manage the tailwind and crosswind, keeping it from drifting left."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead, controlling the flight path."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to counter the wind's push."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 5,
+      "hole_number": "5",
       "hole_label": "Hole 5 [blue]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 119.0,
-        "clock_face": "4 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 94.0,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to counter the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "shot_strategy": "LHBH: Prefer an LHFH shot to manage the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 5,
+      "hole_number": "5",
       "hole_label": "Hole 5 [white]",
       "wind_info": {
         "azimuth_degrees": 266.3,
-        "relative_degrees": 122.7,
-        "clock_face": "4 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 97.7,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to counter the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "shot_strategy": "LHBH: Prefer an LHFH shot to manage the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 5,
+      "hole_number": "5",
       "hole_label": "Hole 5 [yellow]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 119.0,
-        "clock_face": "4 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 94.0,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to counter the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "shot_strategy": "LHBH: Prefer an LHFH shot to manage the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 6,
+      "hole_number": "6",
       "hole_label": "Hole 6 [blue]",
       "wind_info": {
         "azimuth_degrees": 216.3,
-        "relative_degrees": 172.7,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Moderate to strong tailwind."
+        "relative_degrees": 147.7,
+        "clock_face": "5 o-clock",
+        "description": "Slight Tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to take advantage of tailwind and control flight."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to manage the wind."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead to maximize distance."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to manage the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to control fade."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHBH: Use a stable driver to manage the wind."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to manage the wind."
         }
       }
     },
     {
-      "hole_number": 6,
+      "hole_number": "6",
       "hole_label": "Hole 6 [white]",
       "wind_info": {
         "azimuth_degrees": 233.0,
-        "relative_degrees": 156.0,
-        "clock_face": "5 o-clock",
-        "description": "Moderate to strong tailwind."
+        "relative_degrees": 131.0,
+        "clock_face": "4 o-clock",
+        "description": "Slight Tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Slight hyzer to take advantage of tailwind and control flight."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to manage the wind."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to manage the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release to control fade."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHBH: Use a stable driver to manage the wind."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to manage the wind."
         }
       }
     },
     {
-      "hole_number": 6,
+      "hole_number": "6",
       "hole_label": "Hole 6 [yellow]",
       "wind_info": {
         "azimuth_degrees": 229.4,
-        "relative_degrees": 159.6,
-        "clock_face": "5 o-clock",
-        "description": "Moderate to strong tailwind."
+        "relative_degrees": 134.6,
+        "clock_face": "4 o-clock",
+        "description": "Slight Tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Slight hyzer to take advantage of tailwind and control flight."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to manage the wind."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to manage the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release to control fade."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHBH: Use a stable driver to manage the wind."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to manage the wind."
         }
       }
     },
     {
-      "hole_number": 7,
+      "hole_number": "7",
       "hole_label": "Hole 7 [blue]",
       "wind_info": {
         "azimuth_degrees": 164.8,
-        "relative_degrees": 224.2,
+        "relative_degrees": 199.2,
         "clock_face": "7 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to manage the tailwind and crosswind, keeping it from drifting left."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead, controlling the flight path."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to counter the wind's push."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 7,
+      "hole_number": "7",
       "hole_label": "Hole 7 [white]",
       "wind_info": {
         "azimuth_degrees": 182.2,
-        "relative_degrees": 206.8,
-        "clock_face": "7 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "relative_degrees": 181.8,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to manage the tailwind and crosswind, keeping it from drifting left."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead, controlling the flight path."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to counter the wind's push."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 7,
+      "hole_number": "7",
       "hole_label": "Hole 7 [yellow]",
       "wind_info": {
         "azimuth_degrees": 176.6,
-        "relative_degrees": 212.4,
-        "clock_face": "7 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "relative_degrees": 187.4,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to manage the tailwind and crosswind, keeping it from drifting left."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead, controlling the flight path."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to counter the wind's push."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 8,
+      "hole_number": "8",
       "hole_label": "Hole 8 [blue]",
       "wind_info": {
         "azimuth_degrees": 347.4,
-        "relative_degrees": 41.6,
+        "relative_degrees": 16.6,
         "clock_face": "1 o-clock",
-        "description": "Moderate to strong headwind."
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the headwind and keep the disc from flipping up."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Anhyzer angle to fight the headwind and keep the disc from turning over."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 8,
+      "hole_number": "8",
       "hole_label": "Hole 8 [white]",
       "wind_info": {
         "azimuth_degrees": 0.1,
-        "relative_degrees": 28.9,
-        "clock_face": "1 o-clock",
-        "description": "Moderate to strong headwind."
+        "relative_degrees": 3.9,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the headwind and keep the disc from flipping up."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Anhyzer angle to fight the headwind and keep the disc from turning over."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 8,
+      "hole_number": "8",
       "hole_label": "Hole 8 [yellow]",
       "wind_info": {
         "azimuth_degrees": 356.3,
-        "relative_degrees": 32.7,
-        "clock_face": "1 o-clock",
-        "description": "Moderate to strong headwind."
+        "relative_degrees": 7.7,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the headwind and keep the disc from flipping up."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Anhyzer angle to fight the headwind and keep the disc from turning over."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 9,
+      "hole_number": "9",
       "hole_label": "Hole 9",
       "wind_info": {
         "azimuth_degrees": 296.3,
-        "relative_degrees": 92.7,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 67.7,
+        "clock_face": "2 o-clock",
+        "description": "Moderate crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Use a stable driver with a hyzer to counter the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "shot_strategy": "LHBH: Prefer an LHFH shot to manage the crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 10,
+      "hole_number": "10",
       "hole_label": "Hole 10 [blue]",
       "wind_info": {
         "azimuth_degrees": 344.3,
-        "relative_degrees": 44.7,
+        "relative_degrees": 19.7,
         "clock_face": "1 o-clock",
-        "description": "Moderate to strong headwind."
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the headwind and keep the disc from flipping up."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Anhyzer angle to fight the headwind and keep the disc from turning over."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 10,
+      "hole_number": "10",
       "hole_label": "Hole 10 [white]",
       "wind_info": {
         "azimuth_degrees": 357.3,
-        "relative_degrees": 31.7,
-        "clock_face": "1 o-clock",
-        "description": "Moderate to strong headwind."
+        "relative_degrees": 6.7,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the headwind and keep the disc from flipping up."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Anhyzer angle to fight the headwind and keep the disc from turning over."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 10,
+      "hole_number": "10",
       "hole_label": "Hole 10 [yellow]",
       "wind_info": {
         "azimuth_degrees": 353.5,
-        "relative_degrees": 35.5,
-        "clock_face": "1 o-clock",
-        "description": "Moderate to strong headwind."
+        "relative_degrees": 10.5,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the headwind and keep the disc from flipping up."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Anhyzer angle to fight the headwind and keep the disc from turning over."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 11,
+      "hole_number": "11",
       "hole_label": "Hole 11 [blue]",
       "wind_info": {
         "azimuth_degrees": 83.5,
-        "relative_degrees": 305.5,
-        "clock_face": "10 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the right."
+        "relative_degrees": 280.5,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Strong crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Prefer FH due to crosswind from the right; use a stable disc with a hyzer to fight the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Prefer an RHFH shot to manage the strong crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the left."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH comfortable here; straight release with a slight hyzer to manage the wind."
+          "shot_strategy": "LHBH: LHBH is comfortable here; use a stable driver."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 11,
+      "hole_number": "11",
       "hole_label": "Hole 11 [white]",
       "wind_info": {
         "azimuth_degrees": 71.1,
-        "relative_degrees": 317.9,
-        "clock_face": "11 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the right."
+        "relative_degrees": 292.9,
+        "clock_face": "10 o-clock",
+        "description": "Strong crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Prefer FH due to crosswind from the right; use a stable disc with a hyzer to fight the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Prefer an RHFH shot to manage the strong crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the left."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH comfortable here; straight release with a slight hyzer to manage the wind."
+          "shot_strategy": "LHBH: LHBH is comfortable here; use a stable driver."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 11,
+      "hole_number": "11",
       "hole_label": "Hole 11 [yellow]",
       "wind_info": {
         "azimuth_degrees": 79.9,
-        "relative_degrees": 309.1,
-        "clock_face": "10 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the right."
+        "relative_degrees": 284.1,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Strong crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Prefer FH due to crosswind from the right; use a stable disc with a hyzer to fight the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Prefer an RHFH shot to manage the strong crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the left."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH comfortable here; straight release with a slight hyzer to manage the wind."
+          "shot_strategy": "LHBH: LHBH is comfortable here; use a stable driver."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 12,
+      "hole_number": "12",
       "hole_label": "Hole 12 [blue]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 59.0,
-        "clock_face": "2 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 34.0,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 12,
+      "hole_number": "12",
       "hole_label": "Hole 12 [white]",
       "wind_info": {
         "azimuth_degrees": 316.5,
-        "relative_degrees": 72.5,
+        "relative_degrees": 47.5,
         "clock_face": "2 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 12,
+      "hole_number": "12",
       "hole_label": "Hole 12 [yellow]",
       "wind_info": {
         "azimuth_degrees": 306.5,
-        "relative_degrees": 82.5,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 57.5,
+        "clock_face": "2 o-clock",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 13,
+      "hole_number": "13",
       "hole_label": "Hole 13 [blue]",
       "wind_info": {
         "azimuth_degrees": 332.0,
-        "relative_degrees": 57.0,
-        "clock_face": "2 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 32.0,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 13,
+      "hole_number": "13",
       "hole_label": "Hole 13 [white]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 59.0,
-        "clock_face": "2 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 34.0,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 13,
+      "hole_number": "13",
       "hole_label": "Hole 13 [yellow]",
       "wind_info": {
         "azimuth_degrees": 322.9,
-        "relative_degrees": 66.1,
-        "clock_face": "2 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 41.1,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 14,
+      "hole_number": "14",
       "hole_label": "Hole 14 [blue]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 59.0,
-        "clock_face": "2 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 34.0,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 14,
+      "hole_number": "14",
       "hole_label": "Hole 14 [white]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 59.0,
-        "clock_face": "2 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 34.0,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 14,
+      "hole_number": "14",
       "hole_label": "Hole 14 [yellow]",
       "wind_info": {
         "azimuth_degrees": 336.2,
-        "relative_degrees": 52.8,
-        "clock_face": "2 o-clock",
-        "description": "Moderate to strong left-to-right crosswind."
+        "relative_degrees": 27.8,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the crosswind and keep it from drifting right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the right."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Avoid BH due to double trouble from fade and wind; prefer FH."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Hyzer release to combat the left-to-right wind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 15,
+      "hole_number": "15",
       "hole_label": "Hole 15 [blue]",
       "wind_info": {
         "azimuth_degrees": 163.1,
-        "relative_degrees": 225.9,
-        "clock_face": "8 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "relative_degrees": 200.9,
+        "clock_face": "7 o-clock",
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to manage the tailwind and crosswind, keeping it from drifting left."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead, controlling the flight path."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to counter the wind's push."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 15,
+      "hole_number": "15",
       "hole_label": "Hole 15 [white]",
       "wind_info": {
         "azimuth_degrees": 168.5,
-        "relative_degrees": 220.5,
+        "relative_degrees": 195.5,
         "clock_face": "7 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to manage the tailwind and crosswind, keeping it from drifting left."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead, controlling the flight path."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to counter the wind's push."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 15,
+      "hole_number": "15",
       "hole_label": "Hole 15 [yellow]",
       "wind_info": {
         "azimuth_degrees": 173.2,
-        "relative_degrees": 215.8,
-        "clock_face": "7 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "relative_degrees": 190.8,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to manage the tailwind and crosswind, keeping it from drifting left."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead, controlling the flight path."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to counter the wind's push."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 16,
+      "hole_number": "16",
       "hole_label": "Hole 16 [blue]",
       "wind_info": {
         "azimuth_degrees": 141.1,
-        "relative_degrees": 247.9,
-        "clock_face": "8 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "relative_degrees": 222.9,
+        "clock_face": "7 o-clock",
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to manage the tailwind and crosswind, keeping it from drifting left."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead, controlling the flight path."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to counter the wind's push."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 16,
+      "hole_number": "16",
       "hole_label": "Hole 16 [white]",
       "wind_info": {
         "azimuth_degrees": 142.1,
-        "relative_degrees": 246.9,
-        "clock_face": "8 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "relative_degrees": 221.9,
+        "clock_face": "7 o-clock",
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to manage the tailwind and crosswind, keeping it from drifting left."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead, controlling the flight path."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to counter the wind's push."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 16,
+      "hole_number": "16",
       "hole_label": "Hole 16 [yellow]",
       "wind_info": {
         "azimuth_degrees": 141.8,
-        "relative_degrees": 247.2,
-        "clock_face": "8 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the left."
+        "relative_degrees": 222.2,
+        "clock_face": "7 o-clock",
+        "description": "Tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Smooth hyzer to manage the tailwind and crosswind, keeping it from drifting left."
+          "shot_strategy": "RHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead, controlling the flight path."
+          "shot_strategy": "RHFH: Use an understable driver for extra distance with the tailwind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Straight release, slight anhyzer to counter the wind's push."
+          "shot_strategy": "LHBH: Use an understable driver for extra distance with the tailwind."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use an understable driver for extra distance with the tailwind."
         }
       }
     },
     {
-      "hole_number": 17,
+      "hole_number": "17",
       "hole_label": "Hole 17 [blue]",
       "wind_info": {
         "azimuth_degrees": 97.7,
-        "relative_degrees": 291.3,
-        "clock_face": "10 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the right."
+        "relative_degrees": 266.3,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Strong crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Prefer FH due to crosswind from the right; use a stable disc with a hyzer to fight the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Prefer an RHFH shot to manage the strong crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the left."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH comfortable here; straight release with a slight hyzer to manage the wind."
+          "shot_strategy": "LHBH: LHBH is comfortable here; use a stable driver."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 17,
+      "hole_number": "17",
       "hole_label": "Hole 17 [white]",
       "wind_info": {
         "azimuth_degrees": 98.7,
-        "relative_degrees": 290.3,
-        "clock_face": "10 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the right."
+        "relative_degrees": 265.3,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Strong crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Prefer FH due to crosswind from the right; use a stable disc with a hyzer to fight the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Prefer an RHFH shot to manage the strong crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the left."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH comfortable here; straight release with a slight hyzer to manage the wind."
+          "shot_strategy": "LHBH: LHBH is comfortable here; use a stable driver."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 17,
+      "hole_number": "17",
       "hole_label": "Hole 17 [yellow]",
       "wind_info": {
         "azimuth_degrees": 85.5,
-        "relative_degrees": 303.5,
-        "clock_face": "10 o-clock",
-        "description": "Moderate to strong tailwind with a crosswind component from the right."
+        "relative_degrees": 278.5,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Strong crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Prefer FH due to crosswind from the right; use a stable disc with a hyzer to fight the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHBH: Prefer an RHFH shot to manage the strong crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable to Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to control the wind's push to the left."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "RHFH: Use a stable driver to control the crosswind."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH comfortable here; straight release with a slight hyzer to manage the wind."
+          "shot_strategy": "LHBH: LHBH is comfortable here; use a stable driver."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Flat release straight ahead."
+          "shot_strategy": "LHFH: Use a stable driver to control the crosswind."
         }
       }
     },
     {
-      "hole_number": 18,
+      "hole_number": "18",
       "hole_label": "Hole 18 [blue]",
       "wind_info": {
         "azimuth_degrees": 10.0,
-        "relative_degrees": 19.0,
-        "clock_face": "1 o-clock",
-        "description": "Moderate to strong headwind."
+        "relative_degrees": 354.0,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the headwind and keep the disc from flipping up."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Anhyzer angle to fight the headwind and keep the disc from turning over."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 18,
+      "hole_number": "18",
       "hole_label": "Hole 18 [white]",
       "wind_info": {
         "azimuth_degrees": 7.0,
-        "relative_degrees": 22.0,
-        "clock_face": "1 o-clock",
-        "description": "Moderate to strong headwind."
+        "relative_degrees": 357.0,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the headwind and keep the disc from flipping up."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Anhyzer angle to fight the headwind and keep the disc from turning over."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     },
     {
-      "hole_number": 18,
+      "hole_number": "18",
       "hole_label": "Hole 18 [yellow]",
       "wind_info": {
         "azimuth_degrees": 11.5,
-        "relative_degrees": 17.5,
-        "clock_face": "1 o-clock",
-        "description": "Moderate to strong headwind."
+        "relative_degrees": 352.5,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hyzer angle to fight the headwind and keep the disc from flipping up."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "RHFH: Use an overstable disc into the headwind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Anhyzer angle to fight the headwind and keep the disc from turning over."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHBH: Use an overstable disc into the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Flat or slight hyzer release, aiming to carry through the headwind."
+          "disc_recommendation": "Overstable disc",
+          "shot_strategy": "LHFH: Use an overstable disc into the headwind."
         }
       }
     }
