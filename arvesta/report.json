@@ -1,1577 +1,1577 @@
 {
   "course": "Lake Arvesta Sports Complex",
-  "report_generated_at": "2026-03-22 18:11 EDT",
+  "report_generated_at": "2026-03-22 21:10 EDT",
   "current_wind": {
-    "speed_mph": 12.9,
-    "direction_degrees": 10,
-    "gusts_mph": 18.3,
-    "description": "10° (North-Northeast), gusts to 18.3 mph"
+    "speed_mph": 10.6,
+    "direction_degrees": 22,
+    "gusts_mph": 16.1,
+    "description": "Moderate wind from the North-Northeast, gusts to moderate strength."
   },
   "forecast_5hr": [
-    {"time_edt": "2026-03-22 17:00 EDT", "speed_mph": 12.4, "direction_degrees": 17},
-    {"time_edt": "2026-03-22 18:00 EDT", "speed_mph": 10.4, "direction_degrees": 28},
-    {"time_edt": "2026-03-22 19:00 EDT", "speed_mph": 12.0, "direction_degrees": 15},
-    {"time_edt": "2026-03-22 20:00 EDT", "speed_mph": 13.1, "direction_degrees": 351},
-    {"time_edt": "2026-03-22 21:00 EDT", "speed_mph": 13.1, "direction_degrees": 351}
+    {"time_edt": "2026-03-22 20:00 EDT", "speed_mph": 10.6, "direction_degrees": 22},
+    {"time_edt": "2026-03-22 21:00 EDT", "speed_mph": 15.0, "direction_degrees": 343},
+    {"time_edt": "2026-03-22 22:00 EDT", "speed_mph": 15.4, "direction_degrees": 341},
+    {"time_edt": "2026-03-22 23:00 EDT", "speed_mph": 13.2, "direction_degrees": 356},
+    {"time_edt": "2026-03-23 00:00 EDT", "speed_mph": 11.5, "direction_degrees": 354}
   ],
   "holes": [
     {
-      "hole_number": "1",
+      "hole_number": 1,
       "hole_label": "Hole 1 [blue]",
       "wind_info": {
         "azimuth_degrees": 196.9,
-        "relative_degrees": 173.1,
-        "clock_face": "6 o'clock tailwind",
-        "description": "Tailwind from the right"
+        "relative_degrees": 185.1,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind with a slight left crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 6 o'clock tailwind from the right, use an understable driver and aim for a hyzer flip to maximize distance. Be mindful of the wind potentially exposing the underside."
+          "disc_recommendation": "Understable driver",
+          "shot_strategy": "Hyzer flip to flat for maximum distance."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable driver thrown with a controlled forehand should handle this tailwind effectively."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Straight shot, let the tailwind carry it."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver with a hyzer flip can work, but be prepared to adjust if the wind is too strong."
+          "disc_recommendation": "Understable driver",
+          "shot_strategy": "Hyzer flip to flat for maximum distance."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this tailwind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Straight shot, let the tailwind carry it."
         }
       }
     },
     {
-      "hole_number": "1",
+      "hole_number": 1,
       "hole_label": "Hole 1 [white]",
       "wind_info": {
         "azimuth_degrees": 197.3,
-        "relative_degrees": 172.7,
-        "clock_face": "6 o'clock tailwind",
-        "description": "Tailwind from the right"
+        "relative_degrees": 184.7,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind with a slight left crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 6 o'clock tailwind from the right, use an understable driver and aim for a hyzer flip to maximize distance. Be mindful of the wind potentially exposing the underside."
+          "disc_recommendation": "Understable driver",
+          "shot_strategy": "Hyzer flip to flat for maximum distance."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable driver thrown with a controlled forehand should handle this tailwind effectively."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Straight shot, let the tailwind carry it."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver with a hyzer flip can work, but be prepared to adjust if the wind is too strong."
+          "disc_recommendation": "Understable driver",
+          "shot_strategy": "Hyzer flip to flat for maximum distance."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this tailwind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Straight shot, let the tailwind carry it."
         }
       }
     },
     {
-      "hole_number": "1",
+      "hole_number": 1,
       "hole_label": "Hole 1 [yellow]",
       "wind_info": {
         "azimuth_degrees": 150.0,
-        "relative_degrees": 220.0,
-        "clock_face": "7 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 232.0,
+        "clock_face": "8 o-clock",
+        "description": "Moderate crosswind from the left with a tailwind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 7 o'clock wind from the right, an understable driver and a hyzer flip will give you the best distance. Keep the disc nose down."
+          "disc_recommendation": "Stable to Overstable driver",
+          "shot_strategy": "Hyzer with enough power to fight the left crosswind and finish straight."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand shot is a reliable option here to control the flight."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but you may need to adjust your line to fight the wind."
+          "disc_recommendation": "Understable driver",
+          "shot_strategy": "Hyzer flip to flat, let the wind guide it left."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this wind from the right is manageable with a stable forehand. Focus on a clean release and aim slightly left of the target."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of basket to fight wind."
         }
       }
     },
     {
-      "hole_number": "2",
+      "hole_number": 2,
       "hole_label": "Hole 2 [blue]",
       "wind_info": {
         "azimuth_degrees": 283.1,
-        "relative_degrees": 86.9,
-        "clock_face": "3 o'clock crosswind from left",
-        "description": "Crosswind from the left"
+        "relative_degrees": 98.9,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from the left with a headwind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 3 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "2",
+      "hole_number": 2,
       "hole_label": "Hole 2 [white]",
       "wind_info": {
         "azimuth_degrees": 271.8,
-        "relative_degrees": 98.2,
-        "clock_face": "3 o'clock crosswind from left",
-        "description": "Crosswind from the left"
+        "relative_degrees": 110.2,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 3 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "2",
+      "hole_number": 2,
       "hole_label": "Hole 2 [yellow]",
       "wind_info": {
         "azimuth_degrees": 264.9,
-        "relative_degrees": 105.1,
-        "clock_face": "4 o'clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 117.1,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, at 4 o'clock with wind from the left, a stable driver on hyzer is your best bet to stay on line."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand is a reliable shot to manage this crosswind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, LHBH will fight this wind and fade into it. Consider another option."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver with a slight anhyzer will help fight this left-to-right wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "3",
+      "hole_number": 3,
       "hole_label": "Hole 3 [blue]",
       "wind_info": {
         "azimuth_degrees": 219.3,
-        "relative_degrees": 150.7,
-        "clock_face": "5 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 162.7,
+        "clock_face": "5 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 5 o'clock wind from the right, use an understable driver and aim for a hyzer flip for maximum distance."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand will offer good control against this wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but be ready to adjust your line to fight the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this crosswind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "3",
+      "hole_number": 3,
       "hole_label": "Hole 3 [white]",
       "wind_info": {
         "azimuth_degrees": 231.7,
-        "relative_degrees": 138.3,
-        "clock_face": "5 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 150.3,
+        "clock_face": "5 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 5 o'clock wind from the right, use an understable driver and aim for a hyzer flip for maximum distance."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand will offer good control against this wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but be ready to adjust your line to fight the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this crosswind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "3",
+      "hole_number": 3,
       "hole_label": "Hole 3 [yellow]",
       "wind_info": {
         "azimuth_degrees": 235.6,
-        "relative_degrees": 134.4,
-        "clock_face": "4 o'clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 146.4,
+        "clock_face": "5 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, at 4 o'clock with wind from the left, a stable driver on hyzer is your best bet to stay on line."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand is a reliable shot to manage this crosswind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, LHBH will fight this wind and fade into it. Consider another option."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver with a slight anhyzer will help fight this left-to-right wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "4",
+      "hole_number": 4,
       "hole_label": "Hole 4 [blue]",
       "wind_info": {
         "azimuth_degrees": 167.1,
-        "relative_degrees": 202.9,
-        "clock_face": "7 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 214.9,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 7 o'clock wind from the right, an understable driver and a hyzer flip will give you the best distance. Keep the disc nose down."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand shot is a reliable option here to control the flight."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but you may need to adjust your line to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this wind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "4",
+      "hole_number": 4,
       "hole_label": "Hole 4 [white]",
       "wind_info": {
         "azimuth_degrees": 164.4,
-        "relative_degrees": 205.6,
-        "clock_face": "7 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 217.6,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 7 o'clock wind from the right, an understable driver and a hyzer flip will give you the best distance. Keep the disc nose down."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand shot is a reliable option here to control the flight."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but you may need to adjust your line to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this wind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "4",
+      "hole_number": 4,
       "hole_label": "Hole 4 [yellow]",
       "wind_info": {
         "azimuth_degrees": 168.6,
-        "relative_degrees": 201.4,
-        "clock_face": "7 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 213.4,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 7 o'clock wind from the right, an understable driver and a hyzer flip will give you the best distance. Keep the disc nose down."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand shot is a reliable option here to control the flight."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but you may need to adjust your line to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this wind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "5",
+      "hole_number": 5,
       "hole_label": "Hole 5 [blue]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 100.0,
-        "clock_face": "3 o'clock crosswind from left",
-        "description": "Crosswind from the left"
+        "relative_degrees": 112.0,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 3 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "5",
+      "hole_number": 5,
       "hole_label": "Hole 5 [white]",
       "wind_info": {
         "azimuth_degrees": 266.3,
-        "relative_degrees": 103.7,
-        "clock_face": "3 o'clock crosswind from left",
-        "description": "Crosswind from the left"
+        "relative_degrees": 115.7,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 3 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "5",
+      "hole_number": 5,
       "hole_label": "Hole 5 [yellow]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 100.0,
-        "clock_face": "3 o'clock crosswind from left",
-        "description": "Crosswind from the left"
+        "relative_degrees": 112.0,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 3 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "6",
+      "hole_number": 6,
       "hole_label": "Hole 6 [blue]",
       "wind_info": {
         "azimuth_degrees": 216.3,
-        "relative_degrees": 153.7,
-        "clock_face": "5 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 165.7,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind with a slight left crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 5 o'clock wind from the right, use an understable driver and aim for a hyzer flip for maximum distance."
+          "disc_recommendation": "Understable driver",
+          "shot_strategy": "Hyzer flip to flat for maximum distance."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand will offer good control against this wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Straight shot, let the tailwind carry it."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but be ready to adjust your line to fight the wind."
+          "disc_recommendation": "Understable driver",
+          "shot_strategy": "Hyzer flip to flat for maximum distance."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this crosswind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Straight shot, let the tailwind carry it."
         }
       }
     },
     {
-      "hole_number": "6",
+      "hole_number": 6,
       "hole_label": "Hole 6 [white]",
       "wind_info": {
         "azimuth_degrees": 233.0,
-        "relative_degrees": 137.0,
-        "clock_face": "5 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 149.0,
+        "clock_face": "5 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 5 o'clock wind from the right, use an understable driver and aim for a hyzer flip for maximum distance."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand will offer good control against this wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but be ready to adjust your line to fight the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this crosswind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "6",
+      "hole_number": 6,
       "hole_label": "Hole 6 [yellow]",
       "wind_info": {
         "azimuth_degrees": 229.4,
-        "relative_degrees": 140.6,
-        "clock_face": "5 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 152.6,
+        "clock_face": "5 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 5 o'clock wind from the right, use an understable driver and aim for a hyzer flip for maximum distance."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand will offer good control against this wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but be ready to adjust your line to fight the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this crosswind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "7",
+      "hole_number": 7,
       "hole_label": "Hole 7 [blue]",
       "wind_info": {
         "azimuth_degrees": 164.8,
-        "relative_degrees": 205.2,
-        "clock_face": "7 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 217.2,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 7 o'clock wind from the right, an understable driver and a hyzer flip will give you the best distance. Keep the disc nose down."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand shot is a reliable option here to control the flight."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but you may need to adjust your line to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this wind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "7",
+      "hole_number": 7,
       "hole_label": "Hole 7 [white]",
       "wind_info": {
         "azimuth_degrees": 182.2,
-        "relative_degrees": 187.8,
-        "clock_face": "6 o'clock tailwind",
-        "description": "Tailwind from the right"
+        "relative_degrees": 199.8,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 6 o'clock tailwind from the right, use an understable driver and aim for a hyzer flip to maximize distance. Be mindful of the wind potentially exposing the underside."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable driver thrown with a controlled forehand should handle this tailwind effectively."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver with a hyzer flip can work, but be prepared to adjust if the wind is too strong."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this tailwind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "7",
+      "hole_number": 7,
       "hole_label": "Hole 7 [yellow]",
       "wind_info": {
         "azimuth_degrees": 176.6,
-        "relative_degrees": 193.4,
-        "clock_face": "6 o'clock tailwind",
-        "description": "Tailwind from the right"
+        "relative_degrees": 205.4,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 6 o'clock tailwind from the right, use an understable driver and aim for a hyzer flip to maximize distance. Be mindful of the wind potentially exposing the underside."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable driver thrown with a controlled forehand should handle this tailwind effectively."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver with a hyzer flip can work, but be prepared to adjust if the wind is too strong."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this tailwind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "8",
+      "hole_number": 8,
       "hole_label": "Hole 8 [blue]",
       "wind_info": {
         "azimuth_degrees": 347.4,
-        "relative_degrees": 22.6,
-        "clock_face": "1 o'clock",
-        "description": "Headwind from the left"
+        "relative_degrees": 34.6,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind with a slight right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, this is a moderate headwind. Use an overstable disc for a straight flight."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable forehand will fight this headwind effectively."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, an overstable disc is recommended to combat this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, a clean forehand with an overstable disc will keep you on line."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "8",
+      "hole_number": 8,
       "hole_label": "Hole 8 [white]",
       "wind_info": {
         "azimuth_degrees": 0.1,
-        "relative_degrees": 9.9,
-        "clock_face": "12 o'clock headwind",
-        "description": "Headwind from the north"
+        "relative_degrees": 21.9,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind with a slight right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a strong headwind requires an overstable disc for control and distance."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable forehand is your best bet to combat this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, an overstable disc is essential to keep your backhand flight straight in this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, a clean forehand with an overstable disc will provide the stability needed."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "8",
+      "hole_number": 8,
       "hole_label": "Hole 8 [yellow]",
       "wind_info": {
         "azimuth_degrees": 356.3,
-        "relative_degrees": 13.7,
-        "clock_face": "12 o'clock headwind",
-        "description": "Headwind from the north"
+        "relative_degrees": 25.7,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind with a slight right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a strong headwind requires an overstable disc for control and distance."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable forehand is your best bet to combat this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, an overstable disc is essential to keep your backhand flight straight in this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, a clean forehand with an overstable disc will provide the stability needed."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "9",
+      "hole_number": 9,
       "hole_label": "Hole 9",
       "wind_info": {
         "azimuth_degrees": 296.3,
-        "relative_degrees": 73.7,
-        "clock_face": "2 o'clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 85.7,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 2 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "10",
+      "hole_number": 10,
       "hole_label": "Hole 10 [blue]",
       "wind_info": {
         "azimuth_degrees": 344.3,
-        "relative_degrees": 25.7,
-        "clock_face": "1 o'clock",
-        "description": "Headwind from the left"
+        "relative_degrees": 37.7,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind with a slight right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, this is a moderate headwind. Use an overstable disc for a straight flight."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable forehand will fight this headwind effectively."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, an overstable disc is recommended to combat this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, a clean forehand with an overstable disc will keep you on line."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "10",
+      "hole_number": 10,
       "hole_label": "Hole 10 [white]",
       "wind_info": {
         "azimuth_degrees": 357.3,
-        "relative_degrees": 12.7,
-        "clock_face": "12 o'clock headwind",
-        "description": "Headwind from the north"
+        "relative_degrees": 24.7,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind with a slight right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a strong headwind requires an overstable disc for control and distance."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable forehand is your best bet to combat this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, an overstable disc is essential to keep your backhand flight straight in this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, a clean forehand with an overstable disc will provide the stability needed."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "10",
+      "hole_number": 10,
       "hole_label": "Hole 10 [yellow]",
       "wind_info": {
         "azimuth_degrees": 353.5,
-        "relative_degrees": 16.5,
-        "clock_face": "1 o'clock",
-        "description": "Headwind from the left"
+        "relative_degrees": 28.5,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind with a slight right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, this is a moderate headwind. Use an overstable disc for a straight flight."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable forehand will fight this headwind effectively."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, an overstable disc is recommended to combat this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, a clean forehand with an overstable disc will keep you on line."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "11",
+      "hole_number": 11,
       "hole_label": "Hole 11 [blue]",
       "wind_info": {
         "azimuth_degrees": 83.5,
-        "relative_degrees": 286.5,
-        "clock_face": "10 o'clock",
-        "description": "Crosswind from the right"
+        "relative_degrees": 298.5,
+        "clock_face": "10 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, a 10 o'clock crosswind from the right will expose the disc's underside. Aim for an anhyzer release to fight the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand is a good option to control the disc against this crosswind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, the natural fade of an LHBH will work with this wind from the right. Use a stable disc with a hyzer release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, LHFH can be tricky here; an overstable disc with a slight anhyzer might be needed to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "11",
+      "hole_number": 11,
       "hole_label": "Hole 11 [white]",
       "wind_info": {
         "azimuth_degrees": 71.1,
-        "relative_degrees": 298.9,
-        "clock_face": "10 o'clock",
-        "description": "Crosswind from the right"
+        "relative_degrees": 310.9,
+        "clock_face": "10 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, a 10 o'clock crosswind from the right will expose the disc's underside. Aim for an anhyzer release to fight the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand is a good option to control the disc against this crosswind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, the natural fade of an LHBH will work with this wind from the right. Use a stable disc with a hyzer release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, LHFH can be tricky here; an overstable disc with a slight anhyzer might be needed to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "11",
+      "hole_number": 11,
       "hole_label": "Hole 11 [yellow]",
       "wind_info": {
         "azimuth_degrees": 79.9,
-        "relative_degrees": 290.1,
-        "clock_face": "10 o'clock",
-        "description": "Crosswind from the right"
+        "relative_degrees": 302.1,
+        "clock_face": "10 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, a 10 o'clock crosswind from the right will expose the disc's underside. Aim for an anhyzer release to fight the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand is a good option to control the disc against this crosswind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, the natural fade of an LHBH will work with this wind from the right. Use a stable disc with a hyzer release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, LHFH can be tricky here; an overstable disc with a slight anhyzer might be needed to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "12",
+      "hole_number": 12,
       "hole_label": "Hole 12 [blue]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 40.0,
-        "clock_face": "1 o'clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 52.0,
+        "clock_face": "2 o-clock",
+        "description": "Moderate headwind with a right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 1 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "12",
+      "hole_number": 12,
       "hole_label": "Hole 12 [white]",
       "wind_info": {
         "azimuth_degrees": 316.5,
-        "relative_degrees": 53.5,
-        "clock_face": "2 o'clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 65.5,
+        "clock_face": "2 o-clock",
+        "description": "Moderate headwind with a right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 2 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "12",
+      "hole_number": 12,
       "hole_label": "Hole 12 [yellow]",
       "wind_info": {
         "azimuth_degrees": 306.5,
-        "relative_degrees": 63.5,
-        "clock_face": "2 o'clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 75.5,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 2 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "13",
+      "hole_number": 13,
       "hole_label": "Hole 13 [blue]",
       "wind_info": {
         "azimuth_degrees": 332.0,
-        "relative_degrees": 38.0,
-        "clock_face": "1 o'clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 50.0,
+        "clock_face": "2 o-clock",
+        "description": "Moderate headwind with a right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 1 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "13",
+      "hole_number": 13,
       "hole_label": "Hole 13 [white]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 40.0,
-        "clock_face": "1 o'clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 52.0,
+        "clock_face": "2 o-clock",
+        "description": "Moderate headwind with a right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 1 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "13",
+      "hole_number": 13,
       "hole_label": "Hole 13 [yellow]",
       "wind_info": {
         "azimuth_degrees": 322.9,
-        "relative_degrees": 47.1,
-        "clock_face": "2 o'clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 59.1,
+        "clock_face": "2 o-clock",
+        "description": "Moderate headwind with a right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 2 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "14",
+      "hole_number": 14,
       "hole_label": "Hole 14 [blue]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 40.0,
-        "clock_face": "1 o'clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 52.0,
+        "clock_face": "2 o-clock",
+        "description": "Moderate headwind with a right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 1 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "14",
+      "hole_number": 14,
       "hole_label": "Hole 14 [white]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 40.0,
-        "clock_face": "1 o'clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 52.0,
+        "clock_face": "2 o-clock",
+        "description": "Moderate headwind with a right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 1 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "14",
+      "hole_number": 14,
       "hole_label": "Hole 14 [yellow]",
       "wind_info": {
         "azimuth_degrees": 336.2,
-        "relative_degrees": 33.8,
-        "clock_face": "1 o'clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 45.8,
+        "clock_face": "2 o-clock",
+        "description": "Moderate headwind with a right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, with a 1 o'clock crosswind from the left, a stable driver thrown on hyzer will help counteract the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a controlled forehand with a stable disc is a solid play here."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a left-to-right wind combined with a left-handed fade makes LHBH risky. Avoid this if possible."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable driver thrown with a slight anhyzer will help you fight this left-to-right wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "15",
+      "hole_number": 15,
       "hole_label": "Hole 15 [blue]",
       "wind_info": {
         "azimuth_degrees": 163.1,
-        "relative_degrees": 206.9,
-        "clock_face": "7 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 218.9,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 7 o'clock wind from the right, an understable driver and a hyzer flip will give you the best distance. Keep the disc nose down."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand shot is a reliable option here to control the flight."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but you may need to adjust your line to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this wind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "15",
+      "hole_number": 15,
       "hole_label": "Hole 15 [white]",
       "wind_info": {
         "azimuth_degrees": 168.5,
-        "relative_degrees": 201.5,
-        "clock_face": "7 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 213.5,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 7 o'clock wind from the right, an understable driver and a hyzer flip will give you the best distance. Keep the disc nose down."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand shot is a reliable option here to control the flight."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but you may need to adjust your line to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this wind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "15",
+      "hole_number": 15,
       "hole_label": "Hole 15 [yellow]",
       "wind_info": {
         "azimuth_degrees": 173.2,
-        "relative_degrees": 196.8,
-        "clock_face": "7 o'clock",
-        "description": "Crosswind/tailwind from the right"
+        "relative_degrees": 208.8,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 7 o'clock wind from the right, an understable driver and a hyzer flip will give you the best distance. Keep the disc nose down."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand shot is a reliable option here to control the flight."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, an understable driver can work, but you may need to adjust your line to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, this wind from the right is manageable with a stable forehand. Focus on a clean release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "16",
+      "hole_number": 16,
       "hole_label": "Hole 16 [blue]",
       "wind_info": {
         "azimuth_degrees": 141.1,
-        "relative_degrees": 228.9,
-        "clock_face": "8 o'clock",
-        "description": "Crosswind from the right"
+        "relative_degrees": 240.9,
+        "clock_face": "8 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, an 8 o'clock crosswind from the right will expose the disc's underside. Aim for an anhyzer release to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand is a good option to control the disc against this crosswind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, the natural fade of an LHBH will work with this wind from the right. Use a stable disc with a hyzer release."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, LHFH can be tricky here; an overstable disc with a slight anhyzer might be needed to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "16",
+      "hole_number": 16,
       "hole_label": "Hole 16 [white]",
       "wind_info": {
         "azimuth_degrees": 142.1,
-        "relative_degrees": 227.9,
-        "clock_face": "8 o'clock",
-        "description": "Crosswind from the right"
+        "relative_degrees": 239.9,
+        "clock_face": "8 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, an 8 o'clock crosswind from the right will expose the disc's underside. Aim for an anhyzer release to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand is a good option to control the disc against this crosswind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, the natural fade of an LHBH will work with this wind from the right. Use a stable disc with a hyzer release."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, LHFH can be tricky here; an overstable disc with a slight anhyzer might be needed to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "16",
+      "hole_number": 16,
       "hole_label": "Hole 16 [yellow]",
       "wind_info": {
         "azimuth_degrees": 141.8,
-        "relative_degrees": 228.2,
-        "clock_face": "8 o'clock",
-        "description": "Crosswind from the right"
+        "relative_degrees": 240.2,
+        "clock_face": "8 o-clock",
+        "description": "Moderate crosswind from the left."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, an 8 o'clock crosswind from the right will expose the disc's underside. Aim for an anhyzer release to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand is a good option to control the disc against this crosswind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, the natural fade of an LHBH will work with this wind from the right. Use a stable disc with a hyzer release."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, LHFH can be tricky here; an overstable disc with a slight anhyzer might be needed to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim left of the basket to combat the wind."
         }
       }
     },
     {
-      "hole_number": "17",
+      "hole_number": 17,
       "hole_label": "Hole 17 [blue]",
       "wind_info": {
         "azimuth_degrees": 97.7,
-        "relative_degrees": 272.3,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "Crosswind from the right"
+        "relative_degrees": 284.3,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, a 9 o'clock crosswind from the right will expose the disc's underside. Aim for an anhyzer release to fight the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand is a good option to control the disc against this crosswind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, the natural fade of an LHBH will work with this wind from the right. Use a stable disc with a hyzer release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, LHFH can be tricky here; an overstable disc with a slight anhyzer might be needed to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "17",
+      "hole_number": 17,
       "hole_label": "Hole 17 [white]",
       "wind_info": {
         "azimuth_degrees": 98.7,
-        "relative_degrees": 271.3,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "Crosswind from the right"
+        "relative_degrees": 283.3,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, a 9 o'clock crosswind from the right will expose the disc's underside. Aim for an anhyzer release to fight the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand is a good option to control the disc against this crosswind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, the natural fade of an LHBH will work with this wind from the right. Use a stable disc with a hyzer release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, LHFH can be tricky here; an overstable disc with a slight anhyzer might be needed to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "17",
+      "hole_number": 17,
       "hole_label": "Hole 17 [yellow]",
       "wind_info": {
         "azimuth_degrees": 85.5,
-        "relative_degrees": 284.5,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "Crosswind from the right"
+        "relative_degrees": 296.5,
+        "clock_face": "10 o-clock",
+        "description": "Moderate crosswind from the right."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, a 9 o'clock crosswind from the right will expose the disc's underside. Aim for an anhyzer release to fight the wind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, force it over into the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Champ, a stable forehand is a good option to control the disc against this crosswind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly right of the basket to combat the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, the natural fade of an LHBH will work with this wind from the right. Use a stable disc with a hyzer release."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Hyzer, let it fade right into the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, LHFH can be tricky here; an overstable disc with a slight anhyzer might be needed to fight the wind."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Controlled FH, aim slightly left of the basket to fight the wind."
         }
       }
     },
     {
-      "hole_number": "18",
+      "hole_number": 18,
       "hole_label": "Hole 18 [blue]",
       "wind_info": {
         "azimuth_degrees": 10.0,
-        "relative_degrees": 0.0,
-        "clock_face": "12 o'clock headwind",
-        "description": "Headwind from the north"
+        "relative_degrees": 12.0,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a strong headwind requires an overstable disc for control and distance."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable forehand is your best bet to combat this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, an overstable disc is essential to keep your backhand flight straight in this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, a clean forehand with an overstable disc will provide the stability needed."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "18",
+      "hole_number": 18,
       "hole_label": "Hole 18 [white]",
       "wind_info": {
         "azimuth_degrees": 7.0,
-        "relative_degrees": 3.0,
-        "clock_face": "12 o'clock headwind",
-        "description": "Headwind from the north"
+        "relative_degrees": 15.0,
+        "clock_face": "1 o-clock",
+        "description": "Moderate headwind with a slight right crosswind component."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a strong headwind requires an overstable disc for control and distance."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable forehand is your best bet to combat this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, an overstable disc is essential to keep your backhand flight straight in this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, a clean forehand with an overstable disc will provide the stability needed."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     },
     {
-      "hole_number": "18",
+      "hole_number": 18,
       "hole_label": "Hole 18 [yellow]",
       "wind_info": {
         "azimuth_degrees": 11.5,
-        "relative_degrees": 358.5,
-        "clock_face": "12 o'clock headwind",
-        "description": "Headwind from the north"
+        "relative_degrees": 10.5,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind."
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, a strong headwind requires an overstable disc for control and distance."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, an overstable forehand is your best bet to combat this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, an overstable disc is essential to keep your backhand flight straight in this headwind."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Hyzer, let it hold its line against the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, a clean forehand with an overstable disc will provide the stability needed."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Controlled FH, aim straight, let it fight the wind."
         }
       }
     }
