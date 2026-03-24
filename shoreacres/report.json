@@ -1,18 +1,18 @@
 {
   "course": "Shore Acres Disc Golf Park",
-  "report_generated_at": "2026-03-23 18:05 EDT",
+  "report_generated_at": "2026-03-23 21:05 EDT",
   "current_wind": {
-    "speed_mph": 14.5,
-    "direction_degrees": 322,
-    "gusts_mph": 20.6,
-    "description": "14.5 mph from 322° (NNW), gusts to 20.6 mph"
+    "speed_mph": 4.7,
+    "direction_degrees": 360,
+    "gusts_mph": 12.1,
+    "description": "4.7 mph from 360° (N), gusts to 12.1 mph"
   },
   "forecast_5hr": [
-    {"time_edt": "2026-03-23 17:00 EDT", "speed_mph": 14.5, "direction_degrees": 322},
-    {"time_edt": "2026-03-23 18:00 EDT", "speed_mph": 12.7, "direction_degrees": 324},
-    {"time_edt": "2026-03-23 19:00 EDT", "speed_mph": 9.4, "direction_degrees": 335},
-    {"time_edt": "2026-03-23 20:00 EDT", "speed_mph": 6.8, "direction_degrees": 343},
-    {"time_edt": "2026-03-23 21:00 EDT", "speed_mph": 4.0, "direction_degrees": 357}
+    {"time_edt": "2026-03-23 20:00 EDT", "speed_mph": 4.7, "direction_degrees": 360},
+    {"time_edt": "2026-03-23 21:00 EDT", "speed_mph": 4.3, "direction_degrees": 35},
+    {"time_edt": "2026-03-23 22:00 EDT", "speed_mph": 4.2, "direction_degrees": 58},
+    {"time_edt": "2026-03-23 23:00 EDT", "speed_mph": 4.2, "direction_degrees": 72},
+    {"time_edt": "2026-03-24 00:00 EDT", "speed_mph": 3.2, "direction_degrees": 102}
   ],
   "holes": [
     {
@@ -20,29 +20,17 @@
       "hole_label": "Hole 1 [yellow]",
       "wind_info": {
         "azimuth_degrees": 349.9,
-        "relative_degrees": 332.1,
-        "clock_face": "11 o'clock headwind",
-        "description": "Headwind from 11 o'clock"
+        "relative_degrees": 10.1,
+        "clock_face": "12 o'clock headwind",
+        "description": "Light headwind"
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is manageable in this headwind. Use an overstable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is a solid option in this headwind. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight the headwind."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight the headwind."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is manageable in this headwind. Use an overstable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a solid option in this headwind. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight the headwind."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight the headwind."}
       }
     },
     {
@@ -50,29 +38,17 @@
       "hole_label": "Hole 1 [black]",
       "wind_info": {
         "azimuth_degrees": 342.6,
-        "relative_degrees": 339.4,
-        "clock_face": "11 o'clock headwind",
-        "description": "Headwind from 11 o'clock"
+        "relative_degrees": 17.4,
+        "clock_face": "1 o'clock",
+        "description": "Light wind, slight angle left of headwind"
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is manageable in this headwind. Use an overstable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is a solid option in this headwind. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is manageable in this headwind. Use an overstable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a solid option in this headwind. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -80,29 +56,17 @@
       "hole_label": "Hole A",
       "wind_info": {
         "azimuth_degrees": 253.5,
-        "relative_degrees": 68.5,
-        "clock_face": "2 o'clock crosswind from left",
-        "description": "Light crosswind from 2 o'clock (left to right)"
+        "relative_degrees": 106.5,
+        "clock_face": "4 o'clock",
+        "description": "Light wind, moderate angle left of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from left to right, away from the flight plate. Use a hyzer angle."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer to counter wind drift."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is the recommended shot here. The wind will help push the disc to the right."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to fight crosswind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -110,29 +74,17 @@
       "hole_label": "Hole 2 [yellow]",
       "wind_info": {
         "azimuth_degrees": 64.1,
-        "relative_degrees": 257.9,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "Strong crosswind from 9 o'clock (right to left), gusts to 20.6 mph"
+        "relative_degrees": 295.9,
+        "clock_face": "10 o'clock",
+        "description": "Light wind, slight angle right of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a strong right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is strongly recommended. This wind will push the disc left, so an overstable disc thrown with a hyzer will fight it."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc to keep it straight."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is also a strong play. This wind will help push the disc left, so an overstable disc is recommended."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       }
     },
     {
@@ -140,29 +92,17 @@
       "hole_label": "Hole 2 [black]",
       "wind_info": {
         "azimuth_degrees": 77.3,
-        "relative_degrees": 244.7,
-        "clock_face": "8 o'clock crosswind from right",
-        "description": "Moderate crosswind from 8 o'clock (right to left)"
+        "relative_degrees": 282.7,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "Light crosswind from the left."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is recommended. This wind will push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight wind and fade."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight or slight hyzer to combat wind."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a good play. This wind will help push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to work with wind and fade."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -170,29 +110,17 @@
       "hole_label": "Hole 3 [yellow]",
       "wind_info": {
         "azimuth_degrees": 323.2,
-        "relative_degrees": 358.8,
-        "clock_face": "12 o'clock headwind",
-        "description": "Headwind from 12 o'clock"
+        "relative_degrees": 36.8,
+        "clock_face": "1 o'clock",
+        "description": "Light wind, slightly left of headwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is manageable in this headwind. Use an overstable disc to cut through the wind."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is a solid choice for this headwind. An overstable disc will perform well."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is manageable in this headwind. Use an overstable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a solid choice for this headwind. An overstable disc will perform well."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -200,29 +128,17 @@
       "hole_label": "Hole 3 [black]",
       "wind_info": {
         "azimuth_degrees": 304.9,
-        "relative_degrees": 17.1,
-        "clock_face": "1 o'clock headwind",
-        "description": "Light headwind from 1 o'clock"
+        "relative_degrees": 55.1,
+        "clock_face": "2 o'clock",
+        "description": "Light wind, moderate left of headwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is manageable in this light headwind. An overstable disc is recommended."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is a good option. Use an overstable disc for control."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is manageable in this light headwind. An overstable disc is recommended."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a good option. Use an overstable disc for control."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -230,29 +146,17 @@
       "hole_label": "Hole 4 [yellow]",
       "wind_info": {
         "azimuth_degrees": 54.0,
-        "relative_degrees": 268.0,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "Strong crosswind from 9 o'clock (right to left), gusts to 20.6 mph"
+        "relative_degrees": 306.0,
+        "clock_face": "10 o'clock",
+        "description": "Light wind, slight angle right of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a strong right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is strongly recommended. This wind will push the disc left, so an overstable disc thrown with a hyzer will fight it."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc to keep it straight."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is also a strong play. This wind will help push the disc left, so an overstable disc is recommended."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       }
     },
     {
@@ -260,29 +164,17 @@
       "hole_label": "Hole 4 [black]",
       "wind_info": {
         "azimuth_degrees": 49.5,
-        "relative_degrees": 272.5,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "Strong crosswind from 9 o'clock (right to left), gusts to 20.6 mph"
+        "relative_degrees": 310.5,
+        "clock_face": "10 o'clock",
+        "description": "Light wind, slight angle right of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a strong right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is strongly recommended. This wind will push the disc left, so an overstable disc thrown with a hyzer will fight it."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc to keep it straight."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is also a strong play. This wind will help push the disc left, so an overstable disc is recommended."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       }
     },
     {
@@ -290,29 +182,17 @@
       "hole_label": "Hole 5 [yellow]",
       "wind_info": {
         "azimuth_degrees": 145.3,
-        "relative_degrees": 176.7,
-        "clock_face": "6 o'clock tailwind",
-        "description": "Moderate tailwind from 6 o'clock"
+        "relative_degrees": 214.7,
+        "clock_face": "7 o'clock",
+        "description": "Light wind, slight angle left of tailwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "RHBH is manageable. Use an understable disc for extra distance with the tailwind."
-        },
-        "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "RHFH is viable. Use an understable disc for extra distance with the tailwind."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "LHBH is manageable. Use an understable disc for extra distance with the tailwind."
-        },
-        "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "LHFH is viable. Use an understable disc for extra distance with the tailwind."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -320,29 +200,17 @@
       "hole_label": "Hole 5 [black]",
       "wind_info": {
         "azimuth_degrees": 134.0,
-        "relative_degrees": 188.0,
-        "clock_face": "6 o'clock tailwind",
-        "description": "Moderate tailwind from 6 o'clock"
+        "relative_degrees": 226.0,
+        "clock_face": "8 o'clock",
+        "description": "Light wind, moderate angle left of tailwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "RHBH is manageable. Use an understable disc for extra distance with the tailwind."
-        },
-        "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "RHFH is viable. Use an understable disc for extra distance with the tailwind."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "LHBH is manageable. Use an understable disc for extra distance with the tailwind."
-        },
-        "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "LHFH is viable. Use an understable disc for extra distance with the tailwind."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -350,29 +218,17 @@
       "hole_label": "Hole 6 [yellow]",
       "wind_info": {
         "azimuth_degrees": 174.4,
-        "relative_degrees": 147.6,
-        "clock_face": "5 o'clock crosswind from right",
-        "description": "Moderate crosswind from 5 o'clock (right to left)"
+        "relative_degrees": 185.6,
+        "clock_face": "6 o'clock tailwind",
+        "description": "Light tailwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from right to left. Use a hyzer angle to keep the disc stable."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is a good play. The wind will help push the disc to the left. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -380,29 +236,17 @@
       "hole_label": "Hole 6 [black]",
       "wind_info": {
         "azimuth_degrees": 178.0,
-        "relative_degrees": 144.0,
-        "clock_face": "5 o'clock crosswind from right",
-        "description": "Moderate crosswind from 5 o'clock (right to left)"
+        "relative_degrees": 182.0,
+        "clock_face": "6 o'clock tailwind",
+        "description": "Light tailwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from right to left. Use a hyzer angle to keep the disc stable."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is a good play. The wind will help push the disc to the left. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -410,29 +254,17 @@
       "hole_label": "Hole 7 [yellow]",
       "wind_info": {
         "azimuth_degrees": 300.0,
-        "relative_degrees": 22.0,
-        "clock_face": "1 o'clock headwind",
-        "description": "Light headwind from 1 o'clock"
+        "relative_degrees": 60.0,
+        "clock_face": "2 o'clock",
+        "description": "Light wind, moderate left of headwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is manageable in this light headwind. An overstable disc is recommended."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is a good option. Use an overstable disc for control."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is manageable in this light headwind. An overstable disc is recommended."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a good option. Use an overstable disc for control."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -440,29 +272,17 @@
       "hole_label": "Hole 7 [black]",
       "wind_info": {
         "azimuth_degrees": 293.4,
-        "relative_degrees": 28.6,
-        "clock_face": "1 o'clock headwind",
-        "description": "Light headwind from 1 o'clock"
+        "relative_degrees": 66.6,
+        "clock_face": "2 o'clock",
+        "description": "Light wind, moderate left of headwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is manageable in this light headwind. An overstable disc is recommended."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is a good option. Use an overstable disc for control."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is manageable in this light headwind. An overstable disc is recommended."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a good option. Use an overstable disc for control."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -470,29 +290,17 @@
       "hole_label": "Hole 8 [yellow]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 52.0,
-        "clock_face": "2 o'clock crosswind from left",
-        "description": "Light crosswind from 2 o'clock (left to right)"
+        "relative_degrees": 90.0,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "Light crosswind from the left."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from left to right, away from the flight plate. Use a hyzer angle."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is the recommended shot here. The wind will help push the disc to the right."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to work with wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -500,29 +308,17 @@
       "hole_label": "Hole 8 [black]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 52.0,
-        "clock_face": "2 o'clock crosswind from left",
-        "description": "Light crosswind from 2 o'clock (left to right)"
+        "relative_degrees": 90.0,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "Light crosswind from the left."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from left to right, away from the flight plate. Use a hyzer angle."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is the recommended shot here. The wind will help push the disc to the right."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to work with wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -530,29 +326,17 @@
       "hole_label": "Hole 9 [yellow]",
       "wind_info": {
         "azimuth_degrees": 74.3,
-        "relative_degrees": 247.7,
-        "clock_face": "8 o'clock crosswind from right",
-        "description": "Moderate crosswind from 8 o'clock (right to left)"
+        "relative_degrees": 285.7,
+        "clock_face": "10 o'clock",
+        "description": "Light wind, slight angle right of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is recommended. This wind will push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a good play. This wind will help push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       }
     },
     {
@@ -560,29 +344,17 @@
       "hole_label": "Hole 9 [black]",
       "wind_info": {
         "azimuth_degrees": 72.3,
-        "relative_degrees": 249.7,
-        "clock_face": "8 o'clock crosswind from right",
-        "description": "Moderate crosswind from 8 o'clock (right to left)"
+        "relative_degrees": 287.7,
+        "clock_face": "10 o'clock",
+        "description": "Light wind, slight angle right of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is recommended. This wind will push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a good play. This wind will help push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       }
     },
     {
@@ -590,29 +362,17 @@
       "hole_label": "Hole 10 [yellow]",
       "wind_info": {
         "azimuth_degrees": 249.7,
-        "relative_degrees": 72.3,
-        "clock_face": "2 o'clock crosswind from left",
-        "description": "Light crosswind from 2 o'clock (left to right)"
+        "relative_degrees": 110.3,
+        "clock_face": "4 o'clock",
+        "description": "Light wind, moderate angle left of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from left to right, away from the flight plate. Use a hyzer angle."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer to counter wind drift."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is the recommended shot here. The wind will help push the disc to the right."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to fight crosswind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -620,29 +380,17 @@
       "hole_label": "Hole 10 [black]",
       "wind_info": {
         "azimuth_degrees": 255.5,
-        "relative_degrees": 66.5,
-        "clock_face": "2 o'clock crosswind from left",
-        "description": "Light crosswind from 2 o'clock (left to right)"
+        "relative_degrees": 104.5,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "Light crosswind from the left."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from left to right, away from the flight plate. Use a hyzer angle."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is the recommended shot here. The wind will help push the disc to the right."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to work with wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -650,29 +398,17 @@
       "hole_label": "Hole 11 [yellow]",
       "wind_info": {
         "azimuth_degrees": 234.7,
-        "relative_degrees": 87.3,
-        "clock_face": "3 o'clock crosswind from left",
-        "description": "Moderate crosswind from 3 o'clock (left to right)"
+        "relative_degrees": 125.3,
+        "clock_face": "4 o'clock",
+        "description": "Light wind, moderate angle left of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from left to right, away from the flight plate. Use a hyzer angle."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer to counter wind drift."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is the recommended shot here. The wind will help push the disc to the right."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to fight crosswind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -680,29 +416,17 @@
       "hole_label": "Hole 11 [black]",
       "wind_info": {
         "azimuth_degrees": 247.6,
-        "relative_degrees": 74.4,
-        "clock_face": "2 o'clock crosswind from left",
-        "description": "Light crosswind from 2 o'clock (left to right)"
+        "relative_degrees": 112.4,
+        "clock_face": "4 o'clock",
+        "description": "Light wind, moderate angle left of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from left to right, away from the flight plate. Use a hyzer angle."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer to counter wind drift."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is the recommended shot here. The wind will help push the disc to the right."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to fight crosswind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -710,29 +434,17 @@
       "hole_label": "Hole 12 [yellow]",
       "wind_info": {
         "azimuth_degrees": 92.3,
-        "relative_degrees": 229.7,
-        "clock_face": "8 o'clock crosswind from right",
-        "description": "Moderate crosswind from 8 o'clock (right to left)"
+        "relative_degrees": 267.7,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "Light crosswind from the left."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is recommended. This wind will push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a good play. This wind will help push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to work with wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -740,29 +452,17 @@
       "hole_label": "Hole 12 [black]",
       "wind_info": {
         "azimuth_degrees": 69.0,
-        "relative_degrees": 253.0,
-        "clock_face": "8 o'clock crosswind from right",
-        "description": "Moderate crosswind from 8 o'clock (right to left)"
+        "relative_degrees": 291.0,
+        "clock_face": "10 o'clock",
+        "description": "Light wind, slight angle right of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is recommended. This wind will push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a good play. This wind will help push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       }
     },
     {
@@ -770,29 +470,17 @@
       "hole_label": "Hole 13 [yellow]",
       "wind_info": {
         "azimuth_degrees": 161.7,
-        "relative_degrees": 160.3,
-        "clock_face": "5 o'clock crosswind from right",
-        "description": "Moderate crosswind from 5 o'clock (right to left)"
+        "relative_degrees": 198.3,
+        "clock_face": "7 o'clock",
+        "description": "Light wind, slight angle left of tailwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from right to left. Use a hyzer angle to keep the disc stable."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is a good play. The wind will help push the disc to the left. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -800,29 +488,17 @@
       "hole_label": "Hole 13 [black]",
       "wind_info": {
         "azimuth_degrees": 152.1,
-        "relative_degrees": 169.9,
-        "clock_face": "6 o'clock tailwind",
-        "description": "Moderate tailwind from 6 o'clock"
+        "relative_degrees": 207.9,
+        "clock_face": "7 o'clock",
+        "description": "Light wind, moderate angle left of tailwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "RHBH is manageable. Use an understable disc for extra distance with the tailwind."
-        },
-        "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "RHFH is viable. Use an understable disc for extra distance with the tailwind."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "LHBH is manageable. Use an understable disc for extra distance with the tailwind."
-        },
-        "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "LHFH is viable. Use an understable disc for extra distance with the tailwind."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -830,29 +506,17 @@
       "hole_label": "Hole 14 [yellow]",
       "wind_info": {
         "azimuth_degrees": 260.0,
-        "relative_degrees": 62.0,
-        "clock_face": "2 o'clock crosswind from left",
-        "description": "Light crosswind from 2 o'clock (left to right)"
+        "relative_degrees": 100.0,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "Light crosswind from the left."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from left to right, away from the flight plate. Use a hyzer angle."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is the recommended shot here. The wind will help push the disc to the right."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to work with wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -860,29 +524,17 @@
       "hole_label": "Hole 14 [black]",
       "wind_info": {
         "azimuth_degrees": 267.0,
-        "relative_degrees": 55.0,
-        "clock_face": "2 o'clock crosswind from left",
-        "description": "Light crosswind from 2 o'clock (left to right)"
+        "relative_degrees": 93.0,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "Light crosswind from the left."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from left to right, away from the flight plate. Use a hyzer angle."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is the recommended shot here. The wind will help push the disc to the right."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to work with wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -890,29 +542,17 @@
       "hole_label": "Hole 15 [yellow]",
       "wind_info": {
         "azimuth_degrees": 159.0,
-        "relative_degrees": 163.0,
-        "clock_face": "5 o'clock crosswind from right",
-        "description": "Moderate crosswind from 5 o'clock (right to left)"
+        "relative_degrees": 201.0,
+        "clock_face": "7 o'clock",
+        "description": "Light wind, slight angle left of tailwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from right to left. Use a hyzer angle to keep the disc stable."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is a good play. The wind will help push the disc to the left. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -920,29 +560,17 @@
       "hole_label": "Hole 15 [black]",
       "wind_info": {
         "azimuth_degrees": 176.0,
-        "relative_degrees": 146.0,
-        "clock_face": "5 o'clock crosswind from right",
-        "description": "Moderate crosswind from 5 o'clock (right to left)"
+        "relative_degrees": 184.0,
+        "clock_face": "6 o'clock tailwind",
+        "description": "Light tailwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from right to left. Use a hyzer angle to keep the disc stable."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is a good play. The wind will help push the disc to the left. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -950,29 +578,17 @@
       "hole_label": "Hole B",
       "wind_info": {
         "azimuth_degrees": 72.6,
-        "relative_degrees": 249.4,
-        "clock_face": "8 o'clock crosswind from right",
-        "description": "Moderate crosswind from 8 o'clock (right to left)"
+        "relative_degrees": 287.4,
+        "clock_face": "10 o'clock",
+        "description": "Light wind, slight angle right of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is recommended. This wind will push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a good play. This wind will help push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       }
     },
     {
@@ -980,29 +596,17 @@
       "hole_label": "Hole C",
       "wind_info": {
         "azimuth_degrees": 11.6,
-        "relative_degrees": 310.4,
-        "clock_face": "10 o'clock crosswind from left",
-        "description": "Moderate crosswind from 10 o'clock (left to right)"
+        "relative_degrees": 348.4,
+        "clock_face": "12 o'clock headwind",
+        "description": "Light headwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from left to right, away from the flight plate. Use a hyzer angle."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight the headwind."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight the headwind."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is the recommended shot here. The wind will help push the disc to the right."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight the headwind."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight the headwind."}
       }
     },
     {
@@ -1010,29 +614,17 @@
       "hole_label": "Hole D",
       "wind_info": {
         "azimuth_degrees": 225.4,
-        "relative_degrees": 96.6,
-        "clock_face": "3 o'clock crosswind from left",
-        "description": "Moderate crosswind from 3 o'clock (left to right)"
+        "relative_degrees": 134.6,
+        "clock_face": "4 o'clock",
+        "description": "Light wind, moderate angle left of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from left to right, away from the flight plate. Use a hyzer angle."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer to counter wind drift."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is the recommended shot here. The wind will help push the disc to the right."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to fight crosswind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -1040,29 +632,17 @@
       "hole_label": "Hole 16 [yellow]",
       "wind_info": {
         "azimuth_degrees": 48.0,
-        "relative_degrees": 274.0,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "Strong crosswind from 9 o'clock (right to left), gusts to 20.6 mph"
+        "relative_degrees": 312.0,
+        "clock_face": "10 o'clock",
+        "description": "Light wind, slight angle right of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a strong right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is strongly recommended. This wind will push the disc left, so an overstable disc thrown with a hyzer will fight it."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc to keep it straight."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is also a strong play. This wind will help push the disc left, so an overstable disc is recommended."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       }
     },
     {
@@ -1070,29 +650,17 @@
       "hole_label": "Hole 16 [black]",
       "wind_info": {
         "azimuth_degrees": 48.0,
-        "relative_degrees": 274.0,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "Strong crosswind from 9 o'clock (right to left), gusts to 20.6 mph"
+        "relative_degrees": 312.0,
+        "clock_face": "10 o'clock",
+        "description": "Light wind, slight angle right of crosswind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a strong right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is strongly recommended. This wind will push the disc left, so an overstable disc thrown with a hyzer will fight it."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc to keep it straight."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is also a strong play. This wind will help push the disc left, so an overstable disc is recommended."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Overstable", "shot_strategy": "Straight or slight hyzer."}
       }
     },
     {
@@ -1100,29 +668,17 @@
       "hole_label": "Hole 17 [yellow]",
       "wind_info": {
         "azimuth_degrees": 171.5,
-        "relative_degrees": 150.5,
-        "clock_face": "5 o'clock crosswind from right",
-        "description": "Moderate crosswind from 5 o'clock (right to left)"
+        "relative_degrees": 188.5,
+        "clock_face": "6 o'clock tailwind",
+        "description": "Light tailwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from right to left. Use a hyzer angle to keep the disc stable."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is a good play. The wind will help push the disc to the left. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -1130,29 +686,17 @@
       "hole_label": "Hole 17 [black]",
       "wind_info": {
         "azimuth_degrees": 153.4,
-        "relative_degrees": 168.6,
-        "clock_face": "6 o'clock tailwind",
-        "description": "Moderate tailwind from 6 o'clock"
+        "relative_degrees": 206.6,
+        "clock_face": "7 o'clock",
+        "description": "Light wind, moderate angle left of tailwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "RHBH is manageable. Use an understable disc for extra distance with the tailwind."
-        },
-        "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "RHFH is viable. Use an understable disc for extra distance with the tailwind."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "LHBH is manageable. Use an understable disc for extra distance with the tailwind."
-        },
-        "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "LHFH is viable. Use an understable disc for extra distance with the tailwind."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -1160,29 +704,17 @@
       "hole_label": "Hole 18 [yellow]",
       "wind_info": {
         "azimuth_degrees": 87.8,
-        "relative_degrees": 234.2,
-        "clock_face": "8 o'clock crosswind from right",
-        "description": "Moderate crosswind from 8 o'clock (right to left)"
+        "relative_degrees": 272.2,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "Light crosswind from the left."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is recommended. This wind will push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a good play. This wind will help push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to work with wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -1190,29 +722,17 @@
       "hole_label": "Hole 18 [black]",
       "wind_info": {
         "azimuth_degrees": 92.7,
-        "relative_degrees": 229.3,
-        "clock_face": "8 o'clock crosswind from right",
-        "description": "Moderate crosswind from 8 o'clock (right to left)"
+        "relative_degrees": 267.3,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "Light crosswind from the left."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is exposed to a right-to-left crosswind. Prefer RHFH to avoid the disc turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is recommended. This wind will push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Overstable", "shot_strategy": "Hyzer to fight wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "LHBH is a good option here. Your natural fade to the right works with the wind pushing left. Use a hyzer-stable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a good play. This wind will help push the disc left. Use an overstable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer to work with wind."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -1220,29 +740,17 @@
       "hole_label": "Hole E",
       "wind_info": {
         "azimuth_degrees": 320.5,
-        "relative_degrees": 1.5,
-        "clock_face": "12 o'clock headwind",
-        "description": "Light headwind from 12 o'clock"
+        "relative_degrees": 39.5,
+        "clock_face": "1 o'clock",
+        "description": "Light wind, moderate left of headwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHBH is manageable in this light headwind. An overstable disc is recommended."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "RHFH is a good option. Use an overstable disc for control."
-        }
+        "bh": {"disc_recommendation": "Stable", "shot_strategy": "Hyzer for control."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is manageable in this light headwind. An overstable disc is recommended."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHFH is a good option. Use an overstable disc for control."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     },
     {
@@ -1250,29 +758,17 @@
       "hole_label": "Hole F",
       "wind_info": {
         "azimuth_degrees": 189.5,
-        "relative_degrees": 132.5,
-        "clock_face": "4 o'clock crosswind from right",
-        "description": "Moderate crosswind from 4 o'clock (right to left)"
+        "relative_degrees": 170.5,
+        "clock_face": "6 o'clock tailwind",
+        "description": "Light tailwind."
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Hyzer-stable",
-          "shot_strategy": "RHBH is manageable. The wind is pushing from right to left. Use a hyzer angle to keep the disc stable."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "RHFH is a viable option in this wind. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "LHBH is challenging as your natural fade and the wind push in the same direction. Consider an overstable disc and a controlled hyzer, but LHFH is likely safer."
-        },
-        "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "LHFH is a good play. The wind will help push the disc to the left. Use a stable disc."
-        }
+        "bh": {"disc_recommendation": "Understable", "shot_strategy": "Anhyzer for distance."},
+        "fh": {"disc_recommendation": "Stable", "shot_strategy": "Straight shot."}
       }
     }
   ]
