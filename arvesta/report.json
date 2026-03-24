@@ -1,1577 +1,1577 @@
 {
   "course": "Lake Arvesta Sports Complex",
-  "report_generated_at": "2026-03-23 19:00 EDT",
+  "report_generated_at": "2026-03-24 08:54 EDT",
   "current_wind": {
-    "speed_mph": 7.5,
-    "direction_degrees": 343,
-    "gusts_mph": 14.8,
-    "description": "Moderate NNW wind with significant crosswind from the left."
+    "speed_mph": 13.9,
+    "direction_degrees": 185,
+    "gusts_mph": 24.6,
+    "description": "13.9 mph from 185° (S), gusts to 24.6 mph"
   },
   "forecast_5hr": [
-    {"time_edt": "2026-03-23 19:00 EDT", "speed_mph": 7.5, "direction_degrees": 343},
-    {"time_edt": "2026-03-23 20:00 EDT", "speed_mph": 3.4, "direction_degrees": 349},
-    {"time_edt": "2026-03-23 21:00 EDT", "speed_mph": 2.8, "direction_degrees": 61},
-    {"time_edt": "2026-03-23 22:00 EDT", "speed_mph": 3.6, "direction_degrees": 94},
-    {"time_edt": "2026-03-23 23:00 EDT", "speed_mph": 3.7, "direction_degrees": 107}
+    {"time_edt": "2026-03-21 18:00 EDT", "speed_mph": 13.9, "direction_degrees": 185},
+    {"time_edt": "2026-03-21 19:00 EDT", "speed_mph": 11.6, "direction_degrees": 180},
+    {"time_edt": "2026-03-21 20:00 EDT", "speed_mph": 10.3, "direction_degrees": 179},
+    {"time_edt": "2026-03-21 21:00 EDT", "speed_mph": 11.0, "direction_degrees": 185},
+    {"time_edt": "2026-03-21 22:00 EDT", "speed_mph": 11.2, "direction_degrees": 193}
   ],
   "holes": [
     {
-      "hole_number": 1,
+      "hole_number": "1 [blue]",
       "hole_label": "Hole 1 [blue]",
       "wind_info": {
         "azimuth_degrees": 196.9,
-        "relative_degrees": 146.1,
-        "clock_face": "5 o-clock tailwind",
-        "description": "Slight tailwind with a crosswind component from the right."
+        "relative_degrees": 348.1,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind (12 o-clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Gentle hyzer to leverage the tailwind and allow a smooth turnover for distance. Keep it clean."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: A moderate headwind requires an overstable disc to prevent it from turning over. Throw with a hyzer for maximum stability."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A touch of anhyzer to push it straight, or a flat release with a stable disc to fight any left-to-right drift."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is also recommended for forehands into this headwind. Aim to keep it low and straight."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A flat release or slight hyzer, letting the wind push it gently right. Avoid forcing anhyzer into the crosswind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: Similar to RHBH, an overstable disc is best into this headwind. A clean hyzer should keep it on line."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: Hyzer flip with an overstable disc to fight the drift and get a controlled fade."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc will hold its line well into the headwind. Focus on a powerful, clean release."
         }
       }
     },
     {
-      "hole_number": 1,
+      "hole_number": "1 [white]",
       "hole_label": "Hole 1 [white]",
       "wind_info": {
         "azimuth_degrees": 197.3,
-        "relative_degrees": 145.7,
-        "clock_face": "5 o-clock tailwind",
-        "description": "Slight tailwind with a crosswind component from the right."
+        "relative_degrees": 347.7,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind (12 o-clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Gentle hyzer to leverage the tailwind and allow a smooth turnover for distance. Keep it clean."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: A moderate headwind requires an overstable disc to prevent it from turning over. Throw with a hyzer for maximum stability."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A touch of anhyzer to push it straight, or a flat release with a stable disc to fight any left-to-right drift."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is also recommended for forehands into this headwind. Aim to keep it low and straight."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A flat release or slight hyzer, letting the wind push it gently right. Avoid forcing anhyzer into the crosswind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: Similar to RHBH, an overstable disc is best into this headwind. A clean hyzer should keep it on line."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: Hyzer flip with an overstable disc to fight the drift and get a controlled fade."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc will hold its line well into the headwind. Focus on a powerful, clean release."
         }
       }
     },
     {
-      "hole_number": 1,
+      "hole_number": "1 [yellow]",
       "hole_label": "Hole 1 [yellow]",
       "wind_info": {
         "azimuth_degrees": 150.0,
-        "relative_degrees": 193.0,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Moderate tailwind."
+        "relative_degrees": 35.0,
+        "clock_face": "1 o-clock",
+        "description": "Moderate crosswind from the right-front (1 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Utilize the tailwind with an understable driver on a hyzer flip for maximum distance. Keep the angle consistent."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: Wind from the right-front. An overstable disc thrown with a hyzer will help fight the leftward push and achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A controlled flat release or slight hyzer to keep it straight down the fairway. Watch for unexpected leftward drift."
+          "disc_recommendation": "Stable to Understable",
+          "shot_strategy": "RHFH: A stable to understable disc can be used for a controlled right-fade. Be mindful of the wind pushing left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A smooth hyzer release to get a controlled flight. The tailwind will help carry it further, so don't overpower."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. An understable to stable disc with anhyzer will work. Aim carefully to avoid over-turning."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: A slight anhyzer angle to help it turn and glide. The tailwind will assist in its flight."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed for a strong fade right, to counter the wind."
         }
       }
     },
     {
-      "hole_number": 2,
+      "hole_number": "2 [blue]",
       "hole_label": "Hole 2 [blue]",
       "wind_info": {
         "azimuth_degrees": 283.1,
-        "relative_degrees": 59.9,
-        "clock_face": "2 o-clock crosswind from left",
-        "description": "Moderate crosswind from the left with some headwind."
+        "relative_degrees": 261.9,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate crosswind from the right (9 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A strong hyzer is required to fight the left crosswind and a slight headwind. Expect it to hold the hyzer line."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHBH: Wind from the right pushes left. Use an understable to stable disc with a hyzer to achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release or slight hyzer to get it down the fairway. The wind will want to push it left, so aim slightly right of the target."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and achieve a right fade. Aim left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: This angle can be tricky; aim for a straight shot or slight anhyzer to counter the leftward push. Keep it low."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. A stable disc thrown with anhyzer is needed to fight left. Be careful not to over-turn."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to fight the strong left drift and headwind. Aim for a gentle fade right."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc for a left fade will work well with this wind. Focus on a smooth release."
         }
       }
     },
     {
-      "hole_number": 2,
+      "hole_number": "2 [white]",
       "hole_label": "Hole 2 [white]",
       "wind_info": {
         "azimuth_degrees": 271.8,
-        "relative_degrees": 71.2,
-        "clock_face": "2 o-clock crosswind from left",
-        "description": "Moderate crosswind from the left with a noticeable headwind."
+        "relative_degrees": 273.2,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate crosswind from the right (9 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A strong hyzer is required to fight the left crosswind and headwind. Expect it to hold the hyzer line."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHBH: Wind from the right pushes left. Use an understable to stable disc with a hyzer to achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release or slight hyzer to get it down the fairway. The wind will want to push it left, so aim slightly right of the target."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and achieve a right fade. Aim left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: This angle can be tricky; aim for a straight shot or slight anhyzer to counter the leftward push. Keep it low."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. A stable disc thrown with anhyzer is needed to fight left. Be careful not to over-turn."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to fight the strong left drift and headwind. Aim for a gentle fade right."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc for a left fade will work well with this wind. Focus on a smooth release."
         }
       }
     },
     {
-      "hole_number": 2,
+      "hole_number": "2 [yellow]",
       "hole_label": "Hole 2 [yellow]",
       "wind_info": {
         "azimuth_degrees": 264.9,
-        "relative_degrees": 78.1,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Strong crosswind from the left."
+        "relative_degrees": 280.1,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate crosswind from the right (9 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Very Overstable Driver",
-          "shot_strategy": "BH: Commit to a strong hyzer. This wind will push any flat or anhyzer shot far left. Need maximum stability to fight it."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHBH: Wind from the right pushes left. Use an understable to stable disc with a hyzer to achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: Focus on a clean release and aim significantly right. A slight hyzer might help it hold its line before fading back."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and achieve a right fade. Aim left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: Try a flat release, or a very subtle anhyzer, to utilize the wind's push and try to achieve a straight flight or gentle right fade."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. A stable disc thrown with anhyzer is needed to fight left. Be careful not to over-turn."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to fight the severe left drift. A controlled flex shot could also work if you have the distance."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc for a left fade will work well with this wind. Focus on a smooth release."
         }
       }
     },
     {
-      "hole_number": 3,
+      "hole_number": "3 [blue]",
       "hole_label": "Hole 3 [blue]",
       "wind_info": {
         "azimuth_degrees": 219.3,
-        "relative_degrees": 123.7,
-        "clock_face": "4 o-clock crosswind from right",
-        "description": "Moderate crosswind from the right, pushing shots towards the left fairway."
+        "relative_degrees": 325.7,
+        "clock_face": "11 o-clock",
+        "description": "Moderate crosswind from the right-front (11 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A controlled hyzer or flat release will work well here. The wind will help the disc fade left, so aim accordingly. Avoid anhyzer."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: Wind from the right-front. An understable disc will be pushed left. Use a slight hyzer to counter this and get a right fade."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: A clean, straight release with an overstable disc will fight the right crosswind and fade back nicely. Aim for the right side of the fairway."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and fade right. Aim to the left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer. The wind will push it left, which is favorable for LHBH. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "LHBH: Wind from the right is pushing left. A stable to overstable disc will help achieve the required right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: Hyzer flip with a stable disc to counter the wind's push and get a controlled fade to the left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc can be thrown for a controlled fade left, working with the wind."
         }
       }
     },
     {
-      "hole_number": 3,
+      "hole_number": "3 [white]",
       "hole_label": "Hole 3 [white]",
       "wind_info": {
         "azimuth_degrees": 231.7,
-        "relative_degrees": 111.3,
-        "clock_face": "4 o-clock crosswind from right",
-        "description": "Moderate crosswind from the right, pushing shots towards the left fairway."
+        "relative_degrees": 313.3,
+        "clock_face": "10 o-clock",
+        "description": "Moderate crosswind from the right-front (10 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A controlled hyzer or flat release will work well here. The wind will help the disc fade left, so aim accordingly. Avoid anhyzer."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: Wind from the right-front. An understable disc will be pushed left. Use a slight hyzer to counter this and get a right fade."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: A clean, straight release with an overstable disc will fight the right crosswind and fade back nicely. Aim for the right side of the fairway."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and fade right. Aim to the left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer. The wind will push it left, which is favorable for LHBH. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "LHBH: Wind from the right is pushing left. A stable to overstable disc will help achieve the required right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: Hyzer flip with a stable disc to counter the wind's push and get a controlled fade to the left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc can be thrown for a controlled fade left, working with the wind."
         }
       }
     },
     {
-      "hole_number": 3,
+      "hole_number": "3 [yellow]",
       "hole_label": "Hole 3 [yellow]",
       "wind_info": {
         "azimuth_degrees": 235.6,
-        "relative_degrees": 107.4,
-        "clock_face": "4 o-clock crosswind from right",
-        "description": "Moderate crosswind from the right, pushing shots towards the left fairway."
+        "relative_degrees": 309.4,
+        "clock_face": "10 o-clock",
+        "description": "Moderate crosswind from the right-front (10 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A controlled hyzer or flat release will work well here. The wind will help the disc fade left, so aim accordingly. Avoid anhyzer."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: Wind from the right-front. An understable disc will be pushed left. Use a slight hyzer to counter this and get a right fade."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: A clean, straight release with an overstable disc will fight the right crosswind and fade back nicely. Aim for the right side of the fairway."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and fade right. Aim to the left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer. The wind will push it left, which is favorable for LHBH. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "LHBH: Wind from the right is pushing left. A stable to overstable disc will help achieve the required right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: Hyzer flip with a stable disc to counter the wind's push and get a controlled fade to the left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc can be thrown for a controlled fade left, working with the wind."
         }
       }
     },
     {
-      "hole_number": 4,
+      "hole_number": "4 [blue]",
       "hole_label": "Hole 4 [blue]",
       "wind_info": {
         "azimuth_degrees": 167.1,
-        "relative_degrees": 175.9,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Moderate tailwind."
+        "relative_degrees": 17.9,
+        "clock_face": "1 o-clock",
+        "description": "Moderate crosswind from the right-front (1 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Leverage the tailwind with an understable driver on a hyzer flip for maximum distance. Keep it clean."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: Wind from the right-front. An overstable disc thrown with a hyzer will help fight the leftward push and achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A controlled flat release or slight hyzer to keep it straight. Watch for unexpected leftward drift."
+          "disc_recommendation": "Stable to Understable",
+          "shot_strategy": "RHFH: A stable to understable disc can be used for a controlled right-fade. Be mindful of the wind pushing left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A smooth hyzer release to get a controlled flight. The tailwind will help carry it further."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. An understable to stable disc with anhyzer will work. Aim carefully to avoid over-turning."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: A slight anhyzer angle to help it turn and glide. The tailwind will assist in its flight."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed for a strong fade right, to counter the wind."
         }
       }
     },
     {
-      "hole_number": 4,
+      "hole_number": "4 [white]",
       "hole_label": "Hole 4 [white]",
       "wind_info": {
         "azimuth_degrees": 164.4,
-        "relative_degrees": 178.6,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Moderate tailwind."
+        "relative_degrees": 20.6,
+        "clock_face": "1 o-clock",
+        "description": "Moderate crosswind from the right-front (1 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Leverage the tailwind with an understable driver on a hyzer flip for maximum distance. Keep it clean."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: Wind from the right-front. An overstable disc thrown with a hyzer will help fight the leftward push and achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A controlled flat release or slight hyzer to keep it straight. Watch for unexpected leftward drift."
+          "disc_recommendation": "Stable to Understable",
+          "shot_strategy": "RHFH: A stable to understable disc can be used for a controlled right-fade. Be mindful of the wind pushing left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A smooth hyzer release to get a controlled flight. The tailwind will help carry it further."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. An understable to stable disc with anhyzer will work. Aim carefully to avoid over-turning."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: A slight anhyzer angle to help it turn and glide. The tailwind will assist in its flight."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed for a strong fade right, to counter the wind."
         }
       }
     },
     {
-      "hole_number": 4,
+      "hole_number": "4 [yellow]",
       "hole_label": "Hole 4 [yellow]",
       "wind_info": {
         "azimuth_degrees": 168.6,
-        "relative_degrees": 174.4,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Moderate tailwind."
+        "relative_degrees": 16.4,
+        "clock_face": "1 o-clock",
+        "description": "Moderate crosswind from the right-front (1 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Leverage the tailwind with an understable driver on a hyzer flip for maximum distance. Keep it clean."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: Wind from the right-front. An overstable disc thrown with a hyzer will help fight the leftward push and achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A controlled flat release or slight hyzer to keep it straight. Watch for unexpected leftward drift."
+          "disc_recommendation": "Stable to Understable",
+          "shot_strategy": "RHFH: A stable to understable disc can be used for a controlled right-fade. Be mindful of the wind pushing left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A smooth hyzer release to get a controlled flight. The tailwind will help carry it further."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. An understable to stable disc with anhyzer will work. Aim carefully to avoid over-turning."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: A slight anhyzer angle to help it turn and glide. The tailwind will assist in its flight."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed for a strong fade right, to counter the wind."
         }
       }
     },
     {
-      "hole_number": 5,
+      "hole_number": "5 [blue]",
       "hole_label": "Hole 5 [blue]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 73.0,
-        "clock_face": "2 o-clock crosswind from left",
-        "description": "Moderate crosswind from the left, with a slight headwind component."
+        "relative_degrees": 275.0,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate crosswind from the right (9 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A strong hyzer is needed to fight the left crosswind and headwind. Expect it to hold the hyzer line."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHBH: Wind from the right pushes left. Use an understable to stable disc with a hyzer to achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release or slight hyzer. Aim slightly right of the target to compensate for the leftward push."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and achieve a right fade. Aim left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer to use the wind's push. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. A stable disc thrown with anhyzer is needed to fight left. Be careful not to over-turn."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to combat the left drift and headwind. Aim for a gentle fade right."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc for a left fade will work well with this wind. Focus on a smooth release."
         }
       }
     },
     {
-      "hole_number": 5,
+      "hole_number": "5 [white]",
       "hole_label": "Hole 5 [white]",
       "wind_info": {
         "azimuth_degrees": 266.3,
-        "relative_degrees": 76.7,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Moderate crosswind from the left."
+        "relative_degrees": 278.7,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate crosswind from the right (9 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Commit to a strong hyzer. This wind will push any flat or anhyzer shot far left. Need maximum stability to fight it."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHBH: Wind from the right pushes left. Use an understable to stable disc with a hyzer to achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: Focus on a clean release and aim right. A slight hyzer might help it hold its line before fading back."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and achieve a right fade. Aim left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer to utilize the wind's push and achieve a gentle right fade."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. A stable disc thrown with anhyzer is needed to fight left. Be careful not to over-turn."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to fight the left drift. A controlled flex shot could also work."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc for a left fade will work well with this wind. Focus on a smooth release."
         }
       }
     },
     {
-      "hole_number": 5,
+      "hole_number": "5 [yellow]",
       "hole_label": "Hole 5 [yellow]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 73.0,
-        "clock_face": "2 o-clock crosswind from left",
-        "description": "Moderate crosswind from the left, with a slight headwind component."
+        "relative_degrees": 275.0,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "Moderate crosswind from the right (9 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A strong hyzer is needed to fight the left crosswind and headwind. Expect it to hold the hyzer line."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHBH: Wind from the right pushes left. Use an understable to stable disc with a hyzer to achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release or slight hyzer. Aim slightly right of the target to compensate for the leftward push."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and achieve a right fade. Aim left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer to use the wind's push. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. A stable disc thrown with anhyzer is needed to fight left. Be careful not to over-turn."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to combat the left drift and headwind. Aim for a gentle fade right."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc for a left fade will work well with this wind. Focus on a smooth release."
         }
       }
     },
     {
-      "hole_number": 6,
+      "hole_number": "6 [blue]",
       "hole_label": "Hole 6 [blue]",
       "wind_info": {
         "azimuth_degrees": 216.3,
-        "relative_degrees": 126.7,
-        "clock_face": "4 o-clock crosswind from right",
-        "description": "Moderate crosswind from the right, pushing shots towards the left fairway."
+        "relative_degrees": 328.7,
+        "clock_face": "11 o-clock",
+        "description": "Moderate crosswind from the right-front (11 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A controlled hyzer or flat release will work well. The wind will help the disc fade left, so aim accordingly. Avoid anhyzer."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: Wind from the right-front. An understable disc will be pushed left. Use a slight hyzer to counter this and get a right fade."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: A clean, straight release with an overstable disc will fight the right crosswind and fade back nicely. Aim for the right side of the fairway."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and fade right. Aim to the left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer. The wind will push it left, which is favorable for LHBH. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "LHBH: Wind from the right is pushing left. A stable to overstable disc will help achieve the required right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: Hyzer flip with a stable disc to counter the wind's push and get a controlled fade to the left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc can be thrown for a controlled fade left, working with the wind."
         }
       }
     },
     {
-      "hole_number": 6,
+      "hole_number": "6 [white]",
       "hole_label": "Hole 6 [white]",
       "wind_info": {
         "azimuth_degrees": 233.0,
-        "relative_degrees": 110.0,
-        "clock_face": "4 o-clock crosswind from right",
-        "description": "Moderate crosswind from the right, pushing shots towards the left fairway."
+        "relative_degrees": 312.0,
+        "clock_face": "10 o-clock",
+        "description": "Moderate crosswind from the right-front (10 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A controlled hyzer or flat release will work well. The wind will help the disc fade left, so aim accordingly. Avoid anhyzer."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: Wind from the right-front. An understable disc will be pushed left. Use a slight hyzer to counter this and get a right fade."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: A clean, straight release with an overstable disc will fight the right crosswind and fade back nicely. Aim for the right side of the fairway."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and fade right. Aim to the left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer. The wind will push it left, which is favorable for LHBH. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "LHBH: Wind from the right is pushing left. A stable to overstable disc will help achieve the required right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: Hyzer flip with a stable disc to counter the wind's push and get a controlled fade to the left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc can be thrown for a controlled fade left, working with the wind."
         }
       }
     },
     {
-      "hole_number": 6,
+      "hole_number": "6 [yellow]",
       "hole_label": "Hole 6 [yellow]",
       "wind_info": {
         "azimuth_degrees": 229.4,
-        "relative_degrees": 113.6,
-        "clock_face": "4 o-clock crosswind from right",
-        "description": "Moderate crosswind from the right, pushing shots towards the left fairway."
+        "relative_degrees": 315.6,
+        "clock_face": "11 o-clock",
+        "description": "Moderate crosswind from the right-front (11 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A controlled hyzer or flat release will work well. The wind will help the disc fade left, so aim accordingly. Avoid anhyzer."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: Wind from the right-front. An understable disc will be pushed left. Use a slight hyzer to counter this and get a right fade."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: A clean, straight release with an overstable disc will fight the right crosswind and fade back nicely. Aim for the right side of the fairway."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and fade right. Aim to the left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer. The wind will push it left, which is favorable for LHBH. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "LHBH: Wind from the right is pushing left. A stable to overstable disc will help achieve the required right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: Hyzer flip with a stable disc to counter the wind's push and get a controlled fade to the left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc can be thrown for a controlled fade left, working with the wind."
         }
       }
     },
     {
-      "hole_number": 7,
+      "hole_number": "7 [blue]",
       "hole_label": "Hole 7 [blue]",
       "wind_info": {
         "azimuth_degrees": 164.8,
-        "relative_degrees": 178.2,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Moderate tailwind."
+        "relative_degrees": 20.2,
+        "clock_face": "1 o-clock",
+        "description": "Moderate crosswind from the right-front (1 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Utilize the tailwind with an understable driver on a hyzer flip for maximum distance. Keep it clean."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: Wind from the right-front. An overstable disc thrown with a hyzer will help fight the leftward push and achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A controlled flat release or slight hyzer to keep it straight. Watch for unexpected leftward drift."
+          "disc_recommendation": "Stable to Understable",
+          "shot_strategy": "RHFH: A stable to understable disc can be used for a controlled right-fade. Be mindful of the wind pushing left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A smooth hyzer release to get a controlled flight. The tailwind will help carry it further."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. An understable to stable disc with anhyzer will work. Aim carefully to avoid over-turning."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: A slight anhyzer angle to help it turn and glide. The tailwind will assist in its flight."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed for a strong fade right, to counter the wind."
         }
       }
     },
     {
-      "hole_number": 7,
+      "hole_number": "7 [white]",
       "hole_label": "Hole 7 [white]",
       "wind_info": {
         "azimuth_degrees": 182.2,
-        "relative_degrees": 160.8,
-        "clock_face": "5 o-clock crosswind from right",
-        "description": "Moderate crosswind from the right."
+        "relative_degrees": 2.8,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind (12 o-clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A controlled hyzer or flat release will work. The wind will push it left, so aim accordingly. Avoid forcing an anhyzer."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: A moderate headwind requires an overstable disc to prevent it from turning over. Throw with a hyzer for maximum stability."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: A clean, straight release with an overstable disc will fight the right crosswind and fade back nicely. Aim for the right side of the fairway."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is also recommended for forehands into this headwind. Aim to keep it low and straight."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer. The wind will push it left, which is favorable for LHBH. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: Similar to RHBH, an overstable disc is best into this headwind. A clean hyzer should keep it on line."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: Hyzer flip with a stable disc to counter the wind's push and get a controlled fade to the left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc will hold its line well into the headwind. Focus on a powerful, clean release."
         }
       }
     },
     {
-      "hole_number": 7,
+      "hole_number": "7 [yellow]",
       "hole_label": "Hole 7 [yellow]",
       "wind_info": {
         "azimuth_degrees": 176.6,
-        "relative_degrees": 166.4,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Moderate tailwind."
+        "relative_degrees": 8.4,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind (12 o-clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Utilize the tailwind with an understable driver on a hyzer flip for maximum distance. Keep it clean."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: A moderate headwind requires an overstable disc to prevent it from turning over. Throw with a hyzer for maximum stability."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A controlled flat release or slight hyzer to keep it straight. Watch for unexpected leftward drift."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is also recommended for forehands into this headwind. Aim to keep it low and straight."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A smooth hyzer release to get a controlled flight. The tailwind will help carry it further."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: Similar to RHBH, an overstable disc is best into this headwind. A clean hyzer should keep it on line."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: A slight anhyzer angle to help it turn and glide. The tailwind will assist in its flight."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc will hold its line well into the headwind. Focus on a powerful, clean release."
         }
       }
     },
     {
-      "hole_number": 8,
+      "hole_number": "8 [blue]",
       "hole_label": "Hole 8 [blue]",
       "wind_info": {
         "azimuth_degrees": 347.4,
-        "relative_degrees": 355.6,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 197.6,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the left-front (7 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "RHBH: Wind from the left-front. A stable disc thrown with a hyzer should hold its line, fighting the leftward drift."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH: An understable disc can be shaped for a right-fade. Be mindful of the wind's influence."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: This angle requires an overstable disc for a reliable right fade against the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHFH: A stable disc thrown with a slight anhyzer will allow the wind to carry it left. Aim carefully."
         }
       }
     },
     {
-      "hole_number": 8,
+      "hole_number": "8 [white]",
       "hole_label": "Hole 8 [white]",
       "wind_info": {
         "azimuth_degrees": 0.1,
-        "relative_degrees": 342.9,
-        "clock_face": "11 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 184.9,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind (6 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: A tailwind will help an understable disc fly further and straighter. Use an understable disc and aim for a clean release."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHFH: An understable to stable disc will work well with the tailwind. Aim for a straight flight or slight anhyzer."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH: A tailwind will help an understable disc go further. Focus on a clean release and smooth hyzer."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: Use an understable disc and aim for a straight flight. The tailwind will help it carry."
         }
       }
     },
     {
-      "hole_number": 8,
+      "hole_number": "8 [yellow]",
       "hole_label": "Hole 8 [yellow]",
       "wind_info": {
         "azimuth_degrees": 356.3,
-        "relative_degrees": 346.7,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 188.7,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind (6 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: A tailwind will help an understable disc fly further and straighter. Use an understable disc and aim for a clean release."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHFH: An understable to stable disc will work well with the tailwind. Aim for a straight flight or slight anhyzer."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH: A tailwind will help an understable disc go further. Focus on a clean release and smooth hyzer."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: Use an understable disc and aim for a straight flight. The tailwind will help it carry."
         }
       }
     },
     {
-      "hole_number": 9,
+      "hole_number": "9",
       "hole_label": "Hole 9",
       "wind_info": {
         "azimuth_degrees": 296.3,
-        "relative_degrees": 46.7,
-        "clock_face": "2 o-clock crosswind from left",
-        "description": "Moderate crosswind from the left."
+        "relative_degrees": 248.7,
+        "clock_face": "8 o-clock",
+        "description": "Moderate crosswind from the right-front (8 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A strong hyzer is required to fight the left crosswind. Expect it to hold the hyzer line."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: Wind from the right-front. An understable disc will be pushed left. Use a slight hyzer to counter this and get a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release or slight hyzer. Aim slightly right of the target to compensate for the leftward push."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and fade right. Aim to the left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer to use the wind's push. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "LHBH: Wind from the right is pushing left. A stable to overstable disc will help achieve the required right fade."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to combat the left drift. Aim for a gentle fade right."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc can be thrown for a controlled fade left, working with the wind."
         }
       }
     },
     {
-      "hole_number": 10,
+      "hole_number": "10 [blue]",
       "hole_label": "Hole 10 [blue]",
       "wind_info": {
         "azimuth_degrees": 344.3,
-        "relative_degrees": 358.7,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 200.7,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the left-front (7 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "RHBH: Wind from the left-front. A stable disc thrown with a hyzer should hold its line, fighting the leftward drift."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH: An understable disc can be shaped for a right-fade. Be mindful of the wind's influence."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: This angle requires an overstable disc for a reliable right fade against the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHFH: A stable disc thrown with a slight anhyzer will allow the wind to carry it left. Aim carefully."
         }
       }
     },
     {
-      "hole_number": 10,
+      "hole_number": "10 [white]",
       "hole_label": "Hole 10 [white]",
       "wind_info": {
         "azimuth_degrees": 357.3,
-        "relative_degrees": 345.7,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 187.7,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind (6 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: A tailwind will help an understable disc fly further and straighter. Use an understable disc and aim for a clean release."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHFH: An understable to stable disc will work well with the tailwind. Aim for a straight flight or slight anhyzer."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH: A tailwind will help an understable disc go further. Focus on a clean release and smooth hyzer."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: Use an understable disc and aim for a straight flight. The tailwind will help it carry."
         }
       }
     },
     {
-      "hole_number": 10,
+      "hole_number": "10 [yellow]",
       "hole_label": "Hole 10 [yellow]",
       "wind_info": {
         "azimuth_degrees": 353.5,
-        "relative_degrees": 349.5,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 191.5,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind (6 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: A tailwind will help an understable disc fly further and straighter. Use an understable disc and aim for a clean release."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHFH: An understable to stable disc will work well with the tailwind. Aim for a straight flight or slight anhyzer."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH: A tailwind will help an understable disc go further. Focus on a clean release and smooth hyzer."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: Use an understable disc and aim for a straight flight. The tailwind will help it carry."
         }
       }
     },
     {
-      "hole_number": 11,
+      "hole_number": "11 [blue]",
       "hole_label": "Hole 11 [blue]",
       "wind_info": {
         "azimuth_degrees": 83.5,
-        "relative_degrees": 259.5,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Strong crosswind from the right."
+        "relative_degrees": 101.5,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from the left (3 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Very Overstable Driver",
-          "shot_strategy": "BH: Commit to a strong hyzer. This wind will push any flat or anhyzer shot far left. Need maximum stability to fight it."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "RHBH: This wind from the left will push the disc. Use a stable to overstable disc with a hyzer to fight the drift. Avoid anhyzers."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: Focus on a clean release and aim right. A slight hyzer might help it hold its line before fading back."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHFH: A forehand with an understable to stable disc can be used to control the flight. Aim slightly right of the target."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer to utilize the wind's push and achieve a gentle right fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH: The wind pushing left will help an understable disc fade left. Aim for a straight shot or slight hyzer."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to fight the severe left drift. A controlled flex shot could also work if you have the distance."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed to prevent the wind from pushing it too far left. Focus on a strong fade back to the right."
         }
       }
     },
     {
-      "hole_number": 11,
+      "hole_number": "11 [white]",
       "hole_label": "Hole 11 [white]",
       "wind_info": {
         "azimuth_degrees": 71.1,
-        "relative_degrees": 271.9,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Strong crosswind from the right."
+        "relative_degrees": 113.9,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the left-front (4 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Very Overstable Driver",
-          "shot_strategy": "BH: Commit to a strong hyzer. This wind will push any flat or anhyzer shot far left. Need maximum stability to fight it."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "RHBH: A stable disc thrown with a slight hyzer should hold a line towards the basket. Wind is pushing from the left-front, so expect some drift. Keep it clean."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: Focus on a clean release and aim right. A slight hyzer might help it hold its line before fading back."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH: An understable disc will fight this wind and potentially drift right. Consider a stable disc for a more predictable flight path."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer to utilize the wind's push and achieve a gentle right fade."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: This is a tricky angle with wind pushing left. An overstable disc is needed to fade reliably right, fighting the wind and the natural fade."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to fight the severe left drift. A controlled flex shot could also work if you have the distance."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHFH: With wind pushing left, a stable disc is a good option to go straight or fade left. Be careful not to throw too wide left, as the wind will carry it further."
         }
       }
     },
     {
-      "hole_number": 11,
+      "hole_number": "11 [yellow]",
       "hole_label": "Hole 11 [yellow]",
       "wind_info": {
         "azimuth_degrees": 79.9,
-        "relative_degrees": 263.1,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Strong crosswind from the right."
+        "relative_degrees": 105.1,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the left-front (4 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Very Overstable Driver",
-          "shot_strategy": "BH: Commit to a strong hyzer. This wind will push any flat or anhyzer shot far left. Need maximum stability to fight it."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "RHBH: A stable disc thrown with a slight hyzer should hold a line towards the basket. Wind is pushing from the left-front, so expect some drift. Keep it clean."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: Focus on a clean release and aim right. A slight hyzer might help it hold its line before fading back."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH: An understable disc will fight this wind and potentially drift right. Consider a stable disc for a more predictable flight path."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer to utilize the wind's push and achieve a gentle right fade."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: This is a tricky angle with wind pushing left. An overstable disc is needed to fade reliably right, fighting the wind and the natural fade."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to fight the severe left drift. A controlled flex shot could also work if you have the distance."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHFH: With wind pushing left, a stable disc is a good option to go straight or fade left. Be careful not to throw too wide left, as the wind will carry it further."
         }
       }
     },
     {
-      "hole_number": 12,
+      "hole_number": "12 [blue]",
       "hole_label": "Hole 12 [blue]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 13.0,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 215.0,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the left-front (7 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "RHBH: Wind from the left-front. A stable disc thrown with a hyzer should hold its line, fighting the leftward drift."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH: An understable disc can be shaped for a right-fade. Be mindful of the wind's influence."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: This angle requires an overstable disc for a reliable right fade against the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHFH: A stable disc thrown with a slight anhyzer will allow the wind to carry it left. Aim carefully."
         }
       }
     },
     {
-      "hole_number": 12,
+      "hole_number": "12 [white]",
       "hole_label": "Hole 12 [white]",
       "wind_info": {
         "azimuth_degrees": 316.5,
-        "relative_degrees": 26.5,
-        "clock_face": "1 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 228.5,
+        "clock_face": "8 o-clock",
+        "description": "Moderate crosswind from the right-front (8 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: Wind from the right-front. An understable disc will be pushed left. Use a slight hyzer to counter this and get a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and fade right. Aim to the left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "LHBH: Wind from the right is pushing left. A stable to overstable disc will help achieve the required right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc can be thrown for a controlled fade left, working with the wind."
         }
       }
     },
     {
-      "hole_number": 12,
+      "hole_number": "12 [yellow]",
       "hole_label": "Hole 12 [yellow]",
       "wind_info": {
         "azimuth_degrees": 306.5,
-        "relative_degrees": 36.5,
-        "clock_face": "1 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 238.5,
+        "clock_face": "8 o-clock",
+        "description": "Moderate crosswind from the right-front (8 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: Wind from the right-front. An understable disc will be pushed left. Use a slight hyzer to counter this and get a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is needed to fight the wind and fade right. Aim to the left of the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "LHBH: Wind from the right is pushing left. A stable to overstable disc will help achieve the required right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: An understable disc can be thrown for a controlled fade left, working with the wind."
         }
       }
     },
     {
-      "hole_number": 13,
+      "hole_number": "13 [blue]",
       "hole_label": "Hole 13 [blue]",
       "wind_info": {
         "azimuth_degrees": 332.0,
-        "relative_degrees": 11.0,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 213.0,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the left-front (7 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "RHBH: Wind from the left-front. A stable disc thrown with a hyzer should hold its line, fighting the leftward drift."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH: An understable disc can be shaped for a right-fade. Be mindful of the wind's influence."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: This angle requires an overstable disc for a reliable right fade against the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHFH: A stable disc thrown with a slight anhyzer will allow the wind to carry it left. Aim carefully."
         }
       }
     },
     {
-      "hole_number": 13,
+      "hole_number": "13 [white]",
       "hole_label": "Hole 13 [white]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 13.0,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 215.0,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the left-front (7 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "RHBH: Wind from the left-front. A stable disc thrown with a hyzer should hold its line, fighting the leftward drift."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH: An understable disc can be shaped for a right-fade. Be mindful of the wind's influence."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: This angle requires an overstable disc for a reliable right fade against the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHFH: A stable disc thrown with a slight anhyzer will allow the wind to carry it left. Aim carefully."
         }
       }
     },
     {
-      "hole_number": 13,
+      "hole_number": "13 [yellow]",
       "hole_label": "Hole 13 [yellow]",
       "wind_info": {
         "azimuth_degrees": 322.9,
-        "relative_degrees": 20.1,
-        "clock_face": "1 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 222.1,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the left-front (7 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "RHBH: Wind from the left-front. A stable disc thrown with a hyzer should hold its line, fighting the leftward drift."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH: An understable disc can be shaped for a right-fade. Be mindful of the wind's influence."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: This angle requires an overstable disc for a reliable right fade against the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHFH: A stable disc thrown with a slight anhyzer will allow the wind to carry it left. Aim carefully."
         }
       }
     },
     {
-      "hole_number": 14,
+      "hole_number": "14 [blue]",
       "hole_label": "Hole 14 [blue]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 13.0,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 215.0,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the left-front (7 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "RHBH: Wind from the left-front. A stable disc thrown with a hyzer should hold its line, fighting the leftward drift."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH: An understable disc can be shaped for a right-fade. Be mindful of the wind's influence."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: This angle requires an overstable disc for a reliable right fade against the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHFH: A stable disc thrown with a slight anhyzer will allow the wind to carry it left. Aim carefully."
         }
       }
     },
     {
-      "hole_number": 14,
+      "hole_number": "14 [white]",
       "hole_label": "Hole 14 [white]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 13.0,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 215.0,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the left-front (7 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "RHBH: Wind from the left-front. A stable disc thrown with a hyzer should hold its line, fighting the leftward drift."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH: An understable disc can be shaped for a right-fade. Be mindful of the wind's influence."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: This angle requires an overstable disc for a reliable right fade against the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHFH: A stable disc thrown with a slight anhyzer will allow the wind to carry it left. Aim carefully."
         }
       }
     },
     {
-      "hole_number": 14,
+      "hole_number": "14 [yellow]",
       "hole_label": "Hole 14 [yellow]",
       "wind_info": {
         "azimuth_degrees": 336.2,
-        "relative_degrees": 6.8,
-        "clock_face": "12 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 208.8,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the left-front (7 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "RHBH: Wind from the left-front. A stable disc thrown with a hyzer should hold its line, fighting the leftward drift."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHFH: An understable disc can be shaped for a right-fade. Be mindful of the wind's influence."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: This angle requires an overstable disc for a reliable right fade against the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "LHFH: A stable disc thrown with a slight anhyzer will allow the wind to carry it left. Aim carefully."
         }
       }
     },
     {
-      "hole_number": 15,
+      "hole_number": "15 [blue]",
       "hole_label": "Hole 15 [blue]",
       "wind_info": {
         "azimuth_degrees": 163.1,
-        "relative_degrees": 179.9,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Moderate tailwind."
+        "relative_degrees": 21.9,
+        "clock_face": "1 o-clock",
+        "description": "Moderate crosswind from the right-front (1 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Utilize the tailwind with an understable driver on a hyzer flip for maximum distance. Keep it clean."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: Wind from the right-front. An overstable disc thrown with a hyzer will help fight the leftward push and achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A controlled flat release or slight hyzer to keep it straight. Watch for unexpected leftward drift."
+          "disc_recommendation": "Stable to Understable",
+          "shot_strategy": "RHFH: A stable to understable disc can be used for a controlled right-fade. Be mindful of the wind pushing left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A smooth hyzer release to get a controlled flight. The tailwind will help carry it further."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. An understable to stable disc with anhyzer will work. Aim carefully to avoid over-turning."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: A slight anhyzer angle to help it turn and glide. The tailwind will assist in its flight."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed for a strong fade right, to counter the wind."
         }
       }
     },
     {
-      "hole_number": 15,
+      "hole_number": "15 [white]",
       "hole_label": "Hole 15 [white]",
       "wind_info": {
         "azimuth_degrees": 168.5,
-        "relative_degrees": 174.5,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Moderate tailwind."
+        "relative_degrees": 16.5,
+        "clock_face": "1 o-clock",
+        "description": "Moderate crosswind from the right-front (1 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Utilize the tailwind with an understable driver on a hyzer flip for maximum distance. Keep it clean."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: Wind from the right-front. An overstable disc thrown with a hyzer will help fight the leftward push and achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A controlled flat release or slight hyzer to keep it straight. Watch for unexpected leftward drift."
+          "disc_recommendation": "Stable to Understable",
+          "shot_strategy": "RHFH: A stable to understable disc can be used for a controlled right-fade. Be mindful of the wind pushing left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A smooth hyzer release to get a controlled flight. The tailwind will help carry it further."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. An understable to stable disc with anhyzer will work. Aim carefully to avoid over-turning."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: A slight anhyzer angle to help it turn and glide. The tailwind will assist in its flight."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed for a strong fade right, to counter the wind."
         }
       }
     },
     {
-      "hole_number": 15,
+      "hole_number": "15 [yellow]",
       "hole_label": "Hole 15 [yellow]",
       "wind_info": {
         "azimuth_degrees": 173.2,
-        "relative_degrees": 169.8,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Moderate tailwind."
+        "relative_degrees": 11.8,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind (12 o-clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Utilize the tailwind with an understable driver on a hyzer flip for maximum distance. Keep it clean."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: A moderate headwind requires an overstable disc to prevent it from turning over. Throw with a hyzer for maximum stability."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A controlled flat release or slight hyzer to keep it straight. Watch for unexpected leftward drift."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHFH: An overstable disc is also recommended for forehands into this headwind. Aim to keep it low and straight."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A smooth hyzer release to get a controlled flight. The tailwind will help carry it further."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHBH: Similar to RHBH, an overstable disc is best into this headwind. A clean hyzer should keep it on line."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: A slight anhyzer angle to help it turn and glide. The tailwind will assist in its flight."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc will hold its line well into the headwind. Focus on a powerful, clean release."
         }
       }
     },
     {
-      "hole_number": 16,
+      "hole_number": "16 [blue]",
       "hole_label": "Hole 16 [blue]",
       "wind_info": {
         "azimuth_degrees": 141.1,
-        "relative_degrees": 201.9,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Moderate crosswind from the right, pushing shots towards the left fairway."
+        "relative_degrees": 43.9,
+        "clock_face": "1 o-clock",
+        "description": "Moderate crosswind from the right-front (1 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A controlled hyzer or flat release will work well. The wind will help the disc fade left, so aim accordingly. Avoid anhyzer."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: Wind from the right-front. An overstable disc thrown with a hyzer will help fight the leftward push and achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: A clean, straight release with an overstable disc will fight the right crosswind and fade back nicely. Aim for the right side of the fairway."
+          "disc_recommendation": "Stable to Understable",
+          "shot_strategy": "RHFH: A stable to understable disc can be used for a controlled right-fade. Be mindful of the wind pushing left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer. The wind will push it left, which is favorable for LHBH. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. An understable to stable disc with anhyzer will work. Aim carefully to avoid over-turning."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: Hyzer flip with a stable disc to counter the wind's push and get a controlled fade to the left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed for a strong fade right, to counter the wind."
         }
       }
     },
     {
-      "hole_number": 16,
+      "hole_number": "16 [white]",
       "hole_label": "Hole 16 [white]",
       "wind_info": {
         "azimuth_degrees": 142.1,
-        "relative_degrees": 200.9,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Moderate crosswind from the right, pushing shots towards the left fairway."
+        "relative_degrees": 42.9,
+        "clock_face": "1 o-clock",
+        "description": "Moderate crosswind from the right-front (1 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A controlled hyzer or flat release will work well. The wind will help the disc fade left, so aim accordingly. Avoid anhyzer."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: Wind from the right-front. An overstable disc thrown with a hyzer will help fight the leftward push and achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: A clean, straight release with an overstable disc will fight the right crosswind and fade back nicely. Aim for the right side of the fairway."
+          "disc_recommendation": "Stable to Understable",
+          "shot_strategy": "RHFH: A stable to understable disc can be used for a controlled right-fade. Be mindful of the wind pushing left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer. The wind will push it left, which is favorable for LHBH. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. An understable to stable disc with anhyzer will work. Aim carefully to avoid over-turning."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: Hyzer flip with a stable disc to counter the wind's push and get a controlled fade to the left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed for a strong fade right, to counter the wind."
         }
       }
     },
     {
-      "hole_number": 16,
+      "hole_number": "16 [yellow]",
       "hole_label": "Hole 16 [yellow]",
       "wind_info": {
         "azimuth_degrees": 141.8,
-        "relative_degrees": 201.2,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Moderate crosswind from the right, pushing shots towards the left fairway."
+        "relative_degrees": 43.2,
+        "clock_face": "1 o-clock",
+        "description": "Moderate crosswind from the right-front (1 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: A controlled hyzer or flat release will work well. The wind will help the disc fade left, so aim accordingly. Avoid anhyzer."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "RHBH: Wind from the right-front. An overstable disc thrown with a hyzer will help fight the leftward push and achieve a right fade."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: A clean, straight release with an overstable disc will fight the right crosswind and fade back nicely. Aim for the right side of the fairway."
+          "disc_recommendation": "Stable to Understable",
+          "shot_strategy": "RHFH: A stable to understable disc can be used for a controlled right-fade. Be mindful of the wind pushing left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer. The wind will push it left, which is favorable for LHBH. Keep it low to prevent cut-rolling."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "LHBH: Wind from the right pushing left. An understable to stable disc with anhyzer will work. Aim carefully to avoid over-turning."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: Hyzer flip with a stable disc to counter the wind's push and get a controlled fade to the left."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed for a strong fade right, to counter the wind."
         }
       }
     },
     {
-      "hole_number": 17,
+      "hole_number": "17 [blue]",
       "hole_label": "Hole 17 [blue]",
       "wind_info": {
         "azimuth_degrees": 97.7,
-        "relative_degrees": 245.3,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Strong crosswind from the right."
+        "relative_degrees": 87.3,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from the left (3 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Very Overstable Driver",
-          "shot_strategy": "BH: Commit to a strong hyzer. This wind will push any flat or anhyzer shot far left. Need maximum stability to fight it."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "RHBH: This wind from the left will push the disc. Use a stable to overstable disc with a hyzer to fight the drift. Avoid anhyzers."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: Focus on a clean release and aim right. A slight hyzer might help it hold its line before fading back."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHFH: A forehand with an understable to stable disc can be used to control the flight. Aim slightly right of the target."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer to utilize the wind's push and achieve a gentle right fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH: The wind pushing left will help an understable disc fade left. Aim for a straight shot or slight hyzer."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to fight the severe left drift. A controlled flex shot could also work if you have the distance."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed to prevent the wind from pushing it too far left. Focus on a strong fade back to the right."
         }
       }
     },
     {
-      "hole_number": 17,
+      "hole_number": "17 [white]",
       "hole_label": "Hole 17 [white]",
       "wind_info": {
         "azimuth_degrees": 98.7,
-        "relative_degrees": 244.3,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Strong crosswind from the right."
+        "relative_degrees": 86.3,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from the left (3 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Very Overstable Driver",
-          "shot_strategy": "BH: Commit to a strong hyzer. This wind will push any flat or anhyzer shot far left. Need maximum stability to fight it."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "RHBH: This wind from the left will push the disc. Use a stable to overstable disc with a hyzer to fight the drift. Avoid anhyzers."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: Focus on a clean release and aim right. A slight hyzer might help it hold its line before fading back."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHFH: A forehand with an understable to stable disc can be used to control the flight. Aim slightly right of the target."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer to utilize the wind's push and achieve a gentle right fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH: The wind pushing left will help an understable disc fade left. Aim for a straight shot or slight hyzer."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to fight the severe left drift. A controlled flex shot could also work if you have the distance."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed to prevent the wind from pushing it too far left. Focus on a strong fade back to the right."
         }
       }
     },
     {
-      "hole_number": 17,
+      "hole_number": "17 [yellow]",
       "hole_label": "Hole 17 [yellow]",
       "wind_info": {
         "azimuth_degrees": 85.5,
-        "relative_degrees": 257.5,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Strong crosswind from the right."
+        "relative_degrees": 99.5,
+        "clock_face": "3 o-clock crosswind from left",
+        "description": "Moderate crosswind from the left (3 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Very Overstable Driver",
-          "shot_strategy": "BH: Commit to a strong hyzer. This wind will push any flat or anhyzer shot far left. Need maximum stability to fight it."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "RHBH: This wind from the left will push the disc. Use a stable to overstable disc with a hyzer to fight the drift. Avoid anhyzers."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "FH: Focus on a clean release and aim right. A slight hyzer might help it hold its line before fading back."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHFH: A forehand with an understable to stable disc can be used to control the flight. Aim slightly right of the target."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "BH: Aim for a straight shot or slight anhyzer to utilize the wind's push and achieve a gentle right fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH: The wind pushing left will help an understable disc fade left. Aim for a straight shot or slight hyzer."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "FH: Hyzer flip with an understable disc to fight the severe left drift. A controlled flex shot could also work if you have the distance."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "LHFH: An overstable disc is needed to prevent the wind from pushing it too far left. Focus on a strong fade back to the right."
         }
       }
     },
     {
-      "hole_number": 18,
+      "hole_number": "18 [blue]",
       "hole_label": "Hole 18 [blue]",
       "wind_info": {
         "azimuth_degrees": 10.0,
-        "relative_degrees": 333.0,
-        "clock_face": "11 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 175.0,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind (6 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: A tailwind will help an understable disc fly further and straighter. Use an understable disc and aim for a clean release."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHFH: An understable to stable disc will work well with the tailwind. Aim for a straight flight or slight anhyzer."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH: A tailwind will help an understable disc go further. Focus on a clean release and smooth hyzer."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: Use an understable disc and aim for a straight flight. The tailwind will help it carry."
         }
       }
     },
     {
-      "hole_number": 18,
+      "hole_number": "18 [white]",
       "hole_label": "Hole 18 [white]",
       "wind_info": {
         "azimuth_degrees": 7.0,
-        "relative_degrees": 336.0,
-        "clock_face": "11 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 178.0,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind (6 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: A tailwind will help an understable disc fly further and straighter. Use an understable disc and aim for a clean release."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHFH: An understable to stable disc will work well with the tailwind. Aim for a straight flight or slight anhyzer."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH: A tailwind will help an understable disc go further. Focus on a clean release and smooth hyzer."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: Use an understable disc and aim for a straight flight. The tailwind will help it carry."
         }
       }
     },
     {
-      "hole_number": 18,
+      "hole_number": "18 [yellow]",
       "hole_label": "Hole 18 [yellow]",
       "wind_info": {
         "azimuth_degrees": 11.5,
-        "relative_degrees": 331.5,
-        "clock_face": "11 o-clock headwind",
-        "description": "Moderate headwind."
+        "relative_degrees": 173.5,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Moderate tailwind (6 o'clock)"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: Use an overstable disc with a flat or hyzer release to combat the headwind. It will fight to stay straight and fade."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "RHBH: A tailwind will help an understable disc fly further and straighter. Use an understable disc and aim for a clean release."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release with a stable disc. Keep it low to get under the worst of the wind. It will want to float up and stall."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "RHFH: An understable to stable disc will work well with the tailwind. Aim for a straight flight or slight anhyzer."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "BH: A clean hyzer flip with an overstable disc. The headwind will help it stay straight and fade left."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHBH: A tailwind will help an understable disc go further. Focus on a clean release and smooth hyzer."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "FH: A flat release, aiming to keep it straight. The headwind will help its natural fade. Avoid anhyzer which will be pushed down."
+          "disc_recommendation": "Understable",
+          "shot_strategy": "LHFH: Use an understable disc and aim for a straight flight. The tailwind will help it carry."
         }
       }
     }
