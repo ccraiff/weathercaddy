@@ -1,1577 +1,1637 @@
 {
   "course": "Lake Arvesta Sports Complex",
-  "report_generated_at": "2026-03-24 21:12 EDT",
+  "report_generated_at": "2026-03-25 12:11 EDT",
   "current_wind": {
-    "speed_mph": 5.4,
-    "direction_degrees": 38,
-    "gusts_mph": 5.8,
-    "description": "Light breeze from the Northeast"
+    "speed_mph": 13.5,
+    "direction_degrees": 169,
+    "gusts_mph": 22.4,
+    "description": "13.5 mph from 169° (SSE), gusts to 22.4 mph"
   },
   "forecast_5hr": [
-    {"time_edt": "2026-03-24 20:00 EDT", "speed_mph": 5.4, "direction_degrees": 38},
-    {"time_edt": "2026-03-24 21:00 EDT", "speed_mph": 5.6, "direction_degrees": 61},
-    {"time_edt": "2026-03-24 22:00 EDT", "speed_mph": 4.7, "direction_degrees": 82},
-    {"time_edt": "2026-03-24 23:00 EDT", "speed_mph": 4.9, "direction_degrees": 87},
-    {"time_edt": "2026-03-25 00:00 EDT", "speed_mph": 5.0, "direction_degrees": 100}
+    {"time_edt": "2026-03-25 11:00 EDT", "speed_mph": 13.5, "direction_degrees": 169},
+    {"time_edt": "2026-03-25 12:00 EDT", "speed_mph": 14.8, "direction_degrees": 177},
+    {"time_edt": "2026-03-25 13:00 EDT", "speed_mph": 16.7, "direction_degrees": 186},
+    {"time_edt": "2026-03-25 14:00 EDT", "speed_mph": 16.9, "direction_degrees": 188},
+    {"time_edt": "2026-03-25 15:00 EDT", "speed_mph": 17.0, "direction_degrees": 194}
   ],
   "holes": [
     {
       "hole_number": 1,
-      "hole_label": "Hole 1 [blue]",
-      "wind_info": {
-        "azimuth_degrees": 196.9,
-        "relative_degrees": 201.1,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Crosswind from the right, slight tailwind component."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer to keep the flight plate from turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release."
-        }
-      }
-    },
-    {
-      "hole_number": 1,
-      "hole_label": "Hole 1 [white]",
-      "wind_info": {
-        "azimuth_degrees": 197.3,
-        "relative_degrees": 200.7,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Crosswind from the right, slight tailwind component."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer to keep the flight plate from turning over."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release."
-        }
-      }
-    },
-    {
-      "hole_number": 1,
-      "hole_label": "Hole 1 [yellow]",
+      "hole_label": "Hole 1",
       "wind_info": {
         "azimuth_degrees": 150.0,
-        "relative_degrees": 248.0,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Direct crosswind from the right."
+        "relative_degrees": 19.0,
+        "clock_face": "1 o'clock",
+        "description": "1 o'clock headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "Player, Hole 1 (Yellow) plays into a 1 o'clock headwind. To combat the headwind and carry towards the basket, throw an overstable distance driver with a hyzer to keep the flight plate from exposing to the wind and avoid the OB water to the left."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, with the 1 o'clock headwind on Hole 1 (Yellow), a controlled forehand with an overstable fairway driver is a solid choice to fight into the wind and prevent an uncontrolled turnover towards the OB water."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 1 (White) with a 11 o'clock wind, your left-hand backhand will naturally fade left, working against the wind's push. Use an overstable fairway driver on a hyzer to maintain control and avoid the OB water to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, Hole 1 (White) presents a subtle 11 o'clock wind. A stable fairway driver on a forehand with a touch of anhyzer can help navigate this wind and keep the disc away from the OB water on the left side of the fairway."
         }
       }
     },
     {
-      "hole_number": 2,
-      "hole_label": "Hole 2 [blue]",
+      "hole_number": 1,
+      "hole_label": "Hole 1 [White]",
       "wind_info": {
-        "azimuth_degrees": 283.1,
-        "relative_degrees": 114.9,
-        "clock_face": "4 o-clock crosswind from left",
-        "description": "Left-to-right wind."
+        "azimuth_degrees": 197.3,
+        "relative_degrees": 331.7,
+        "clock_face": "11 o'clock",
+        "description": "11 o'clock headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "RHBH underside away from wind. Manageable with hyzer. RHFH also viable. Focus on a clean hyzer flip if needed."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 1 (White) into an 11 o'clock headwind demands an overstable fairway driver thrown with a hyzer to prevent an uncontrolled high turnover towards the OB water on the left."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is manageable for a RH forehand. Focus on a smooth, controlled release."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Player, on Hole 1 (White) with an 11 o'clock wind, a controlled forehand with a stable fairway driver offers a reliable line that fights the headwind and keeps you away from the OB water to the left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes right. Double trouble. Prefer LHFH. If LHBH, use an overstable disc and focus on controlling the fade."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 1 (White) with a 11 o'clock wind, your left-hand backhand's natural fade will counter the wind. Use an overstable fairway driver on hyzer to keep it straight and away from the OB water on the left."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is against LHFH fade. Prefer LHBH. If LHFH, aim slightly left and let the wind push it back."
+          "shot_strategy": "Champ, Hole 1 (White) is into a light 11 o'clock headwind; a stable driver on a forehand with a touch of anhyzer will help control the flight and avoid the OB water to the left."
         }
       }
     },
     {
-      "hole_number": 2,
-      "hole_label": "Hole 2 [white]",
+      "hole_number": 1,
+      "hole_label": "Hole 1 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 271.8,
-        "relative_degrees": 126.2,
-        "clock_face": "4 o-clock crosswind from left",
-        "description": "Left-to-right wind."
+        "azimuth_degrees": 196.9,
+        "relative_degrees": 332.1,
+        "clock_face": "11 o'clock",
+        "description": "11 o'clock headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "RHBH underside away from wind. Manageable with hyzer. RHFH also viable. Focus on a clean hyzer flip if needed."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "Player, Hole 1 (Blue) plays into an 11 o'clock headwind. Throw an overstable driver with a controlled hyzer to keep the disc from turning over and drifting towards the OB water on the left."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is manageable for a RH forehand. Focus on a smooth, controlled release."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Player, on Hole 1 (Blue), the 11 o'clock headwind calls for a controlled forehand with a stable fairway driver to manage the wind and stay clear of the OB water to the left."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes right. Double trouble. Prefer LHFH. If LHBH, use an overstable disc and focus on controlling the fade."
+          "shot_strategy": "Champ, facing the 11 o'clock headwind on Hole 1 (Blue), a left-hand backhand with an overstable driver on hyzer is recommended to fight the wind and steer clear of the OB water on the left."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is against LHFH fade. Prefer LHBH. If LHFH, aim slightly left and let the wind push it back."
+          "shot_strategy": "Champ, for Hole 1 (Blue) and its 11 o'clock wind, a stable driver on a forehand with a touch of anhyzer will offer control and help avoid the OB water to the left."
         }
       }
     },
     {
       "hole_number": 2,
-      "hole_label": "Hole 2 [yellow]",
+      "hole_label": "Hole 2 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 264.9,
-        "relative_degrees": 133.1,
-        "clock_face": "4 o-clock crosswind from left",
-        "description": "Left-to-right wind."
+        "relative_degrees": 264.1,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "9 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "RHBH underside away from wind. Manageable with hyzer. RHFH also viable. Focus on a clean hyzer flip if needed."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 2 (Yellow) has a 9 o'clock crosswind from the right, exposing your RHBH flight plate. A hard hyzer with an overstable fairway driver is best to fight the leftward push of the wind and keep it from going right."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is manageable for a RH forehand. Focus on a smooth, controlled release."
+          "shot_strategy": "Player, on Hole 2 (Yellow), the 9 o'clock crosswind from the right requires a controlled forehand with a stable driver that can handle a slight right-to-left drift and land safely."
         }
       },
       "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 2 (Yellow) plays with a 9 o'clock crosswind from the right. Your LHBH naturally fades left, working with the wind. Use an understable driver and aim for a smooth flex shot to achieve distance and accuracy."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 2 (Yellow) with a 9 o'clock crosswind from the right, your left-hand forehand will fight the wind. Throw an overstable fairway driver with a controlled flex line to keep it from pushing too far left."
+        }
+      }
+    },
+    {
+      "hole_number": 2,
+      "hole_label": "Hole 2 [White]",
+      "wind_info": {
+        "azimuth_degrees": 271.8,
+        "relative_degrees": 257.2,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "9 o'clock crosswind from right"
+      },
+      "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes right. Double trouble. Prefer LHFH. If LHBH, use an overstable disc and focus on controlling the fade."
+          "shot_strategy": "Player, Hole 2 (White) faces a 9 o'clock crosswind from the right, making your RHBH vulnerable to turning over. Throw an overstable driver on a strong hyzer to force it left and combat the wind's push."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is against LHFH fade. Prefer LHBH. If LHFH, aim slightly left and let the wind push it back."
-        }
-      }
-    },
-    {
-      "hole_number": 3,
-      "hole_label": "Hole 3 [blue]",
-      "wind_info": {
-        "azimuth_degrees": 219.3,
-        "relative_degrees": 178.7,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Slight tailwind."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Tailwind. Manageable with BH. Use an understable disc for extra distance. Focus on a clean, smooth release."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Tailwind is manageable for FH. Focus on a smooth release and getting under the disc slightly to combat the wind."
+          "shot_strategy": "Player, on Hole 2 (White), the 9 o'clock crosswind from the right requires a controlled forehand with a stable driver that can handle the wind's push and avoid turning over."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Tailwind. Manageable with BH. Use an understable disc for extra distance. Focus on a clean, smooth release."
+          "shot_strategy": "Champ, Hole 2 (White) is into a 9 o'clock crosswind from the right. Your LHBH will naturally fade left, which can work with the wind; use an understable driver for a controlled flex shot down the fairway."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Tailwind is manageable for FH. Focus on a smooth release and getting under the disc slightly to combat the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 2 (White) with a 9 o'clock crosswind from the right, an overstable fairway driver on a forehand will have the stability to fight the wind and maintain a controlled flight path."
         }
       }
     },
     {
-      "hole_number": 3,
-      "hole_label": "Hole 3 [white]",
+      "hole_number": 2,
+      "hole_label": "Hole 2 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 231.7,
-        "relative_degrees": 166.3,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Slight tailwind."
+        "azimuth_degrees": 283.1,
+        "relative_degrees": 245.9,
+        "clock_face": "8 o'clock",
+        "description": "8 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Tailwind. Manageable with BH. Use an understable disc for extra distance. Focus on a clean, smooth release."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "Player, Hole 2 (Blue) has an 8 o'clock crosswind from the right, meaning your RHBH flight plate is exposed to the wind. Throw an overstable driver on a sharp hyzer to force it left and prevent it from drifting right."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Tailwind is manageable for FH. Focus on a smooth release and getting under the disc slightly to combat the wind."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Player, with an 8 o'clock crosswind from the right on Hole 2 (Blue), a stable fairway driver on a forehand offers good control to manage the wind's push and keep the disc on line."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Tailwind. Manageable with BH. Use an understable disc for extra distance. Focus on a clean, smooth release."
+          "shot_strategy": "Champ, Hole 2 (Blue) is into an 8 o'clock crosswind from the right. Your LHBH will naturally fade left, countering the wind's push. Use an understable driver for a smooth flex shot to maximize distance."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Tailwind is manageable for FH. Focus on a smooth release and getting under the disc slightly to combat the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 2 (Blue) and its 8 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to combat the wind's force and maintain control."
         }
       }
     },
     {
       "hole_number": 3,
-      "hole_label": "Hole 3 [yellow]",
+      "hole_label": "Hole 3 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 235.6,
-        "relative_degrees": 162.4,
-        "clock_face": "5 o-clock tailwind",
-        "description": "Direct tailwind."
+        "relative_degrees": 293.4,
+        "clock_face": "10 o'clock",
+        "description": "10 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Direct tailwind. Use an understable disc for maximum distance. Focus on a smooth, high release to let it carry."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 3 (Yellow) faces a 10 o'clock crosswind from the right, so your RHBH flight plate is exposed. Throw an overstable fairway driver with a hyzer to keep it from turning over and drifting right, fighting the leftward wind push."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Tailwind is manageable for FH. Focus on a smooth release and getting under the disc slightly to combat the wind."
+          "shot_strategy": "Player, on Hole 3 (Yellow), the 10 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's push and keep the disc on a predictable line."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Direct tailwind. Use an understable disc for maximum distance. Focus on a smooth, high release to let it carry."
+          "shot_strategy": "Champ, Hole 3 (Yellow) has a 10 o'clock crosswind from the right. Your LHBH naturally fades left, which can work with the wind. Use an understable driver for a controlled flex shot to achieve distance and accuracy."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Tailwind is manageable for FH. Focus on a smooth release and getting under the disc slightly to combat the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 3 (Yellow) with a 10 o'clock crosswind from the right, an overstable fairway driver on a forehand is recommended to fight the wind's push and maintain control, preventing an excessive leftward fade."
         }
       }
     },
     {
-      "hole_number": 4,
-      "hole_label": "Hole 4 [blue]",
+      "hole_number": 3,
+      "hole_label": "Hole 3 [White]",
       "wind_info": {
-        "azimuth_degrees": 167.1,
-        "relative_degrees": 230.9,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Direct crosswind from the right."
+        "azimuth_degrees": 231.7,
+        "relative_degrees": 297.3,
+        "clock_face": "10 o'clock",
+        "description": "10 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "shot_strategy": "Player, Hole 3 (White) has a 10 o'clock crosswind from the right, so your RHBH flight plate is exposed. Throw an overstable driver on a hyzer to keep it from turning over and drifting right, countering the wind's push."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "shot_strategy": "Player, on Hole 3 (White), the 10 o'clock crosswind from the right necessitates a controlled forehand with a stable driver to manage the wind's force and maintain accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 3 (White) plays into a 10 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 3 (White) and its 10 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight."
         }
       }
     },
     {
-      "hole_number": 4,
-      "hole_label": "Hole 4 [white]",
+      "hole_number": 3,
+      "hole_label": "Hole 3 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 164.4,
-        "relative_degrees": 233.6,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Direct crosswind from the right."
+        "azimuth_degrees": 219.3,
+        "relative_degrees": 309.7,
+        "clock_face": "10 o'clock",
+        "description": "10 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "shot_strategy": "Player, Hole 3 (Blue) faces a 10 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable driver with a hyzer to keep it from turning over and drifting right, countering the wind's push."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "shot_strategy": "Player, on Hole 3 (Blue), the 10 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and maintain accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 3 (Blue) plays into a 10 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 3 (Blue) and its 10 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight."
         }
       }
     },
     {
       "hole_number": 4,
-      "hole_label": "Hole 4 [yellow]",
+      "hole_label": "Hole 4 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 168.6,
-        "relative_degrees": 229.4,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Direct crosswind from the right."
+        "relative_degrees": 0.4,
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "shot_strategy": "Player, Hole 4 (Yellow) is into a strong 12 o'clock headwind. Use an overstable driver with a hyzer to keep it from flipping up and turning over, ensuring it fights into the wind and holds a straight line."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "shot_strategy": "Player, facing the 12 o'clock headwind on Hole 4 (Yellow), a controlled forehand with a stable driver is recommended to fight the wind and maintain a straight flight path, preventing an unwanted left turn."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "Champ, Hole 4 (Yellow) has a 12 o'clock headwind. A left-hand backhand with an overstable driver on hyzer is your best bet to counteract the wind's force and achieve a predictable flight."
         },
         "fh": {
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 4 (Yellow) and its 12 o'clock headwind, a stable driver on a forehand with a slight hyzer will provide the stability needed to fly straight against the wind."
+        }
+      }
+    },
+    {
+      "hole_number": 4,
+      "hole_label": "Hole 4 [White]",
+      "wind_info": {
+        "azimuth_degrees": 164.4,
+        "relative_degrees": 4.6,
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "Player, Hole 4 (White) plays into a significant 12 o'clock headwind. Throw an overstable distance driver with a hyzer to keep it from flipping and ensure it penetrates forward against the wind."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Player, on Hole 4 (White), a controlled forehand with a stable driver is a good option for the 12 o'clock headwind, allowing you to maintain accuracy and fight the wind's influence."
+        }
+      },
+      "tips_lh": {
+        "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "shot_strategy": "Champ, Hole 4 (White) faces a 12 o'clock headwind. Your left-hand backhand with an overstable driver on hyzer is crucial to fight the wind and achieve a straight flight path."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 4 (White) and the 12 o'clock headwind, a stable driver thrown forehand with a touch of hyzer will provide the stability needed to fly true against the wind."
+        }
+      }
+    },
+    {
+      "hole_number": 4,
+      "hole_label": "Hole 4 [Blue]",
+      "wind_info": {
+        "azimuth_degrees": 167.1,
+        "relative_degrees": 1.9,
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "Player, Hole 4 (Blue) is into a strong 12 o'clock headwind. An overstable distance driver thrown with a hyzer will give you the best chance to penetrate forward and avoid turning over in this challenging wind."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Player, on Hole 4 (Blue), the 12 o'clock headwind requires a controlled forehand with a stable driver to fight the wind and ensure a straight and accurate flight."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "Champ, Hole 4 (Blue) demands an overstable driver on a hyzer for your left-hand backhand to overcome the 12 o'clock headwind and maintain a solid flight."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 4 (Blue) and its 12 o'clock headwind, a stable driver on a forehand with a slight hyzer will offer the stability needed to fly true against the wind."
         }
       }
     },
     {
       "hole_number": 5,
-      "hole_label": "Hole 5 [blue]",
+      "hole_label": "Hole 5 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 128.0,
-        "clock_face": "4 o-clock crosswind from left",
-        "description": "Left-to-right wind."
+        "relative_degrees": 259.0,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "9 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "RHBH underside away from wind. Manageable with hyzer. RHFH also viable. Focus on a clean hyzer flip if needed."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 5 (Yellow) faces a strong 9 o'clock crosswind from the right, making your RHBH flight plate vulnerable. Throw an overstable fairway driver with a hard hyzer to fight the leftward wind and avoid the OB water to the right."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is manageable for a RH forehand. Focus on a smooth, controlled release."
+          "shot_strategy": "Player, on Hole 5 (Yellow), the 9 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's push and keep the disc from drifting into the OB water."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes right. Double trouble. Prefer LHFH. If LHBH, use an overstable disc and focus on controlling the fade."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 5 (Yellow) has a 9 o'clock crosswind from the right. Your LHBH naturally fades left, which can work with the wind. Use an understable driver for a smooth flex shot to achieve distance and avoid the OB water."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is against LHFH fade. Prefer LHBH. If LHFH, aim slightly left and let the wind push it back."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 5 (Yellow) with a 9 o'clock crosswind from the right, an overstable fairway driver on a forehand is recommended to fight the wind's push and maintain control, preventing an excessive leftward drift into the OB water."
         }
       }
     },
     {
       "hole_number": 5,
-      "hole_label": "Hole 5 [white]",
+      "hole_label": "Hole 5 [White]",
       "wind_info": {
         "azimuth_degrees": 266.3,
-        "relative_degrees": 131.7,
-        "clock_face": "4 o-clock crosswind from left",
-        "description": "Left-to-right wind."
+        "relative_degrees": 262.7,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "9 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "RHBH underside away from wind. Manageable with hyzer. RHFH also viable. Focus on a clean hyzer flip if needed."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "Player, Hole 5 (White) faces a 9 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable driver on a strong hyzer to fight the leftward wind and keep it from turning over towards the OB water."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is manageable for a RH forehand. Focus on a smooth, controlled release."
+          "shot_strategy": "Player, on Hole 5 (White), the 9 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, avoiding the OB water."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes right. Double trouble. Prefer LHFH. If LHBH, use an overstable disc and focus on controlling the fade."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 5 (White) has a 9 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance and avoid the OB water."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is against LHFH fade. Prefer LHBH. If LHFH, aim slightly left and let the wind push it back."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 5 (White) with a 9 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight path, steering clear of the OB water."
         }
       }
     },
     {
       "hole_number": 5,
-      "hole_label": "Hole 5 [yellow]",
+      "hole_label": "Hole 5 [Blue]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 128.0,
-        "clock_face": "4 o-clock crosswind from left",
-        "description": "Left-to-right wind."
+        "relative_degrees": 259.0,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "9 o'clock crosswind from right"
       },
       "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "RHBH underside away from wind. Manageable with hyzer. RHFH also viable. Focus on a clean hyzer flip if needed."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is manageable for a RH forehand. Focus on a smooth, controlled release."
-        }
-      },
-      "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes right. Double trouble. Prefer LHFH. If LHBH, use an overstable disc and focus on controlling the fade."
+          "shot_strategy": "Player, Hole 5 (Blue) faces a strong 9 o'clock crosswind from the right, making your RHBH flight plate vulnerable. Throw an overstable driver with a hard hyzer to fight the leftward wind and avoid the OB water to the right."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is against LHFH fade. Prefer LHBH. If LHFH, aim slightly left and let the wind push it back."
-        }
-      }
-    },
-    {
-      "hole_number": 6,
-      "hole_label": "Hole 6 [blue]",
-      "wind_info": {
-        "azimuth_degrees": 216.3,
-        "relative_degrees": 181.7,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Slight tailwind."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Tailwind. Manageable with BH. Use an understable disc for extra distance. Focus on a clean, smooth release."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Tailwind is manageable for FH. Focus on a smooth release and getting under the disc slightly to combat the wind."
+          "shot_strategy": "Player, on Hole 5 (Blue), the 9 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's push and keep the disc from drifting into the OB water."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Tailwind. Manageable with BH. Use an understable disc for extra distance. Focus on a clean, smooth release."
+          "shot_strategy": "Champ, Hole 5 (Blue) has a 9 o'clock crosswind from the right. Your LHBH naturally fades left, which can work with the wind. Use an understable driver for a smooth flex shot to achieve distance and avoid the OB water."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Tailwind is manageable for FH. Focus on a smooth release and getting under the disc slightly to combat the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 5 (Blue) with a 9 o'clock crosswind from the right, an overstable fairway driver on a forehand is recommended to fight the wind's push and maintain control, preventing an excessive leftward drift into the OB water."
         }
       }
     },
     {
       "hole_number": 6,
-      "hole_label": "Hole 6 [white]",
-      "wind_info": {
-        "azimuth_degrees": 233.0,
-        "relative_degrees": 165.0,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Slight tailwind."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Tailwind. Manageable with BH. Use an understable disc for extra distance. Focus on a clean, smooth release."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Tailwind is manageable for FH. Focus on a smooth release and getting under the disc slightly to combat the wind."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Tailwind. Manageable with BH. Use an understable disc for extra distance. Focus on a clean, smooth release."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Tailwind is manageable for FH. Focus on a smooth release and getting under the disc slightly to combat the wind."
-        }
-      }
-    },
-    {
-      "hole_number": 6,
-      "hole_label": "Hole 6 [yellow]",
+      "hole_label": "Hole 6 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 229.4,
-        "relative_degrees": 168.6,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Slight tailwind."
+        "relative_degrees": 299.6,
+        "clock_face": "10 o'clock",
+        "description": "10 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Tailwind. Manageable with BH. Use an understable disc for extra distance. Focus on a clean, smooth release."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 6 (Yellow) has a 10 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable fairway driver with a hyzer to fight the leftward push of the wind and avoid the OB water to the right."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Tailwind is manageable for FH. Focus on a smooth release and getting under the disc slightly to combat the wind."
+          "shot_strategy": "Player, on Hole 6 (Yellow), the 10 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, keeping the disc away from the OB water."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Tailwind. Manageable with BH. Use an understable disc for extra distance. Focus on a clean, smooth release."
+          "shot_strategy": "Champ, Hole 6 (Yellow) plays into a 10 o'clock crosswind from the right. Your LHBH naturally fades left, which can work with the wind. Use an understable driver for a smooth flex shot to gain distance and avoid the OB water."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Tailwind is manageable for FH. Focus on a smooth release and getting under the disc slightly to combat the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 6 (Yellow) with a 10 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight path, steering clear of the OB water."
         }
       }
     },
     {
-      "hole_number": 7,
-      "hole_label": "Hole 7 [blue]",
+      "hole_number": 6,
+      "hole_label": "Hole 6 [White]",
       "wind_info": {
-        "azimuth_degrees": 164.8,
-        "relative_degrees": 233.2,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Direct crosswind from the right."
+        "azimuth_degrees": 233.0,
+        "relative_degrees": 296.0,
+        "clock_face": "10 o'clock",
+        "description": "10 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "shot_strategy": "Player, Hole 6 (White) faces a 10 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable driver on a strong hyzer to fight the leftward wind and keep it from turning over towards the OB water."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "shot_strategy": "Player, on Hole 6 (White), the 10 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, avoiding the OB water."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 6 (White) has a 10 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance and avoid the OB water."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 6 (White) with a 10 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight path, steering clear of the OB water."
         }
       }
     },
     {
-      "hole_number": 7,
-      "hole_label": "Hole 7 [white]",
+      "hole_number": 6,
+      "hole_label": "Hole 6 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 182.2,
-        "relative_degrees": 215.8,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Crosswind from the right."
+        "azimuth_degrees": 216.3,
+        "relative_degrees": 312.7,
+        "clock_face": "10 o'clock",
+        "description": "10 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with hyzer and an overstable disc to keep the flight plate from turning over."
+          "shot_strategy": "Player, Hole 6 (Blue) faces a 10 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable driver with a hyzer to keep it from turning over and drifting right, countering the wind's push and avoiding the OB water."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release."
+          "shot_strategy": "Player, on Hole 6 (Blue), the 10 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, keeping the disc away from the OB water."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 6 (Blue) has a 10 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance and avoid the OB water."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 6 (Blue) with a 10 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight path, steering clear of the OB water."
         }
       }
     },
     {
       "hole_number": 7,
-      "hole_label": "Hole 7 [yellow]",
+      "hole_label": "Hole 7 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 176.6,
-        "relative_degrees": 221.4,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Crosswind from the right."
+        "relative_degrees": 352.4,
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with hyzer and an overstable disc to keep the flight plate from turning over."
+          "shot_strategy": "Player, Hole 7 (Yellow) is into a strong 12 o'clock headwind. Use an overstable driver with a hyzer to keep it from flipping up and turning over, ensuring it fights into the wind and holds a straight line."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release."
+          "shot_strategy": "Player, facing the 12 o'clock headwind on Hole 7 (Yellow), a controlled forehand with a stable driver is recommended to fight the wind and maintain a straight flight path, preventing an unwanted left turn."
         }
       },
       "tips_lh": {
         "bh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "Champ, Hole 7 (Yellow) has a 12 o'clock headwind. A left-hand backhand with an overstable driver on hyzer is your best bet to counteract the wind's force and achieve a predictable flight."
+        },
+        "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release."
+          "shot_strategy": "Champ, for Hole 7 (Yellow) and its 12 o'clock headwind, a stable driver thrown forehand with a touch of hyzer will provide the stability needed to fly straight against the wind."
         }
       }
     },
     {
-      "hole_number": 8,
-      "hole_label": "Hole 8 [blue]",
+      "hole_number": 7,
+      "hole_label": "Hole 7 [White]",
       "wind_info": {
-        "azimuth_degrees": 347.4,
-        "relative_degrees": 50.6,
-        "clock_face": "2 o-clock headwind",
-        "description": "Headwind."
+        "azimuth_degrees": 182.2,
+        "relative_degrees": 346.8,
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "Player, Hole 7 (White) plays into a significant 12 o'clock headwind. Throw an overstable distance driver with a hyzer to keep it from flipping and ensure it penetrates forward against the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Player, on Hole 7 (White), a controlled forehand with a stable driver is a good option for the 12 o'clock headwind, allowing you to maintain accuracy and fight the wind's influence."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "shot_strategy": "Champ, Hole 7 (White) faces a 12 o'clock headwind. Your left-hand backhand with an overstable driver on hyzer is crucial to fight the wind and achieve a straight flight path."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 7 (White) and the 12 o'clock headwind, a stable driver on a forehand with a touch of hyzer will provide the stability needed to fly true against the wind."
         }
       }
     },
     {
-      "hole_number": 8,
-      "hole_label": "Hole 8 [white]",
+      "hole_number": 7,
+      "hole_label": "Hole 7 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 0.1,
-        "relative_degrees": 37.9,
-        "clock_face": "1 o-clock headwind",
-        "description": "Headwind."
+        "azimuth_degrees": 164.8,
+        "relative_degrees": 4.2,
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "Player, Hole 7 (Blue) is into a strong 12 o'clock headwind. An overstable distance driver thrown with a hyzer will give you the best chance to penetrate forward and avoid turning over in this challenging wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Player, on Hole 7 (Blue), the 12 o'clock headwind requires a controlled forehand with a stable driver to fight the wind and ensure a straight and accurate flight."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "shot_strategy": "Champ, Hole 7 (Blue) demands an overstable driver on a hyzer for your left-hand backhand to overcome the 12 o'clock headwind and maintain a solid flight."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 7 (Blue) and its 12 o'clock headwind, a stable driver on a forehand with a touch of hyzer will offer the stability needed to fly true against the wind."
         }
       }
     },
     {
       "hole_number": 8,
-      "hole_label": "Hole 8 [yellow]",
+      "hole_label": "Hole 8 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 356.3,
-        "relative_degrees": 41.7,
-        "clock_face": "1 o-clock headwind",
-        "description": "Headwind."
+        "relative_degrees": 172.7,
+        "clock_face": "6 o'clock tailwind",
+        "description": "6 o'clock tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 8 (Yellow) has a 6 o'clock tailwind. Use an understable driver for maximum distance and a smooth hyzer flip to straight flight, keeping it away from the OB roadway to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, on Hole 8 (Yellow), the 6 o'clock tailwind is perfect for an understable driver on a forehand. Aim for a smooth anhyzer flex shot to carry down the fairway and avoid the OB roadway to the left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 8 (Yellow) has a tailwind from the 6 o'clock position. A left-hand backhand with an understable driver, thrown with a hyzer for a flip-up, will maximize distance while staying clear of the OB roadway to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, for Hole 8 (Yellow) and its 6 o'clock tailwind, an understable driver on a forehand is recommended for a smooth flex line that will carry well down the fairway, avoiding the OB roadway to the left."
+        }
+      }
+    },
+    {
+      "hole_number": 8,
+      "hole_label": "Hole 8 [White]",
+      "wind_info": {
+        "azimuth_degrees": 0.1,
+        "relative_degrees": 168.9,
+        "clock_face": "6 o'clock tailwind",
+        "description": "6 o'clock tailwind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 8 (White) is into a 6 o'clock tailwind. Throw an understable driver on a hyzer flip line for maximum distance, ensuring you stay away from the OB roadway to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, on Hole 8 (White), the 6 o'clock tailwind favors an understable driver on a forehand for a strong flex shot that carries well and stays clear of the OB roadway to the left."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 8 (White) benefits from a 6 o'clock tailwind. Use an understable driver on a left-hand backhand with a hyzer flip to get excellent distance while avoiding the OB roadway on the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, for Hole 8 (White) and its tailwind from 6 o'clock, an understable driver on a forehand with a flex line will carry well down the fairway and keep you clear of the OB roadway to the left."
+        }
+      }
+    },
+    {
+      "hole_number": 8,
+      "hole_label": "Hole 8 [Blue]",
+      "wind_info": {
+        "azimuth_degrees": 347.4,
+        "relative_degrees": 181.6,
+        "clock_face": "6 o'clock tailwind",
+        "description": "6 o'clock tailwind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, Hole 8 (Blue) has a significant 6 o'clock tailwind. Throw an understable distance driver on a hyzer flip for maximum distance, being mindful of the OB roadway to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, on Hole 8 (Blue), the 6 o'clock tailwind allows for a powerful forehand with an understable driver, aiming for a flex shot that carries far while staying clear of the OB roadway to the left."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 8 (Blue) plays into a 6 o'clock tailwind. A left-hand backhand with an understable driver on hyzer flip will maximize distance while ensuring you stay away from the OB roadway on the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, for Hole 8 (Blue) and its tailwind from 6 o'clock, an understable driver on a forehand with a flex line will carry well down the fairway and keep you clear of the OB roadway to the left."
         }
       }
     },
     {
       "hole_number": 9,
-      "hole_label": "Hole 9",
+      "hole_label": "Hole 9 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 296.3,
-        "relative_degrees": 101.7,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Crosswind from the left."
+        "relative_degrees": 232.7,
+        "clock_face": "8 o'clock",
+        "description": "8 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "RHBH underside away from wind. Manageable with hyzer. RHFH also viable. Focus on a clean hyzer flip if needed."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 9 (Yellow) has an 8 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable fairway driver with a hyzer to fight the leftward wind push and keep it from drifting right, staying clear of the OB roadway."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is manageable for a RH forehand. Focus on a smooth, controlled release."
+          "shot_strategy": "Player, on Hole 9 (Yellow), the 8 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, ensuring you stay away from the OB roadway."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes right. Double trouble. Prefer LHFH. If LHBH, use an overstable disc and focus on controlling the fade."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 9 (Yellow) plays into an 8 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance and avoid the OB roadway."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is against LHFH fade. Prefer LHBH. If LHFH, aim slightly left and let the wind push it back."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 9 (Yellow) with an 8 o'clock crosswind from the right, an overstable fairway driver on a forehand is recommended to fight the wind's push and maintain control, preventing an excessive leftward drift towards the OB roadway."
         }
       }
     },
     {
-      "hole_number": 10,
-      "hole_label": "Hole 10 [blue]",
+      "hole_number": 9,
+      "hole_label": "Hole 9 [White]",
       "wind_info": {
-        "azimuth_degrees": 344.3,
-        "relative_degrees": 53.7,
-        "clock_face": "2 o-clock headwind",
-        "description": "Headwind."
+        "azimuth_degrees": 296.3,
+        "relative_degrees": 232.7,
+        "clock_face": "8 o'clock",
+        "description": "8 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "shot_strategy": "Player, Hole 9 (White) faces an 8 o'clock crosswind from the right, meaning your RHBH flight plate is exposed. Throw an overstable driver on a strong hyzer to fight the leftward wind push and keep it from turning over towards the OB roadway."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Player, on Hole 9 (White), the 8 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, avoiding the OB roadway."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 9 (White) has an 8 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance and avoid the OB roadway."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 9 (White) with an 8 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight path, steering clear of the OB roadway."
         }
       }
     },
     {
-      "hole_number": 10,
-      "hole_label": "Hole 10 [white]",
+      "hole_number": 9,
+      "hole_label": "Hole 9 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 357.3,
-        "relative_degrees": 40.7,
-        "clock_face": "1 o-clock headwind",
-        "description": "Headwind."
+        "azimuth_degrees": 296.3,
+        "relative_degrees": 232.7,
+        "clock_face": "8 o'clock",
+        "description": "8 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "shot_strategy": "Player, Hole 9 (Blue) faces an 8 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable driver with a hyzer to keep it from turning over and drifting right, countering the wind's push and avoiding the OB roadway."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Player, on Hole 9 (Blue), the 8 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, keeping the disc away from the OB roadway."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 9 (Blue) has an 8 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance and avoid the OB roadway."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 9 (Blue) with an 8 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight path, steering clear of the OB roadway."
         }
       }
     },
     {
       "hole_number": 10,
-      "hole_label": "Hole 10 [yellow]",
+      "hole_label": "Hole 10 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 353.5,
-        "relative_degrees": 44.5,
-        "clock_face": "1 o-clock headwind",
-        "description": "Headwind."
+        "relative_degrees": 175.5,
+        "clock_face": "6 o'clock tailwind",
+        "description": "6 o'clock tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 10 (Yellow) is directly into a 6 o'clock tailwind. Use an understable driver on a hyzer flip for maximum distance, but be mindful of the OB water and the sand hazard near the basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, on Hole 10 (Yellow), the 6 o'clock tailwind allows for an understable driver on a forehand. Aim for a smooth flex shot to carry distance, ensuring you avoid the OB water and the sand hazard."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 10 (Yellow) has a strong tailwind from 6 o'clock. A left-hand backhand with an understable driver on hyzer flip will maximize distance, but be cautious of the OB water and the sand hazard near the basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, for Hole 10 (Yellow) and its tailwind, an understable driver on a forehand with a flex line will carry well, but remember to avoid the OB water and the sand hazard."
         }
       }
     },
     {
-      "hole_number": 11,
-      "hole_label": "Hole 11 [blue]",
+      "hole_number": 10,
+      "hole_label": "Hole 10 [White]",
       "wind_info": {
-        "azimuth_degrees": 83.5,
-        "relative_degrees": 314.5,
-        "clock_face": "10 o-clock crosswind from right",
-        "description": "Crosswind from the right."
+        "azimuth_degrees": 357.3,
+        "relative_degrees": 171.7,
+        "clock_face": "6 o'clock tailwind",
+        "description": "6 o'clock tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 10 (White) plays directly into a 6 o'clock tailwind. Throw an understable driver on a hyzer flip for maximum distance, keeping it away from the OB water and the sand hazard near the basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, on Hole 10 (White), the 6 o'clock tailwind is ideal for an understable driver on a forehand flex shot, ensuring distance while avoiding the OB water and the sand hazard."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 10 (White) benefits from a 6 o'clock tailwind. A left-hand backhand with an understable driver on hyzer flip will gain significant distance, but stay mindful of the OB water and the sand hazard."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, for Hole 10 (White) and its tailwind, an understable driver on a forehand with a flex line will carry well, but remember to avoid the OB water and the sand hazard."
         }
       }
     },
     {
-      "hole_number": 11,
-      "hole_label": "Hole 11 [white]",
+      "hole_number": 10,
+      "hole_label": "Hole 10 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 71.1,
-        "relative_degrees": 326.9,
-        "clock_face": "11 o-clock crosswind from right",
-        "description": "Crosswind from the right."
+        "azimuth_degrees": 344.3,
+        "relative_degrees": 184.7,
+        "clock_face": "6 o'clock tailwind",
+        "description": "6 o'clock tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, Hole 10 (Blue) is into a strong 6 o'clock tailwind. Throw an understable distance driver on a hyzer flip for maximum distance, being extremely careful to avoid the OB water and the sand hazard near the basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, on Hole 10 (Blue), the 6 o'clock tailwind allows for a powerful forehand with an understable driver, aiming for a flex shot that carries far while keeping clear of the OB water and the sand hazard."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 10 (Blue) plays into a strong 6 o'clock tailwind. A left-hand backhand with an understable driver on hyzer flip will maximize distance, but stay extremely mindful of the OB water and the sand hazard."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, for Hole 10 (Blue) and its tailwind, an understable driver on a forehand with a flex line will carry well, but remember to avoid the OB water and the sand hazard."
         }
       }
     },
     {
       "hole_number": 11,
-      "hole_label": "Hole 11 [yellow]",
+      "hole_label": "Hole 11 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 79.9,
-        "relative_degrees": 318.1,
-        "clock_face": "11 o-clock crosswind from right",
-        "description": "Crosswind from the right."
+        "relative_degrees": 89.1,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "3 o'clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 11 (Yellow) has a 3 o'clock crosswind from the left. Your RHBH will fade right, working with the wind. Use an understable driver for a smooth flex shot to achieve distance and accuracy, staying clear of the OB drop zone."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, on Hole 11 (Yellow), the 3 o'clock crosswind from the left requires an overstable fairway driver on a forehand. Throw it with a slight hyzer to keep it from flipping up and turning right into the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, Hole 11 (Yellow) faces a 3 o'clock crosswind from the left. Your LHBH naturally fades left, fighting the wind. Use an overstable fairway driver on a hyzer to ensure it holds its line and doesn't drift too far left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 11 (Yellow) with a 3 o'clock crosswind from the left, a stable driver on a forehand with a touch of anhyzer will help keep it straight and prevent it from turning over too hard to the right."
         }
       }
     },
     {
-      "hole_number": 12,
-      "hole_label": "Hole 12 [blue]",
+      "hole_number": 11,
+      "hole_label": "Hole 11 [White]",
       "wind_info": {
-        "azimuth_degrees": 330.0,
-        "relative_degrees": 68.0,
-        "clock_face": "2 o-clock headwind",
-        "description": "Headwind."
+        "azimuth_degrees": 71.1,
+        "relative_degrees": 97.9,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "3 o'clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 11 (White) has a 3 o'clock crosswind from the left. Your RHBH will fade right, which works with the wind. Use an understable driver on a hyzer flip for a controlled flex shot to gain distance and avoid the OB drop zone."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, on Hole 11 (White), the 3 o'clock crosswind from the left calls for an overstable fairway driver on a forehand. A slight hyzer will help prevent it from flipping up and turning right into the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, Hole 11 (White) faces a 3 o'clock crosswind from the left. Your LHBH naturally fades left, fighting the wind. Use an overstable fairway driver on hyzer to ensure it holds its line and doesn't drift too far left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 11 (White) with a 3 o'clock crosswind from the left, a stable driver on a forehand with a touch of anhyzer will help keep it straight and prevent it from turning over too hard to the right."
         }
       }
     },
     {
-      "hole_number": 12,
-      "hole_label": "Hole 12 [white]",
+      "hole_number": 11,
+      "hole_label": "Hole 11 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 316.5,
-        "relative_degrees": 81.5,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Crosswind from the left."
+        "azimuth_degrees": 83.5,
+        "relative_degrees": 85.5,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "3 o'clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "RHBH underside away from wind. Manageable with hyzer. RHFH also viable. Focus on a clean hyzer flip if needed."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 11 (Blue) has a 3 o'clock crosswind from the left. Your RHBH will fade right, working with the wind. Use an understable driver for a smooth flex shot to achieve distance and accuracy, staying clear of the OB drop zone."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is manageable for a RH forehand. Focus on a smooth, controlled release."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, on Hole 11 (Blue), the 3 o'clock crosswind from the left requires an overstable fairway driver on a forehand. Throw it with a slight hyzer to keep it from flipping up and turning right into the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes right. Double trouble. Prefer LHFH. If LHBH, use an overstable disc and focus on controlling the fade."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, Hole 11 (Blue) faces a 3 o'clock crosswind from the left. Your LHBH naturally fades left, fighting the wind. Use an overstable fairway driver on a hyzer to ensure it holds its line and doesn't drift too far left."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is against LHFH fade. Prefer LHBH. If LHFH, aim slightly left and let the wind push it back."
+          "shot_strategy": "Champ, for Hole 11 (Blue) with a 3 o'clock crosswind from the left, a stable driver on a forehand with a touch of anhyzer will help keep it straight and prevent it from turning over too hard to the right."
         }
       }
     },
     {
       "hole_number": 12,
-      "hole_label": "Hole 12 [yellow]",
+      "hole_label": "Hole 12 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 306.5,
-        "relative_degrees": 91.5,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Crosswind from the left."
+        "relative_degrees": 222.5,
+        "clock_face": "7 o'clock",
+        "description": "7 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "RHBH underside away from wind. Manageable with hyzer. RHFH also viable. Focus on a clean hyzer flip if needed."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 12 (Yellow) faces a 7 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable fairway driver with a hyzer to fight the leftward wind push and keep it from drifting right into the river OB."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is manageable for a RH forehand. Focus on a smooth, controlled release."
+          "shot_strategy": "Player, on Hole 12 (Yellow), the 7 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, ensuring you stay clear of the river OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes right. Double trouble. Prefer LHFH. If LHBH, use an overstable disc and focus on controlling the fade."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 12 (Yellow) plays into a 7 o'clock crosswind from the right. Your LHBH naturally fades left, working with the wind. Use an understable driver for a smooth flex shot to gain distance and avoid the river OB."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is against LHFH fade. Prefer LHBH. If LHFH, aim slightly left and let the wind push it back."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 12 (Yellow) with a 7 o'clock crosswind from the right, an overstable fairway driver on a forehand is recommended to fight the wind's push and maintain control, preventing an excessive leftward drift into the river OB."
         }
       }
     },
     {
-      "hole_number": 13,
-      "hole_label": "Hole 13 [blue]",
+      "hole_number": 12,
+      "hole_label": "Hole 12 [White]",
       "wind_info": {
-        "azimuth_degrees": 332.0,
-        "relative_degrees": 66.0,
-        "clock_face": "2 o-clock headwind",
-        "description": "Headwind."
+        "azimuth_degrees": 316.5,
+        "relative_degrees": 212.5,
+        "clock_face": "7 o'clock",
+        "description": "7 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "shot_strategy": "Player, Hole 12 (White) has a 7 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable driver on a strong hyzer to fight the leftward wind push and keep it from turning over towards the river OB."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Player, on Hole 12 (White), the 7 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, avoiding the river OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 12 (White) plays into a 7 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance and avoid the river OB."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 12 (White) with a 7 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight path, steering clear of the river OB."
         }
       }
     },
     {
-      "hole_number": 13,
-      "hole_label": "Hole 13 [white]",
+      "hole_number": 12,
+      "hole_label": "Hole 12 [Blue]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 68.0,
-        "clock_face": "2 o-clock headwind",
-        "description": "Headwind."
+        "relative_degrees": 199.0,
+        "clock_face": "7 o'clock",
+        "description": "7 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "shot_strategy": "Player, Hole 12 (Blue) faces a 7 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable driver with a hyzer to keep it from turning over and drifting right, countering the wind's push and avoiding the river OB."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Player, on Hole 12 (Blue), the 7 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, keeping the disc away from the river OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 12 (Blue) has a 7 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance and avoid the river OB."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 12 (Blue) with a 7 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight path, steering clear of the river OB."
         }
       }
     },
     {
       "hole_number": 13,
-      "hole_label": "Hole 13 [yellow]",
+      "hole_label": "Hole 13 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 322.9,
-        "relative_degrees": 75.1,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Crosswind from the left."
+        "relative_degrees": 206.1,
+        "clock_face": "7 o'clock",
+        "description": "7 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "RHBH underside away from wind. Manageable with hyzer. RHFH also viable. Focus on a clean hyzer flip if needed."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 13 (Yellow) has a 7 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable fairway driver with a hyzer to fight the leftward wind push and keep it from drifting right."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is manageable for a RH forehand. Focus on a smooth, controlled release."
+          "shot_strategy": "Player, on Hole 13 (Yellow), the 7 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, ensuring a reliable flight."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes right. Double trouble. Prefer LHFH. If LHBH, use an overstable disc and focus on controlling the fade."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 13 (Yellow) plays into a 7 o'clock crosswind from the right. Your LHBH naturally fades left, working with the wind. Use an understable driver for a smooth flex shot to gain distance."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the left is against LHFH fade. Prefer LHBH. If LHFH, aim slightly left and let the wind push it back."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 13 (Yellow) with a 7 o'clock crosswind from the right, an overstable fairway driver on a forehand is recommended to fight the wind's push and maintain control."
         }
       }
     },
     {
-      "hole_number": 14,
-      "hole_label": "Hole 14 [blue]",
+      "hole_number": 13,
+      "hole_label": "Hole 13 [White]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 68.0,
-        "clock_face": "2 o-clock headwind",
-        "description": "Headwind."
+        "relative_degrees": 199.0,
+        "clock_face": "7 o'clock",
+        "description": "7 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "shot_strategy": "Player, Hole 13 (White) faces a 7 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable driver on a strong hyzer to fight the leftward wind push and keep it from turning over."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Player, on Hole 13 (White), the 7 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, avoiding an uncontrolled right turn."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 13 (White) has a 7 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 13 (White) with a 7 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight."
         }
       }
     },
     {
-      "hole_number": 14,
-      "hole_label": "Hole 14 [white]",
+      "hole_number": 13,
+      "hole_label": "Hole 13 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 330.0,
-        "relative_degrees": 68.0,
-        "clock_face": "2 o-clock headwind",
-        "description": "Headwind."
+        "azimuth_degrees": 332.0,
+        "relative_degrees": 197.0,
+        "clock_face": "7 o'clock",
+        "description": "7 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "shot_strategy": "Player, Hole 13 (Blue) faces a 7 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable driver with a hyzer to keep it from turning over and drifting right, countering the wind's push."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Player, on Hole 13 (Blue), the 7 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, keeping the disc from turning over."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 13 (Blue) has a 7 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 13 (Blue) with a 7 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight."
         }
       }
     },
     {
       "hole_number": 14,
-      "hole_label": "Hole 14 [yellow]",
+      "hole_label": "Hole 14 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 336.2,
-        "relative_degrees": 61.8,
-        "clock_face": "2 o-clock headwind",
-        "description": "Headwind."
+        "relative_degrees": 192.8,
+        "clock_face": "6 o'clock tailwind",
+        "description": "6 o'clock tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 14 (Yellow) has a 6 o'clock tailwind. Use an understable driver on a hyzer flip for maximum distance, being aware of the OB creek area at the bottom of the hill."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, on Hole 14 (Yellow), the 6 o'clock tailwind allows for an understable driver on a forehand flex shot, aiming for distance while staying clear of the OB creek area."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 14 (Yellow) benefits from a 6 o'clock tailwind. A left-hand backhand with an understable driver on hyzer flip will maximize distance, but be cautious of the OB creek area at the bottom of the hill."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, for Hole 14 (Yellow) and its tailwind from 6 o'clock, an understable driver on a forehand with a flex line will carry well, but remember to avoid the OB creek area."
         }
       }
     },
     {
-      "hole_number": 15,
-      "hole_label": "Hole 15 [blue]",
+      "hole_number": 14,
+      "hole_label": "Hole 14 [White]",
       "wind_info": {
-        "azimuth_degrees": 163.1,
-        "relative_degrees": 234.9,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Direct crosswind from the right."
+        "azimuth_degrees": 330.0,
+        "relative_degrees": 199.0,
+        "clock_face": "7 o'clock",
+        "description": "7 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "shot_strategy": "Player, Hole 14 (White) faces a 7 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable driver with a hyzer to fight the leftward wind push and keep it from drifting right into the OB creek."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "shot_strategy": "Player, on Hole 14 (White), the 7 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, ensuring you stay clear of the OB creek."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 14 (White) plays into a 7 o'clock crosswind from the right. Your LHBH naturally fades left, working with the wind. Use an understable driver for a smooth flex shot to gain distance and avoid the OB creek."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 14 (White) with a 7 o'clock crosswind from the right, an overstable fairway driver on a forehand is recommended to fight the wind's push and maintain control, preventing an excessive leftward drift into the OB creek."
         }
       }
     },
     {
-      "hole_number": 15,
-      "hole_label": "Hole 15 [white]",
+      "hole_number": 14,
+      "hole_label": "Hole 14 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 168.5,
-        "relative_degrees": 229.5,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Direct crosswind from the right."
+        "azimuth_degrees": 330.0,
+        "relative_degrees": 199.0,
+        "clock_face": "7 o'clock",
+        "description": "7 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "shot_strategy": "Player, Hole 14 (Blue) faces a 7 o'clock crosswind from the right, exposing your RHBH flight plate. Throw an overstable driver with a hyzer to keep it from turning over and drifting right, countering the wind's push and avoiding the OB creek."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "shot_strategy": "Player, on Hole 14 (Blue), the 7 o'clock crosswind from the right requires a controlled forehand with a stable driver to manage the wind's force and accuracy, keeping the disc away from the OB creek."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 14 (Blue) has a 7 o'clock crosswind from the right. Your LHBH will naturally fade left, working with the wind. Use an understable driver for a smooth flex shot to gain distance and avoid the OB creek."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 14 (Blue) with a 7 o'clock crosswind from the right, an overstable fairway driver on a forehand is advisable to fight the wind's push and ensure a controlled flight path, steering clear of the OB creek."
         }
       }
     },
     {
       "hole_number": 15,
-      "hole_label": "Hole 15 [yellow]",
+      "hole_label": "Hole 15 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 173.2,
-        "relative_degrees": 224.8,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Crosswind from the right."
+        "relative_degrees": 355.8,
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with hyzer and an overstable disc to keep the flight plate from turning over."
+          "shot_strategy": "Player, Hole 15 (Yellow) is into a strong 12 o'clock headwind. Use an overstable driver with a hyzer to keep it from flipping up and turning over, ensuring it fights into the wind and holds a straight line, avoiding the OB water."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release."
+          "shot_strategy": "Player, facing the 12 o'clock headwind on Hole 15 (Yellow), a controlled forehand with a stable driver is recommended to fight the wind and maintain a straight flight path, preventing an unwanted left turn and avoiding the OB water."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "Champ, Hole 15 (Yellow) has a 12 o'clock headwind. A left-hand backhand with an overstable driver on hyzer is your best bet to counteract the wind's force and achieve a predictable flight, keeping it away from the OB water."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 15 (Yellow) and its 12 o'clock headwind, a stable driver thrown forehand with a touch of hyzer will provide the stability needed to fly straight against the wind, avoiding the OB water."
         }
       }
     },
     {
-      "hole_number": 16,
-      "hole_label": "Hole 16 [blue]",
+      "hole_number": 15,
+      "hole_label": "Hole 15 [White]",
       "wind_info": {
-        "azimuth_degrees": 141.1,
-        "relative_degrees": 256.9,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Direct crosswind from the right."
+        "azimuth_degrees": 168.5,
+        "relative_degrees": 0.5,
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "Player, Hole 15 (White) plays into a significant 12 o'clock headwind. Throw an overstable distance driver with a hyzer to keep it from flipping and ensure it penetrates forward against the wind, staying clear of the OB water."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "shot_strategy": "Player, on Hole 15 (White), a controlled forehand with a stable driver is a good option for the 12 o'clock headwind, allowing you to maintain accuracy and fight the wind's influence, avoiding the OB water."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "Champ, Hole 15 (White) faces a 12 o'clock headwind. Your left-hand backhand with an overstable driver on hyzer is crucial to fight the wind and achieve a straight flight path, staying away from the OB water."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 15 (White) and the 12 o'clock headwind, a stable driver on a forehand with a touch of hyzer will provide the stability needed to fly true against the wind, avoiding the OB water."
         }
       }
     },
     {
-      "hole_number": 16,
-      "hole_label": "Hole 16 [white]",
+      "hole_number": 15,
+      "hole_label": "Hole 15 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 142.1,
-        "relative_degrees": 255.9,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Direct crosswind from the right."
+        "azimuth_degrees": 163.1,
+        "relative_degrees": 5.9,
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "Player, Hole 15 (Blue) is into a strong 12 o'clock headwind. An overstable distance driver thrown with a hyzer will give you the best chance to penetrate forward and avoid turning over in this challenging wind, staying clear of the OB water."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "shot_strategy": "Player, on Hole 15 (Blue), the 12 o'clock headwind requires a controlled forehand with a stable driver to fight the wind and ensure a straight and accurate flight, avoiding the OB water."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "Champ, Hole 15 (Blue) demands an overstable driver on a hyzer for your left-hand backhand to overcome the 12 o'clock headwind and maintain a solid flight, staying away from the OB water."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 15 (Blue) and its 12 o'clock headwind, a stable driver on a forehand with a touch of hyzer will offer the stability needed to fly true against the wind, avoiding the OB water."
         }
       }
     },
     {
       "hole_number": 16,
-      "hole_label": "Hole 16 [yellow]",
+      "hole_label": "Hole 16 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 141.8,
-        "relative_degrees": 256.2,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Direct crosswind from the right."
+        "relative_degrees": 27.2,
+        "clock_face": "1 o'clock",
+        "description": "1 o'clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 16 (Yellow) has a 1 o'clock crosswind from the left. Your RHBH will fade right, working with the wind. Use an understable driver for a smooth flex shot to achieve distance and accuracy, keeping it away from the OB water."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, on Hole 16 (Yellow), the 1 o'clock crosswind from the left requires an overstable fairway driver on a forehand. Throw it with a slight hyzer to keep it from flipping up and turning right into the wind, avoiding the OB water."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, Hole 16 (Yellow) faces a 1 o'clock crosswind from the left. Your LHBH naturally fades left, fighting the wind. Use an overstable fairway driver on a hyzer to ensure it holds its line and doesn't drift too far left, away from the OB water."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 16 (Yellow) with a 1 o'clock crosswind from the left, a stable driver on a forehand with a touch of anhyzer will help keep it straight and prevent it from turning over too hard to the right, away from the OB water."
         }
       }
     },
     {
-      "hole_number": 17,
-      "hole_label": "Hole 17 [blue]",
+      "hole_number": 16,
+      "hole_label": "Hole 16 [White]",
       "wind_info": {
-        "azimuth_degrees": 97.7,
-        "relative_degrees": 300.3,
-        "clock_face": "10 o-clock crosswind from right",
-        "description": "Crosswind from the right."
+        "azimuth_degrees": 142.1,
+        "relative_degrees": 26.9,
+        "clock_face": "1 o'clock",
+        "description": "1 o'clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 16 (White) has a 1 o'clock crosswind from the left. Your RHBH will fade right, working with the wind. Use an understable driver on a hyzer flip for a controlled flex shot to gain distance and accuracy, keeping it away from the OB water."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, on Hole 16 (White), the 1 o'clock crosswind from the left calls for an overstable fairway driver on a forehand. A slight hyzer will help prevent it from flipping up and turning right into the wind, avoiding the OB water."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, Hole 16 (White) faces a 1 o'clock crosswind from the left. Your LHBH naturally fades left, fighting the wind. Use an overstable fairway driver on hyzer to ensure it holds its line and doesn't drift too far left, away from the OB water."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 16 (White) with a 1 o'clock crosswind from the left, a stable driver on a forehand with a touch of anhyzer will help keep it straight and prevent it from turning over too hard to the right, away from the OB water."
         }
       }
     },
     {
-      "hole_number": 17,
-      "hole_label": "Hole 17 [white]",
+      "hole_number": 16,
+      "hole_label": "Hole 16 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 98.7,
-        "relative_degrees": 299.3,
-        "clock_face": "10 o-clock crosswind from right",
-        "description": "Crosswind from the right."
+        "azimuth_degrees": 141.1,
+        "relative_degrees": 27.9,
+        "clock_face": "1 o'clock",
+        "description": "1 o'clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 16 (Blue) has a 1 o'clock crosswind from the left. Your RHBH will fade right, working with the wind. Use an understable driver for a smooth flex shot to achieve distance and accuracy, keeping it away from the OB water."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, on Hole 16 (Blue), the 1 o'clock crosswind from the left requires an overstable fairway driver on a forehand. Throw it with a slight hyzer to keep it from flipping up and turning right into the wind, avoiding the OB water."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, Hole 16 (Blue) faces a 1 o'clock crosswind from the left. Your LHBH naturally fades left, fighting the wind. Use an overstable fairway driver on a hyzer to ensure it holds its line and doesn't drift too far left, away from the OB water."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 16 (Blue) with a 1 o'clock crosswind from the left, a stable driver on a forehand with a touch of anhyzer will help keep it straight and prevent it from turning over too hard to the right, away from the OB water."
         }
       }
     },
     {
       "hole_number": 17,
-      "hole_label": "Hole 17 [yellow]",
+      "hole_label": "Hole 17 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 85.5,
-        "relative_degrees": 312.5,
-        "clock_face": "10 o-clock crosswind from right",
-        "description": "Crosswind from the right."
+        "relative_degrees": 83.5,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "3 o'clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "RHBH exposes underside to wind. Prefer RHFH. If RHBH, throw with significant hyzer and an overstable disc to combat wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 17 (Yellow) has a 3 o'clock crosswind from the left. Your RHBH will fade right, working with the wind. Use an understable driver for a smooth flex shot to achieve distance and accuracy."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, on Hole 17 (Yellow), the 3 o'clock crosswind from the left requires an overstable fairway driver on a forehand. Throw it with a slight hyzer to keep it from flipping up and turning right into the wind."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, Hole 17 (Yellow) faces a 3 o'clock crosswind from the left. Your LHBH naturally fades left, fighting the wind. Use an overstable fairway driver on a hyzer to ensure it holds its line and doesn't drift too far left."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Wind from the right is manageable for a RH forehand. Focus on a clean release and keeping the disc low."
+          "shot_strategy": "Champ, for Hole 17 (Yellow) with a 3 o'clock crosswind from the left, a stable driver on a forehand with a touch of anhyzer will help keep it straight and prevent it from turning over too hard to the right."
+        }
+      }
+    },
+    {
+      "hole_number": 17,
+      "hole_label": "Hole 17 [White]",
+      "wind_info": {
+        "azimuth_degrees": 98.7,
+        "relative_degrees": 70.3,
+        "clock_face": "2 o'clock",
+        "description": "2 o'clock crosswind from left"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 17 (White) has a 2 o'clock crosswind from the left. Your RHBH will fade right, working with the wind. Use an understable driver on a hyzer flip for a controlled flex shot to gain distance and accuracy."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, on Hole 17 (White), the 2 o'clock crosswind from the left calls for an overstable fairway driver on a forehand. A slight hyzer will help prevent it from flipping up and turning right into the wind."
         }
       },
       "tips_lh": {
         "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, Hole 17 (White) faces a 2 o'clock crosswind from the left. Your LHBH naturally fades left, fighting the wind. Use an overstable fairway driver on hyzer to ensure it holds its line and doesn't drift too far left."
+        },
+        "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "LHBH fade goes right, wind pushes left. They work together. LHBH is comfortable here. Consider a neutral to slightly overstable disc."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Wind from the right is against LHFH fade. Prefer LHBH. If LHFH, use an overstable disc with a smooth release to fight the wind."
+          "shot_strategy": "Champ, for Hole 17 (White) with a 2 o'clock crosswind from the left, a stable driver on a forehand with a touch of anhyzer will help keep it straight and prevent it from turning over too hard to the right."
         }
       }
     },
     {
-      "hole_number": 18,
-      "hole_label": "Hole 18 [blue]",
+      "hole_number": 17,
+      "hole_label": "Hole 17 [Blue]",
       "wind_info": {
-        "azimuth_degrees": 10.0,
-        "relative_degrees": 28.0,
-        "clock_face": "1 o-clock headwind",
-        "description": "Headwind."
+        "azimuth_degrees": 97.7,
+        "relative_degrees": 71.3,
+        "clock_face": "2 o'clock",
+        "description": "2 o'clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 17 (Blue) has a 2 o'clock crosswind from the left. Your RHBH will fade right, working with the wind. Use an understable driver for a smooth flex shot to achieve distance and accuracy."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, on Hole 17 (Blue), the 2 o'clock crosswind from the left requires an overstable fairway driver on a forehand. Throw it with a slight hyzer to keep it from flipping up and turning right into the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, Hole 17 (Blue) faces a 2 o'clock crosswind from the left. Your LHBH naturally fades left, fighting the wind. Use an overstable fairway driver on a hyzer to ensure it holds its line and doesn't drift too far left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "Champ, for Hole 17 (Blue) with a 2 o'clock crosswind from the left, a stable driver on a forehand with a touch of anhyzer will help keep it straight and prevent it from turning over too hard to the right."
         }
       }
     },
     {
       "hole_number": 18,
-      "hole_label": "Hole 18 [white]",
-      "wind_info": {
-        "azimuth_degrees": 7.0,
-        "relative_degrees": 31.0,
-        "clock_face": "1 o-clock headwind",
-        "description": "Headwind."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
-        }
-      }
-    },
-    {
-      "hole_number": 18,
-      "hole_label": "Hole 18 [yellow]",
+      "hole_label": "Hole 18 [Yellow]",
       "wind_info": {
         "azimuth_degrees": 11.5,
-        "relative_degrees": 26.5,
-        "clock_face": "1 o-clock headwind",
-        "description": "Headwind."
+        "relative_degrees": 157.5,
+        "clock_face": "5 o'clock",
+        "description": "5 o'clock tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 18 (Yellow) has a 5 o'clock tailwind. Use an understable driver for maximum distance, throwing a smooth hyzer flip to keep it from drifting right and into the OB roadway."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, on Hole 18 (Yellow), the 5 o'clock tailwind favors an understable driver on a forehand flex shot, ensuring it carries well down the fairway while avoiding the OB roadway to the left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 18 (Yellow) plays into a 5 o'clock tailwind. A left-hand backhand with an understable driver on hyzer flip will maximize distance, keeping it away from the OB roadway to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Headwind. Manageable for both BH and FH. Use an overstable disc to prevent it from turning over and getting carried by the wind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, for Hole 18 (Yellow) and its 5 o'clock tailwind, an understable driver on a forehand with a flex line will carry well down the fairway, staying clear of the OB roadway to the left."
+        }
+      }
+    },
+    {
+      "hole_number": 18,
+      "hole_label": "Hole 18 [White]",
+      "wind_info": {
+        "azimuth_degrees": 7.0,
+        "relative_degrees": 162.0,
+        "clock_face": "5 o'clock",
+        "description": "5 o'clock tailwind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, Hole 18 (White) has a 5 o'clock tailwind. Throw an understable driver on a smooth hyzer flip for maximum distance, being careful to avoid the OB roadway to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, on Hole 18 (White), the 5 o'clock tailwind is ideal for an understable driver on a forehand flex shot, ensuring distance while staying clear of the OB roadway to the left."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 18 (White) benefits from a 5 o'clock tailwind. A left-hand backhand with an understable driver on hyzer flip will maximize distance, keeping it away from the OB roadway to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, for Hole 18 (White) and its 5 o'clock tailwind, an understable driver on a forehand with a flex line will carry well down the fairway, staying clear of the OB roadway to the left."
+        }
+      }
+    },
+    {
+      "hole_number": 18,
+      "hole_label": "Hole 18 [Blue]",
+      "wind_info": {
+        "azimuth_degrees": 10.0,
+        "relative_degrees": 159.0,
+        "clock_face": "5 o'clock",
+        "description": "5 o'clock tailwind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, Hole 18 (Blue) has a significant 5 o'clock tailwind. Use an understable distance driver on a smooth hyzer flip for maximum distance, being careful to avoid the OB roadway to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Player, on Hole 18 (Blue), the 5 o'clock tailwind favors an understable driver on a forehand flex shot, ensuring it carries well down the fairway while avoiding the OB roadway to the left."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, Hole 18 (Blue) plays into a 5 o'clock tailwind. A left-hand backhand with an understable driver on hyzer flip will maximize distance, keeping it away from the OB roadway to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "Champ, for Hole 18 (Blue) and its 5 o'clock tailwind, an understable driver on a forehand with a flex line will carry well down the fairway, staying clear of the OB roadway to the left."
         }
       }
     }
