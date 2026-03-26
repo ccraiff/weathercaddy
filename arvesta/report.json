@@ -1,1577 +1,557 @@
 {
   "course": "Lake Arvesta Sports Complex",
-  "report_generated_at": "2026-03-25 18:10 EDT",
+  "report_generated_at": "2026-03-25 20:14 EDT",
   "current_wind": {
-    "speed_mph": 15.8,
-    "direction_degrees": 212,
-    "gusts_mph": 24.6,
-    "description": "Strong South-Southwest wind"
+    "speed_mph": 7.3,
+    "direction_degrees": 191,
+    "gusts_mph": 15.9,
+    "description": "7.3 mph from 191° (SSW), gusts to 15.9 mph"
   },
   "forecast_5hr": [
-    {"time_edt": "2026-03-25 17:00 EDT", "speed_mph": 15.8, "direction_degrees": 212},
-    {"time_edt": "2026-03-25 18:00 EDT", "speed_mph": 10.8, "direction_degrees": 202},
-    {"time_edt": "2026-03-25 19:00 EDT", "speed_mph": 7.8, "direction_degrees": 177},
-    {"time_edt": "2026-03-25 20:00 EDT", "speed_mph": 7.8, "direction_degrees": 177},
-    {"time_edt": "2026-03-25 21:00 EDT", "speed_mph": 8.8, "direction_degrees": 184}
+    {"time_edt": "2026-03-25 19:00 EDT", "speed_mph": 7.3, "direction_degrees": 191},
+    {"time_edt": "2026-03-25 20:00 EDT", "speed_mph": 7.6, "direction_degrees": 182},
+    {"time_edt": "2026-03-25 21:00 EDT", "speed_mph": 7.9, "direction_degrees": 188},
+    {"time_edt": "2026-03-25 22:00 EDT", "speed_mph": 8.5, "direction_degrees": 217},
+    {"time_edt": "2026-03-25 23:00 EDT", "speed_mph": 13.2, "direction_degrees": 230}
   ],
   "holes": [
     {
-      "hole_number": "1",
+      "hole_number": 1,
       "hole_label": "Hole 1",
       "wind_info": {
         "azimuth_degrees": 150.0,
-        "relative_degrees": 62.0,
-        "clock_face": "2 o-clock crosswind from left",
-        "description": "Moderate to strong crosswind from the left, pushing slightly right."
+        "relative_degrees": 41.0,
+        "clock_face": "1 o-clock",
+        "description": "1 o'clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Fairway Driver or Putter",
-          "shot_strategy": "For Hole 1 (Yellow), with a 2 o'clock crosswind from the left pushing right, your RHBH flight plate is exposed. Throw an overstable disc with a controlled hyzer to keep it from drifting OB into the water."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Putter or Approach disc",
-          "shot_strategy": "For Hole 1 (Yellow), the 2 o'clock crosswind from the left demands an overstable disc for a controlled RHFH to combat the wind's push towards the OB water."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Putter or Midrange",
-          "shot_strategy": "For Hole 1 (Yellow), the 2 o'clock crosswind from the left means your LHBH shot naturally fades away from the OB water, making it a manageable play."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For Hole 1 (Yellow) with a 1 o'clock wind, throw a controlled RHBH with an overstable fairway driver to combat the leftward push, avoiding the water OB to the right."
         },
         "fh": {
           "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "For Hole 1 (Yellow), with the 2 o'clock crosswind from the left, a stable LHFH shot will fight the wind's push and fight to stay out of the OB water."
-        }
-      }
-    },
-    {
-      "hole_number": "1",
-      "hole_label": "Hole 1 (White)",
-      "wind_info": {
-        "azimuth_degrees": 197.3,
-        "relative_degrees": 14.7,
-        "clock_face": "12 o-clock headwind",
-        "description": "Strong headwind."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 1 (White), the strong 12 o'clock headwind requires an overstable driver for your RHBH to maintain stability and reach the basket."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 1 (White), use an overstable driver for an RHFH shot to counter the strong 12 o'clock headwind and avoid drifting OB into the water."
+          "shot_strategy": "For Hole 1 (White) with a 12 o'clock headwind, a stable fairway driver thrown RHFH with a hyzer flip will be effective, aiming to stay out of the water OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 1 (White), a strong 12 o'clock headwind demands an overstable disc for your LHBH to fight the wind and stay out of the OB water."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 1 (Blue) with a 12 o'clock headwind, use a stable fairway driver on a LHBH line, ensuring you give it enough power to clear the water OB."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 1 (White), throw a stable driver with an LHFH to combat the strong 12 o'clock headwind and prevent it from pushing you OB into the water."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "On Hole 1 (Blue), the 12 o'clock headwind calls for an understable fairway driver on a LHFH, aiming for a smooth flight path that avoids the water OB."
         }
       }
     },
     {
-      "hole_number": "1",
-      "hole_label": "Hole 1 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 196.9,
-        "relative_degrees": 15.1,
-        "clock_face": "1 o-clock headwind",
-        "description": "Strong headwind."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 1 (Blue), the 1 o'clock headwind means you should throw an overstable driver with your RHBH to maintain control and avoid OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 1 (Blue), an overstable driver thrown RHFH is recommended to fight the strong 1 o'clock headwind and stay clear of the OB water."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 1 (Blue), a strong 1 o'clock headwind requires an overstable disc for your LHBH to prevent it from being pushed OB into the water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 1 (Blue), use a stable driver for an LHFH to counter the 1 o'clock headwind and stay out of the OB water."
-        }
-      }
-    },
-    {
-      "hole_number": "2",
-      "hole_label": "Hole 2 (Yellow)",
+      "hole_number": 2,
+      "hole_label": "Hole 2",
       "wind_info": {
         "azimuth_degrees": 264.9,
-        "relative_degrees": 307.1,
-        "clock_face": "10 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left."
+        "relative_degrees": 286.1,
+        "clock_face": "10 o-clock",
+        "description": "10 o'clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange or Putter",
-          "shot_strategy": "For Hole 2 (Yellow), with a strong 10 o'clock crosswind from the right pushing left, an understable disc thrown RHBH will fight the wind and land safely."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For Hole 2 (Yellow) facing a 10 o'clock wind, a RHBH with an overstable fairway driver should provide a reliable fade away from the left side."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 2 (Yellow), a strong 10 o'clock crosswind from the right necessitates a stable driver for an RHFH to control the leftward push."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "On Hole 2 (White), the 9 o'clock crosswind from the right is best attacked with a RHFH using a stable fairway driver, ensuring a clean flight."
         }
       },
       "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver or Midrange",
-          "shot_strategy": "For Hole 2 (Yellow), the 10 o'clock crosswind from the right means your LHBH will naturally fade away from the push, making a stable disc a good choice."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 2 (Yellow), use an understable driver for an LHFH to overcome the strong 10 o'clock crosswind from the right."
-        }
-      }
-    },
-    {
-      "hole_number": "2",
-      "hole_label": "Hole 2 (White)",
-      "wind_info": {
-        "azimuth_degrees": 271.8,
-        "relative_degrees": 300.2,
-        "clock_face": "10 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "For Hole 2 (White), the strong 10 o'clock crosswind from the right requires an understable midrange thrown RHBH to manage the leftward push."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 2 (White), a stable driver thrown RHFH is recommended to combat the strong 10 o'clock crosswind from the right."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For Hole 2 (White), your LHBH with a stable midrange will work with the 10 o'clock crosswind from the right to achieve a straight flight."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 2 (White), throw an understable driver with an LHFH to fight the strong 10 o'clock crosswind from the right."
-        }
-      }
-    },
-    {
-      "hole_number": "2",
-      "hole_label": "Hole 2 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 283.1,
-        "relative_degrees": 288.9,
-        "clock_face": "10 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left."
-      },
-      "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "For Hole 2 (Blue), the strong 10 o'clock crosswind from the right demands an understable fairway driver for your RHBH to counteract the leftward push."
+          "shot_strategy": "For Hole 2 (Blue), a 9 o'clock crosswind from the right can be managed with an LHBH using an understable fairway driver, allowing the wind to assist the natural fade."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 2 (Blue), throw a stable driver RHFH into the strong 10 o'clock crosswind from the right to ensure accuracy."
-        }
-      },
-      "tips_lh": {
-        "bh": {
           "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For Hole 2 (Blue), a stable midrange thrown LHBH will naturally fight the strong 10 o'clock crosswind from the right, guiding it towards the basket."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 2 (Blue), an understable driver thrown LHFH is recommended to battle the strong 10 o'clock crosswind from the right."
+          "shot_strategy": "On Hole 2 (Blue), a 9 o'clock crosswind from the right is manageable with a LHFH using a stable midrange, focusing on accuracy."
         }
       }
     },
     {
-      "hole_number": "3",
-      "hole_label": "Hole 3 (Yellow)",
+      "hole_number": 3,
+      "hole_label": "Hole 3",
       "wind_info": {
         "azimuth_degrees": 235.6,
-        "relative_degrees": 336.4,
-        "clock_face": "11 o-clock headwind",
-        "description": "Strong headwind."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "For Hole 3 (Yellow), the strong 11 o'clock headwind requires an overstable putter for your RHBH to maintain a straight flight."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "On Hole 3 (Yellow), throw an overstable putter RHFH into the strong 11 o'clock headwind to achieve a controlled approach."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "For Hole 3 (Yellow), your LHBH with an overstable putter will fight the strong 11 o'clock headwind effectively."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 3 (Yellow), a stable putter thrown LHFH is recommended to counter the strong 11 o'clock headwind."
-        }
-      }
-    },
-    {
-      "hole_number": "3",
-      "hole_label": "Hole 3 (White)",
-      "wind_info": {
-        "azimuth_degrees": 231.7,
-        "relative_degrees": 340.3,
-        "clock_face": "11 o-clock headwind",
-        "description": "Strong headwind."
+        "relative_degrees": 315.4,
+        "clock_face": "11 o-clock",
+        "description": "11 o-clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 3 (White), the strong 11 o'clock headwind necessitates an overstable fairway driver for your RHBH to reach the basket."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "On Hole 3 (White), use an overstable fairway driver for an RHFH into the strong 11 o'clock headwind for a controlled flight."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 3 (White), your LHBH with an overstable fairway driver will cut through the strong 11 o'clock headwind."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 3 (White), throw a stable fairway driver LHFH to battle the strong 11 o'clock headwind."
-        }
-      }
-    },
-    {
-      "hole_number": "3",
-      "hole_label": "Hole 3 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 219.3,
-        "relative_degrees": 352.7,
-        "clock_face": "12 o-clock headwind",
-        "description": "Strong headwind."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 3 (Blue), the strong 12 o'clock headwind demands an overstable driver for your RHBH to maintain accuracy and distance."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 3 (Blue), throw an overstable driver RHFH into the strong 12 o'clock headwind for a reliable flight."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 3 (Blue), your LHBH with an overstable driver will effectively counter the strong 12 o'clock headwind."
+          "shot_strategy": "With an 11 o'clock wind on Hole 3 (Yellow), an overstable fairway driver on a RHBH line will fight the wind effectively to reach the basket."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 3 (Blue), a stable driver thrown LHFH is recommended to overcome the strong 12 o'clock headwind."
+          "shot_strategy": "For Hole 3 (White), a stable driver thrown RHFH is a good choice against the 11 o'clock wind, allowing for a controlled flight."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "On Hole 3 (Blue), the 11 o'clock wind is best handled with an overstable driver on a LHBH, ensuring it penetrates through the wind."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "For Hole 3 (Blue), a LHFH with a stable driver is a solid play against the 11 o'clock wind, promoting accuracy."
         }
       }
     },
     {
-      "hole_number": "4",
-      "hole_label": "Hole 4 (Yellow)",
+      "hole_number": 4,
+      "hole_label": "Hole 4",
       "wind_info": {
         "azimuth_degrees": 168.6,
-        "relative_degrees": 43.4,
-        "clock_face": "1 o-clock crosswind from left",
-        "description": "Moderate to strong crosswind from the left, pushing right."
+        "relative_degrees": 22.4,
+        "clock_face": "1 o-clock",
+        "description": "1 o-clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 4 (Yellow), with a 1 o'clock crosswind from the left, an overstable fairway driver thrown RHBH will fight the rightward push and land accurately."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "For Hole 4 (Yellow), the 1 o'clock wind suggests a stable driver on a RHBH with a slight hyzer to keep it straight, given the distance."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "On Hole 4 (White), a RHFH with an overstable driver will provide the necessary stability to fight the 1 o'clock wind over this longer distance."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "For Hole 4 (Blue), the 1 o'clock wind combined with the long distance is best handled by an overstable driver on a LHBH, ensuring it penetrates forward."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "On Hole 4 (Blue), a LHFH with a stable driver is a viable option against the 1 o'clock wind, allowing for a controlled flex shot."
+        }
+      }
+    },
+    {
+      "hole_number": 5,
+      "hole_label": "Hole 5",
+      "wind_info": {
+        "azimuth_degrees": 270.0,
+        "relative_degrees": 281.0,
+        "clock_face": "9 o-clock crosswind from right",
+        "description": "9 o-clock crosswind from right"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "For Hole 5 (Yellow), the 9 o'clock crosswind from the right makes a RHBH risky due to wind exposure; aim for the drop zone and use an understable driver."
         },
         "fh": {
           "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "On Hole 4 (Yellow), a stable midrange thrown RHFH is advisable to control the 1 o'clock crosswind from the left and prevent excessive drift."
+          "shot_strategy": "On Hole 5 (White), a stable midrange thrown RHFH is the safest play against the 9 o'clock crosswind from the right, prioritizing accuracy to avoid the water OB."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "For Hole 4 (Yellow), your LHBH with an understable fairway driver will naturally fade into the 1 o'clock crosswind from the left, achieving a straighter flight."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 4 (Yellow), use a stable driver for an LHFH to manage the 1 o'clock crosswind from the left."
-        }
-      }
-    },
-    {
-      "hole_number": "4",
-      "hole_label": "Hole 4 (White)",
-      "wind_info": {
-        "azimuth_degrees": 164.4,
-        "relative_degrees": 47.6,
-        "clock_face": "2 o-clock crosswind from left",
-        "description": "Moderate to strong crosswind from the left, pushing right."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 4 (White), the 2 o'clock crosswind from the left necessitates an overstable driver for your RHBH to combat the rightward push."
+          "shot_strategy": "For Hole 5 (Blue), the 9 o'clock crosswind from the right is best managed with an LHBH using an understable fairway driver, letting the wind push it towards the fairway and away from water OB."
         },
         "fh": {
           "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 4 (White), throw a stable fairway driver RHFH into the 2 o'clock crosswind from the left to maintain control."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 4 (White), your LHBH with an understable driver will naturally fade into the 2 o'clock crosswind from the left, enabling a straighter flight."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 4 (White), use a stable driver for an LHFH to manage the 2 o'clock crosswind from the left."
+          "shot_strategy": "On Hole 5 (Blue), a LHFH with a stable fairway driver is a good option against the 9 o'clock crosswind from the right, aiming for the fairway to avoid the water OB."
         }
       }
     },
     {
-      "hole_number": "4",
-      "hole_label": "Hole 4 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 167.1,
-        "relative_degrees": 44.9,
-        "clock_face": "1 o-clock crosswind from left",
-        "description": "Moderate to strong crosswind from the left, pushing right."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 4 (Blue), with a 1 o'clock crosswind from the left, an overstable driver thrown RHBH is crucial to fight the rightward push on this long hole."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 4 (Blue), a stable driver thrown RHFH will help control the flight against the 1 o'clock crosswind from the left, especially on this long par 5."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 4 (Blue), your LHBH with an understable driver will naturally fade into the 1 o'clock crosswind from the left, allowing for a straighter flight towards the distant basket."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 4 (Blue), use a stable driver for an LHFH to manage the 1 o'clock crosswind from the left on this demanding par 5."
-        }
-      }
-    },
-    {
-      "hole_number": "5",
-      "hole_label": "Hole 5 (Yellow)",
-      "wind_info": {
-        "azimuth_degrees": 270.0,
-        "relative_degrees": 302.0,
-        "clock_face": "10 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB water."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "For Hole 5 (Yellow), the strong 10 o'clock crosswind from the right pushes left, so throw an overstable putter RHBH to stay out of the OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 5 (Yellow), a stable putter thrown RHFH is recommended to battle the strong 10 o'clock crosswind from the right and avoid the OB water."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Putter",
-          "shot_strategy": "For Hole 5 (Yellow), your LHBH with an understable putter will naturally fade away from the 10 o'clock crosswind from the right, helping you avoid the OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 5 (Yellow), use a stable putter for an LHFH to counteract the strong 10 o'clock crosswind from the right and stay safe from the OB water."
-        }
-      }
-    },
-    {
-      "hole_number": "5",
-      "hole_label": "Hole 5 (White)",
-      "wind_info": {
-        "azimuth_degrees": 266.3,
-        "relative_degrees": 305.7,
-        "clock_face": "10 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB water."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "For Hole 5 (White), the strong 10 o'clock crosswind from the right requires an overstable putter thrown RHBH to keep it from drifting into the OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 5 (White), throw a stable putter RHFH to fight the strong 10 o'clock crosswind from the right and avoid the OB water."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Putter",
-          "shot_strategy": "For Hole 5 (White), your LHBH with an understable putter will naturally fade away from the 10 o'clock crosswind from the right, helping to avoid the OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 5 (White), use a stable putter for an LHFH to counter the strong 10 o'clock crosswind from the right and avoid the OB water."
-        }
-      }
-    },
-    {
-      "hole_number": "5",
-      "hole_label": "Hole 5 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 270.0,
-        "relative_degrees": 302.0,
-        "clock_face": "10 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB water."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 5 (Blue), the strong 10 o'clock crosswind from the right necessitates an overstable driver thrown RHBH to keep it from drifting OB into the water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 5 (Blue), throw a stable driver RHFH to combat the strong 10 o'clock crosswind from the right and avoid the OB water."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 5 (Blue), your LHBH with an understable driver will naturally fade away from the 10 o'clock crosswind from the right, helping you avoid the OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 5 (Blue), use a stable driver for an LHFH to counteract the strong 10 o'clock crosswind from the right and stay safe from the OB water."
-        }
-      }
-    },
-    {
-      "hole_number": "6",
-      "hole_label": "Hole 6 (Yellow)",
+      "hole_number": 6,
+      "hole_label": "Hole 6",
       "wind_info": {
         "azimuth_degrees": 229.4,
-        "relative_degrees": 342.6,
-        "clock_face": "11 o-clock headwind",
-        "description": "Strong headwind. OB water."
+        "relative_degrees": 321.6,
+        "clock_face": "11 o-clock",
+        "description": "11 o-clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 6 (Yellow), the strong 11 o'clock headwind requires an overstable driver for your RHBH to achieve distance and avoid OB water."
+          "shot_strategy": "For Hole 6 (Yellow), the 11 o'clock wind suggests an overstable driver on a RHBH to maintain a straight line and avoid the water OB."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 6 (Yellow), throw an overstable driver RHFH into the strong 11 o'clock headwind to maintain accuracy and stay out of the OB water."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "On Hole 6 (White), a RHFH with a stable fairway driver is recommended against the 11 o'clock wind, aiming to stay clear of the water OB."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 6 (Yellow), your LHBH with an overstable driver will cut through the strong 11 o'clock headwind and help you avoid the OB water."
+          "shot_strategy": "For Hole 6 (Blue), an overstable driver on a LHBH is the choice against the 11 o'clock wind, powering through the wind to avoid the water OB."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 6 (Yellow), use a stable driver for an LHFH to combat the strong 11 o'clock headwind and avoid the OB water."
+          "shot_strategy": "On Hole 6 (Blue), a LHFH with a stable driver is a good option against the 11 o'clock wind, allowing for a controlled flight path away from the water OB."
         }
       }
     },
     {
-      "hole_number": "6",
-      "hole_label": "Hole 6 (White)",
-      "wind_info": {
-        "azimuth_degrees": 233.0,
-        "relative_degrees": 339.0,
-        "clock_face": "11 o-clock headwind",
-        "description": "Strong headwind. OB water."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 6 (White), the strong 11 o'clock headwind demands an overstable driver for your RHBH to achieve the necessary distance and avoid the OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 6 (White), throw an overstable driver RHFH into the strong 11 o'clock headwind to maintain accuracy and stay out of the OB water."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 6 (White), your LHBH with an overstable driver will cut through the strong 11 o'clock headwind, keeping you clear of the OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 6 (White), use a stable driver for an LHFH to combat the strong 11 o'clock headwind and avoid the OB water."
-        }
-      }
-    },
-    {
-      "hole_number": "6",
-      "hole_label": "Hole 6 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 216.3,
-        "relative_degrees": 355.7,
-        "clock_face": "12 o-clock headwind",
-        "description": "Strong headwind. OB water."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 6 (Blue), the strong 12 o'clock headwind necessitates an overstable driver for your RHBH to achieve distance and avoid OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 6 (Blue), throw an overstable driver RHFH into the strong 12 o'clock headwind for a reliable flight that stays out of the OB water."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 6 (Blue), your LHBH with an overstable driver will effectively battle the strong 12 o'clock headwind and prevent it from pushing you into the OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 6 (Blue), use a stable driver for an LHFH to overcome the strong 12 o'clock headwind and avoid the OB water."
-        }
-      }
-    },
-    {
-      "hole_number": "7",
-      "hole_label": "Hole 7 (Yellow)",
+      "hole_number": 7,
+      "hole_label": "Hole 7",
       "wind_info": {
         "azimuth_degrees": 176.6,
-        "relative_degrees": 35.4,
-        "clock_face": "1 o-clock crosswind from left",
-        "description": "Moderate to strong crosswind from the left, pushing right."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "For Hole 7 (Yellow), with a 1 o'clock crosswind from the left, an overstable putter thrown RHBH will help counter the rightward push."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "On Hole 7 (Yellow), a stable midrange thrown RHFH will manage the 1 o'clock crosswind from the left, allowing for accuracy."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Putter",
-          "shot_strategy": "For Hole 7 (Yellow), your LHBH with an understable putter will naturally fade into the 1 o'clock crosswind from the left, enabling a straighter flight."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "On Hole 7 (Yellow), use a stable midrange for an LHFH to manage the 1 o'clock crosswind from the left."
-        }
-      }
-    },
-    {
-      "hole_number": "7",
-      "hole_label": "Hole 7 (White)",
-      "wind_info": {
-        "azimuth_degrees": 182.2,
-        "relative_degrees": 29.8,
-        "clock_face": "1 o-clock crosswind from left",
-        "description": "Moderate crosswind from the left, pushing right."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Midrange",
-          "shot_strategy": "For Hole 7 (White), the 1 o'clock crosswind from the left requires an overstable midrange thrown RHBH to fight the rightward push."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "On Hole 7 (White), throw a stable midrange RHFH into the 1 o'clock crosswind from the left for better control."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "For Hole 7 (White), your LHBH with an understable midrange will naturally fade into the 1 o'clock crosswind from the left, achieving a straighter flight."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "On Hole 7 (White), use a stable midrange for an LHFH to manage the 1 o'clock crosswind from the left."
-        }
-      }
-    },
-    {
-      "hole_number": "7",
-      "hole_label": "Hole 7 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 164.8,
-        "relative_degrees": 47.2,
-        "clock_face": "2 o-clock crosswind from left",
-        "description": "Moderate to strong crosswind from the left, pushing right."
+        "relative_degrees": 14.4,
+        "clock_face": "12 o-clock headwind",
+        "description": "12 o-clock headwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 7 (Blue), the 2 o'clock crosswind from the left demands an overstable driver thrown RHBH to combat the rightward push on this long hole."
+          "shot_strategy": "For Hole 7 (Yellow), a strong 12 o'clock headwind requires an overstable driver on a RHBH, ensuring it penetrates forward to the basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 7 (Blue), a stable driver thrown RHFH will help control the flight against the 2 o'clock crosswind from the left."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "On Hole 7 (White), the 12 o'clock headwind is best met with an overstable driver on a RHFH, providing maximum stability."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 7 (Blue), your LHBH with an understable driver will naturally fade into the 2 o'clock crosswind from the left, enabling a straighter flight towards the basket."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "For Hole 7 (Blue), a 12 o'clock headwind is best tackled with an overstable driver on a LHBH, pushing forward against the wind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 7 (Blue), use a stable driver for an LHFH to manage the 2 o'clock crosswind from the left."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "On Hole 7 (Blue), a LHFH with an overstable driver will counter the 12 o'clock headwind effectively, ensuring a stable flight."
         }
       }
     },
     {
-      "hole_number": "8",
-      "hole_label": "Hole 8 (Yellow)",
+      "hole_number": 8,
+      "hole_label": "Hole 8",
       "wind_info": {
         "azimuth_degrees": 356.3,
-        "relative_degrees": 215.7,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB roadway."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "For Hole 8 (Yellow), the strong 7 o'clock crosswind from the right requires an understable midrange thrown RHBH to counteract the leftward push and stay out of the OB roadway."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 8 (Yellow), throw a stable driver RHFH into the strong 7 o'clock crosswind from the right to keep it away from the OB roadway."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For Hole 8 (Yellow), your LHBH with a stable midrange will naturally fade away from the 7 o'clock crosswind from the right, helping you avoid the OB roadway."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 8 (Yellow), use an understable driver for an LHFH to fight the strong 7 o'clock crosswind from the right and stay clear of the OB roadway."
-        }
-      }
-    },
-    {
-      "hole_number": "8",
-      "hole_label": "Hole 8 (White)",
-      "wind_info": {
-        "azimuth_degrees": 0.1,
-        "relative_degrees": 211.9,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB roadway."
+        "relative_degrees": 194.7,
+        "clock_face": "6 o-clock tailwind",
+        "description": "6 o-clock tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 8 (White), the strong 7 o'clock crosswind from the right demands an understable driver thrown RHBH to fight the leftward push and avoid the OB roadway."
+          "shot_strategy": "For Hole 8 (Yellow), a 6 o'clock tailwind on this hole means an understable driver thrown RHBH will get maximum distance, but be mindful of the OB roadway to the left."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 8 (White), throw a stable driver RHFH into the strong 7 o'clock crosswind from the right to keep it away from the OB roadway."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "On Hole 8 (White), the 6 o'clock tailwind encourages an understable driver thrown RHFH for distance, but always stay aware of the roadway OB to the left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 8 (White), your LHBH with a stable driver will naturally fade away from the 7 o'clock crosswind from the right, keeping it clear of the OB roadway."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "For Hole 8 (Blue), the 6 o'clock tailwind is ideal for an understable driver on a LHBH, maximizing distance while carefully avoiding the roadway OB to the left."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 8 (White), use an understable driver for an LHFH to battle the strong 7 o'clock crosswind from the right and avoid the OB roadway."
+          "shot_strategy": "On Hole 8 (Blue), a LHFH with an understable driver will take advantage of the 6 o'clock tailwind for distance, keeping the shot to the right of the roadway OB."
         }
       }
     },
     {
-      "hole_number": "8",
-      "hole_label": "Hole 8 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 347.4,
-        "relative_degrees": 224.6,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB roadway."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 8 (Blue), the strong 7 o'clock crosswind from the right requires an understable driver thrown RHBH to fight the leftward push and avoid the OB roadway on this long hole."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 8 (Blue), throw a stable driver RHFH into the strong 7 o'clock crosswind from the right to keep it away from the OB roadway on this long par 4."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 8 (Blue), your LHBH with a stable driver will naturally fade away from the 7 o'clock crosswind from the right, keeping it clear of the OB roadway on this long par 4."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 8 (Blue), use an understable driver for an LHFH to battle the strong 7 o'clock crosswind from the right and avoid the OB roadway on this long par 4."
-        }
-      }
-    },
-    {
-      "hole_number": "9",
+      "hole_number": 9,
       "hole_label": "Hole 9",
       "wind_info": {
         "azimuth_degrees": 296.3,
-        "relative_degrees": 275.7,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB roadway."
+        "relative_degrees": 254.7,
+        "clock_face": "8 o-clock",
+        "description": "8 o-clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "On Hole 9, the strong 9 o'clock crosswind from the right pushes left; throw an overstable putter RHBH to fight the wind and avoid the OB roadway."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 9 (Yellow), an 8 o'clock wind suggests a stable fairway driver on a RHBH, ensuring it stays clear of the OB roadway."
         },
         "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "For Hole 9, use a stable putter with an RHFH to control the strong 9 o'clock crosswind from the right and stay out of the OB roadway."
+          "disc_recommendation": "Overstable Midrange",
+          "shot_strategy": "On Hole 9 (White), an 8 o'clock wind can be managed with an overstable midrange thrown RHFH, prioritizing accuracy away from the OB roadway."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Putter",
-          "shot_strategy": "For Hole 9, your LHBH with an understable putter will naturally fade away from the 9 o'clock crosswind from the right, helping to avoid the OB roadway."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "For Hole 9 (Blue), a LHBH with an understable driver should work with the 8 o'clock wind, keeping the disc away from the OB roadway."
         },
         "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 9, throw a stable putter LHFH to counter the strong 9 o'clock crosswind from the right and avoid the OB roadway."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "On Hole 9 (Blue), a LHFH with a stable fairway driver is a good choice for the 8 o'clock wind, aiming to avoid the OB roadway and fence."
         }
       }
     },
     {
-      "hole_number": "10",
-      "hole_label": "Hole 10 (Yellow)",
+      "hole_number": 10,
+      "hole_label": "Hole 10",
       "wind_info": {
         "azimuth_degrees": 353.5,
-        "relative_degrees": 218.5,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB water. Sand trap hazard."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "For Hole 10 (Yellow), the strong 7 o'clock crosswind from the right requires an understable midrange thrown RHBH to fight the leftward push and avoid OB water and the sand trap."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 10 (Yellow), throw a stable driver RHFH into the strong 7 o'clock crosswind from the right to keep it away from the OB water and sand trap."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For Hole 10 (Yellow), your LHBH with a stable midrange will naturally fade away from the 7 o'clock crosswind from the right, helping you avoid the OB water and sand trap."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 10 (Yellow), use an understable driver for an LHFH to battle the strong 7 o'clock crosswind from the right and stay out of the OB water and sand trap."
-        }
-      }
-    },
-    {
-      "hole_number": "10",
-      "hole_label": "Hole 10 (White)",
-      "wind_info": {
-        "azimuth_degrees": 357.3,
-        "relative_degrees": 214.7,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB water. Sand trap hazard."
+        "relative_degrees": 197.5,
+        "clock_face": "7 o-clock",
+        "description": "7 o-clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 10 (White), the strong 7 o'clock crosswind from the right necessitates an understable driver thrown RHBH to combat the leftward push and avoid OB water and the sand trap."
+          "shot_strategy": "For Hole 10 (Yellow), the 7 o'clock wind calls for an understable driver on a RHBH, aiming for distance while avoiding the water OB and the sand trap hazard."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 10 (White), throw a stable driver RHFH into the strong 7 o'clock crosswind from the right to keep it away from the OB water and sand trap."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "On Hole 10 (White), a 6 o'clock tailwind with water OB and a sand trap hazard means an understable driver thrown RHFH for maximum distance is ideal, staying clear of hazards."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 10 (White), your LHBH with a stable driver will naturally fade away from the 7 o'clock crosswind from the right, helping you avoid the OB water and sand trap."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "For Hole 10 (Blue), the 7 o'clock wind is best met with an understable driver on a LHBH, carefully navigating past the water OB and sand trap hazard."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 10 (White), use an understable driver for an LHFH to battle the strong 7 o'clock crosswind from the right and stay out of the OB water and sand trap."
+          "shot_strategy": "On Hole 10 (Blue), a LHFH with an understable driver will take advantage of the 7 o'clock wind while prioritizing safety from the water OB and sand trap."
         }
       }
     },
     {
-      "hole_number": "10",
-      "hole_label": "Hole 10 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 344.3,
-        "relative_degrees": 227.7,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB water. Sand trap hazard."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 10 (Blue), the strong 8 o'clock crosswind from the right requires an understable driver thrown RHBH to fight the leftward push and avoid OB water and the sand trap on this long hole."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 10 (Blue), throw a stable driver RHFH into the strong 8 o'clock crosswind from the right to keep it away from the OB water and sand trap on this long par 5."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 10 (Blue), your LHBH with a stable driver will naturally fade away from the 8 o'clock crosswind from the right, helping you avoid the OB water and sand trap on this long par 5."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 10 (Blue), use an understable driver for an LHFH to battle the strong 8 o'clock crosswind from the right and stay out of the OB water and sand trap on this long par 5."
-        }
-      }
-    },
-    {
-      "hole_number": "11",
-      "hole_label": "Hole 11 (Yellow)",
+      "hole_number": 11,
+      "hole_label": "Hole 11",
       "wind_info": {
         "azimuth_degrees": 79.9,
-        "relative_degrees": 132.1,
-        "clock_face": "4 o-clock crosswind from right",
-        "description": "Moderate to strong crosswind from the right, pushing left."
+        "relative_degrees": 111.1,
+        "clock_face": "4 o-clock",
+        "description": "4 o-clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 11 (Yellow), the 4 o'clock crosswind from the right requires an overstable driver for your RHBH to combat the leftward push."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "For Hole 11 (Yellow), a 4 o'clock wind suggests a stable driver on a RHBH line, utilizing the drop zone if necessary."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 11 (Yellow), throw a stable driver RHFH into the 4 o'clock crosswind from the right for better control."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "On Hole 11 (White), a RHFH with an understable driver will work well with the 4 o'clock wind, aiming for the target from the drop zone if needed."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 11 (Yellow), your LHBH with an understable driver will naturally fade away from the 4 o'clock crosswind from the right, allowing for a straighter flight."
+          "shot_strategy": "For Hole 11 (Blue), a LHBH with an understable driver should curve nicely with the 4 o'clock wind, taking advantage of the drop zone."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 11 (Yellow), use a stable driver for an LHFH to manage the 4 o'clock crosswind from the right."
+          "shot_strategy": "On Hole 11 (Blue), a LHFH with a stable driver will provide a reliable flight against the 4 o'clock wind, utilizing the drop zone."
         }
       }
     },
     {
-      "hole_number": "11",
-      "hole_label": "Hole 11 (White)",
-      "wind_info": {
-        "azimuth_degrees": 71.1,
-        "relative_degrees": 140.9,
-        "clock_face": "5 o-clock crosswind from right",
-        "description": "Moderate to strong crosswind from the right, pushing left."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 11 (White), the 5 o'clock crosswind from the right demands an overstable driver thrown RHBH to fight the leftward push."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 11 (White), throw a stable driver RHFH into the 5 o'clock crosswind from the right for better control."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 11 (White), your LHBH with an understable driver will naturally fade away from the 5 o'clock crosswind from the right, allowing for a straighter flight."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 11 (White), use a stable driver for an LHFH to manage the 5 o'clock crosswind from the right."
-        }
-      }
-    },
-    {
-      "hole_number": "11",
-      "hole_label": "Hole 11 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 83.5,
-        "relative_degrees": 128.5,
-        "clock_face": "4 o-clock crosswind from right",
-        "description": "Moderate to strong crosswind from the right, pushing left."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 11 (Blue), the 4 o'clock crosswind from the right necessitates an overstable driver thrown RHBH to combat the leftward push on this long par 4."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 11 (Blue), throw a stable driver RHFH into the 4 o'clock crosswind from the right for better control on this long par 4."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 11 (Blue), your LHBH with an understable driver will naturally fade away from the 4 o'clock crosswind from the right, allowing for a straighter flight towards the basket on this long par 4."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 11 (Blue), use a stable driver for an LHFH to manage the 4 o'clock crosswind from the right on this long par 4."
-        }
-      }
-    },
-    {
-      "hole_number": "12",
-      "hole_label": "Hole 12 (Yellow)",
+      "hole_number": 12,
+      "hole_label": "Hole 12",
       "wind_info": {
         "azimuth_degrees": 306.5,
-        "relative_degrees": 265.5,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB river."
+        "relative_degrees": 244.5,
+        "clock_face": "8 o-clock",
+        "description": "8 o-clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "For Hole 12 (Yellow), the strong 9 o'clock crosswind from the right demands an overstable putter thrown RHBH to fight the leftward push and avoid the OB river."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 12 (Yellow), an 8 o'clock wind can be managed with a stable fairway driver on a RHBH, staying clear of the river OB."
         },
         "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 12 (Yellow), throw a stable putter RHFH into the strong 9 o'clock crosswind from the right to keep it away from the OB river."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Putter",
-          "shot_strategy": "For Hole 12 (Yellow), your LHBH with an understable putter will naturally fade away from the 9 o'clock crosswind from the right, helping you avoid the OB river."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 12 (Yellow), use a stable putter for an LHFH to counter the strong 9 o'clock crosswind from the right and stay clear of the OB river."
-        }
-      }
-    },
-    {
-      "hole_number": "12",
-      "hole_label": "Hole 12 (White)",
-      "wind_info": {
-        "azimuth_degrees": 316.5,
-        "relative_degrees": 255.5,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB river."
-      },
-      "tips_rh": {
-        "bh": {
           "disc_recommendation": "Overstable Midrange",
-          "shot_strategy": "For Hole 12 (White), the strong 9 o'clock crosswind from the right requires an overstable midrange thrown RHBH to fight the leftward push and avoid the OB river."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 12 (White), throw a stable driver RHFH into the strong 9 o'clock crosswind from the right to keep it away from the OB river."
+          "shot_strategy": "On Hole 12 (White), an 8 o'clock wind is best met with an overstable midrange thrown RHFH, prioritizing accuracy to avoid the river OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For Hole 12 (White), your LHBH with a stable midrange will naturally fade away from the 9 o'clock crosswind from the right, keeping it clear of the OB river."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "For Hole 12 (Blue), a LHBH with an understable driver should work with the 8 o'clock wind, keeping the disc away from the river OB."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 12 (White), use an understable driver for an LHFH to battle the strong 9 o'clock crosswind from the right and avoid the OB river."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "On Hole 12 (Blue), a LHFH with a stable fairway driver is a good choice for the 8 o'clock wind, aiming to avoid the river OB."
         }
       }
     },
     {
-      "hole_number": "12",
-      "hole_label": "Hole 12 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 330.0,
-        "relative_degrees": 242.0,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB river."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 12 (Blue), the strong 8 o'clock crosswind from the right necessitates an overstable driver thrown RHBH to fight the leftward push and avoid the OB river on this long hole."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 12 (Blue), throw a stable driver RHFH into the strong 8 o'clock crosswind from the right to keep it away from the OB river on this long par 3."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 12 (Blue), your LHBH with a stable driver will naturally fade away from the 8 o'clock crosswind from the right, keeping it clear of the OB river on this long par 3."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 12 (Blue), use an understable driver for an LHFH to battle the strong 8 o'clock crosswind from the right and avoid the OB river on this long par 3."
-        }
-      }
-    },
-    {
-      "hole_number": "13",
-      "hole_label": "Hole 13 (Yellow)",
+      "hole_number": 13,
+      "hole_label": "Hole 13",
       "wind_info": {
         "azimuth_degrees": 322.9,
-        "relative_degrees": 249.1,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left."
+        "relative_degrees": 228.1,
+        "clock_face": "8 o-clock",
+        "description": "8 o-clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "For Hole 13 (Yellow), the strong 8 o'clock crosswind from the right requires an overstable putter thrown RHBH to fight the leftward push."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 13 (Yellow), an 8 o'clock wind suggests a stable fairway driver on a RHBH, ensuring it stays straight."
         },
         "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 13 (Yellow), throw a stable putter RHFH into the strong 8 o'clock crosswind from the right for better control."
+          "disc_recommendation": "Overstable Midrange",
+          "shot_strategy": "On Hole 13 (White), an 8 o'clock wind is best met with an overstable midrange thrown RHFH, prioritizing accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Putter",
-          "shot_strategy": "For Hole 13 (Yellow), your LHBH with an understable putter will naturally fade away from the 8 o'clock crosswind from the right, allowing for a straighter flight."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 13 (Yellow), use a stable putter for an LHFH to manage the 8 o'clock crosswind from the right."
-        }
-      }
-    },
-    {
-      "hole_number": "13",
-      "hole_label": "Hole 13 (White)",
-      "wind_info": {
-        "azimuth_degrees": 330.0,
-        "relative_degrees": 242.0,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 13 (White), the strong 8 o'clock crosswind from the right demands an overstable driver thrown RHBH to fight the leftward push."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 13 (White), throw a stable driver RHFH into the strong 8 o'clock crosswind from the right for better control."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 13 (White), your LHBH with a stable driver will naturally fade away from the 8 o'clock crosswind from the right, allowing for a straighter flight."
-        },
-        "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 13 (White), use an understable driver for an LHFH to battle the strong 8 o'clock crosswind from the right."
+          "shot_strategy": "For Hole 13 (Blue), a LHBH with an understable driver should work with the 8 o'clock wind, allowing for a controlled flight."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "On Hole 13 (Blue), a LHFH with a stable fairway driver is a good choice for the 8 o'clock wind, aiming for a controlled shot."
         }
       }
     },
     {
-      "hole_number": "13",
-      "hole_label": "Hole 13 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 332.0,
-        "relative_degrees": 240.0,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 13 (Blue), the strong 8 o'clock crosswind from the right necessitates an overstable driver thrown RHBH to fight the leftward push."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 13 (Blue), throw a stable driver RHFH into the strong 8 o'clock crosswind from the right for better control."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 13 (Blue), your LHBH with a stable driver will naturally fade away from the 8 o'clock crosswind from the right, allowing for a straighter flight."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 13 (Blue), use an understable driver for an LHFH to battle the strong 8 o'clock crosswind from the right."
-        }
-      }
-    },
-    {
-      "hole_number": "14",
-      "hole_label": "Hole 14 (Yellow)",
+      "hole_number": 14,
+      "hole_label": "Hole 14",
       "wind_info": {
         "azimuth_degrees": 336.2,
-        "relative_degrees": 235.8,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. Creek OB."
+        "relative_degrees": 214.8,
+        "clock_face": "7 o-clock",
+        "description": "7 o-clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "For Hole 14 (Yellow), the strong 8 o'clock crosswind from the right requires an overstable putter thrown RHBH to fight the leftward push and avoid the OB creek."
+          "disc_recommendation": "Stable Driver",
+          "shot_strategy": "For Hole 14 (Yellow), a 7 o'clock wind requires a stable driver on a RHBH, steering clear of the creek OB."
         },
         "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 14 (Yellow), throw a stable putter RHFH into the strong 8 o'clock crosswind from the right to keep it away from the OB creek."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Putter",
-          "shot_strategy": "For Hole 14 (Yellow), your LHBH with an understable putter will naturally fade away from the 8 o'clock crosswind from the right, helping you avoid the OB creek."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 14 (Yellow), use a stable putter for an LHFH to counter the strong 8 o'clock crosswind from the right and stay clear of the OB creek."
-        }
-      }
-    },
-    {
-      "hole_number": "14",
-      "hole_label": "Hole 14 (White)",
-      "wind_info": {
-        "azimuth_degrees": 330.0,
-        "relative_degrees": 242.0,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. Creek OB."
-      },
-      "tips_rh": {
-        "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 14 (White), the strong 8 o'clock crosswind from the right demands an overstable driver thrown RHBH to fight the leftward push and avoid the OB creek."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 14 (White), throw a stable driver RHFH into the strong 8 o'clock crosswind from the right to keep it away from the OB creek."
+          "shot_strategy": "On Hole 14 (White), an 7 o'clock wind is best met with an overstable driver thrown RHFH, ensuring accuracy and avoiding the creek OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 14 (White), your LHBH with a stable driver will naturally fade away from the 8 o'clock crosswind from the right, keeping it clear of the OB creek."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "For Hole 14 (Blue), a LHBH with an understable driver should work with the 7 o'clock wind, keeping the disc away from the creek OB."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 14 (White), use an understable driver for an LHFH to battle the strong 8 o'clock crosswind from the right and avoid the OB creek."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "On Hole 14 (Blue), a LHFH with a stable fairway driver is a good choice for the 7 o'clock wind, aiming to avoid the creek OB."
         }
       }
     },
     {
-      "hole_number": "14",
-      "hole_label": "Hole 14 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 330.0,
-        "relative_degrees": 242.0,
-        "clock_face": "8 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. Creek OB."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 14 (Blue), the strong 8 o'clock crosswind from the right necessitates an overstable driver thrown RHBH to fight the leftward push and avoid the OB creek on this long par 3."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 14 (Blue), throw a stable driver RHFH into the strong 8 o'clock crosswind from the right to keep it away from the OB creek on this long par 3."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 14 (Blue), your LHBH with a stable driver will naturally fade away from the 8 o'clock crosswind from the right, keeping it clear of the OB creek on this long par 3."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 14 (Blue), use an understable driver for an LHFH to battle the strong 8 o'clock crosswind from the right and avoid the OB creek on this long par 3."
-        }
-      }
-    },
-    {
-      "hole_number": "15",
-      "hole_label": "Hole 15 (Yellow)",
+      "hole_number": 15,
+      "hole_label": "Hole 15",
       "wind_info": {
         "azimuth_degrees": 173.2,
-        "relative_degrees": 38.8,
-        "clock_face": "1 o-clock crosswind from left",
-        "description": "Moderate to strong crosswind from the left, pushing right. OB water."
+        "relative_degrees": 17.8,
+        "clock_face": "1 o-clock",
+        "description": "1 o-clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "For Hole 15 (Yellow), the 1 o'clock crosswind from the left requires an overstable putter thrown RHBH to fight the rightward push and avoid the OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 15 (Yellow), throw a stable putter RHFH into the 1 o'clock crosswind from the left for better control and to stay out of the OB water."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Putter",
-          "shot_strategy": "For Hole 15 (Yellow), your LHBH with an understable putter will naturally fade into the 1 o'clock crosswind from the left, helping you avoid the OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 15 (Yellow), use a stable putter for an LHFH to manage the 1 o'clock crosswind from the left and avoid the OB water."
-        }
-      }
-    },
-    {
-      "hole_number": "15",
-      "hole_label": "Hole 15 (White)",
-      "wind_info": {
-        "azimuth_degrees": 168.5,
-        "relative_degrees": 43.5,
-        "clock_face": "1 o-clock crosswind from left",
-        "description": "Moderate to strong crosswind from the left, pushing right. OB water."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 15 (White), the 1 o'clock crosswind from the left demands an overstable driver thrown RHBH to fight the rightward push and avoid the OB water."
-        },
-        "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 15 (White), throw a stable driver RHFH into the 1 o'clock crosswind from the left for better control and to stay out of the OB water."
+          "shot_strategy": "For Hole 15 (Yellow), a 1 o'clock wind requires a stable driver on a RHBH, carefully avoiding the water OB."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "On Hole 15 (White), a 1 o'clock wind is best met with an overstable driver thrown RHFH, prioritizing accuracy to avoid the water OB."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 15 (White), your LHBH with an understable driver will naturally fade into the 1 o'clock crosswind from the left, helping you avoid the OB water."
+          "shot_strategy": "For Hole 15 (Blue), a LHBH with an understable driver should work with the 1 o'clock wind, keeping the disc away from the water OB."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 15 (White), use a stable driver for an LHFH to manage the 1 o'clock crosswind from the left and avoid the OB water."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "On Hole 15 (Blue), a LHFH with a stable fairway driver is a good choice for the 1 o'clock wind, aiming to avoid the water OB."
         }
       }
     },
     {
-      "hole_number": "15",
-      "hole_label": "Hole 15 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 163.1,
-        "relative_degrees": 48.9,
-        "clock_face": "2 o-clock crosswind from left",
-        "description": "Moderate to strong crosswind from the left, pushing right. OB water."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 15 (Blue), the 2 o'clock crosswind from the left necessitates an overstable driver thrown RHBH to fight the rightward push and avoid the OB water on this long hole."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 15 (Blue), throw a stable driver RHFH into the 2 o'clock crosswind from the left for better control and to stay out of the OB water on this par 4."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 15 (Blue), your LHBH with an understable driver will naturally fade into the 2 o'clock crosswind from the left, helping you avoid the OB water on this par 4."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 15 (Blue), use a stable driver for an LHFH to manage the 2 o'clock crosswind from the left and avoid the OB water on this par 4."
-        }
-      }
-    },
-    {
-      "hole_number": "16",
-      "hole_label": "Hole 16 (Yellow)",
+      "hole_number": 16,
+      "hole_label": "Hole 16",
       "wind_info": {
         "azimuth_degrees": 141.8,
-        "relative_degrees": 70.2,
-        "clock_face": "2 o-clock crosswind from left",
-        "description": "Moderate to strong crosswind from the left, pushing right. OB water."
+        "relative_degrees": 49.2,
+        "clock_face": "2 o-clock",
+        "description": "2 o-clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "For Hole 16 (Yellow), the 2 o'clock crosswind from the left requires an overstable putter thrown RHBH to fight the rightward push and avoid the OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 16 (Yellow), throw a stable putter RHFH into the 2 o'clock crosswind from the left for better control and to stay out of the OB water."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Putter",
-          "shot_strategy": "For Hole 16 (Yellow), your LHBH with an understable putter will naturally fade into the 2 o'clock crosswind from the left, helping you avoid the OB water."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 16 (Yellow), use a stable putter for an LHFH to manage the 2 o'clock crosswind from the left and avoid the OB water."
-        }
-      }
-    },
-    {
-      "hole_number": "16",
-      "hole_label": "Hole 16 (White)",
-      "wind_info": {
-        "azimuth_degrees": 142.1,
-        "relative_degrees": 69.9,
-        "clock_face": "2 o-clock crosswind from left",
-        "description": "Moderate to strong crosswind from the left, pushing right. OB water."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 16 (White), the 2 o'clock crosswind from the left demands an overstable driver thrown RHBH to fight the rightward push and avoid the OB water."
-        },
-        "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 16 (White), throw a stable driver RHFH into the 2 o'clock crosswind from the left for better control and to stay out of the OB water."
+          "shot_strategy": "For Hole 16 (Yellow), a 2 o'clock wind suggests a stable driver on a RHBH, aiming for accuracy and avoiding the water OB."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "On Hole 16 (White), a 2 o'clock wind is best met with an overstable driver thrown RHFH, prioritizing a straight flight to avoid the water OB."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 16 (White), your LHBH with an understable driver will naturally fade into the 2 o'clock crosswind from the left, helping you avoid the OB water."
+          "shot_strategy": "For Hole 16 (Blue), a LHBH with an understable driver should work with the 2 o'clock wind, keeping the disc away from the water OB."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 16 (White), use a stable driver for an LHFH to manage the 2 o'clock crosswind from the left and avoid the OB water."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "On Hole 16 (Blue), a LHFH with a stable fairway driver is a good choice for the 2 o'clock wind, aiming to avoid the water OB."
         }
       }
     },
     {
-      "hole_number": "16",
-      "hole_label": "Hole 16 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 141.1,
-        "relative_degrees": 70.9,
-        "clock_face": "2 o-clock crosswind from left",
-        "description": "Moderate to strong crosswind from the left, pushing right. OB water."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 16 (Blue), the 2 o'clock crosswind from the left necessitates an overstable driver thrown RHBH to fight the rightward push and avoid the OB water on this long par 5."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 16 (Blue), throw a stable driver RHFH into the 2 o'clock crosswind from the left for better control and to stay out of the OB water on this long par 5."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 16 (Blue), your LHBH with an understable driver will naturally fade into the 2 o'clock crosswind from the left, helping you avoid the OB water on this long par 5."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 16 (Blue), use a stable driver for an LHFH to manage the 2 o'clock crosswind from the left and avoid the OB water on this long par 5."
-        }
-      }
-    },
-    {
-      "hole_number": "17",
-      "hole_label": "Hole 17 (Yellow)",
+      "hole_number": 17,
+      "hole_label": "Hole 17",
       "wind_info": {
         "azimuth_degrees": 85.5,
-        "relative_degrees": 126.5,
-        "clock_face": "4 o-clock crosswind from right",
-        "description": "Moderate to strong crosswind from the right, pushing left."
+        "relative_degrees": 105.5,
+        "clock_face": "4 o-clock",
+        "description": "4 o-clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "For Hole 17 (Yellow), the 4 o'clock crosswind from the right requires an overstable putter thrown RHBH to fight the leftward push."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 17 (Yellow), throw a stable putter RHFH into the 4 o'clock crosswind from the right for better control."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Putter",
-          "shot_strategy": "For Hole 17 (Yellow), your LHBH with an understable putter will naturally fade away from the 4 o'clock crosswind from the right, allowing for a straighter flight."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 17 (Yellow), use a stable putter for an LHFH to manage the 4 o'clock crosswind from the right."
-        }
-      }
-    },
-    {
-      "hole_number": "17",
-      "hole_label": "Hole 17 (White)",
-      "wind_info": {
-        "azimuth_degrees": 98.7,
-        "relative_degrees": 113.3,
-        "clock_face": "4 o-clock crosswind from right",
-        "description": "Moderate to strong crosswind from the right, pushing left."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 17 (White), the 4 o'clock crosswind from the right demands an overstable driver thrown RHBH to fight the leftward push."
-        },
-        "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 17 (White), throw a stable driver RHFH into the 4 o'clock crosswind from the right for better control."
+          "shot_strategy": "For Hole 17 (Yellow), a 4 o'clock wind suggests a stable driver on a RHBH, aiming for accuracy."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "On Hole 17 (White), a 3 o'clock crosswind from the left is best met with an understable driver thrown RHFH, allowing it to turn and fade."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 17 (White), your LHBH with an understable driver will naturally fade away from the 4 o'clock crosswind from the right, allowing for a straighter flight."
+          "shot_strategy": "For Hole 17 (Blue), a LHBH with an understable driver should work with the 3 o'clock crosswind from the left, providing a predictable flight."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 17 (White), use a stable driver for an LHFH to manage the 4 o'clock crosswind from the right."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "On Hole 17 (Blue), a LHFH with a stable fairway driver is a good choice against the 3 o'clock crosswind from the left, aiming for control."
         }
       }
     },
     {
-      "hole_number": "17",
-      "hole_label": "Hole 17 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 97.7,
-        "relative_degrees": 114.3,
-        "clock_face": "4 o-clock crosswind from right",
-        "description": "Moderate to strong crosswind from the right, pushing left."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 17 (Blue), the 4 o'clock crosswind from the right necessitates an overstable driver thrown RHBH to fight the leftward push on this par 4."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 17 (Blue), throw a stable driver RHFH into the 4 o'clock crosswind from the right for better control on this par 4."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 17 (Blue), your LHBH with an understable driver will naturally fade away from the 4 o'clock crosswind from the right, allowing for a straighter flight on this par 4."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 17 (Blue), use a stable driver for an LHFH to manage the 4 o'clock crosswind from the right on this par 4."
-        }
-      }
-    },
-    {
-      "hole_number": "18",
-      "hole_label": "Hole 18 (Yellow)",
+      "hole_number": 18,
+      "hole_label": "Hole 18",
       "wind_info": {
         "azimuth_degrees": 11.5,
-        "relative_degrees": 200.5,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB roadway."
+        "relative_degrees": 179.5,
+        "clock_face": "6 o-clock tailwind",
+        "description": "6 o-clock tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Putter",
-          "shot_strategy": "For Hole 18 (Yellow), the strong 7 o'clock crosswind from the right requires an overstable putter thrown RHBH to fight the leftward push and avoid the OB roadway."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 18 (Yellow), throw a stable putter RHFH into the strong 7 o'clock crosswind from the right to keep it away from the OB roadway."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Putter",
-          "shot_strategy": "For Hole 18 (Yellow), your LHBH with an understable putter will naturally fade away from the 7 o'clock crosswind from the right, helping you avoid the OB roadway."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Putter",
-          "shot_strategy": "On Hole 18 (Yellow), use a stable putter for an LHFH to counter the strong 7 o'clock crosswind from the right and stay clear of the OB roadway."
-        }
-      }
-    },
-    {
-      "hole_number": "18",
-      "hole_label": "Hole 18 (White)",
-      "wind_info": {
-        "azimuth_degrees": 7.0,
-        "relative_degrees": 205.0,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB roadway."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 18 (White), the strong 7 o'clock crosswind from the right demands an overstable driver thrown RHBH to fight the leftward push and avoid the OB roadway."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 18 (White), throw a stable driver RHFH into the strong 7 o'clock crosswind from the right to keep it away from the OB roadway."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 18 (White), your LHBH with a stable driver will naturally fade away from the 7 o'clock crosswind from the right, keeping it clear of the OB roadway."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "For Hole 18 (Yellow), the 6 o'clock tailwind means an understable driver thrown RHBH will achieve maximum distance, while avoiding the OB roadway to the left."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 18 (White), use an understable driver for an LHFH to battle the strong 7 o'clock crosswind from the right and avoid the OB roadway."
-        }
-      }
-    },
-    {
-      "hole_number": "18",
-      "hole_label": "Hole 18 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 10.0,
-        "relative_degrees": 202.0,
-        "clock_face": "7 o-clock crosswind from right",
-        "description": "Strong crosswind from the right, pushing left. OB roadway."
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 18 (Blue), the strong 7 o'clock crosswind from the right necessitates an overstable driver thrown RHBH to fight the leftward push and avoid the OB roadway on this par 4."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 18 (Blue), throw a stable driver RHFH into the strong 7 o'clock crosswind from the right to keep it away from the OB roadway on this par 4."
+          "shot_strategy": "On Hole 18 (White), a 6 o'clock tailwind is ideal for an understable driver on a RHFH, maximizing distance while staying away from the OB roadway."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 18 (Blue), your LHBH with a stable driver will naturally fade away from the 7 o'clock crosswind from the right, keeping it clear of the OB roadway on this par 4."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "For Hole 18 (Blue), the 6 o'clock tailwind strongly favors an understable driver on a LHBH for maximum distance, carefully avoiding the OB roadway."
         },
         "fh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 18 (Blue), use an understable driver for an LHFH to battle the strong 7 o'clock crosswind from the right and avoid the OB roadway on this par 4."
+          "shot_strategy": "On Hole 18 (Blue), a LHFH with an understable driver will take advantage of the 6 o'clock tailwind for distance, ensuring it stays clear of the OB roadway."
         }
       }
     }
