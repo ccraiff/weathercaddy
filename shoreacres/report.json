@@ -1,19 +1,19 @@
 
 {
   "course": "Shore Acres Disc Golf Course",
-  "report_generated_at": "2026-03-26 08:07 EDT",
+  "report_generated_at": "2026-03-26 15:05 EDT",
   "current_wind": {
-    "speed_mph": 6.7,
-    "direction_degrees": 159,
-    "gusts_mph": 13.4,
-    "description": "16 mph from SE, gusts to 21 mph"
+    "speed_mph": 13.2,
+    "direction_degrees": 15,
+    "gusts_mph": 21.9,
+    "description": "13.2 mph from NNE, gusts to 21.9 mph"
   },
   "forecast_5hr": [
-    {"time_edt": "2026-03-26 07:00 EDT", "speed_mph": 6.7, "direction_degrees": 159},
-    {"time_edt": "2026-03-26 08:00 EDT", "speed_mph": 8.9, "direction_degrees": 190},
-    {"time_edt": "2026-03-26 09:00 EDT", "speed_mph": 13.6, "direction_degrees": 210},
-    {"time_edt": "2026-03-26 10:00 EDT", "speed_mph": 11.0, "direction_degrees": 218},
-    {"time_edt": "2026-03-26 11:00 EDT", "speed_mph": 7.8, "direction_degrees": 239}
+    {"time_edt": "2026-03-26 14:00 EDT", "speed_mph": 13.2, "direction_degrees": 15},
+    {"time_edt": "2026-03-26 15:00 EDT", "speed_mph": 10.9, "direction_degrees": 14},
+    {"time_edt": "2026-03-26 16:00 EDT", "speed_mph": 11.7, "direction_degrees": 36},
+    {"time_edt": "2026-03-26 17:00 EDT", "speed_mph": 9.1, "direction_degrees": 340},
+    {"time_edt": "2026-03-26 18:00 EDT", "speed_mph": 14.4, "direction_degrees": 339}
   ],
   "holes": [
     {
@@ -21,28 +21,28 @@
       "hole_number": "1",
       "wind_info": {
         "azimuth_degrees": 349.9,
-        "relative_degrees": 169.1,
-        "clock_face": "6 o'clock tailwind",
-        "description": "6 o'clock tailwind"
+        "relative_degrees": 25.1,
+        "clock_face": "1 o'clock",
+        "description": "1 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "With a 6 o'clock tailwind pushing your disc forward and away from the OB, a controlled RHBH with an understable disc can offer maximum distance and a straight flight path towards the basket for Hole 1."
+          "shot_strategy": "On Hole 1 Yellow, with a 1 o'clock wind, a RHBH with an understable driver thrown on a hyzer flip can combat the wind's push and achieve a straight flight towards the basket, avoiding the OB to the right."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "A RHFH with a stable disc will fight the tailwind effectively on Hole 1, allowing for a straight flight and good control, keeping you clear of the OB behind."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "A RHFH with an overstable driver on Hole 1 Yellow will cut through the 1 o'clock wind, providing a reliable flight path to the basket and staying away from the OB area."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "A left-to-right curving LHBH can use the tailwind on Hole 1 to its advantage, offering a smooth flight that finishes towards the basket without risking the OB to the right."
+          "shot_strategy": "For Hole 1 Yellow, a LHBH with an understable driver on an anhyzer line will fight the 1 o'clock wind's tendency to push left, allowing the disc to shape towards the basket and avoid OB."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "With the tailwind pushing from behind on Hole 1, a LHFH with a stable disc will provide a straight flight, ensuring a predictable path and minimizing the chance of drifting OB."
+          "shot_strategy": "A LHFH with a stable driver on Hole 1 Yellow will fly straight into the 1 o'clock wind, ensuring accuracy and keeping the disc away from the OB to the right."
         }
       }
     },
@@ -51,28 +51,28 @@
       "hole_number": "1",
       "wind_info": {
         "azimuth_degrees": 342.6,
-        "relative_degrees": 176.4,
-        "clock_face": "6 o'clock tailwind",
-        "description": "6 o'clock tailwind"
+        "relative_degrees": 32.4,
+        "clock_face": "1 o'clock",
+        "description": "1 o'clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable to Understable Driver",
-          "shot_strategy": "Against a 6 o'clock tailwind, use a stable to understable disc for your RHBH on Hole 1 Black to achieve good distance and a straight flight path, carefully avoiding the OB area to the right and behind."
+          "disc_recommendation": "Understable Driver",
+          "shot_strategy": "On Hole 1 Black, a RHBH with an understable driver thrown on a hyzer flip can combat the 1 o'clock wind's push and achieve a straight flight towards the basket, avoiding the OB to the right."
         },
         "fh": {
-          "disc_recommendation": "Neutral to Understable Driver",
-          "shot_strategy": "A RHFH with a neutral to understable disc on Hole 1 Black will handle the tailwind well, allowing for a controlled flight that carries straight to the basket while staying away from the OB."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "A RHFH with an overstable driver on Hole 1 Black will cut through the 1 o'clock wind, providing a reliable flight path to the basket and staying away from the OB area."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For a LHBH on Hole 1 Black, the tailwind from 6 o'clock can help carry an understable disc further; aim for a smooth hyzer flip to keep the disc flat and avoid the OB to the right."
+          "shot_strategy": "For Hole 1 Black, a LHBH with an understable driver on an anhyzer line will fight the 1 o'clock wind's tendency to push left, allowing the disc to shape towards the basket and avoid OB."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "A LHFH with a stable disc on Hole 1 Black will offer a reliable flight against the tailwind, ensuring straight distance and preventing errant shots that could drift into the OB area."
+          "shot_strategy": "A LHFH with a stable driver on Hole 1 Black will fly straight into the 1 o'clock wind, ensuring accuracy and keeping the disc away from the OB to the right."
         }
       }
     },
@@ -81,28 +81,28 @@
       "hole_number": "A",
       "wind_info": {
         "azimuth_degrees": 253.5,
-        "relative_degrees": 265.5,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "9 o'clock crosswind from right"
+        "relative_degrees": 121.5,
+        "clock_face": "4 o'clock",
+        "description": "4 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "With a 9 o'clock crosswind from the right pushing left on Hole A, a controlled RHBH with a stable disc on a hyzer will fight the wind and shape the intended flight path towards the basket."
+          "shot_strategy": "On Hole A, with a 4 o'clock wind, a RHBH with a stable disc on a hyzer will fight the wind's push towards the left and shape a flight path towards the basket, staying clear of the OB fence line."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole A will cut through the 9 o'clock crosswind from the right, allowing for a straight flight that battles the leftward push."
+          "shot_strategy": "A RHFH with an overstable disc on Hole A will cut through the 4 o'clock wind, providing a penetrating flight towards the basket and avoiding the OB fence line."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "A LHBH thrown with anhyzer against the 9 o'clock crosswind from the right on Hole A can fight the wind's effect, allowing the disc to flex and land smoothly near the pin."
+          "shot_strategy": "For Hole A, a LHBH thrown with anhyzer using an understable disc will allow it to fight the 4 o'clock wind's push to the left, shaping towards the basket and away from the OB fence line."
         },
         "fh": {
-          "disc_recommendation": "Stable Disc",
-          "shot_strategy": "Against the 9 o'clock crosswind from the right on Hole A, a LHFH with a stable disc will offer a straight and predictable flight, resisting the wind's push."
+          "disc_recommendation": "Neutral Disc",
+          "shot_strategy": "A LHFH with a neutral disc on Hole A will fly straight into the 4 o'clock wind, ensuring accuracy and keeping the disc away from the OB fence line."
         }
       }
     },
@@ -111,28 +111,28 @@
       "hole_number": "2",
       "wind_info": {
         "azimuth_degrees": 64.1,
-        "relative_degrees": 94.9,
-        "clock_face": "3 o'clock crosswind from left",
-        "description": "3 o'clock crosswind from left"
+        "relative_degrees": 310.9,
+        "clock_face": "10 o'clock",
+        "description": "10 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "Facing a 3 o'clock crosswind from the left on Hole 2 Yellow, a RHBH with a stable disc on a hyzer will help control the fade and keep the disc from being pushed into the OB to the left."
+          "shot_strategy": "On Hole 2 Yellow, a RHBH with a stable disc on a hyzer will counteract the 10 o'clock wind's push to the right, guiding the disc towards the basket and away from the OB on the left."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc is ideal for battling the 3 o'clock crosswind from the left on Hole 2 Yellow, cutting through the wind for a straight, reliable flight path away from the OB."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 2 Yellow will cut through the 10 o'clock wind, providing a reliable flight to the basket and staying clear of the OB on the left."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "With a 3 o'clock crosswind from the left pushing right on Hole 2 Yellow, a LHBH on anhyzer can fight the wind's effect, allowing the disc to hold its line towards the basket while staying clear of the OB."
+          "shot_strategy": "For Hole 2 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 10 o'clock wind's push to the right, allowing the disc to curve towards the basket and away from the OB on the left."
         },
         "fh": {
-          "disc_recommendation": "Stable Disc",
-          "shot_strategy": "A LHFH with a stable disc will provide a straight flight against the 3 o'clock crosswind from the left on Hole 2 Yellow, ensuring accuracy and preventing errant shots from drifting into the OB area."
+          "disc_recommendation": "Neutral Disc",
+          "shot_strategy": "A LHFH with a neutral disc on Hole 2 Yellow will fly straight into the 10 o'clock wind, ensuring accuracy and keeping the disc away from the OB on the left."
         }
       }
     },
@@ -141,28 +141,28 @@
       "hole_number": "2",
       "wind_info": {
         "azimuth_degrees": 77.3,
-        "relative_degrees": 81.7,
-        "clock_face": "3 o'clock crosswind from left",
-        "description": "3 o'clock crosswind from left"
+        "relative_degrees": 297.7,
+        "clock_face": "10 o'clock",
+        "description": "10 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "For a 3 o'clock crosswind from the left on Hole 2 Black, a RHBH with a stable disc thrown on a hyzer is recommended to combat the wind's push and guide the disc towards the basket, avoiding the OB to the left."
+          "shot_strategy": "On Hole 2 Black, a RHBH with a stable disc on a hyzer will counteract the 10 o'clock wind's push to the right, guiding the disc towards the basket and away from the OB on the left."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc will be your best bet against the 3 o'clock crosswind from the left on Hole 2 Black, allowing for a powerful and straight flight that resists the wind's tendency to push left."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 2 Black will cut through the 10 o'clock wind, providing a reliable flight to the basket and staying clear of the OB on the left."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "To counter the 3 o'clock crosswind from the left on Hole 2 Black, throw a LHBH with anhyzer, allowing the disc to fight the wind and hold its line towards the target, staying clear of the OB."
+          "shot_strategy": "For Hole 2 Black, a LHBH thrown with anhyzer using an understable disc will fight the 10 o'clock wind's push to the right, allowing the disc to curve towards the basket and away from the OB on the left."
         },
         "fh": {
-          "disc_recommendation": "Stable Disc",
-          "shot_strategy": "Against the 3 o'clock crosswind from the left on Hole 2 Black, a LHFH with a stable disc will offer a controlled flight, ensuring the disc flies straight and doesn't drift into the OB areas."
+          "disc_recommendation": "Neutral Disc",
+          "shot_strategy": "A LHFH with a neutral disc on Hole 2 Black will fly straight into the 10 o'clock wind, ensuring accuracy and keeping the disc away from the OB on the left."
         }
       }
     },
@@ -171,28 +171,28 @@
       "hole_number": "3",
       "wind_info": {
         "azimuth_degrees": 323.2,
-        "relative_degrees": 195.8,
-        "clock_face": "7 o'clock",
-        "description": "7 o'clock wind"
+        "relative_degrees": 51.8,
+        "clock_face": "2 o'clock",
+        "description": "2 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "With a 7 o'clock wind on Hole 3 Yellow, a RHBH thrown with a stable disc on a slight hyzer will hold a straight line to the basket, allowing the wind to push it gently left."
+          "shot_strategy": "On Hole 3 Yellow, a RHBH with a stable disc on a hyzer will resist the 2 o'clock wind's push to the left, keeping the flight straight towards the basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Disc",
-          "shot_strategy": "A RHFH with a stable disc thrown with power on Hole 3 Yellow will cut through the 7 o'clock wind and hold a straight path to the pin."
+          "disc_recommendation": "Overstable Disc",
+          "shot_strategy": "A RHFH with an overstable disc on Hole 3 Yellow will cut through the 2 o'clock wind, providing a penetrating flight to the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHBH with a neutral disc thrown on a hyzer flip on Hole 3 Yellow will fight the 7 o'clock wind and drift towards the basket."
+          "disc_recommendation": "Understable Disc",
+          "shot_strategy": "For Hole 3 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 2 o'clock wind's push to the left, shaping towards the basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Disc",
-          "shot_strategy": "A LHFH with a stable disc thrown flat on Hole 3 Yellow will hold a straight line to the basket, using the wind to keep the disc from drifting too far right."
+          "disc_recommendation": "Neutral Disc",
+          "shot_strategy": "A LHFH with a neutral disc on Hole 3 Yellow will fly straight into the 2 o'clock wind, providing accuracy."
         }
       }
     },
@@ -201,28 +201,28 @@
       "hole_number": "3",
       "wind_info": {
         "azimuth_degrees": 304.9,
-        "relative_degrees": 214.1,
-        "clock_face": "7 o'clock",
-        "description": "7 o'clock wind"
+        "relative_degrees": 70.1,
+        "clock_face": "2 o'clock",
+        "description": "2 o'clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "At 143 feet on Hole 3 Black with a 7 o'clock wind, a RHBH with a neutral disc thrown on a hyzer will keep it straight and controlled, landing softly near the basket."
+          "disc_recommendation": "Stable Disc",
+          "shot_strategy": "On Hole 3 Black, a RHBH with a stable disc on a hyzer will resist the 2 o'clock wind's push to the left, keeping the flight straight towards the basket."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 3 Black will combat the 7 o'clock wind effectively for this short hole, ensuring a straight flight to the pin."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 3 Black will cut through the 2 o'clock wind, providing a penetrating flight to the basket."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "For this shorter 7 o'clock hole on Hole 3 Black, a LHBH with an understable disc thrown on anhyzer will allow it to carry straight to the basket, fighting any leftward drift."
+          "shot_strategy": "For Hole 3 Black, a LHBH thrown with anhyzer using an understable disc will fight the 2 o'clock wind's push to the left, shaping towards the basket."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 3 Black will fly straight into the 7 o'clock wind, providing a predictable path to the basket."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 3 Black will fly straight into the 2 o'clock wind, providing accuracy."
         }
       }
     },
@@ -231,28 +231,28 @@
       "hole_number": "4",
       "wind_info": {
         "azimuth_degrees": 54.0,
-        "relative_degrees": 105.0,
-        "clock_face": "4 o'clock",
-        "description": "4 o'clock wind"
+        "relative_degrees": 321.0,
+        "clock_face": "11 o'clock",
+        "description": "11 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "Facing a 4 o'clock wind on Hole 4 Yellow, a RHBH with a stable disc on a hyzer will resist the left-to-right push and keep the disc from going OB beyond the log wall."
+          "shot_strategy": "On Hole 4 Yellow, a RHBH with a stable disc on a hyzer will counteract the 11 o'clock wind's push to the right, keeping the flight straight towards the basket and away from the OB beyond the log wall."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 4 Yellow will cut through the 4 o'clock wind and hold a straight line, staying safely away from the OB beyond the log wall."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 4 Yellow will cut through the 11 o'clock wind, providing a penetrating flight to the basket and staying clear of the OB beyond the log wall."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "On Hole 4 Yellow, a LHBH thrown with anhyzer against the 4 o'clock wind will allow the disc to fight the wind's push and shape a flight towards the basket, avoiding the OB beyond the log wall."
+          "shot_strategy": "For Hole 4 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 11 o'clock wind's push to the right, allowing the disc to curve towards the basket and away from the OB beyond the log wall."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 4 Yellow will provide a straight flight, resisting the 4 o'clock wind and keeping the disc away from the OB area past the log wall."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 4 Yellow will fly straight into the 11 o'clock wind, ensuring accuracy and keeping the disc away from the OB beyond the log wall."
         }
       }
     },
@@ -261,28 +261,28 @@
       "hole_number": "4",
       "wind_info": {
         "azimuth_degrees": 49.5,
-        "relative_degrees": 109.5,
-        "clock_face": "4 o'clock",
-        "description": "4 o'clock wind"
+        "relative_degrees": 325.5,
+        "clock_face": "11 o'clock",
+        "description": "11 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "A RHBH with a stable disc on hyzer on Hole 4 Black will counter the 4 o'clock wind, helping to keep the flight path straight and avoid the OB beyond the log wall."
+          "shot_strategy": "On Hole 4 Black, a RHBH with a stable disc on a hyzer will counteract the 11 o'clock wind's push to the right, keeping the flight straight towards the basket and away from the OB beyond the log wall."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "Throwing a RHFH with an overstable disc on Hole 4 Black will provide a straight, penetrating flight against the 4 o'clock wind, staying clear of the OB beyond the log wall."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 4 Black will cut through the 11 o'clock wind, providing a penetrating flight to the basket and staying clear of the OB beyond the log wall."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "On Hole 4 Black, utilize an anhyzer with a LHBH and an understable disc to fight the 4 o'clock wind, allowing the disc to curve towards the basket and stay away from the OB beyond the log wall."
+          "shot_strategy": "For Hole 4 Black, a LHBH thrown with anhyzer using an understable disc will fight the 11 o'clock wind's push to the right, allowing the disc to curve towards the basket and away from the OB beyond the log wall."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 4 Black will fly straight against the 4 o'clock wind, ensuring accuracy and keeping the disc away from the OB area beyond the log wall."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 4 Black will fly straight into the 11 o'clock wind, ensuring accuracy and keeping the disc away from the OB beyond the log wall."
         }
       }
     },
@@ -292,27 +292,27 @@
       "wind_info": {
         "azimuth_degrees": 145.3,
         "relative_degrees": 13.7,
-        "clock_face": "12 o'clock headwind",
-        "description": "12 o'clock headwind"
+        "clock_face": "1 o'clock",
+        "description": "1 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Into a 12 o'clock headwind on Hole 5 Yellow, a RHBH with an overstable disc is crucial to maintain lift and prevent the disc from stalling or turning over, ensuring a straight flight to the basket."
+          "shot_strategy": "On Hole 5 Yellow, into a 1 o'clock wind, a RHBH with an overstable driver is essential to maintain penetration and prevent the disc from turning over, ensuring a straight flight to the basket."
         },
         "fh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 5 Yellow will provide the necessary stability to cut through the 12 o'clock headwind, allowing for a controlled flight towards the green."
+          "shot_strategy": "A RHFH with an overstable driver on Hole 5 Yellow will provide the stability needed to cut through the 1 o'clock wind, allowing for a controlled flight to the green."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 5 Yellow, a LHBH with an overstable disc thrown with power will resist the 12 o'clock headwind, helping to keep the disc straight and preventing it from floating too far right."
+          "shot_strategy": "For Hole 5 Yellow, a LHBH with an overstable driver thrown with power will resist the 1 o'clock wind, keeping the disc straight and preventing it from drifting too far right."
         },
         "fh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "A LHFH with an overstable disc on Hole 5 Yellow will provide the stability needed to fight the 12 o'clock headwind, ensuring a reliable flight path to the target."
+          "shot_strategy": "A LHFH with an overstable driver on Hole 5 Yellow will offer the stability needed to fight the 1 o'clock wind, ensuring a direct flight to the target."
         }
       }
     },
@@ -328,21 +328,21 @@
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Into the 1 o'clock headwind on Hole 5 Black, a RHBH with an overstable disc is essential to maintain penetration and prevent the disc from turning over, ensuring a straight flight to the basket."
+          "shot_strategy": "On Hole 5 Black, into a 1 o'clock wind, a RHBH with an overstable driver is essential to maintain penetration and prevent the disc from turning over, ensuring a straight flight to the basket."
         },
         "fh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 5 Black will provide a strong flight against the 1 o'clock headwind, cutting through the wind for a predictable path to the green."
+          "shot_strategy": "A RHFH with an overstable driver on Hole 5 Black will provide the stability needed to cut through the 1 o'clock wind, allowing for a controlled flight to the green."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 5 Black, a LHBH with an overstable disc thrown with power will combat the 1 o'clock headwind, keeping the disc straight and preventing it from drifting too far right."
+          "shot_strategy": "For Hole 5 Black, a LHBH with an overstable driver thrown with power will resist the 1 o'clock wind, keeping the disc straight and preventing it from drifting too far right."
         },
         "fh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "A LHFH with an overstable disc on Hole 5 Black will offer the stability needed to fight the 1 o'clock headwind, ensuring a direct flight to the target."
+          "shot_strategy": "A LHFH with an overstable driver on Hole 5 Black will offer the stability needed to fight the 1 o'clock wind, ensuring a direct flight to the target."
         }
       }
     },
@@ -351,28 +351,28 @@
       "hole_number": "6",
       "wind_info": {
         "azimuth_degrees": 174.4,
-        "relative_degrees": 344.6,
-        "clock_face": "11 o'clock",
-        "description": "11 o'clock wind"
+        "relative_degrees": 14.6,
+        "clock_face": "12 o'clock",
+        "description": "12 o'clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Disc",
-          "shot_strategy": "With a 11 o'clock wind on Hole 6 Yellow, a RHBH with a stable disc thrown on a hyzer will keep the flight path straight and prevent excessive fade, carrying towards the basket."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "Into a 12 o'clock wind on Hole 6 Yellow, a RHBH with an overstable driver is crucial for maintaining lift and preventing the disc from stalling, ensuring a straight flight to the basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 6 Yellow will cut through the 11 o'clock wind and hold a straight line, providing a reliable flight to the pin."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "A RHFH with an overstable driver on Hole 6 Yellow will provide the stability needed to cut through the 12 o'clock wind, allowing for a controlled flight to the green."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "For Hole 6 Yellow, a LHBH with a neutral disc on a hyzer flip will fight the 11 o'clock wind and maintain a straight trajectory towards the basket."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "For Hole 6 Yellow, a LHBH with an overstable driver thrown with power will resist the 12 o'clock wind, keeping the disc straight and preventing it from drifting too far right."
         },
         "fh": {
-          "disc_recommendation": "Stable Disc",
-          "shot_strategy": "A LHFH with a stable disc on Hole 6 Yellow will fly straight into the 11 o'clock wind, offering a predictable path to the target."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "A LHFH with an overstable driver on Hole 6 Yellow will offer the stability needed to fight the 12 o'clock wind, ensuring a direct flight to the target."
         }
       }
     },
@@ -381,28 +381,28 @@
       "hole_number": "6",
       "wind_info": {
         "azimuth_degrees": 178.0,
-        "relative_degrees": 341.0,
-        "clock_face": "11 o'clock",
-        "description": "11 o'clock wind"
+        "relative_degrees": 10.0,
+        "clock_face": "12 o'clock",
+        "description": "12 o'clock wind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole 6 Black, a RHBH with a stable disc thrown on a hyzer will counteract the 11 o'clock wind, ensuring a straight flight towards the basket."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "Into a 12 o'clock wind on Hole 6 Black, a RHBH with an overstable driver is crucial for maintaining lift and preventing the disc from stalling, ensuring a straight flight to the basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 6 Black will provide a penetrating flight against the 11 o'clock wind, maintaining accuracy to the pin."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "A RHFH with an overstable driver on Hole 6 Black will provide the stability needed to cut through the 12 o'clock wind, allowing for a controlled flight to the green."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHBH with a neutral disc on a hyzer flip on Hole 6 Black will resist the 11 o'clock wind, helping the disc hold a straight line to the basket."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "For Hole 6 Black, a LHBH with an overstable driver thrown with power will resist the 12 o'clock wind, keeping the disc straight and preventing it from drifting too far right."
         },
         "fh": {
-          "disc_recommendation": "Stable Disc",
-          "shot_strategy": "A LHFH with a stable disc on Hole 6 Black will fly straight into the 11 o'clock wind, offering a reliable trajectory to the target."
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "A LHFH with an overstable driver on Hole 6 Black will offer the stability needed to fight the 12 o'clock wind, ensuring a direct flight to the target."
         }
       }
     },
@@ -411,28 +411,28 @@
       "hole_number": "7",
       "wind_info": {
         "azimuth_degrees": 300.0,
-        "relative_degrees": 219.0,
-        "clock_face": "7 o'clock",
-        "description": "7 o'clock wind"
+        "relative_degrees": 59.0,
+        "clock_face": "2 o'clock",
+        "description": "2 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole 7 Yellow, a RHBH with a stable disc on a hyzer will keep the flight path straight against the 7 o'clock wind, carrying towards the basket and away from the OB road."
+          "shot_strategy": "On Hole 7 Yellow, a RHBH with a stable disc on a hyzer will counteract the 2 o'clock wind's push to the left, keeping the flight straight towards the basket and away from the OB road."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 7 Yellow will cut through the 7 o'clock wind, providing a straight flight to the basket and avoiding the OB road."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 7 Yellow will cut through the 2 o'clock wind, providing a penetrating flight to the basket and staying clear of the OB road."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "A LHBH thrown with anhyzer on Hole 7 Yellow will allow the disc to fight the 7 o'clock wind, holding a line towards the basket and staying clear of the OB road."
+          "shot_strategy": "For Hole 7 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 2 o'clock wind's push to the left, allowing the disc to curve towards the basket and away from the OB road."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 7 Yellow will fly straight into the 7 o'clock wind, ensuring accuracy and keeping the disc away from the OB road."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 7 Yellow will fly straight into the 2 o'clock wind, ensuring accuracy and keeping the disc away from the OB road."
         }
       }
     },
@@ -441,28 +441,28 @@
       "hole_number": "7",
       "wind_info": {
         "azimuth_degrees": 293.4,
-        "relative_degrees": 225.6,
-        "clock_face": "8 o'clock",
-        "description": "8 o'clock wind"
+        "relative_degrees": 66.6,
+        "clock_face": "2 o'clock",
+        "description": "2 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "For Hole 7 Black, a RHBH with a stable disc on a hyzer will counteract the 8 o'clock wind, guiding the disc towards the basket while avoiding the OB road."
+          "shot_strategy": "On Hole 7 Black, a RHBH with a stable disc on a hyzer will counteract the 2 o'clock wind's push to the left, keeping the flight straight towards the basket and away from the OB road."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 7 Black will penetrate the 8 o'clock wind, providing a reliable flight path to the basket and staying away from the OB road."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 7 Black will cut through the 2 o'clock wind, providing a penetrating flight to the basket and staying clear of the OB road."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "On Hole 7 Black, throw a LHBH with anhyzer using an understable disc to fight the 8 o'clock wind, allowing the disc to shape towards the basket and avoid the OB road."
+          "shot_strategy": "For Hole 7 Black, a LHBH thrown with anhyzer using an understable disc will fight the 2 o'clock wind's push to the left, allowing the disc to curve towards the basket and away from the OB road."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 7 Black will fly straight into the 8 o'clock wind, ensuring accuracy and keeping the disc away from the OB road."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 7 Black will fly straight into the 2 o'clock wind, ensuring accuracy and keeping the disc away from the OB road."
         }
       }
     },
@@ -471,28 +471,28 @@
       "hole_number": "8",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 249.0,
-        "clock_face": "8 o'clock",
-        "description": "8 o'clock wind"
+        "relative_degrees": 99.0,
+        "clock_face": "3 o'clock",
+        "description": "3 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole 8 Yellow, a RHBH with a stable disc thrown on a hyzer will counteract the 8 o'clock wind, keeping the flight straight towards the basket and away from the OB path."
+          "shot_strategy": "On Hole 8 Yellow, a RHBH with a stable disc on a hyzer will resist the 3 o'clock wind's push to the left, keeping the flight straight towards the basket and away from the OB path."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 8 Yellow will cut through the 8 o'clock wind, providing a penetrating flight to the basket and avoiding the OB path."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 8 Yellow will cut through the 3 o'clock wind, providing a penetrating flight to the basket and staying clear of the OB path."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "For Hole 8 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 8 o'clock wind, shaping towards the basket and staying clear of the OB path."
+          "shot_strategy": "For Hole 8 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 3 o'clock wind's push to the left, allowing the disc to curve towards the basket and away from the OB path."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 8 Yellow will fly straight into the 8 o'clock wind, ensuring accuracy and keeping the disc away from the OB path."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 8 Yellow will fly straight into the 3 o'clock wind, ensuring accuracy and keeping the disc away from the OB path."
         }
       }
     },
@@ -501,28 +501,28 @@
       "hole_number": "8",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 249.0,
-        "clock_face": "8 o'clock",
-        "description": "8 o'clock wind"
+        "relative_degrees": 99.0,
+        "clock_face": "3 o'clock",
+        "description": "3 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole 8 Black, a RHBH with a stable disc on a hyzer will combat the 8 o'clock wind, guiding the disc straight towards the basket and away from the OB path."
+          "shot_strategy": "On Hole 8 Black, a RHBH with a stable disc on a hyzer will counteract the 3 o'clock wind's push to the left, keeping the flight straight towards the basket and away from the OB path."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 8 Black will penetrate the 8 o'clock wind, ensuring a reliable flight to the basket and staying away from the OB path."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 8 Black will cut through the 3 o'clock wind, providing a penetrating flight to the basket and staying clear of the OB path."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "For Hole 8 Black, a LHBH thrown with anhyzer using an understable disc will fight the 8 o'clock wind, shaping towards the basket and avoiding the OB path."
+          "shot_strategy": "For Hole 8 Black, a LHBH thrown with anhyzer using an understable disc will fight the 3 o'clock wind's push to the left, allowing the disc to curve towards the basket and away from the OB path."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 8 Black will fly straight into the 8 o'clock wind, providing accuracy and keeping the disc away from the OB path."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 8 Black will fly straight into the 3 o'clock wind, ensuring accuracy and keeping the disc away from the OB path."
         }
       }
     },
@@ -538,21 +538,21 @@
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "Facing a 3 o'clock crosswind from the left on Hole 9 Yellow, a RHBH with a stable disc on a hyzer will help control the flight and prevent it from drifting OB, guiding it towards the basket."
+          "shot_strategy": "On Hole 9 Yellow, a RHBH with a stable disc on a hyzer will counteract the 3 o'clock crosswind from the left, keeping the flight straight towards the basket and away from the OB on the left."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 9 Yellow will cut through the 3 o'clock crosswind from the left, providing a straight and reliable flight to the basket, avoiding the OB."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 9 Yellow will cut through the 3 o'clock crosswind from the left, providing a penetrating flight to the basket and staying clear of the OB on the left."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "On Hole 9 Yellow, a LHBH thrown with anhyzer against the 3 o'clock crosswind from the left will allow the disc to fight the wind's push and hold a line towards the basket, staying clear of the OB."
+          "shot_strategy": "For Hole 9 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 3 o'clock crosswind from the left's push to the right, allowing the disc to curve towards the basket and away from the OB on the left."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 9 Yellow will fly straight into the 3 o'clock crosswind from the left, ensuring accuracy and preventing errant shots from drifting OB."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 9 Yellow will fly straight into the 3 o'clock crosswind from the left, ensuring accuracy and keeping the disc away from the OB on the left."
         }
       }
     },
@@ -568,21 +568,21 @@
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "For Hole 9 Black, a RHBH with a stable disc on a hyzer will combat the 3 o'clock crosswind from the left, keeping the disc on target and away from the OB."
+          "shot_strategy": "On Hole 9 Black, a RHBH with a stable disc on a hyzer will counteract the 3 o'clock crosswind from the left, keeping the flight straight towards the basket and away from the OB on the left."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 9 Black will slice through the 3 o'clock crosswind from the left, ensuring a straight flight to the basket and avoiding OB."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 9 Black will cut through the 3 o'clock crosswind from the left, providing a penetrating flight to the basket and staying clear of the OB on the left."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "On Hole 9 Black, use an anhyzer with a LHBH and an understable disc to fight the 3 o'clock crosswind from the left, allowing the disc to curve towards the basket and away from the OB."
+          "shot_strategy": "For Hole 9 Black, a LHBH thrown with anhyzer using an understable disc will fight the 3 o'clock crosswind from the left's push to the right, allowing the disc to curve towards the basket and away from the OB on the left."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 9 Black will fly straight into the 3 o'clock crosswind from the left, providing accuracy and keeping the disc away from the OB."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 9 Black will fly straight into the 3 o'clock crosswind from the left, ensuring accuracy and keeping the disc away from the OB on the left."
         }
       }
     },
@@ -591,28 +591,28 @@
       "hole_number": "10",
       "wind_info": {
         "azimuth_degrees": 249.7,
-        "relative_degrees": 269.3,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "9 o'clock crosswind from right"
+        "relative_degrees": 119.3,
+        "clock_face": "4 o'clock",
+        "description": "4 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole 10 Yellow, a RHBH with a stable disc on a hyzer will resist the 9 o'clock crosswind from the right, shaping a flight path towards the basket and away from the OB fence line."
+          "shot_strategy": "On Hole 10 Yellow, a RHBH with a stable disc on a hyzer will resist the 4 o'clock wind's push to the left, shaping a flight path towards the basket and away from the OB fence line."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 10 Yellow will cut through the 9 o'clock crosswind from the right, providing a straight flight towards the basket while staying clear of the OB fence line."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 10 Yellow will cut through the 4 o'clock wind, providing a straight flight towards the basket while staying clear of the OB fence line."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "For Hole 10 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 9 o'clock crosswind from the right, allowing the disc to curve towards the basket and away from the OB fence line."
+          "shot_strategy": "For Hole 10 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 4 o'clock wind's push to the left, allowing the disc to curve towards the basket and away from the OB fence line."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 10 Yellow will fly straight into the 9 o'clock crosswind from the right, ensuring accuracy and keeping the disc away from the OB fence line."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 10 Yellow will fly straight into the 4 o'clock wind, ensuring accuracy and keeping the disc away from the OB fence line."
         }
       }
     },
@@ -621,28 +621,28 @@
       "hole_number": "10",
       "wind_info": {
         "azimuth_degrees": 255.5,
-        "relative_degrees": 263.5,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "9 o'clock crosswind from right"
+        "relative_degrees": 113.5,
+        "clock_face": "4 o'clock",
+        "description": "4 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole 10 Black, a RHBH with a stable disc on a hyzer will counter the 9 o'clock crosswind from the right, shaping a line towards the basket and away from the OB fence line."
+          "shot_strategy": "On Hole 10 Black, a RHBH with a stable disc on a hyzer will counteract the 4 o'clock wind's push to the left, shaping a line towards the basket and away from the OB fence line."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 10 Black will cut through the 9 o'clock crosswind from the right, providing a straight flight to the basket and staying clear of the OB fence line."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 10 Black will cut through the 4 o'clock wind, providing a straight flight to the basket and staying clear of the OB fence line."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "For Hole 10 Black, a LHBH thrown with anhyzer using an understable disc will fight the 9 o'clock crosswind from the right, allowing the disc to curve towards the basket and away from the OB fence line."
+          "shot_strategy": "For Hole 10 Black, a LHBH thrown with anhyzer using an understable disc will fight the 4 o'clock wind's push to the left, allowing the disc to curve towards the basket and away from the OB fence line."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 10 Black will fly straight into the 9 o'clock crosswind from the right, ensuring accuracy and keeping the disc away from the OB fence line."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 10 Black will fly straight into the 4 o'clock wind, ensuring accuracy and keeping the disc away from the OB fence line."
         }
       }
     },
@@ -651,28 +651,28 @@
       "hole_number": "11",
       "wind_info": {
         "azimuth_degrees": 234.7,
-        "relative_degrees": 284.3,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "9 o'clock crosswind from right"
+        "relative_degrees": 134.3,
+        "clock_face": "5 o'clock",
+        "description": "5 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole 11 Yellow, a RHBH with a stable disc on a hyzer will resist the 9 o'clock crosswind from the right, shaping a flight towards the basket."
+          "shot_strategy": "On Hole 11 Yellow, a RHBH with a stable disc on a hyzer will resist the 5 o'clock wind's push to the left, shaping a flight towards the basket."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 11 Yellow will cut through the 9 o'clock crosswind from the right, providing a straight flight to the basket."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 11 Yellow will cut through the 5 o'clock wind, providing a straight flight to the basket."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "For Hole 11 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 9 o'clock crosswind from the right, allowing the disc to curve towards the basket."
+          "shot_strategy": "For Hole 11 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 5 o'clock wind's push to the left, allowing the disc to curve towards the basket."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 11 Yellow will fly straight into the 9 o'clock crosswind from the right, ensuring accuracy."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 11 Yellow will fly straight into the 5 o'clock wind, ensuring accuracy."
         }
       }
     },
@@ -681,28 +681,28 @@
       "hole_number": "11",
       "wind_info": {
         "azimuth_degrees": 247.6,
-        "relative_degrees": 271.4,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "9 o'clock crosswind from right"
+        "relative_degrees": 121.4,
+        "clock_face": "4 o'clock",
+        "description": "4 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole 11 Black, a RHBH with a stable disc on a hyzer will counter the 9 o'clock crosswind from the right, shaping a line towards the basket."
+          "shot_strategy": "On Hole 11 Black, a RHBH with a stable disc on a hyzer will counteract the 4 o'clock wind's push to the left, shaping a line towards the basket."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 11 Black will cut through the 9 o'clock crosswind from the right, providing a straight flight to the basket."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 11 Black will cut through the 4 o'clock wind, providing a straight flight to the basket."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "For Hole 11 Black, a LHBH thrown with anhyzer using an understable disc will fight the 9 o'clock crosswind from the right, allowing the disc to curve towards the basket."
+          "shot_strategy": "For Hole 11 Black, a LHBH thrown with anhyzer using an understable disc will fight the 4 o'clock wind's push to the left, allowing the disc to curve towards the basket."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 11 Black will fly straight into the 9 o'clock crosswind from the right, ensuring accuracy."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 11 Black will fly straight into the 4 o'clock wind, ensuring accuracy."
         }
       }
     },
@@ -711,28 +711,28 @@
       "hole_number": "12",
       "wind_info": {
         "azimuth_degrees": 92.3,
-        "relative_degrees": 66.7,
-        "clock_face": "2 o'clock",
-        "description": "2 o'clock wind"
+        "relative_degrees": 270.7,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "9 o'clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole 12 Yellow, a RHBH with a stable disc on a hyzer will hold a straight line against the 2 o'clock wind, guiding the disc towards the basket and away from the OB."
+          "shot_strategy": "On Hole 12 Yellow, a RHBH with a stable disc on a hyzer will resist the 9 o'clock crosswind from the right, shaping a flight towards the basket and away from the OB."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 12 Yellow will cut through the 2 o'clock wind, providing a penetrating flight to the basket and avoiding the OB."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 12 Yellow will cut through the 9 o'clock crosswind from the right, providing a penetrating flight to the basket and staying clear of the OB."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "For Hole 12 Yellow, a LHBH thrown with anhyzer will fight the 2 o'clock wind, allowing the disc to shape towards the basket and stay clear of the OB."
+          "shot_strategy": "For Hole 12 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 9 o'clock crosswind from the right's push to the left, allowing the disc to curve towards the basket and away from the OB."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 12 Yellow will fly straight into the 2 o'clock wind, ensuring accuracy and keeping the disc away from the OB."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 12 Yellow will fly straight into the 9 o'clock crosswind from the right, ensuring accuracy and keeping the disc away from the OB."
         }
       }
     },
@@ -741,28 +741,28 @@
       "hole_number": "12",
       "wind_info": {
         "azimuth_degrees": 69.0,
-        "relative_degrees": 90.0,
-        "clock_face": "3 o'clock crosswind from left",
-        "description": "3 o'clock crosswind from left"
+        "relative_degrees": 300.0,
+        "clock_face": "10 o'clock",
+        "description": "10 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole 12 Black, a RHBH with a stable disc on a hyzer will counter the 3 o'clock crosswind from the left, keeping the disc on target and away from the OB."
+          "shot_strategy": "On Hole 12 Black, a RHBH with a stable disc on a hyzer will counteract the 10 o'clock wind's push to the right, keeping the flight straight towards the basket and away from the OB."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 12 Black will slice through the 3 o'clock crosswind from the left, ensuring a straight flight to the basket and avoiding OB."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 12 Black will cut through the 10 o'clock wind, providing a penetrating flight to the basket and staying clear of the OB."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "On Hole 12 Black, use an anhyzer with a LHBH and an understable disc to fight the 3 o'clock crosswind from the left, allowing the disc to curve towards the basket and away from the OB."
+          "shot_strategy": "For Hole 12 Black, a LHBH thrown with anhyzer using an understable disc will fight the 10 o'clock wind's push to the right, allowing the disc to curve towards the basket and away from the OB."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 12 Black will fly straight into the 3 o'clock crosswind from the left, providing accuracy and keeping the disc away from the OB."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 12 Black will fly straight into the 10 o'clock wind, ensuring accuracy and keeping the disc away from the OB."
         }
       }
     },
@@ -771,28 +771,28 @@
       "hole_number": "13",
       "wind_info": {
         "azimuth_degrees": 161.7,
-        "relative_degrees": 357.3,
-        "clock_face": "12 o'clock headwind",
-        "description": "12 o'clock headwind"
+        "relative_degrees": 358.3,
+        "clock_face": "12 o'clock",
+        "description": "12 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Into a 12 o'clock headwind on Hole 13 Yellow, a RHBH with an overstable disc is crucial to maintain lift and prevent stalling, ensuring a straight flight to the basket."
+          "shot_strategy": "On Hole 13 Yellow, into a 12 o'clock wind, a RHBH with an overstable driver is crucial for maintaining lift and preventing the disc from stalling, ensuring a straight flight to the basket."
         },
         "fh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 13 Yellow will provide the stability needed to cut through the 12 o'clock headwind, allowing for a controlled flight to the green."
+          "shot_strategy": "A RHFH with an overstable driver on Hole 13 Yellow will provide the stability needed to cut through the 12 o'clock wind, allowing for a controlled flight to the green."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 13 Yellow, a LHBH with an overstable disc thrown with power will resist the 12 o'clock headwind, keeping the disc straight and preventing it from drifting right."
+          "shot_strategy": "For Hole 13 Yellow, a LHBH with an overstable driver thrown with power will resist the 12 o'clock wind, keeping the disc straight and preventing it from drifting too far right."
         },
         "fh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "A LHFH with an overstable disc on Hole 13 Yellow will offer the stability needed to fight the 12 o'clock headwind, ensuring a direct flight to the target."
+          "shot_strategy": "A LHFH with an overstable driver on Hole 13 Yellow will offer the stability needed to fight the 12 o'clock wind, ensuring a direct flight to the target."
         }
       }
     },
@@ -801,28 +801,28 @@
       "hole_number": "13",
       "wind_info": {
         "azimuth_degrees": 152.1,
-        "relative_degrees": 5.6,
-        "clock_face": "12 o'clock headwind",
-        "description": "12 o'clock headwind"
+        "relative_degrees": 8.1,
+        "clock_face": "12 o'clock",
+        "description": "12 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Facing a 12 o'clock headwind on Hole 13 Black, a RHBH with an overstable disc is vital for maintaining lift and preventing the disc from turning over, ensuring a straight flight to the basket."
+          "shot_strategy": "On Hole 13 Black, into a 12 o'clock wind, a RHBH with an overstable driver is crucial for maintaining lift and preventing the disc from stalling, ensuring a straight flight to the basket."
         },
         "fh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 13 Black will provide the necessary stability to combat the 12 o'clock headwind, allowing for a controlled flight to the green."
+          "shot_strategy": "A RHFH with an overstable driver on Hole 13 Black will provide the stability needed to cut through the 12 o'clock wind, allowing for a controlled flight to the green."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 13 Black, a LHBH with an overstable disc thrown with power will resist the 12 o'clock headwind, keeping the disc straight and preventing it from drifting too far right."
+          "shot_strategy": "For Hole 13 Black, a LHBH with an overstable driver thrown with power will resist the 12 o'clock wind, keeping the disc straight and preventing it from drifting too far right."
         },
         "fh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "A LHFH with an overstable disc on Hole 13 Black will offer the stability needed to fight the 12 o'clock headwind, ensuring a direct flight to the target."
+          "shot_strategy": "A LHFH with an overstable driver on Hole 13 Black will offer the stability needed to fight the 12 o'clock wind, ensuring a direct flight to the target."
         }
       }
     },
@@ -831,28 +831,28 @@
       "hole_number": "14",
       "wind_info": {
         "azimuth_degrees": 260.0,
-        "relative_degrees": 259.0,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "9 o'clock crosswind from right"
+        "relative_degrees": 100.0,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "3 o'clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole 14 Yellow, a RHBH with a stable disc on a hyzer will resist the 9 o'clock crosswind from the right, shaping a flight path towards the basket."
+          "shot_strategy": "On Hole 14 Yellow, a RHBH with a stable disc on a hyzer will counteract the 3 o'clock crosswind from the left, keeping the flight straight towards the basket and away from the OB."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 14 Yellow will cut through the 9 o'clock crosswind from the right, providing a straight flight to the basket."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 14 Yellow will cut through the 3 o'clock crosswind from the left, providing a penetrating flight to the basket and staying clear of the OB."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "For Hole 14 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 9 o'clock crosswind from the right, allowing the disc to curve towards the basket."
+          "shot_strategy": "For Hole 14 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 3 o'clock crosswind from the left's push to the right, allowing the disc to curve towards the basket and away from the OB."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 14 Yellow will fly straight into the 9 o'clock crosswind from the right, ensuring accuracy."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 14 Yellow will fly straight into the 3 o'clock crosswind from the left, ensuring accuracy and keeping the disc away from the OB."
         }
       }
     },
@@ -861,28 +861,28 @@
       "hole_number": "14",
       "wind_info": {
         "azimuth_degrees": 267.0,
-        "relative_degrees": 252.0,
-        "clock_face": "8 o'clock",
-        "description": "8 o'clock wind"
+        "relative_degrees": 93.0,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "3 o'clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole 14 Black, a RHBH with a stable disc on a hyzer will counteract the 8 o'clock wind, guiding the disc towards the basket."
+          "shot_strategy": "On Hole 14 Black, a RHBH with a stable disc on a hyzer will counteract the 3 o'clock crosswind from the left, keeping the flight straight towards the basket and away from the OB."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 14 Black will penetrate the 8 o'clock wind, ensuring a reliable flight to the basket."
+          "shot_strategy": "A RHFH with an overstable disc on Hole 14 Black will cut through the 3 o'clock crosswind from the left, providing a penetrating flight to the basket and staying clear of the OB."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "For Hole 14 Black, a LHBH thrown with anhyzer using an understable disc will fight the 8 o'clock wind, shaping towards the basket."
+          "shot_strategy": "For Hole 14 Black, a LHBH thrown with anhyzer using an understable disc will fight the 3 o'clock crosswind from the left's push to the right, allowing the disc to curve towards the basket and away from the OB."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole 14 Black will fly straight into the 8 o'clock wind, providing accuracy."
+          "shot_strategy": "A LHFH with a neutral disc on Hole 14 Black will fly straight into the 3 o'clock crosswind from the left, ensuring accuracy and keeping the disc away from the OB."
         }
       }
     },
@@ -898,21 +898,21 @@
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Into a 12 o'clock headwind on Hole 15 Yellow, a RHBH with an overstable disc is crucial for maintaining lift and preventing the disc from stalling, ensuring a straight flight to the basket."
+          "shot_strategy": "Into a 12 o'clock headwind on Hole 15 Yellow, a RHBH with an overstable driver is crucial for maintaining lift and preventing the disc from stalling, ensuring a straight flight to the basket."
         },
         "fh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "A RHFH with an overstable disc on Hole 15 Yellow will provide the stability needed to cut through the 12 o'clock headwind, allowing for a controlled flight to the green."
+          "shot_strategy": "A RHFH with an overstable driver on Hole 15 Yellow will provide the stability needed to cut through the 12 o'clock headwind, allowing for a controlled flight to the green."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 15 Yellow, a LHBH with an overstable disc thrown with power will resist the 12 o'clock headwind, keeping the disc straight and preventing it from drifting right."
+          "shot_strategy": "For Hole 15 Yellow, a LHBH with an overstable driver thrown with power will resist the 12 o'clock headwind, keeping the disc straight and preventing it from drifting too far right."
         },
         "fh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "A LHFH with an overstable disc on Hole 15 Yellow will offer the stability needed to fight the 12 o'clock headwind, ensuring a direct flight to the target."
+          "shot_strategy": "A LHFH with an overstable driver on Hole 15 Yellow will offer the stability needed to fight the 12 o'clock headwind, ensuring a direct flight to the target."
         }
       }
     },
@@ -921,7 +921,7 @@
       "hole_number": "15",
       "wind_info": {
         "azimuth_degrees": 176.0,
-        "relative_degrees": 343.0,
+        "relative_degrees": 344.0,
         "clock_face": "11 o'clock",
         "description": "11 o'clock wind"
       },
@@ -951,14 +951,14 @@
       "hole_number": "B",
       "wind_info": {
         "azimuth_degrees": 72.6,
-        "relative_degrees": 86.4,
+        "relative_degrees": 94.4,
         "clock_face": "3 o'clock crosswind from left",
         "description": "3 o'clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole B, a RHBH with a stable disc on a hyzer will fight the 3 o'clock crosswind from the left, keeping the flight straight towards the basket."
+          "shot_strategy": "On Hole B, a RHBH with a stable disc on a hyzer will counteract the 3 o'clock crosswind from the left, keeping the flight straight towards the basket."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
@@ -968,7 +968,7 @@
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "For Hole B, a LHBH thrown with anhyzer using an understable disc will allow it to fight the 3 o'clock crosswind from the left and curve towards the basket."
+          "shot_strategy": "For Hole B, a LHBH thrown with anhyzer using an understable disc will fight the 3 o'clock crosswind from the left's push to the right, allowing the disc to curve towards the basket."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
@@ -981,24 +981,24 @@
       "hole_number": "C",
       "wind_info": {
         "azimuth_degrees": 11.6,
-        "relative_degrees": 147.4,
+        "relative_degrees": 149.4,
         "clock_face": "5 o'clock",
         "description": "5 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole C, a RHBH with an understable disc on anhyzer will use the 5 o'clock wind to help it turn and hold a straight line towards the basket."
+          "shot_strategy": "On Hole C, a RHBH with an understable driver on an anhyzer will use the 5 o'clock wind to help it turn and hold a straight line towards the basket."
         },
         "fh": {
           "disc_recommendation": "Stable Driver",
-          "shot_strategy": "A RHFH with a stable disc on Hole C will provide a straight flight against the 5 o'clock wind, carrying directly to the pin."
+          "shot_strategy": "A RHFH with a stable driver on Hole C will provide a straight flight against the 5 o'clock wind, carrying directly to the pin."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole C, a LHBH with an overstable disc on hyzer will fight the 5 o'clock wind and maintain a straight trajectory towards the basket."
+          "shot_strategy": "For Hole C, a LHBH with an overstable driver on a hyzer will fight the 5 o'clock wind and maintain a straight trajectory towards the basket."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
@@ -1011,28 +1011,208 @@
       "hole_number": "D",
       "wind_info": {
         "azimuth_degrees": 225.4,
-        "relative_degrees": 293.6,
-        "clock_face": "10 o'clock",
-        "description": "10 o'clock wind"
+        "relative_degrees": 144.6,
+        "clock_face": "5 o'clock",
+        "description": "5 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "On Hole D, a RHBH with a stable disc on a hyzer will counteract the 10 o'clock wind, keeping the flight straight towards the basket."
+          "shot_strategy": "On Hole D, a RHBH with a stable disc on a hyzer will counteract the 5 o'clock wind's push to the left, keeping the flight straight towards the basket."
         },
         "fh": {
           "disc_recommendation": "Overstable Disc",
-          "shot_strategy": "A RHFH with an overstable disc on Hole D will cut through the 10 o'clock wind, providing a penetrating flight to the basket."
+          "shot_strategy": "A RHFH with an overstable disc on Hole D will cut through the 5 o'clock wind, providing a penetrating flight to the basket."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Disc",
-          "shot_strategy": "For Hole D, a LHBH thrown with anhyzer using an understable disc will fight the 10 o'clock wind, shaping towards the basket."
+          "shot_strategy": "For Hole D, a LHBH thrown with anhyzer using an understable disc will fight the 5 o'clock wind's push to the left, allowing the disc to curve towards the basket."
         },
         "fh": {
           "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHFH with a neutral disc on Hole D will fly straight into the 10 o'clock wind, providing accuracy."
+          "shot_strategy": "A LHFH with a neutral disc on Hole D will fly straight into the 5 o'clock wind, ensuring accuracy."
+        }
+      }
+    },
+    {
+      "hole_label": "16",
+      "hole_number": "16",
+      "wind_info": {
+        "azimuth_degrees": 48.0,
+        "relative_degrees": 120.0,
+        "clock_face": "4 o'clock",
+        "description": "4 o'clock wind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable Disc",
+          "shot_strategy": "On Hole 16 Yellow, a RHBH with a stable disc on a hyzer will resist the 4 o'clock wind's push to the left, shaping a flight towards the basket and away from the OB."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Disc",
+          "shot_strategy": "A RHFH with an overstable disc on Hole 16 Yellow will cut through the 4 o'clock wind, providing a penetrating flight to the basket and staying clear of the OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Disc",
+          "shot_strategy": "For Hole 16 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 4 o'clock wind's push to the left, allowing the disc to curve towards the basket and away from the OB."
+        },
+        "fh": {
+          "disc_recommendation": "Neutral Disc",
+          "shot_strategy": "A LHFH with a neutral disc on Hole 16 Yellow will fly straight into the 4 o'clock wind, ensuring accuracy and keeping the disc away from the OB."
+        }
+      }
+    },
+    {
+      "hole_label": "16",
+      "hole_number": "16",
+      "wind_info": {
+        "azimuth_degrees": 48.0,
+        "relative_degrees": 120.0,
+        "clock_face": "4 o'clock",
+        "description": "4 o'clock wind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable Disc",
+          "shot_strategy": "On Hole 16 Black, a RHBH with a stable disc on a hyzer will counteract the 4 o'clock wind's push to the left, shaping a line towards the basket and away from the OB."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Disc",
+          "shot_strategy": "A RHFH with an overstable disc on Hole 16 Black will cut through the 4 o'clock wind, providing a straight flight to the basket and staying clear of the OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Disc",
+          "shot_strategy": "For Hole 16 Black, a LHBH thrown with anhyzer using an understable disc will fight the 4 o'clock wind's push to the left, allowing the disc to curve towards the basket and away from the OB."
+        },
+        "fh": {
+          "disc_recommendation": "Neutral Disc",
+          "shot_strategy": "A LHFH with a neutral disc on Hole 16 Black will fly straight into the 4 o'clock wind, ensuring accuracy and keeping the disc away from the OB."
+        }
+      }
+    },
+    {
+      "hole_label": "17",
+      "hole_number": "17",
+      "wind_info": {
+        "azimuth_degrees": 171.5,
+        "relative_degrees": 10.5,
+        "clock_face": "12 o'clock",
+        "description": "12 o'clock wind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "Into a 12 o'clock wind on Hole 17 Yellow, a RHBH with an overstable driver is crucial for maintaining lift and preventing the disc from stalling, ensuring a straight flight to the basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "A RHFH with an overstable driver on Hole 17 Yellow will provide the stability needed to cut through the 12 o'clock wind, allowing for a controlled flight to the green."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "For Hole 17 Yellow, a LHBH with an overstable driver thrown with power will resist the 12 o'clock wind, keeping the disc straight and preventing it from drifting too far right."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "A LHFH with an overstable driver on Hole 17 Yellow will offer the stability needed to fight the 12 o'clock wind, ensuring a direct flight to the target."
+        }
+      }
+    },
+    {
+      "hole_label": "17",
+      "hole_number": "17",
+      "wind_info": {
+        "azimuth_degrees": 153.4,
+        "relative_degrees": 28.6,
+        "clock_face": "1 o'clock",
+        "description": "1 o'clock wind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "On Hole 17 Black, into a 1 o'clock wind, a RHBH with an overstable driver is essential to maintain penetration and prevent the disc from turning over, ensuring a straight flight to the basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "A RHFH with an overstable driver on Hole 17 Black will provide the stability needed to cut through the 1 o'clock wind, allowing for a controlled flight to the green."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "For Hole 17 Black, a LHBH with an overstable driver thrown with power will resist the 1 o'clock wind, keeping the disc straight and preventing it from drifting too far right."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Driver",
+          "shot_strategy": "A LHFH with an overstable driver on Hole 17 Black will offer the stability needed to fight the 1 o'clock wind, ensuring a direct flight to the target."
+        }
+      }
+    },
+    {
+      "hole_label": "18",
+      "hole_number": "18",
+      "wind_info": {
+        "azimuth_degrees": 87.8,
+        "relative_degrees": 272.2,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "9 o'clock crosswind from right"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable Disc",
+          "shot_strategy": "On Hole 18 Yellow, a RHBH with a stable disc on a hyzer will resist the 9 o'clock crosswind from the right, shaping a flight towards the basket and away from the OB."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Disc",
+          "shot_strategy": "A RHFH with an overstable disc on Hole 18 Yellow will cut through the 9 o'clock crosswind from the right, providing a penetrating flight to the basket and staying clear of the OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Disc",
+          "shot_strategy": "For Hole 18 Yellow, a LHBH thrown with anhyzer using an understable disc will fight the 9 o'clock crosswind from the right's push to the left, allowing the disc to curve towards the basket and away from the OB."
+        },
+        "fh": {
+          "disc_recommendation": "Neutral Disc",
+          "shot_strategy": "A LHFH with a neutral disc on Hole 18 Yellow will fly straight into the 9 o'clock crosswind from the right, ensuring accuracy and keeping the disc away from the OB."
+        }
+      }
+    },
+    {
+      "hole_label": "18",
+      "hole_number": "18",
+      "wind_info": {
+        "azimuth_degrees": 92.7,
+        "relative_degrees": 267.3,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "9 o'clock crosswind from right"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable Disc",
+          "shot_strategy": "On Hole 18 Black, a RHBH with a stable disc on a hyzer will counteract the 9 o'clock crosswind from the right, keeping the flight straight towards the basket and away from the OB."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Disc",
+          "shot_strategy": "A RHFH with an overstable disc on Hole 18 Black will cut through the 9 o'clock crosswind from the right, providing a penetrating flight to the basket and staying clear of the OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Disc",
+          "shot_strategy": "For Hole 18 Black, a LHBH thrown with anhyzer using an understable disc will fight the 9 o'clock crosswind from the right's push to the left, allowing the disc to curve towards the basket and away from the OB."
+        },
+        "fh": {
+          "disc_recommendation": "Neutral Disc",
+          "shot_strategy": "A LHFH with a neutral disc on Hole 18 Black will fly straight into the 9 o'clock crosswind from the right, ensuring accuracy and keeping the disc away from the OB."
         }
       }
     },
@@ -1041,28 +1221,28 @@
       "hole_number": "E",
       "wind_info": {
         "azimuth_degrees": 320.5,
-        "relative_degrees": 198.5,
-        "clock_face": "7 o'clock",
-        "description": "7 o'clock wind"
+        "relative_degrees": 58.5,
+        "clock_face": "2 o'clock",
+        "description": "2 o'clock wind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Disc",
-          "shot_strategy": "With a 7 o'clock wind on Hole E, a RHBH thrown with a stable disc on a hyzer will hold a straight line to the basket, allowing the wind to push it gently left."
+          "shot_strategy": "On Hole E, a RHBH with a stable disc on a hyzer will resist the 2 o'clock wind's push to the left, keeping the flight straight towards the basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Disc",
-          "shot_strategy": "A RHFH with a stable disc thrown with power on Hole E will cut through the 7 o'clock wind and hold a straight path to the pin."
+          "disc_recommendation": "Overstable Disc",
+          "shot_strategy": "A RHFH with an overstable disc on Hole E will cut through the 2 o'clock wind, providing a penetrating flight to the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Neutral Disc",
-          "shot_strategy": "A LHBH with a neutral disc thrown on a hyzer flip on Hole E will fight the 7 o'clock wind and maintain a straight trajectory towards the basket."
+          "disc_recommendation": "Understable Disc",
+          "shot_strategy": "For Hole E, a LHBH thrown with anhyzer using an understable disc will fight the 2 o'clock wind's push to the left, allowing the disc to curve towards the basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Disc",
-          "shot_strategy": "A LHFH with a stable disc on Hole E will fly straight into the 7 o'clock wind, offering a predictable path to the target."
+          "disc_recommendation": "Neutral Disc",
+          "shot_strategy": "A LHFH with a neutral disc on Hole E will fly straight into the 2 o'clock wind, ensuring accuracy."
         }
       }
     },
@@ -1071,7 +1251,7 @@
       "hole_number": "F",
       "wind_info": {
         "azimuth_degrees": 189.5,
-        "relative_degrees": 329.5,
+        "relative_degrees": 335.5,
         "clock_face": "11 o'clock",
         "description": "11 o'clock wind"
       },
