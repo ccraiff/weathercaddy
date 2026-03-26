@@ -1,637 +1,737 @@
 {
   "course": "Sand Ridge Disc Golf Course",
-  "report_generated_at": "2026-03-25 19:53 EDT",
+  "report_generated_at": "2026-03-26 08:00 EDT",
   "current_wind": {
-    "speed_mph": 10.4,
-    "direction_degrees": 199,
-    "gusts_mph": 22.6,
-    "description": "10.4 mph from 199\u00b0 (SSW), gusts to 22.6 mph"
+    "speed_mph": 7.6,
+    "direction_degrees": 159,
+    "gusts_mph": 15.9,
+    "description": "Light breeze from the South-Southeast"
   },
   "forecast_5hr": [
-    {
-      "time_edt": "2026-03-25 18:00 EDT",
-      "speed_mph": 10.4,
-      "direction_degrees": 199
-    },
-    {
-      "time_edt": "2026-03-25 19:00 EDT",
-      "speed_mph": 8.8,
-      "direction_degrees": 196
-    },
-    {
-      "time_edt": "2026-03-25 20:00 EDT",
-      "speed_mph": 9.2,
-      "direction_degrees": 198
-    },
-    {
-      "time_edt": "2026-03-25 21:00 EDT",
-      "speed_mph": 9.3,
-      "direction_degrees": 207
-    },
-    {
-      "time_edt": "2026-03-25 22:00 EDT",
-      "speed_mph": 10.2,
-      "direction_degrees": 218
-    }
+    {"time_edt": "2026-03-26 07:00 EDT", "speed_mph": 7.6, "direction_degrees": 159},
+    {"time_edt": "2026-03-26 08:00 EDT", "speed_mph": 8.9, "direction_degrees": 208},
+    {"time_edt": "2026-03-26 09:00 EDT", "speed_mph": 12.0, "direction_degrees": 213},
+    {"time_edt": "2026-03-26 10:00 EDT", "speed_mph": 10.4, "direction_degrees": 203},
+    {"time_edt": "2026-03-26 11:00 EDT", "speed_mph": 12.2, "direction_degrees": 193}
   ],
   "holes": [
     {
-      "hole_number": "1",
-      "hole_label": "1",
+      "hole_number": 1,
+      "hole_label": "Hole 1",
       "wind_info": {
         "azimuth_degrees": 84.3,
-        "relative_degrees": 114.7,
-        "clock_face": "4 o-clock",
-        "description": "Crosswind from the right"
+        "relative_degrees": 74.7,
+        "clock_face": "2 o-clock",
+        "description": "Light crosswind from the left"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 1, with a 4 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB. Be mindful of the OB: Roadway to the right and past the basket."
+          "shot_strategy": "Player, for Hole 1, a light 2 o'clock crosswind from the left is present (7.6 mph). Aim for a stable fairway driver with a slight hyzer to counter the wind's push and keep your shot safely away from the OB to your right."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 1, a Stable Midrange thrown with a slight anhyzer is advised to counter the 4 o-clock wind. Be mindful of the OB: Roadway to the right and past the basket."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, a controlled RHFH with a stable fairway driver is a good option here, aiming left of the basket to manage the 2 o'clock wind and avoid the OB to your right."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 1 using an Understable Midrange with a slight anhyzer can help manage the 4 o-clock wind. Be mindful of the OB: Roadway to the right and past the basket."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "With the 2 o'clock wind pushing left, a LHBH requires an overstable disc thrown with a strong hyzer to fight the conditions and avoid the OB to your right."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 1, a LHFH with a Stable Driver thrown with anhyzer can help manage the 4 o-clock wind. Be mindful of the OB: Roadway to the right and past the basket."
+          "disc_recommendation": "Overstable Midrange",
+          "shot_strategy": "For a left-handed forehand, the 2 o'clock wind pushing left will make it challenging. Consider an overstable midrange thrown with a smooth hyzer, aiming for a controlled flight to stay in bounds."
         }
       }
     },
     {
-      "hole_number": "2",
-      "hole_label": "2",
+      "hole_number": 2,
+      "hole_label": "Hole 2",
       "wind_info": {
         "azimuth_degrees": 40.8,
-        "relative_degrees": 158.2,
-        "clock_face": "5 o-clock",
-        "description": "Tailwind/crosswind from the right"
+        "relative_degrees": 118.2,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the left"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 2, with a 5 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB. Be mindful of the OB: Beyond Staked property line.."
+          "shot_strategy": "Player, Hole 2 faces a moderate 4 o'clock crosswind from the left at 8.9 mph. Utilize a stable fairway driver on a hyzer flip to counter the wind and aim left of the basket to steer clear of the OB on the right."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 2, a Stable Midrange thrown with a slight anhyzer is advised to counter the 5 o-clock wind. Be mindful of the OB: Beyond Staked property line.."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, a controlled RHFH with a stable fairway driver is advisable here, aiming to keep your shot left of the basket to avoid the OB on the right."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 2 using an Understable Midrange with a slight anhyzer can help manage the 5 o-clock wind. Be mindful of the OB: Beyond Staked property line.."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For a left-hand backhand on Hole 2, the 4 o'clock crosswind from the left will push your disc further left. Employ an overstable fairway driver with a strong hyzer to combat these conditions."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 2, a LHFH with a Stable Driver thrown with anhyzer can help manage the 5 o-clock wind. Be mindful of the OB: Beyond Staked property line.."
+          "disc_recommendation": "Stable Midrange",
+          "shot_strategy": "A left-hand forehand on Hole 2 will also be affected by the 4 o'clock wind pushing left. A stable midrange thrown with good control should help mitigate the wind's effect and keep you in bounds."
         }
       }
     },
     {
-      "hole_number": "3",
-      "hole_label": "3",
+      "hole_number": 3,
+      "hole_label": "Hole 3",
       "wind_info": {
         "azimuth_degrees": 20.0,
-        "relative_degrees": 179.0,
-        "clock_face": "6 o-clock",
-        "description": "Tailwind"
+        "relative_degrees": 139.0,
+        "clock_face": "5 o-clock",
+        "description": "Strong crosswind from the left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 3, with a 6 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 3 presents a strong 5 o'clock crosswind from the left at 12.0 mph. Your RHBH flight plate will be very exposed; opt for an overstable fairway driver thrown with significant hyzer for a chance to hold the line."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 3, a Stable Midrange thrown with a slight anhyzer is advised to counter the 6 o-clock wind."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, a RHFH with a stable fairway driver is the recommended shot for Hole 3 to best handle this strong 5 o'clock crosswind, aiming for a straighter flight."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 3 using an Understable Midrange with a slight anhyzer can help manage the 6 o-clock wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For a left-hand backhand on Hole 3, the 5 o'clock wind will combine with your natural fade to push the disc hard left. An overstable fairway driver is essential to fight this powerful crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 3, a LHFH with a Stable Driver thrown with anhyzer can help manage the 6 o-clock wind."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "A left-hand forehand on Hole 3 will also need to contend with the strong 5 o'clock wind. Throw a stable fairway driver with controlled power, aiming to keep the disc from drifting too far left."
         }
       }
     },
     {
-      "hole_number": "4",
-      "hole_label": "4",
+      "hole_number": 4,
+      "hole_label": "Hole 4",
       "wind_info": {
         "azimuth_degrees": 7.2,
-        "relative_degrees": 191.8,
-        "clock_face": "6 o-clock",
-        "description": "Tailwind"
+        "relative_degrees": 151.8,
+        "clock_face": "5 o-clock",
+        "description": "Strong crosswind from the left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 4, with a 6 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 4 is hit with a strong 5 o'clock crosswind from the left at 10.4 mph. The RHBH is very vulnerable; an overstable fairway driver on a strong hyzer is your best bet, but a RHFH offers better control."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 4, a Stable Midrange thrown with a slight anhyzer is advised to counter the 6 o-clock wind."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 4, a RHFH with a stable fairway driver is strongly advised to manage the powerful 5 o'clock wind and achieve a controlled flight."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 4 using an Understable Midrange with a slight anhyzer can help manage the 6 o-clock wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "The strong 5 o'clock wind on Hole 4 will push your LHBH significantly left. You'll need an overstable fairway driver and a precise hyzer release to fight this."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 4, a LHFH with a Stable Driver thrown with anhyzer can help manage the 6 o-clock wind."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 4, a left-hand forehand needs a stable fairway driver to manage the strong 5 o'clock wind pushing left. Focus on a clean release to prevent drift."
         }
       }
     },
     {
-      "hole_number": "5",
-      "hole_label": "5",
+      "hole_number": 5,
+      "hole_label": "Hole 5",
       "wind_info": {
         "azimuth_degrees": 168.7,
-        "relative_degrees": 30.3,
-        "clock_face": "1 o-clock",
-        "description": "Headwind/crosswind from the left"
+        "relative_degrees": 350.3,
+        "clock_face": "12 o-clock headwind",
+        "description": "Strong headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 5, with a 1 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB."
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "Player, Hole 5 at 179ft demands accuracy due to the island hazard, and you're facing a strong 12 o'clock headwind of 12.2 mph. Use an overstable putter or midrange with a clean hyzer release to penetrate the wind and safely land on the island."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 5, a Stable Midrange thrown with a slight anhyzer is advised to counter the 1 o-clock wind."
+          "disc_recommendation": "Overstable Midrange",
+          "shot_strategy": "Champ, for Hole 5, a RHFH with an overstable midrange is a solid choice against this headwind. Aim for a straight flight and prioritize landing on the island to avoid the hazard."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 5 using an Understable Midrange with a slight anhyzer can help manage the 1 o-clock wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 5, the strong 12 o'clock headwind will push your LHBH left. You need an overstable fairway driver and a controlled hyzer to fight this wind and land safely on the island."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 5, a LHFH with a Stable Driver thrown with anhyzer can help manage the 1 o-clock wind."
+          "disc_recommendation": "Overstable Midrange",
+          "shot_strategy": "For Hole 5, the strong headwind and island hazard require a controlled LHFH with an overstable midrange. Focus on a straight flight and landing safely on the island."
         }
       }
     },
     {
-      "hole_number": "6",
-      "hole_label": "6",
+      "hole_number": 6,
+      "hole_label": "Hole 6",
       "wind_info": {
         "azimuth_degrees": 72.4,
-        "relative_degrees": 126.6,
-        "clock_face": "4 o-clock",
-        "description": "Crosswind from the right"
+        "relative_degrees": 86.6,
+        "clock_face": "3 o-clock",
+        "description": "Light crosswind from the left"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 6, with a 4 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB. Be mindful of the OB: Entire right side of fairway is OB."
+          "shot_strategy": "Player, Hole 6 is playing into a light 3 o'clock crosswind from the left at 7.6 mph. A stable fairway driver thrown with a slight hyzer should work well, keeping the disc from drifting OB to your right."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 6, a Stable Midrange thrown with a slight anhyzer is advised to counter the 4 o-clock wind. Be mindful of the OB: Entire right side of fairway is OB."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 6, a controlled RHFH with a stable fairway driver, aiming left of the basket, will help manage the 3 o'clock wind and avoid the OB on the right."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 6 using an Understable Midrange with a slight anhyzer can help manage the 4 o-clock wind. Be mindful of the OB: Entire right side of fairway is OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 6, the 3 o'clock wind will push your LHBH left. Use an overstable fairway driver with a hyzer to keep it from drifting too far left and away from the OB."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 6, a LHFH with a Stable Driver thrown with anhyzer can help manage the 4 o-clock wind. Be mindful of the OB: Entire right side of fairway is OB."
+          "disc_recommendation": "Stable Midrange",
+          "shot_strategy": "For a left-hand forehand on Hole 6, the 3 o'clock wind pushing left requires a stable midrange with controlled power to keep the disc from drifting OB."
         }
       }
     },
     {
-      "hole_number": "7",
-      "hole_label": "7",
+      "hole_number": 7,
+      "hole_label": "Hole 7",
       "wind_info": {
         "azimuth_degrees": 20.8,
-        "relative_degrees": 178.2,
-        "clock_face": "6 o-clock",
-        "description": "Tailwind"
+        "relative_degrees": 138.2,
+        "clock_face": "5 o-clock",
+        "description": "Moderate crosswind from the left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 7, with a 6 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB. Be mindful of the OB: Staked property line \u2014 anything north is OB."
+          "disc_recommendation": "Stable Midrange",
+          "shot_strategy": "Player, Hole 7 is playing into a moderate 5 o'clock crosswind from the left at 8.9 mph. A stable midrange with a hyzer release will help fight the wind and stay away from the OB line to the north."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 7, a Stable Midrange thrown with a slight anhyzer is advised to counter the 6 o-clock wind. Be mindful of the OB: Staked property line \u2014 anything north is OB."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 7, a RHFH with a stable fairway driver is recommended to keep your shot straighter into the 5 o'clock wind and away from the northern OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 7 using an Understable Midrange with a slight anhyzer can help manage the 6 o-clock wind. Be mindful of the OB: Staked property line \u2014 anything north is OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 7, the 5 o'clock wind will push your LHBH significantly left. Use an overstable fairway driver with a strong hyzer to combat this wind and avoid the OB to the north."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 7, a LHFH with a Stable Driver thrown with anhyzer can help manage the 6 o-clock wind. Be mindful of the OB: Staked property line \u2014 anything north is OB."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 7, a left-hand forehand needs a stable fairway driver to manage the 5 o'clock wind pushing left. Focus on a controlled release to prevent drift towards the OB."
         }
       }
     },
     {
-      "hole_number": "8",
-      "hole_label": "8",
+      "hole_number": 8,
+      "hole_label": "Hole 8",
       "wind_info": {
         "azimuth_degrees": 235.0,
-        "relative_degrees": 324.0,
-        "clock_face": "11 o-clock",
-        "description": "Headwind/crosswind from the left"
+        "relative_degrees": 284.0,
+        "clock_face": "9 o-clock",
+        "description": "Strong crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 8, with a 11 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB. Be mindful of the OB: Property line extending eastward from hole 7 \u2014 anything north is OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 8 faces a strong 9 o'clock crosswind from the right at 12.0 mph. Your RHBH will be pushed hard left; an overstable fairway driver thrown with a significant anhyzer is needed to fight the wind and stay away from the northern OB."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 8, a Stable Midrange thrown with a slight anhyzer is advised to counter the 11 o-clock wind. Be mindful of the OB: Property line extending eastward from hole 7 \u2014 anything north is OB."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 8, a RHFH with a stable fairway driver, aiming left of the basket, will help you manage the strong 9 o'clock wind pushing left and avoid the northern OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 8 using an Understable Midrange with a slight anhyzer can help manage the 11 o-clock wind. Be mindful of the OB: Property line extending eastward from hole 7 \u2014 anything north is OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 8, the strong 9 o'clock wind will push your LHBH significantly left. Use an overstable fairway driver with a strong hyzer to fight this powerful crosswind and avoid the northern OB."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 8, a LHFH with a Stable Driver thrown with anhyzer can help manage the 11 o-clock wind. Be mindful of the OB: Property line extending eastward from hole 7 \u2014 anything north is OB."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 8, a left-hand forehand needs a stable fairway driver to manage the strong 9 o'clock wind pushing left. Aim for a controlled flight to stay out of the northern OB."
         }
       }
     },
     {
-      "hole_number": "9",
-      "hole_label": "9",
+      "hole_number": 9,
+      "hole_label": "Hole 9",
       "wind_info": {
         "azimuth_degrees": 264.5,
-        "relative_degrees": 294.5,
-        "clock_face": "10 o-clock",
-        "description": "Crosswind from the right"
+        "relative_degrees": 254.5,
+        "clock_face": "8 o-clock",
+        "description": "Strong crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 9, with a 10 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 9 at 134ft is into a strong 8 o'clock crosswind from the right at 10.4 mph. Your RHBH will be pushed left; throw an overstable fairway driver with a hyzer to combat this."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 9, a Stable Midrange thrown with a slight anhyzer is advised to counter the 10 o-clock wind."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, a RHFH on Hole 9 with a stable fairway driver is a good option here to fight the strong 8 o'clock wind pushing left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 9 using an Understable Midrange with a slight anhyzer can help manage the 10 o-clock wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 9, the strong 8 o'clock wind will push your LHBH significantly left. Use an overstable fairway driver with a strong hyzer to fight this powerful crosswind."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 9, a LHFH with a Stable Driver thrown with anhyzer can help manage the 10 o-clock wind."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 9, a left-hand forehand needs a stable fairway driver to manage the strong 8 o'clock wind pushing left. Focus on controlled flight."
         }
       }
     },
     {
-      "hole_number": "10",
-      "hole_label": "10",
+      "hole_number": 10,
+      "hole_label": "Hole 10 [A]",
       "wind_info": {
-        "azimuth_degrees": null,
-        "relative_degrees": null,
-        "clock_face": "N/A",
-        "description": "N/A"
+        "azimuth_degrees": 332.4,
+        "relative_degrees": 186.6,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Strong tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Navigate the mando on Hole 10 by throwing a Stable Fairway Driver RHBH on a hyzer, aiming to pass it correctly and avoid OB."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Player, Hole 10 [A] is 475ft and plays into a strong 6 o'clock tailwind of 12.2 mph. You have a mando to the left that you must clear, and OB to the left. Use an understable fairway driver for extra distance, aiming to pass the mando cleanly and avoid the OB."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "A Stable Midrange RHFH on Hole 10 is advised to manage the mando and wind, aiming for a controlled flight."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 10 [A], a RHFH with a stable fairway driver can offer more control. Aim to pass the left mando and avoid the OB, letting the tailwind assist your flight."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "On Hole 10, use a Understable Midrange LHBH thrown with an anhyzer to counteract wind and pass the mando correctly."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "On Hole 10 [A], the strong 6 o'clock tailwind will help your LHBH fly further. Use an understable fairway driver, ensuring you clear the mandatory to the left and avoid the OB."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "A Stable Driver LHFH on Hole 10 is advised to fight the wind and pass the mando correctly."
+          "disc_recommendation": "Understable Midrange",
+          "shot_strategy": "For Hole 10 [A], a LHFH with an understable midrange will help carry further into the tailwind. Focus on clearing the left mandatory and staying out of the OB."
         }
       }
     },
     {
-      "hole_number": "11",
-      "hole_label": "11",
+      "hole_number": 10,
+      "hole_label": "Hole 10 [B]",
+      "wind_info": {
+        "azimuth_degrees": 327.6,
+        "relative_degrees": 191.4,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Strong tailwind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Player, Hole 10 [B] is a longer 560ft par 4, also into a strong 6 o'clock tailwind of 12.2 mph. You must clear the mandatory to the left and avoid OB to the left. An understable fairway driver is ideal for maximizing distance with this tailwind."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 10 [B], a RHFH with a stable fairway driver offers control into the strong 6 o'clock tailwind. Ensure you clear the mandatory and stay clear of the OB to the left."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "On Hole 10 [B], the 6 o'clock tailwind will greatly assist your LHBH. Use an understable fairway driver for maximum distance, ensuring you make the mandatory to the left and avoid the OB."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Midrange",
+          "shot_strategy": "For Hole 10 [B], a LHFH with an understable midrange will benefit from the strong tailwind. Focus on clearing the left mandatory and avoiding the OB."
+        }
+      }
+    },
+    {
+      "hole_number": 11,
+      "hole_label": "Hole 11",
       "wind_info": {
         "azimuth_degrees": 246.6,
-        "relative_degrees": 312.4,
-        "clock_face": "10 o-clock",
-        "description": "Crosswind from the right"
+        "relative_degrees": 272.4,
+        "clock_face": "9 o-clock",
+        "description": "Strong crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 11, with a 10 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB. Be mindful of the OB: If it's wet, it's out of bounds!\u00a0 Out of Bounds Goes to the Drop Zone."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 11 at 229ft is into a strong 9 o'clock crosswind from the right at 7.6 mph. Your RHBH will be pushed left; use an overstable fairway driver with a hyzer to counter the wind and avoid the OB water hazard and tarmac."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 11, a Stable Midrange thrown with a slight anhyzer is advised to counter the 10 o-clock wind. Be mindful of the OB: If it's wet, it's out of bounds!\u00a0 Out of Bounds Goes to the Drop Zone."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 11, a RHFH with a stable fairway driver is a good option to handle the strong 9 o'clock wind pushing left, and to stay clear of the OB water and tarmac."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 11 using an Understable Midrange with a slight anhyzer can help manage the 10 o-clock wind. Be mindful of the OB: If it's wet, it's out of bounds!\u00a0 Out of Bounds Goes to the Drop Zone."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 11, the 9 o'clock wind will push your LHBH significantly left. Employ an overstable fairway driver with a strong hyzer to fight this wind and avoid the OB water hazard and tarmac."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 11, a LHFH with a Stable Driver thrown with anhyzer can help manage the 10 o-clock wind. Be mindful of the OB: If it's wet, it's out of bounds!\u00a0 Out of Bounds Goes to the Drop Zone."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 11, a left-hand forehand needs a stable fairway driver to manage the strong 9 o'clock wind pushing left. Focus on a controlled flight and avoid the OB water and tarmac."
         }
       }
     },
     {
-      "hole_number": "12",
-      "hole_label": "12",
+      "hole_number": 12,
+      "hole_label": "Hole 12",
       "wind_info": {
         "azimuth_degrees": 317.9,
-        "relative_degrees": 241.1,
+        "relative_degrees": 201.1,
+        "clock_face": "7 o-clock",
+        "description": "Moderate crosswind from the left"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Player, Hole 12 at 224ft is facing a moderate 7 o'clock crosswind from the left at 8.9 mph. A stable fairway driver thrown with a hyzer will help you manage the wind and avoid the OB to your right."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 12, a RHFH with a stable fairway driver is advisable. Aim to keep your shot from drifting right into the OB area due to the 7 o'clock wind."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 12, the 7 o'clock wind will push your LHBH left. Use an overstable fairway driver with a strong hyzer to fight this crosswind and stay out of the OB to your right."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Midrange",
+          "shot_strategy": "For Hole 12, a left-hand forehand needs a stable midrange to manage the 7 o'clock wind pushing left. Focus on controlled flight to avoid the OB to your right."
+        }
+      }
+    },
+    {
+      "hole_number": 13,
+      "hole_label": "Hole 13 [A]",
+      "wind_info": {
+        "azimuth_degrees": 167.5,
+        "relative_degrees": 351.5,
+        "clock_face": "12 o-clock headwind",
+        "description": "Strong headwind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 13 [A] at 366ft faces a strong 12 o'clock headwind of 12.0 mph. You have a mandatory to the left and OB to the north. Use an overstable fairway driver thrown with a firm hyzer to fight the headwind and clear the mando."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 13 [A], a RHFH with a stable fairway driver is a good choice against the strong headwind. Ensure you pass the mandatory to the left and avoid the northern OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 13 [A], the strong 12 o'clock headwind will fight your LHBH. Employ an overstable fairway driver and a controlled hyzer release to get distance and clear the mandatory to the left, while avoiding the northern OB."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 13 [A], a left-hand forehand needs a stable fairway driver to manage the strong headwind. Focus on a clean release to pass the mandatory left and avoid the northern OB."
+        }
+      }
+    },
+    {
+      "hole_number": 13,
+      "hole_label": "Hole 13 [B]",
+      "wind_info": {
+        "azimuth_degrees": 163.5,
+        "relative_degrees": 355.5,
+        "clock_face": "12 o-clock headwind",
+        "description": "Strong headwind"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 13 [B] also has a strong 12 o'clock headwind of 12.0 mph. With a mandatory to the left and OB north, an overstable fairway driver thrown with a firm hyzer is best to fight the headwind and make the mando."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 13 [B], a RHFH with a stable fairway driver will help you manage the strong headwind. Make sure to pass the mandatory to the left and stay clear of the northern OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 13 [B], the strong 12 o'clock headwind will challenge your LHBH. Use an overstable fairway driver with a hyzer release to fight the wind and clear the mandatory to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 13 [B], a left-hand forehand needs a stable fairway driver to manage the strong headwind. Focus on clearing the mandatory to the left and avoiding the northern OB."
+        }
+      }
+    },
+    {
+      "hole_number": 14,
+      "hole_label": "Hole 14 [A]",
+      "wind_info": {
+        "azimuth_degrees": 285.8,
+        "relative_degrees": 233.2,
         "clock_face": "8 o-clock",
-        "description": "Crosswind from the right"
+        "description": "Strong crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 12, with a 8 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB. Be mindful of the OB: Tarmac and Beyond is Out of Bounds."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 14 [A] at 279ft faces a strong 8 o'clock crosswind from the right at 10.4 mph. Your RHBH will be pushed left; use an overstable fairway driver with a hyzer to combat this and avoid the OB to your right (soccer field/tarmac)."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 12, a Stable Midrange thrown with a slight anhyzer is advised to counter the 8 o-clock wind. Be mindful of the OB: Tarmac and Beyond is Out of Bounds."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 14 [A], a RHFH with a stable fairway driver is recommended to control the strong 8 o'clock wind pushing left and avoid the OB soccer field and tarmac."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 12 using an Understable Midrange with a slight anhyzer can help manage the 8 o-clock wind. Be mindful of the OB: Tarmac and Beyond is Out of Bounds."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 14 [A], the strong 8 o'clock wind will push your LHBH significantly left. Use an overstable fairway driver with a strong hyzer to fight this crosswind and avoid the OB to your right."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 12, a LHFH with a Stable Driver thrown with anhyzer can help manage the 8 o-clock wind. Be mindful of the OB: Tarmac and Beyond is Out of Bounds."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 14 [A], a left-hand forehand needs a stable fairway driver to manage the strong 8 o'clock wind pushing left. Aim for a controlled flight to avoid the OB to your right."
         }
       }
     },
     {
-      "hole_number": "13",
-      "hole_label": "13",
+      "hole_number": 14,
+      "hole_label": "Hole 14 [B]",
       "wind_info": {
-        "azimuth_degrees": null,
-        "relative_degrees": null,
-        "clock_face": "N/A",
-        "description": "N/A"
+        "azimuth_degrees": 270.0,
+        "relative_degrees": 249.0,
+        "clock_face": "8 o-clock",
+        "description": "Strong crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Navigate the Mando on Hole 13 by throwing a Stable Fairway Driver RHBH on a hyzer, aiming to pass it correctly and avoid OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 14 [B] at 285ft also faces a strong 8 o'clock crosswind from the right at 10.4 mph. Your RHBH will be pushed left; use an overstable fairway driver with a hyzer to combat this and avoid the OB to your right."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "A Stable Midrange RHFH on Hole 13 is advised to manage the Mando and wind, aiming for a controlled flight."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 14 [B], a RHFH with a stable fairway driver is recommended to control the strong 8 o'clock wind pushing left and avoid the OB to your right."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "On Hole 13, use a Understable Midrange LHBH thrown with an anhyzer to counteract wind and pass the Mando correctly."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 14 [B], the strong 8 o'clock wind will push your LHBH significantly left. Use an overstable fairway driver with a strong hyzer to fight this crosswind and avoid the OB to your right."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "A Stable Driver LHFH on Hole 13 is advised to fight the wind and pass the Mando correctly."
-        }
-      }
-    },
-    {
-      "hole_number": "14",
-      "hole_label": "14",
-      "wind_info": {
-        "azimuth_degrees": null,
-        "relative_degrees": null,
-        "clock_face": "N/A",
-        "description": "N/A"
-      },
-      "tips_rh": {
-        "bh": {
           "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 14, with a N/A wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB. Be mindful of the OB: 1.) Over baseball field fence<br>2.) Tarmac and beyond."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 14, a Stable Midrange thrown with a slight anhyzer is advised to counter the N/A wind. Be mindful of the OB: 1.) Over baseball field fence<br>2.) Tarmac and beyond."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 14 using an Understable Midrange with a slight anhyzer can help manage the N/A wind. Be mindful of the OB: 1.) Over baseball field fence<br>2.) Tarmac and beyond."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 14, a LHFH with a Stable Driver thrown with anhyzer can help manage the N/A wind. Be mindful of the OB: 1.) Over baseball field fence<br>2.) Tarmac and beyond."
+          "shot_strategy": "For Hole 14 [B], a left-hand forehand needs a stable fairway driver to manage the strong 8 o'clock wind pushing left. Aim for a controlled flight to avoid the OB to your right."
         }
       }
     },
     {
-      "hole_number": "15",
-      "hole_label": "15",
+      "hole_number": 15,
+      "hole_label": "Hole 15",
       "wind_info": {
         "azimuth_degrees": 83.8,
-        "relative_degrees": 115.2,
-        "clock_face": "4 o-clock",
-        "description": "Crosswind from the right"
+        "relative_degrees": 75.2,
+        "clock_face": "3 o-clock",
+        "description": "Light crosswind from the left"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 15, with a 4 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB."
+          "shot_strategy": "Player, Hole 15 at 307ft is into a light 3 o'clock crosswind from the left at 7.6 mph. A stable fairway driver thrown with a slight hyzer should handle this wind well."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 15, a Stable Midrange thrown with a slight anhyzer is advised to counter the 4 o-clock wind."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 15, a RHFH with a stable fairway driver is a good option to manage the 3 o'clock wind and achieve a controlled flight."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 15 using an Understable Midrange with a slight anhyzer can help manage the 4 o-clock wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 15, the 3 o'clock wind will push your LHBH left. Use an overstable fairway driver with a hyzer to keep it from drifting too far left."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 15, a LHFH with a Stable Driver thrown with anhyzer can help manage the 4 o-clock wind."
+          "disc_recommendation": "Stable Midrange",
+          "shot_strategy": "For Hole 15, a left-hand forehand needs a stable midrange to manage the 3 o'clock wind pushing left. Focus on controlled flight."
         }
       }
     },
     {
-      "hole_number": "16",
-      "hole_label": "16",
+      "hole_number": 16,
+      "hole_label": "Hole 16",
       "wind_info": {
         "azimuth_degrees": 104.3,
-        "relative_degrees": 94.7,
-        "clock_face": "3 o-clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 54.7,
+        "clock_face": "2 o-clock",
+        "description": "Light crosswind from the left"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 16, with a 3 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB. Be mindful of the OB: North face of wall and beyond is Out of Bounds (Third Coast Championship only)."
+          "shot_strategy": "Player, Hole 16 at 213ft has a light 2 o'clock crosswind from the left at 8.9 mph. A stable fairway driver thrown with a slight hyzer will work well here."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 16, a Stable Midrange thrown with a slight anhyzer is advised to counter the 3 o-clock wind. Be mindful of the OB: North face of wall and beyond is Out of Bounds (Third Coast Championship only)."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 16, a RHFH with a stable fairway driver offers a controlled flight into the 2 o'clock wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 16 using an Understable Midrange with a slight anhyzer can help manage the 3 o-clock wind. Be mindful of the OB: North face of wall and beyond is Out of Bounds (Third Coast Championship only)."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 16, the 2 o'clock wind will push your LHBH left. Use an overstable fairway driver with a hyzer to keep it from drifting too far left."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 16, a LHFH with a Stable Driver thrown with anhyzer can help manage the 3 o-clock wind. Be mindful of the OB: North face of wall and beyond is Out of Bounds (Third Coast Championship only)."
+          "disc_recommendation": "Stable Midrange",
+          "shot_strategy": "For Hole 16, a left-hand forehand needs a stable midrange to manage the 2 o'clock wind pushing left. Focus on controlled flight."
         }
       }
     },
     {
-      "hole_number": "17",
-      "hole_label": "17",
+      "hole_number": 17,
+      "hole_label": "Hole 17",
       "wind_info": {
         "azimuth_degrees": 90.0,
-        "relative_degrees": 109.0,
-        "clock_face": "4 o-clock",
-        "description": "Crosswind from the right"
+        "relative_degrees": 69.0,
+        "clock_face": "2 o-clock",
+        "description": "Light crosswind from the left"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 17, with a 4 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB."
+          "shot_strategy": "Player, Hole 17 at 295ft has a light 2 o'clock crosswind from the left at 10.4 mph. A stable fairway driver with a slight hyzer should handle this wind effectively."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 17, a Stable Midrange thrown with a slight anhyzer is advised to counter the 4 o-clock wind."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 17, a RHFH with a stable fairway driver is a good choice to control the 2 o'clock wind and achieve a straight flight."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 17 using an Understable Midrange with a slight anhyzer can help manage the 4 o-clock wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 17, the 2 o'clock wind will push your LHBH left. Use an overstable fairway driver with a hyzer to prevent excessive leftward drift."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 17, a LHFH with a Stable Driver thrown with anhyzer can help manage the 4 o-clock wind."
+          "disc_recommendation": "Stable Midrange",
+          "shot_strategy": "For Hole 17, a left-hand forehand needs a stable midrange to manage the 2 o'clock wind pushing left. Focus on controlled flight."
         }
       }
     },
     {
-      "hole_number": "18",
-      "hole_label": "18",
+      "hole_number": 18,
+      "hole_label": "Hole 18 [A]",
       "wind_info": {
-        "azimuth_degrees": null,
-        "relative_degrees": null,
-        "clock_face": "N/A",
-        "description": "N/A"
+        "azimuth_degrees": 276.2,
+        "relative_degrees": 242.8,
+        "clock_face": "8 o-clock",
+        "description": "Strong crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 18, with a N/A wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB. Be mindful of the OB: Soccer Pitch(s) out of Bounds - Tarmac and Beyond Out of Bounds."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 18 [A] at 564ft faces a strong 8 o'clock crosswind from the right at 12.2 mph. Your RHBH will be pushed left; an overstable fairway driver thrown with a hyzer is needed to combat this wind and avoid the OB to your right (soccer field/tarmac)."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole 18, a Stable Midrange thrown with a slight anhyzer is advised to counter the N/A wind. Be mindful of the OB: Soccer Pitch(s) out of Bounds - Tarmac and Beyond Out of Bounds."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 18 [A], a RHFH with a stable fairway driver will help control the strong 8 o'clock wind pushing left. Aim to avoid the OB soccer field and tarmac to your right."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole 18 using an Understable Midrange with a slight anhyzer can help manage the N/A wind. Be mindful of the OB: Soccer Pitch(s) out of Bounds - Tarmac and Beyond Out of Bounds."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 18 [A], the strong 8 o'clock wind will push your LHBH significantly left. Use an overstable fairway driver with a strong hyzer to fight this powerful crosswind and avoid the OB to your right."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 18, a LHFH with a Stable Driver thrown with anhyzer can help manage the N/A wind. Be mindful of the OB: Soccer Pitch(s) out of Bounds - Tarmac and Beyond Out of Bounds."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 18 [A], a left-hand forehand needs a stable fairway driver to manage the strong 8 o'clock wind pushing left. Aim for a controlled flight to avoid the OB to your right."
+        }
+      }
+    },
+    {
+      "hole_number": 18,
+      "hole_label": "Hole 18 [B]",
+      "wind_info": {
+        "azimuth_degrees": 270.0,
+        "relative_degrees": 249.0,
+        "clock_face": "8 o-clock",
+        "description": "Strong crosswind from the right"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 18 [B] at 562ft also faces a strong 8 o'clock crosswind from the right at 12.2 mph. Your RHBH will be pushed left; an overstable fairway driver thrown with a hyzer is needed to combat this wind and avoid the OB to your right."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 18 [B], a RHFH with a stable fairway driver will help control the strong 8 o'clock wind pushing left. Aim to avoid the OB to your right."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 18 [B], the strong 8 o'clock wind will push your LHBH significantly left. Use an overstable fairway driver with a strong hyzer to fight this powerful crosswind and avoid the OB to your right."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 18 [B], a left-hand forehand needs a stable fairway driver to manage the strong 8 o'clock wind pushing left. Aim for a controlled flight to avoid the OB to your right."
         }
       }
     },
     {
       "hole_number": "T1-B",
-      "hole_label": "T1-B",
+      "hole_label": "Hole T1-B",
       "wind_info": {
         "azimuth_degrees": 117.1,
-        "relative_degrees": 81.9,
-        "clock_face": "3 o-clock",
-        "description": "Crosswind from the left"
+        "relative_degrees": 41.9,
+        "clock_face": "1 o-clock",
+        "description": "Light headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole T1-B, with a 3 o-clock wind, a RHBH with a Stable Fairway Driver on a hyzer is recommended to control the flight and avoid OB. Be mindful of the OB: Out of Bounds."
+          "disc_recommendation": "Stable Midrange",
+          "shot_strategy": "Player, Hole T1-B at 303ft has a light 1 o'clock headwind at 7.6 mph. The hazard area is to your left. A stable midrange thrown with a slight hyzer should get you there safely, avoiding the hazard."
         },
         "fh": {
           "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "For a RHFH on Hole T1-B, a Stable Midrange thrown with a slight anhyzer is advised to counter the 3 o-clock wind. Be mindful of the OB: Out of Bounds."
+          "shot_strategy": "Champ, for Hole T1-B, a RHFH with a stable midrange will help you manage the light headwind and avoid the hazard to your left. Aim for a controlled flight."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "A LHBH on Hole T1-B using an Understable Midrange with a slight anhyzer can help manage the 3 o-clock wind. Be mindful of the OB: Out of Bounds."
+          "disc_recommendation": "Stable Midrange",
+          "shot_strategy": "On Hole T1-B, the light 1 o'clock headwind will affect your LHBH. Use a stable midrange with a hyzer to fight the wind and avoid the hazard to your left."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole T1-B, a LHFH with a Stable Driver thrown with anhyzer can help manage the 3 o-clock wind. Be mindful of the OB: Out of Bounds."
+          "disc_recommendation": "Stable Midrange",
+          "shot_strategy": "For Hole T1-B, a left-hand forehand needs a stable midrange to manage the light headwind. Focus on controlled flight to avoid the hazard to your left."
         }
       }
     },
     {
       "hole_number": "T17-B",
-      "hole_label": "T17-B",
+      "hole_label": "Hole T17-B",
       "wind_info": {
         "azimuth_degrees": 181.8,
-        "relative_degrees": 17.2,
-        "clock_face": "1 o-clock",
-        "description": "Headwind/crosswind from the left"
+        "relative_degrees": 337.2,
+        "clock_face": "11 o-clock",
+        "description": "Light headwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Navigate the Triple Mandatory on Hole T17-B by throwing a Stable Fairway Driver RHBH on a hyzer, aiming to pass it correctly and avoid OB."
+          "shot_strategy": "Player, Hole T17-B is 363ft with a light 11 o'clock headwind at 7.6 mph and triple mandatories. Use a stable fairway driver with a hyzer release to fight the headwind and navigate the mandatories accurately."
         },
         "fh": {
-          "disc_recommendation": "Stable Midrange",
-          "shot_strategy": "A Stable Midrange RHFH on Hole T17-B is advised to manage the Triple Mandatory and wind, aiming for a controlled flight."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Champ, for Hole T17-B, a RHFH with a stable fairway driver is a good choice to fight the light headwind and navigate the triple mandatories."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Midrange",
-          "shot_strategy": "On Hole T17-B, use a Understable Midrange LHBH thrown with an anhyzer to counteract wind and pass the Triple Mandatory correctly."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole T17-B, the light 11 o'clock headwind will challenge your LHBH. Use an overstable fairway driver with a strong hyzer to fight the wind and make the triple mandatories."
         },
         "fh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "A Stable Driver LHFH on Hole T17-B is advised to fight the wind and pass the Triple Mandatory correctly."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole T17-B, a left-hand forehand needs a stable fairway driver to manage the light headwind and navigate the triple mandatories. Focus on controlled flight."
         }
       }
     }
