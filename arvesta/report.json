@@ -1,707 +1,737 @@
 {
   "course": "Lake Arvesta Sports Complex",
-  "report_generated_at": "2026-03-26 16:11 EDT",
+  "report_generated_at": "2026-03-26 20:10 EDT",
   "current_wind": {
-    "speed_mph": 12.5,
-    "direction_degrees": 22,
-    "gusts_mph": 19.2,
-    "description": "Wind from 22° (NNE), gusts to 19.2 mph"
+    "speed_mph": 13.2,
+    "direction_degrees": 344,
+    "gusts_mph": 22.8,
+    "description": "Moderate headwind with strong gusts from NW"
   },
   "forecast_5hr": [
-    {"time_edt": "2026-03-26 15:00 EDT", "speed_mph": 12.5, "direction_degrees": 22},
-    {"time_edt": "2026-03-26 16:00 EDT", "speed_mph": 16.5, "direction_degrees": 33},
-    {"time_edt": "2026-03-26 17:00 EDT", "speed_mph": 10.0, "direction_degrees": 34},
-    {"time_edt": "2026-03-26 18:00 EDT", "speed_mph": 18.6, "direction_degrees": 338},
-    {"time_edt": "2026-03-26 19:00 EDT", "speed_mph": 17.5, "direction_degrees": 4}
+    {"time_edt": "2026-03-26 19:00 EDT", "speed_mph": 13.2, "direction_degrees": 344},
+    {"time_edt": "2026-03-26 20:00 EDT", "speed_mph": 17.5, "direction_degrees": 1},
+    {"time_edt": "2026-03-26 21:00 EDT", "speed_mph": 14.8, "direction_degrees": 358},
+    {"time_edt": "2026-03-26 22:00 EDT", "speed_mph": 16.9, "direction_degrees": 5},
+    {"time_edt": "2026-03-26 23:00 EDT", "speed_mph": 15.4, "direction_degrees": 358}
   ],
   "holes": [
     {
       "hole_number": "1",
       "hole_label": "Hole 1",
       "wind_info": {
-        "azimuth_degrees": 196.9,
-        "relative_degrees": 185.1,
+        "azimuth_degrees": 150.0,
+        "relative_degrees": 194.0,
         "clock_face": "6 o-clock tailwind",
-        "description": "Tailwind from 6 o'clock"
+        "description": "Tailwind from SE"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 1 (blue, 598ft par 4) with a 6 o'clock tailwind, throw an understable driver on a RHBH line to maximize distance and ensure a smooth flight."
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "With a 6 o'clock tailwind on Hole 1, Player, use an understable distance driver for maximum glide and distance. Focus on a clean release to let the tailwind carry the disc to the yellow basket. Be mindful of the water OB to the right."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with the tailwind from 6 o'clock on Hole 1 (white, 686ft par 4), an understable driver on a RHFH line will give you great distance and a gentle finish."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "For the 6 o'clock tailwind on Hole 1, Champ, an understable fairway driver thrown on a smooth forehand will cut through the breeze and achieve good distance towards the yellow basket. Keep it low to avoid the water OB on the right."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Champ, Hole 1 (blue, 598ft par 4) is playing into a 6 o'clock tailwind, so an understable driver on a LHBH will carry well and finish straight."
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, to tackle the 6 o'clock tailwind on Hole 1, a left-hand backhand with an understable distance driver will maximize your carry. Aim for a straight flight to avoid the water OB to the right as you approach the yellow basket."
         },
         "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 1 (white, 686ft par 4), a 6 o'clock tailwind calls for an understable driver thrown on a LHFH to achieve maximum glide and distance."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Champ, on Hole 1 with a 6 o'clock tailwind, a left-hand forehand with an understable fairway driver is a solid choice. Focus on a controlled release to keep the disc straight and avoid the water OB to the right."
         }
       }
     },
     {
       "hole_number": "1",
-      "hole_label": "Hole 1 (Yellow)",
+      "hole_label": "Hole 1 [white]",
       "wind_info": {
-        "azimuth_degrees": 150.0,
-        "relative_degrees": 232.0,
-        "clock_face": "8 o-clock",
-        "description": "Wind from 8 o'clock"
+        "azimuth_degrees": 197.3,
+        "relative_degrees": 146.7,
+        "clock_face": "5 o-clock",
+        "description": "Light tailwind from SW"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 1 (yellow, 270ft par 3), a stable driver thrown on a RHBH with a slight hyzer should navigate the 8 o'clock wind effectively and land safely, avoiding the water OB."
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "For Hole 1 White, Player, the 5 o'clock tailwind will help carry your shot. Utilize an understable distance driver on a backhand for maximum distance towards the white basket. Remember the water OB to the right."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "On Hole 1 (yellow, 270ft par 3), the wind from 8 o'clock suggests throwing an overstable fairway driver on a RHFH to keep it from turning over and to stay clear of the water OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
           "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Player, Hole 1 (yellow, 270ft par 3) has a wind from 8 o'clock; a LHBH with an understable fairway driver can be shaped to land safely and avoid the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "Champ, against the 8 o'clock wind on Hole 1 (yellow, 270ft par 3), an overstable fairway driver on a LHFH is your best bet to control the flight and avoid the water OB."
-        }
-      }
-    },
-    {
-      "hole_number": "2",
-      "hole_label": "Hole 2",
-      "wind_info": {
-        "azimuth_degrees": 283.1,
-        "relative_degrees": 98.9,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Crosswind from 3 o'clock (left)"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "On Hole 2 (blue, 508ft par 4), the 3 o'clock crosswind from the left requires an overstable fairway driver on a RHBH with a hyzer flip to combat the wind and fade towards the basket."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 2 (blue, 508ft par 4), a 3 o'clock crosswind from the left is best managed with an overstable fairway driver thrown on a RHFH, allowing it to fight the wind and finish straight."
+          "shot_strategy": "Champ, on Hole 1 White, a 5 o'clock tailwind from the SW aids an understable fairway driver thrown forehand. Aim for a smooth line to reach the white basket, keeping the OB water to the right in mind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, the 3 o'clock crosswind from the left on Hole 2 (blue, 508ft par 4) will push your disc right. Use an understable driver on a LHBH, aiming left to let the wind bring it back."
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "On Hole 1 White, Player, the 5 o'clock tailwind from the SW can be harnessed with an understable distance driver on a backhand. Focus on a straight flight to reach the white basket, steering clear of the water OB to the right."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "Champ, to handle the 3 o'clock crosswind from the left on Hole 2 (blue, 508ft par 4), an overstable fairway driver on a LHFH will provide the necessary stability to resist the wind and stay on target."
-        }
-      }
-    },
-    {
-      "hole_number": "2",
-      "hole_label": "Hole 2 (White)",
-      "wind_info": {
-        "azimuth_degrees": 271.8,
-        "relative_degrees": 110.2,
-        "clock_face": "4 o-clock",
-        "description": "Wind from 4 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 2 (white, 403ft par 4), a stable fairway driver thrown on a RHBH with a touch of hyzer will work well against the 4 o'clock wind, aiming for a gentle fade towards the basket."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 2 (white, 403ft par 4), the 4 o'clock wind can be managed with an overstable fairway driver thrown on a RHFH, giving you control and a predictable finish."
-        }
-      },
-      "tips_lh": {
-        "bh": {
           "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Player, Hole 2 (white, 403ft par 4) has wind from 4 o'clock; use an understable fairway driver on a LHBH, aiming slightly right to let the wind carry it back to the pin."
+          "shot_strategy": "For Hole 1 White, Champ, a left-hand forehand with an understable fairway driver will benefit from the 5 o'clock tailwind. Keep the disc straight towards the white basket and be aware of the water hazard to your right."
+        }
+      }
+    },
+    {
+      "hole_number": "1",
+      "hole_label": "Hole 1 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 196.9,
+        "relative_degrees": 147.1,
+        "clock_face": "5 o-clock",
+        "description": "Light tailwind from SW"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, Hole 1 Blue faces a 5 o'clock tailwind. Leverage an understable distance driver with a backhand for maximum distance toward the blue basket. Be mindful of the water OB to the right on this long approach."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, against the 4 o'clock wind on Hole 2 (white, 403ft par 4), a stable fairway driver on a LHFH will offer control and resist turning over, ensuring a good flight line."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "For the 5 o'clock tailwind on Hole 1 Blue, Champ, an understable fairway driver thrown forehand will be effective. Aim for a controlled flight to reach the blue basket, remembering the water OB to your right."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "On Hole 1 Blue, Player, the 5 o'clock tailwind from the SW allows for an understable distance driver on a left-hand backhand. Keep your shot straight to achieve good distance towards the blue basket, avoiding the water OB on the right."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Champ, with the 5 o'clock tailwind on Hole 1 Blue, a left-hand forehand using an understable fairway driver is a strong play. Focus on accuracy to reach the blue basket while respecting the water hazard to the right."
         }
       }
     },
     {
       "hole_number": "2",
-      "hole_label": "Hole 2 (Yellow)",
+      "hole_label": "Hole 2 [yellow]",
       "wind_info": {
         "azimuth_degrees": 264.9,
-        "relative_degrees": 117.1,
-        "clock_face": "4 o-clock",
-        "description": "Wind from 4 o'clock"
+        "relative_degrees": 79.1,
+        "clock_face": "3 o-clock crosswind from right",
+        "description": "Moderate crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Hole 2 (yellow, 270ft par 3) faces a 4 o'clock wind, so a stable fairway driver on a RHBH with a bit of hyzer should hold its line and fade nicely towards the basket."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 2 Yellow presents a 3 o'clock crosswind from the right. Throw an overstable fairway driver on a hyzer with your backhand to fight the wind and ensure it lands safely near the yellow basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 2 (yellow, 270ft par 3), the 4 o'clock wind can be handled with an overstable fairway driver on a RHFH, providing the stability needed for a controlled approach."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, on Hole 2 Yellow, use an overstable approach disc for a controlled forehand shot to combat the 3 o'clock crosswind from the right. Focus on a smooth release to keep the disc straight towards the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Player, on Hole 2 (yellow, 270ft par 3), the 4 o'clock wind will push left to right; aim your LHBH with an understable fairway driver to the left of the pin and let it ride back."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 2 Yellow, Player, the 3 o'clock crosswind from the right requires an overstable fairway driver thrown on a hyzer with your left-hand backhand to counter the wind's push. Aim for a straight landing near the yellow basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, against the 4 o'clock wind on Hole 2 (yellow, 270ft par 3), a stable fairway driver on a LHFH will give you the control needed to land accurately."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "For Hole 2 Yellow, Champ, a left-hand forehand with an overstable approach disc will handle the 3 o'clock crosswind from the right. Execute a clean shot to keep the disc on line towards the yellow basket."
         }
       }
     },
     {
-      "hole_number": "3",
-      "hole_label": "Hole 3",
+      "hole_number": "2",
+      "hole_label": "Hole 2 [white]",
       "wind_info": {
-        "azimuth_degrees": 219.3,
-        "relative_degrees": 162.7,
-        "clock_face": "5 o-clock",
-        "description": "Wind from 5 o'clock"
+        "azimuth_degrees": 271.8,
+        "relative_degrees": 72.2,
+        "clock_face": "2 o-clock",
+        "description": "Moderate crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 3 (blue, 591ft par 4), the 5 o'clock wind suggests a stable driver thrown on a RHBH, allowing for a controlled flight with a gentle fade towards the basket."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 2 White has a 2 o'clock crosswind from the right. Throw an overstable fairway driver on a hyzer with your backhand to keep the disc from turning over and landing accurately near the white basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 3 (blue, 591ft par 4), an overstable fairway driver on a RHFH is a good choice against the 5 o'clock wind, offering a reliable flight path."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "For Hole 2 White, Champ, an overstable approach disc thrown forehand is recommended to manage the 2 o'clock crosswind from the right. Aim for a straight flight path to the white basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, Hole 3 (blue, 591ft par 4) has wind from 5 o'clock; an understable driver on a LHBH should carry well and finish straight, compensating for the wind."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 2 White, Player, the 2 o'clock crosswind from the right can be managed with an overstable fairway driver on a hyzer with your left-hand backhand. Focus on a controlled flight to the white basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 5 o'clock wind on Hole 3 (blue, 591ft par 4) can be managed with a stable fairway driver thrown on a LHFH, providing good control for the approach."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, on Hole 2 White, a left-hand forehand with an overstable approach disc is ideal to counter the 2 o'clock crosswind from the right. Keep the shot flat and accurate towards the white basket."
         }
       }
     },
     {
-      "hole_number": "3",
-      "hole_label": "Hole 3 (White)",
+      "hole_number": "2",
+      "hole_label": "Hole 2 [blue]",
       "wind_info": {
-        "azimuth_degrees": 231.7,
-        "relative_degrees": 150.3,
-        "clock_face": "5 o-clock",
-        "description": "Wind from 5 o'clock"
+        "azimuth_degrees": 283.1,
+        "relative_degrees": 60.9,
+        "clock_face": "2 o-clock",
+        "description": "Moderate crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Hole 3 (white, 420ft par 4) faces a 5 o'clock wind; a stable driver on a RHBH will offer a controlled flight and a reliable fade towards the basket."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 2 Blue has a 2 o'clock crosswind from the right. Use an overstable fairway driver thrown on a hyzer with your backhand to ensure the disc fights the wind and stays on line to the blue basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 3 (white, 420ft par 4), an overstable fairway driver on a RHFH is a solid choice to counteract the 5 o'clock wind and achieve a straight finish."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "For Hole 2 Blue, Champ, an overstable approach disc on a forehand offers the best control against the 2 o'clock crosswind from the right. Focus on a straight, powerful throw towards the blue basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 5 o'clock wind on Hole 3 (white, 420ft par 4), an understable driver on a LHBH should carry well and finish towards the target."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 2 Blue, Player, the 2 o'clock crosswind from the right requires an overstable fairway driver on a hyzer with your left-hand backhand. Aim for a straight flight path to the blue basket, fighting the wind's influence."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, on Hole 3 (white, 420ft par 4), the 5 o'clock wind is manageable with a stable fairway driver on a LHFH, ensuring accuracy and control."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, for Hole 2 Blue, a left-hand forehand with an overstable approach disc is your best bet against the 2 o'clock crosswind from the right. Keep the shot straight and controlled towards the blue basket."
         }
       }
     },
     {
       "hole_number": "3",
-      "hole_label": "Hole 3 (Yellow)",
+      "hole_label": "Hole 3 [yellow]",
       "wind_info": {
         "azimuth_degrees": 235.6,
-        "relative_degrees": 146.4,
-        "clock_face": "5 o-clock",
-        "description": "Wind from 5 o'clock"
+        "relative_degrees": 108.4,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 3 (yellow, 248ft par 3), a stable driver on a RHBH with a slight hyzer will manage the 5 o'clock wind and fade nicely towards the pin."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 3 Yellow features a 4 o'clock crosswind from the right. Throw an overstable fairway driver on a hyzer with your backhand to prevent it from drifting right and ensure it lands near the yellow basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "On Hole 3 (yellow, 248ft par 3), an overstable fairway driver thrown RHFH will provide the stability needed to counter the 5 o'clock wind and stay on line."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, on Hole 3 Yellow, use an overstable approach disc for a forehand shot to counter the 4 o'clock crosswind from the right. Focus on a controlled, straight flight towards the yellow basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, Hole 3 (yellow, 248ft par 3) has wind from 5 o'clock; an understable driver on a LHBH should carry well and finish towards the target."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For Hole 3 Yellow, Player, the 4 o'clock crosswind from the right demands an overstable fairway driver on a hyzer with your left-hand backhand. Aim for a straight flight to the yellow basket, fighting the wind's push."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 5 o'clock wind on Hole 3 (yellow, 248ft par 3) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "On Hole 3 Yellow, Champ, a left-hand forehand with an overstable approach disc is ideal for the 4 o'clock crosswind from the right. Execute a clean shot to keep the disc on line towards the yellow basket."
         }
       }
     },
     {
-      "hole_number": "4",
-      "hole_label": "Hole 4",
+      "hole_number": "3",
+      "hole_label": "Hole 3 [white]",
       "wind_info": {
-        "azimuth_degrees": 167.1,
-        "relative_degrees": 214.9,
-        "clock_face": "7 o-clock",
-        "description": "Wind from 7 o'clock"
+        "azimuth_degrees": 231.7,
+        "relative_degrees": 112.3,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 4 (blue, 1014ft par 5), the wind from 7 o'clock means a stable driver on a RHBH will fight through, allowing for a controlled flight and fade."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 3 White has a 4 o'clock crosswind from the right. Utilize an overstable fairway driver on a hyzer with your backhand to keep the disc from turning over and ensure accuracy towards the white basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "On Hole 4 (blue, 1014ft par 5), an overstable fairway driver on a RHFH will handle the 7 o'clock wind well, providing a reliable flight path for this long par 5."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, for Hole 3 White, an overstable approach disc on a forehand will provide control against the 4 o'clock crosswind from the right. Aim for a straight flight to the white basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, Hole 4 (blue, 1014ft par 5) has wind from 7 o'clock; an understable driver thrown LHBH should carry well and finish towards the target."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 3 White, Player, the 4 o'clock crosswind from the right requires an overstable fairway driver on a hyzer with your left-hand backhand. Focus on a controlled flight to the white basket, resisting the wind's influence."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, against the 7 o'clock wind on Hole 4 (blue, 1014ft par 5), a stable fairway driver on a LHFH will offer control and resist turning over, ensuring a good flight line."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "For Hole 3 White, Champ, a left-hand forehand with an overstable approach disc is excellent for the 4 o'clock crosswind from the right. Keep the shot straight and controlled towards the white basket."
         }
       }
     },
     {
-      "hole_number": "4",
-      "hole_label": "Hole 4 (White)",
+      "hole_number": "3",
+      "hole_label": "Hole 3 [blue]",
       "wind_info": {
-        "azimuth_degrees": 164.4,
-        "relative_degrees": 217.6,
-        "clock_face": "7 o-clock",
-        "description": "Wind from 7 o'clock"
+        "azimuth_degrees": 219.3,
+        "relative_degrees": 124.7,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Hole 4 (white, 814ft par 4) faces a 7 o'clock wind; a stable driver on a RHBH will provide a controlled flight and a reliable fade towards the basket."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 3 Blue faces a 4 o'clock crosswind from the right. Throw an overstable fairway driver on a hyzer with your backhand to ensure the disc fights the wind and stays on line to the blue basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 4 (white, 814ft par 4), an overstable fairway driver on a RHFH is a good choice against the 7 o'clock wind, offering a predictable finish."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, on Hole 3 Blue, an overstable approach disc on a forehand is your best bet against the 4 o'clock crosswind from the right. Aim for a powerful, straight throw towards the blue basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 7 o'clock wind on Hole 4 (white, 814ft par 4), an understable driver on a LHBH should carry well and finish towards the target."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 3 Blue, Player, the 4 o'clock crosswind from the right demands an overstable fairway driver on a hyzer with your left-hand backhand. Focus on a straight flight path to the blue basket, working with the wind's angle."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 7 o'clock wind on Hole 4 (white, 814ft par 4) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "For Hole 3 Blue, Champ, a left-hand forehand with an overstable approach disc will handle the 4 o'clock crosswind from the right. Keep the shot accurate and controlled towards the blue basket."
         }
       }
     },
     {
       "hole_number": "4",
-      "hole_label": "Hole 4 (Yellow)",
+      "hole_label": "Hole 4 [yellow]",
       "wind_info": {
         "azimuth_degrees": 168.6,
-        "relative_degrees": 213.4,
-        "clock_face": "7 o-clock",
-        "description": "Wind from 7 o'clock"
+        "relative_degrees": 175.4,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Strong tailwind from SSE"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 4 (yellow, 500ft par 4), the 7 o'clock wind suggests a stable driver thrown on a RHBH with a slight hyzer to manage the flight and fade towards the basket."
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, Hole 4 Yellow has a strong 6 o'clock tailwind. Use an understable distance driver on a backhand for maximum distance towards the yellow basket. Focus on a clean release to let the wind do the work."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "On Hole 4 (yellow, 500ft par 4), an overstable fairway driver on a RHFH will provide the stability needed to counter the 7 o'clock wind and stay on line."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Champ, on Hole 4 Yellow, the strong 6 o'clock tailwind is perfect for an understable fairway driver thrown forehand. Aim for a smooth, controlled flight to reach the yellow basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, Hole 4 (yellow, 500ft par 4) has wind from 7 o'clock; an understable driver on a LHBH should carry well and finish towards the target."
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "For Hole 4 Yellow, Player, the strong 6 o'clock tailwind from the SSE is ideal for an understable distance driver on a left-hand backhand. Focus on a straight flight to maximize distance towards the yellow basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 7 o'clock wind on Hole 4 (yellow, 500ft par 4) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "On Hole 4 Yellow, Champ, a left-hand forehand with an understable fairway driver will carry well with the 6 o'clock tailwind. Execute a smooth release to reach the yellow basket."
+        }
+      }
+    },
+    {
+      "hole_number": "4",
+      "hole_label": "Hole 4 [white]",
+      "wind_info": {
+        "azimuth_degrees": 164.4,
+        "relative_degrees": 179.6,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Strong tailwind from SSE"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, Hole 4 White is playing into a strong 6 o'clock tailwind. Utilize an understable distance driver on a backhand for maximum carry towards the white basket. A smooth release is key to capitalizing on the wind."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Champ, with the strong 6 o'clock tailwind on Hole 4 White, an understable fairway driver thrown forehand will travel far. Focus on a controlled flight to reach the white basket."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "For Hole 4 White, Player, the strong 6 o'clock tailwind from the SSE is perfect for an understable distance driver on a left-hand backhand. Aim for a straight flight to maximize distance towards the white basket."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "On Hole 4 White, Champ, a left-hand forehand with an understable fairway driver will benefit greatly from the 6 o'clock tailwind. Execute a smooth release for maximum distance to the white basket."
+        }
+      }
+    },
+    {
+      "hole_number": "4",
+      "hole_label": "Hole 4 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 167.1,
+        "relative_degrees": 176.9,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Strong tailwind from SSE"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, Hole 4 Blue faces a strong 6 o'clock tailwind. Use an understable distance driver on a backhand for maximum carry towards the blue basket. A clean, smooth release is crucial for this long par 5."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Champ, on Hole 4 Blue, the strong 6 o'clock tailwind is ideal for an understable distance driver thrown forehand. Focus on a controlled flight to reach the blue basket on this challenging par 5."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "For Hole 4 Blue, Player, the strong 6 o'clock tailwind from the SSE is perfect for an understable distance driver on a left-hand backhand. Aim for a straight flight to maximize distance towards the blue basket on this par 5."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "On Hole 4 Blue, Champ, a left-hand forehand with an understable distance driver will carry exceptionally well with the 6 o'clock tailwind. Execute a smooth release for maximum distance to the blue basket on this par 5."
         }
       }
     },
     {
       "hole_number": "5",
-      "hole_label": "Hole 5",
+      "hole_label": "Hole 5 [yellow]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 112.0,
-        "clock_face": "4 o-clock",
-        "description": "Wind from 4 o'clock"
+        "relative_degrees": 74.0,
+        "clock_face": "2 o-clock",
+        "description": "Moderate crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 5 (blue, 366ft par 3), the 4 o'clock wind calls for a stable fairway driver on a RHBH with a touch of hyzer to keep it from turning over and to fade towards the basket, avoiding the water OB."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Player, Hole 5 Yellow has a 2 o'clock crosswind from the right. Throw an overstable approach disc on a hyzer with your backhand to keep it from drifting right and into the water OB. Aim for the yellow basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 5 (blue, 366ft par 3), an overstable fairway driver thrown RHFH is recommended to fight the 4 o'clock wind and ensure a straight flight towards the green, staying clear of the water OB."
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "Champ, on Hole 5 Yellow, a forehand with an overstable putter is a safe play against the 2 o'clock crosswind from the right. Focus on a straight, controlled shot to avoid the water OB and land on the green."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Player, Hole 5 (blue, 366ft par 3) has wind from 4 o'clock; use an understable fairway driver on a LHBH, aiming left to let the wind carry it back to the pin, and be mindful of the water OB."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "For Hole 5 Yellow, Player, the 2 o'clock crosswind from the right requires an overstable approach disc on a hyzer with your left-hand backhand. Keep the disc straight towards the yellow basket, avoiding the water OB on the right."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 4 o'clock wind on Hole 5 (blue, 366ft par 3) is best handled with a stable fairway driver on a LHFH, providing control and a predictable finish while avoiding the water OB."
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "On Hole 5 Yellow, Champ, a left-hand forehand with an overstable putter will handle the 2 o'clock crosswind from the right. Aim for a controlled flight to the yellow basket, respecting the water OB to your right."
         }
       }
     },
     {
       "hole_number": "5",
-      "hole_label": "Hole 5 (White)",
+      "hole_label": "Hole 5 [white]",
       "wind_info": {
         "azimuth_degrees": 266.3,
-        "relative_degrees": 115.7,
-        "clock_face": "4 o-clock",
-        "description": "Wind from 4 o'clock"
+        "relative_degrees": 77.7,
+        "clock_face": "3 o-clock crosswind from right",
+        "description": "Moderate crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Hole 5 (white, 286ft par 3) faces a 4 o'clock wind; a stable fairway driver on a RHBH with a bit of hyzer should hold its line and fade nicely, keeping away from the water OB."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Player, Hole 5 White has a 3 o'clock crosswind from the right. Throw an overstable approach disc on a hyzer with your backhand to prevent it from drifting right into the water OB. Aim for the white basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 5 (white, 286ft par 3), an overstable fairway driver on a RHFH will offer stability against the 4 o'clock wind, ensuring accuracy and avoiding the water OB."
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "Champ, on Hole 5 White, a forehand with an overstable putter is ideal for the 3 o'clock crosswind from the right. Focus on a straight, controlled shot to the white basket, staying clear of the water OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Player, with wind from 4 o'clock on Hole 5 (white, 286ft par 3), aim your LHBH with an understable fairway driver to the left of the pin and let the wind bring it back, while minding the water OB."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "For Hole 5 White, Player, the 3 o'clock crosswind from the right demands an overstable approach disc on a hyzer with your left-hand backhand. Keep the disc straight towards the white basket, avoiding the water OB on the right."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, against the 4 o'clock wind on Hole 5 (white, 286ft par 3), a stable fairway driver on a LHFH will provide the control needed to land accurately and avoid the water OB."
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "On Hole 5 White, Champ, a left-hand forehand with an overstable putter will manage the 3 o'clock crosswind from the right. Aim for a controlled flight to the white basket, respecting the water OB to your right."
         }
       }
     },
     {
       "hole_number": "5",
-      "hole_label": "Hole 5 (Yellow)",
+      "hole_label": "Hole 5 [blue]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 112.0,
-        "clock_face": "4 o-clock",
-        "description": "Wind from 4 o'clock"
+        "relative_degrees": 74.0,
+        "clock_face": "2 o-clock",
+        "description": "Moderate crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 5 (yellow, 196ft par 3), the 4 o'clock wind is best managed with a stable fairway driver on a RHBH with a slight hyzer to keep it straight, while staying clear of the water OB."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Player, Hole 5 Blue faces a 2 o'clock crosswind from the right. Throw an overstable approach disc on a hyzer with your backhand to keep it from drifting right into the water OB. Aim for the blue basket."
         },
         "fh": {
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "Champ, on Hole 5 Blue, a forehand with an overstable putter is the safest bet against the 2 o'clock crosswind from the right. Focus on a straight, controlled shot to the blue basket, avoiding the water OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "For Hole 5 Blue, Player, the 2 o'clock crosswind from the right requires an overstable approach disc on a hyzer with your left-hand backhand. Keep the disc straight towards the blue basket, avoiding the water OB to the right."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "On Hole 5 Blue, Champ, a left-hand forehand with an overstable putter will handle the 2 o'clock crosswind from the right. Aim for a controlled flight to the blue basket, respecting the water OB to your right."
+        }
+      }
+    },
+    {
+      "hole_number": "6",
+      "hole_label": "Hole 6 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 229.4,
+        "relative_degrees": 114.6,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the right"
+      },
+      "tips_rh": {
+        "bh": {
           "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 5 (yellow, 196ft par 3), an overstable fairway driver thrown RHFH is ideal to fight the 4 o'clock wind and achieve a controlled approach, avoiding the water OB."
+          "shot_strategy": "Player, Hole 6 Yellow has a 4 o'clock crosswind from the right. Throw an overstable fairway driver on a hyzer with your backhand to prevent it from drifting right and into the water OB. Aim for the yellow basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, on Hole 6 Yellow, use an overstable approach disc for a forehand shot to counter the 4 o'clock crosswind from the right. Focus on a controlled, straight flight towards the yellow basket, avoiding the water OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For Hole 6 Yellow, Player, the 4 o'clock crosswind from the right demands an overstable fairway driver on a hyzer with your left-hand backhand. Keep the disc straight towards the yellow basket, avoiding the water OB on the right."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "On Hole 6 Yellow, Champ, a left-hand forehand with an overstable approach disc will handle the 4 o'clock crosswind from the right. Execute a clean shot to keep the disc on line towards the yellow basket, staying clear of the water."
+        }
+      }
+    },
+    {
+      "hole_number": "6",
+      "hole_label": "Hole 6 [white]",
+      "wind_info": {
+        "azimuth_degrees": 233.0,
+        "relative_degrees": 111.0,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the right"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 6 White has a 4 o'clock crosswind from the right. Utilize an overstable fairway driver on a hyzer with your backhand to keep the disc from drifting right into the water OB. Aim for the white basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, for Hole 6 White, an overstable approach disc on a forehand will provide control against the 4 o'clock crosswind from the right. Aim for a straight flight to the white basket, avoiding the water OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 6 White, Player, the 4 o'clock crosswind from the right requires an overstable fairway driver on a hyzer with your left-hand backhand. Focus on a controlled flight to the white basket, resisting the wind's influence and avoiding the water."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "For Hole 6 White, Champ, a left-hand forehand with an overstable approach disc is excellent for the 4 o'clock crosswind from the right. Keep the shot straight and controlled towards the white basket, staying clear of the water OB."
+        }
+      }
+    },
+    {
+      "hole_number": "6",
+      "hole_label": "Hole 6 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 216.3,
+        "relative_degrees": 127.7,
+        "clock_face": "4 o-clock",
+        "description": "Moderate crosswind from the right"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 6 Blue faces a 4 o'clock crosswind from the right. Throw an overstable fairway driver on a hyzer with your backhand to ensure the disc fights the wind and stays on line to the blue basket, avoiding the water OB."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, on Hole 6 Blue, an overstable approach disc on a forehand is your best bet against the 4 o'clock crosswind from the right. Aim for a powerful, straight throw towards the blue basket, keeping the water OB in mind."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For Hole 6 Blue, Player, the 4 o'clock crosswind from the right demands an overstable fairway driver on a hyzer with your left-hand backhand. Focus on a straight flight path to the blue basket, working with the wind's angle and avoiding the water."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "On Hole 6 Blue, Champ, a left-hand forehand with an overstable approach disc will handle the 4 o'clock crosswind from the right. Keep the shot accurate and controlled towards the blue basket, respecting the water OB to your right."
+        }
+      }
+    },
+    {
+      "hole_number": "7",
+      "hole_label": "Hole 7 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 176.6,
+        "relative_degrees": 167.4,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Tailwind from SSE"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Player, Hole 7 Yellow has a 6 o'clock tailwind. Use an understable fairway driver on a backhand for good distance towards the yellow basket. Focus on a smooth release to take advantage of the wind."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Putter",
+          "shot_strategy": "Champ, on Hole 7 Yellow, the 6 o'clock tailwind will help an understable putter thrown forehand. Aim for a straight flight to reach the yellow basket."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Player, Hole 5 (yellow, 196ft par 3) has wind from 4 o'clock; use an understable fairway driver on a LHBH, aiming left to let the wind carry it back to the pin, and be mindful of the water OB."
+          "shot_strategy": "For Hole 7 Yellow, Player, the 6 o'clock tailwind from the SSE is ideal for an understable fairway driver on a left-hand backhand. Aim for a straight flight to maximize distance towards the yellow basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 4 o'clock wind on Hole 5 (yellow, 196ft par 3) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control while avoiding the water OB."
-        }
-      }
-    },
-    {
-      "hole_number": "6",
-      "hole_label": "Hole 6",
-      "wind_info": {
-        "azimuth_degrees": 216.3,
-        "relative_degrees": 165.7,
-        "clock_face": "6 o-clock tailwind",
-        "description": "Tailwind from 6 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "For Hole 6 (blue, 696ft par 4), the 6 o'clock tailwind is strong; an understable driver on a RHBH will maximize distance and ensure a smooth flight, while navigating the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with the tailwind from 6 o'clock on Hole 6 (blue, 696ft par 4), an understable driver on a RHFH will give you great distance and a gentle finish, keeping it safe from the water OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Champ, Hole 6 (blue, 696ft par 4) is playing into a 6 o'clock tailwind, so an understable driver on a LHBH will carry well and finish straight, avoiding the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 6 (blue, 696ft par 4), a 6 o'clock tailwind calls for an understable driver thrown on a LHFH to achieve maximum glide and distance, while minding the water OB."
-        }
-      }
-    },
-    {
-      "hole_number": "6",
-      "hole_label": "Hole 6 (White)",
-      "wind_info": {
-        "azimuth_degrees": 233.0,
-        "relative_degrees": 149.0,
-        "clock_face": "5 o-clock",
-        "description": "Wind from 5 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Hole 6 (white, 550ft par 4) faces a 5 o'clock wind; a stable driver on a RHBH will provide a controlled flight and a reliable fade towards the basket, keeping away from the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 6 (white, 550ft par 4), an overstable fairway driver on a RHFH is a good choice against the 5 o'clock wind, offering a predictable finish and avoiding the water OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 5 o'clock wind on Hole 6 (white, 550ft par 4), an understable driver on a LHBH should carry well and finish towards the target, while minding the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 5 o'clock wind on Hole 6 (white, 550ft par 4) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control and avoiding the water OB."
-        }
-      }
-    },
-    {
-      "hole_number": "6",
-      "hole_label": "Hole 6 (Yellow)",
-      "wind_info": {
-        "azimuth_degrees": 229.4,
-        "relative_degrees": 152.6,
-        "clock_face": "5 o-clock",
-        "description": "Wind from 5 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 6 (yellow, 480ft par 4), the 5 o'clock wind suggests a stable driver thrown on a RHBH with a slight hyzer to manage the flight and fade towards the basket, while staying clear of the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "On Hole 6 (yellow, 480ft par 4), an overstable fairway driver on a RHFH will provide the stability needed to counter the 5 o'clock wind and stay on line, avoiding the water OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, Hole 6 (yellow, 480ft par 4) has wind from 5 o'clock; an understable driver on a LHBH should carry well and finish towards the target, while minding the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 5 o'clock wind on Hole 6 (yellow, 480ft par 4) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control and avoiding the water OB."
+          "disc_recommendation": "Understable Putter",
+          "shot_strategy": "On Hole 7 Yellow, Champ, a left-hand forehand with an understable putter will carry well with the 6 o'clock tailwind. Execute a smooth release for distance towards the yellow basket."
         }
       }
     },
     {
       "hole_number": "7",
-      "hole_label": "Hole 7",
-      "wind_info": {
-        "azimuth_degrees": 164.8,
-        "relative_degrees": 217.2,
-        "clock_face": "7 o-clock",
-        "description": "Wind from 7 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 7 (blue, 675ft par 4), the 7 o'clock wind suggests a stable driver thrown on a RHBH, allowing for a controlled flight with a gentle fade towards the basket."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 7 (blue, 675ft par 4), an overstable fairway driver on a RHFH is a good choice against the 7 o'clock wind, offering a predictable flight path."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, Hole 7 (blue, 675ft par 4) has wind from 7 o'clock; an understable driver on a LHBH should carry well and finish towards the target."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 7 o'clock wind on Hole 7 (blue, 675ft par 4) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control."
-        }
-      }
-    },
-    {
-      "hole_number": "7",
-      "hole_label": "Hole 7 (White)",
+      "hole_label": "Hole 7 [white]",
       "wind_info": {
         "azimuth_degrees": 182.2,
-        "relative_degrees": 199.8,
-        "clock_face": "7 o-clock",
-        "description": "Wind from 7 o'clock"
+        "relative_degrees": 161.8,
+        "clock_face": "5 o-clock",
+        "description": "Tailwind from SW"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Hole 7 (white, 535ft par 4) faces a 7 o'clock wind; a stable driver on a RHBH will provide a controlled flight and a reliable fade towards the basket."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Player, Hole 7 White has a 5 o'clock tailwind. Utilize an understable fairway driver on a backhand for good distance towards the white basket. Focus on a smooth release to take advantage of the wind."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 7 (white, 535ft par 4), an overstable fairway driver on a RHFH is a good choice against the 7 o'clock wind, offering a predictable finish."
+          "disc_recommendation": "Understable Putter",
+          "shot_strategy": "Champ, on Hole 7 White, the 5 o'clock tailwind will help an understable putter thrown forehand. Aim for a straight flight to reach the white basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 7 o'clock wind on Hole 7 (white, 535ft par 4), an understable driver on a LHBH should carry well and finish towards the target."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "For Hole 7 White, Player, the 5 o'clock tailwind from the SW is ideal for an understable fairway driver on a left-hand backhand. Aim for a straight flight to maximize distance towards the white basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 7 o'clock wind on Hole 7 (white, 535ft par 4) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control."
+          "disc_recommendation": "Understable Putter",
+          "shot_strategy": "On Hole 7 White, Champ, a left-hand forehand with an understable putter will carry well with the 5 o'clock tailwind. Execute a smooth release for distance towards the white basket."
         }
       }
     },
     {
       "hole_number": "7",
-      "hole_label": "Hole 7 (Yellow)",
+      "hole_label": "Hole 7 [blue]",
       "wind_info": {
-        "azimuth_degrees": 176.6,
-        "relative_degrees": 205.4,
-        "clock_face": "7 o-clock",
-        "description": "Wind from 7 o'clock"
+        "azimuth_degrees": 164.8,
+        "relative_degrees": 179.2,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Strong tailwind from SSE"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 7 (yellow, 295ft par 3), the 7 o'clock wind suggests a stable driver thrown on a RHBH with a slight hyzer to manage the flight and fade towards the basket."
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, Hole 7 Blue faces a strong 6 o'clock tailwind. Use an understable distance driver on a backhand for maximum carry towards the blue basket. A clean release is crucial to harness the wind's power."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Champ, on Hole 7 Blue, the strong 6 o'clock tailwind is perfect for an understable fairway driver thrown forehand. Focus on a controlled flight to reach the blue basket."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "For Hole 7 Blue, Player, the strong 6 o'clock tailwind from the SSE is ideal for an understable distance driver on a left-hand backhand. Aim for a straight flight to maximize distance towards the blue basket."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "On Hole 7 Blue, Champ, a left-hand forehand with an understable fairway driver will carry exceptionally well with the 6 o'clock tailwind. Execute a smooth release for maximum distance to the blue basket."
+        }
+      }
+    },
+    {
+      "hole_number": "8",
+      "hole_label": "Hole 8 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 356.3,
+        "relative_degrees": 356.6,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind from NNW"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "Player, Hole 8 Yellow presents a moderate 12 o'clock headwind. Throw an overstable distance driver on a backhand with a touch of hyzer to fight the wind and achieve a straight flight to the yellow basket. Be aware of the roadway OB to the left."
         },
         "fh": {
           "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "On Hole 7 (yellow, 295ft par 3), an overstable fairway driver on a RHFH will provide the stability needed to counter the 7 o'clock wind and stay on line."
+          "shot_strategy": "Champ, on Hole 8 Yellow, an overstable fairway driver on a forehand will handle the 12 o'clock headwind. Focus on a flat, powerful release to keep the disc straight towards the yellow basket and avoid the OB to the left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, Hole 7 (yellow, 295ft par 3) has wind from 7 o'clock; an understable driver on a LHBH should carry well and finish towards the target."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "For Hole 8 Yellow, Player, the 12 o'clock headwind from the NNW requires an overstable distance driver on a left-hand backhand. Throw with a slight hyzer to keep the disc straight towards the yellow basket, minding the OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 7 o'clock wind on Hole 7 (yellow, 295ft par 3) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 8 Yellow, Champ, a left-hand forehand with an overstable fairway driver is recommended to combat the 12 o'clock headwind. Keep the shot straight towards the yellow basket, staying clear of the OB on the left."
         }
       }
     },
     {
       "hole_number": "8",
-      "hole_label": "Hole 8",
-      "wind_info": {
-        "azimuth_degrees": 347.4,
-        "relative_degrees": 34.6,
-        "clock_face": "1 o-clock",
-        "description": "Wind from 1 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 8 (blue, 776ft par 4), the 1 o'clock headwind requires an overstable driver thrown on a RHBH to fight the wind and achieve a controlled flight, staying away from the roadway OB on the left."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 8 (blue, 776ft par 4), the 1 o'clock headwind is best met with an overstable driver on a RHFH, providing the necessary stability to penetrate the wind and finish straight, while respecting the roadway OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, Hole 8 (blue, 776ft par 4) has a significant 1 o'clock headwind; use an overstable driver on a LHBH, aiming slightly right to allow the wind to push it towards the basket and away from the roadway OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, against the 1 o'clock headwind on Hole 8 (blue, 776ft par 4), an overstable driver on a LHFH will give you the best chance to fight the wind and land on the green, while staying left of the roadway OB."
-        }
-      }
-    },
-    {
-      "hole_number": "8",
-      "hole_label": "Hole 8 (White)",
+      "hole_label": "Hole 8 [white]",
       "wind_info": {
         "azimuth_degrees": 0.1,
-        "relative_degrees": 21.9,
-        "clock_face": "1 o-clock",
-        "description": "Wind from 1 o'clock"
+        "relative_degrees": 343.9,
+        "clock_face": "11 o-clock",
+        "description": "Moderate headwind from NNW"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hole 8 (white, 600ft par 4) faces a 1 o'clock headwind; an overstable driver on a RHBH will fight this wind and provide a controlled fade, keeping the disc away from the roadway OB on the left."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "Player, Hole 8 White faces a moderate 11 o'clock headwind. Utilize an overstable distance driver on a backhand with a slight hyzer to combat the wind and achieve a straight flight to the white basket. Be mindful of the roadway OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 8 (white, 600ft par 4), the 1 o'clock headwind is best tackled with an overstable driver on a RHFH, ensuring a stable flight that penetrates the wind and avoids the roadway OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 8 White, an overstable fairway driver on a forehand will provide stability against the 11 o'clock headwind. Aim for a flat, powerful throw towards the white basket, avoiding the OB to the left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, with a 1 o'clock headwind on Hole 8 (white, 600ft par 4), an overstable driver on a LHBH should be thrown aiming slightly right to account for the wind pushing it left, while staying right of the roadway OB."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "On Hole 8 White, Player, the 11 o'clock headwind from the NNW necessitates an overstable distance driver on a left-hand backhand. Throw with a hyzer to keep the disc straight towards the white basket, respecting the OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, the 1 o'clock headwind on Hole 8 (white, 600ft par 4) demands an overstable driver on a LHFH to fight the wind and maintain accuracy, keeping to the right of the roadway OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For Hole 8 White, Champ, a left-hand forehand with an overstable fairway driver is effective against the 11 o'clock headwind. Keep the shot straight and controlled towards the white basket, staying clear of the OB on the left."
         }
       }
     },
     {
       "hole_number": "8",
-      "hole_label": "Hole 8 (Yellow)",
+      "hole_label": "Hole 8 [blue]",
       "wind_info": {
-        "azimuth_degrees": 356.3,
-        "relative_degrees": 25.7,
-        "clock_face": "1 o-clock",
-        "description": "Wind from 1 o'clock"
+        "azimuth_degrees": 347.4,
+        "relative_degrees": 356.6,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind from NNW"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 8 (yellow, 412ft par 4), the 1 o'clock headwind requires an overstable driver on a RHBH to fight the wind and achieve a controlled flight, staying away from the roadway OB on the left."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "Player, Hole 8 Blue faces a moderate 12 o'clock headwind. Throw an overstable distance driver on a backhand with a hyzer to fight the wind and achieve a straight flight to the blue basket. Be aware of the roadway OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 8 (yellow, 412ft par 4), the 1 o'clock headwind is best met with an overstable driver on a RHFH, providing the necessary stability to penetrate the wind and finish straight, while respecting the roadway OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, on Hole 8 Blue, an overstable fairway driver on a forehand will handle the 12 o'clock headwind. Focus on a flat, powerful release to keep the disc straight towards the blue basket and avoid the OB to the left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, Hole 8 (yellow, 412ft par 4) has a significant 1 o'clock headwind; use an overstable driver on a LHBH, aiming slightly right to allow for the wind to push it towards the basket and away from the roadway OB."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "For Hole 8 Blue, Player, the 12 o'clock headwind from the NNW requires an overstable distance driver on a left-hand backhand. Throw with a slight hyzer to keep the disc straight towards the blue basket, minding the OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, against the 1 o'clock headwind on Hole 8 (yellow, 412ft par 4), an overstable driver on a LHFH will give you the best chance to fight the wind and land on the green, while staying left of the roadway OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 8 Blue, Champ, a left-hand forehand with an overstable fairway driver is recommended to combat the 12 o'clock headwind. Keep the shot straight and controlled towards the blue basket, staying clear of the OB on the left."
         }
       }
     },
@@ -710,838 +740,838 @@
       "hole_label": "Hole 9",
       "wind_info": {
         "azimuth_degrees": 296.3,
-        "relative_degrees": 85.7,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Crosswind from 3 o'clock (left)"
+        "relative_degrees": 47.7,
+        "clock_face": "2 o-clock",
+        "description": "Moderate crosswind from the right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 9 (195ft par 3), the 3 o'clock crosswind from the left requires a stable fairway driver thrown on a RHBH with a hyzer to fight the wind and fade towards the basket, while avoiding the OB roadway."
-        },
-        "fh": {
           "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 9 (195ft par 3), an overstable fairway driver on a RHFH is recommended to counteract the 3 o'clock crosswind from the left, ensuring a controlled flight that lands safely away from the roadway OB."
+          "shot_strategy": "Player, Hole 9 has a 2 o'clock crosswind from the right. Throw an overstable fairway driver on a hyzer with your backhand to keep it from drifting right towards the roadway OB. Aim for a straight flight to the basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "Champ, on Hole 9, an overstable putter on a forehand will manage the 2 o'clock crosswind from the right. Focus on a controlled shot towards the basket, staying away from the OB on the left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Player, Hole 9 (195ft par 3) has wind from 3 o'clock from the left; use an understable fairway driver on a LHBH, aiming left to let the wind bring it back to the pin, while staying right of the roadway OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For Hole 9, Player, the 2 o'clock crosswind from the right demands an overstable fairway driver on a hyzer with your left-hand backhand. Keep the disc straight towards the basket, avoiding the OB to the right."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, against the 3 o'clock crosswind from the left on Hole 9 (195ft par 3), a stable fairway driver on a LHFH will provide the necessary stability to resist the wind and stay on target, while avoiding the roadway OB."
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "On Hole 9, Champ, a left-hand forehand with an overstable putter is ideal for the 2 o'clock crosswind from the right. Keep the shot straight and controlled towards the basket, respecting the OB to your right."
         }
       }
     },
     {
       "hole_number": "10",
-      "hole_label": "Hole 10",
-      "wind_info": {
-        "azimuth_degrees": 344.3,
-        "relative_degrees": 37.7,
-        "clock_face": "1 o-clock",
-        "description": "Wind from 1 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 10 (blue, 1003ft par 5), the 1 o'clock headwind requires an overstable driver thrown on a RHBH to fight the wind and achieve a controlled flight, keeping it away from the water OB and sand trap."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 10 (blue, 1003ft par 5), the 1 o'clock headwind is best met with an overstable driver on a RHFH, providing the necessary stability to penetrate the wind and finish straight, while respecting the water OB and sand trap."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, Hole 10 (blue, 1003ft par 5) has a significant 1 o'clock headwind; use an overstable driver on a LHBH, aiming slightly right to allow for the wind to push it towards the basket and away from the water OB and sand trap."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, against the 1 o'clock headwind on Hole 10 (blue, 1003ft par 5), an overstable driver on a LHFH will give you the best chance to fight the wind and land on the green, while staying away from the water OB and sand trap."
-        }
-      }
-    },
-    {
-      "hole_number": "10",
-      "hole_label": "Hole 10 (White)",
-      "wind_info": {
-        "azimuth_degrees": 357.3,
-        "relative_degrees": 24.7,
-        "clock_face": "1 o-clock",
-        "description": "Wind from 1 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hole 10 (white, 637ft par 4) faces a 1 o'clock headwind; an overstable driver on a RHBH will fight this wind and provide a controlled fade, keeping the disc away from the water OB and sand trap."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 10 (white, 637ft par 4), the 1 o'clock headwind is best tackled with an overstable driver on a RHFH, ensuring a stable flight that penetrates the wind and avoids the water OB and sand trap."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, with a 1 o'clock headwind on Hole 10 (white, 637ft par 4), an overstable driver on a LHBH should be thrown aiming slightly right to account for the wind pushing it left, while staying away from the water OB and sand trap."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, the 1 o'clock headwind on Hole 10 (white, 637ft par 4) demands an overstable driver on a LHFH to fight the wind and maintain accuracy, keeping away from the water OB and sand trap."
-        }
-      }
-    },
-    {
-      "hole_number": "10",
-      "hole_label": "Hole 10 (Yellow)",
+      "hole_label": "Hole 10 [yellow]",
       "wind_info": {
         "azimuth_degrees": 353.5,
-        "relative_degrees": 28.5,
-        "clock_face": "1 o-clock",
-        "description": "Wind from 1 o'clock"
+        "relative_degrees": 350.5,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind from NNW"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 10 (yellow, 388ft par 4), the 1 o'clock headwind requires an overstable driver on a RHBH to fight the wind and achieve a controlled flight, staying away from the water OB and sand trap."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 10 Yellow faces a moderate 12 o'clock headwind. Throw an overstable fairway driver on a backhand with a slight hyzer to fight the wind and achieve a straight flight to the yellow basket. Be aware of the water OB and sand hazard."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 10 (yellow, 388ft par 4), the 1 o'clock headwind is best met with an overstable driver on a RHFH, providing the necessary stability to penetrate the wind and finish straight, while respecting the water OB and sand trap."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, on Hole 10 Yellow, an overstable approach disc on a forehand will handle the 12 o'clock headwind. Focus on a flat, powerful release towards the yellow basket, avoiding the water OB and sand hazard."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, Hole 10 (yellow, 388ft par 4) has a significant 1 o'clock headwind; use an overstable driver on a LHBH, aiming slightly right to allow for the wind to push it towards the basket and away from the water OB and sand trap."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For Hole 10 Yellow, Player, the 12 o'clock headwind from the NNW requires an overstable fairway driver on a left-hand backhand. Throw with a hyzer to keep the disc straight towards the yellow basket, minding the water OB and sand hazard."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, against the 1 o'clock headwind on Hole 10 (yellow, 388ft par 4), an overstable driver on a LHFH will give you the best chance to fight the wind and land on the green, while staying away from the water OB and sand trap."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "On Hole 10 Yellow, Champ, a left-hand forehand with an overstable approach disc is recommended to combat the 12 o'clock headwind. Keep the shot straight and controlled towards the yellow basket, staying clear of the water OB and sand hazard."
         }
       }
     },
     {
-      "hole_number": "11",
-      "hole_label": "Hole 11",
+      "hole_number": "10",
+      "hole_label": "Hole 10 [white]",
       "wind_info": {
-        "azimuth_degrees": 83.5,
-        "relative_degrees": 298.5,
-        "clock_face": "10 o-clock",
-        "description": "Wind from 10 o'clock"
+        "azimuth_degrees": 357.3,
+        "relative_degrees": 346.7,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind from NNW"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 11 (blue, 679ft par 4), the 10 o'clock wind from the right means your RHBH flight plate is exposed; throw an understable driver on a RHFH to ensure a stable flight and prevent it from drifting too far right."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "Player, Hole 10 White faces a moderate 12 o'clock headwind. Utilize an overstable distance driver on a backhand with a slight hyzer to combat the wind and achieve a straight flight to the white basket. Be aware of the water OB and sand hazard."
         },
         "fh": {
           "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 11 (blue, 679ft par 4), a 10 o'clock wind from the right is best countered with an overstable fairway driver on a RHFH, providing the stability to fight the wind and finish straight."
+          "shot_strategy": "Champ, for Hole 10 White, an overstable fairway driver on a forehand will provide stability against the 12 o'clock headwind. Aim for a flat, powerful throw towards the white basket, avoiding the water OB and sand hazard."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, Hole 11 (blue, 679ft par 4) has wind from 10 o'clock from the right; a stable driver on a LHBH will allow its natural fade to complement the wind, guiding it towards the basket."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Champ, the 10 o'clock wind from the right on Hole 11 (blue, 679ft par 4) can be managed with an understable fairway driver on a LHFH, aiming left to let the wind bring it back."
-        }
-      }
-    },
-    {
-      "hole_number": "11",
-      "hole_label": "Hole 11 (White)",
-      "wind_info": {
-        "azimuth_degrees": 71.1,
-        "relative_degrees": 310.9,
-        "clock_face": "10 o-clock",
-        "description": "Wind from 10 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Hole 11 (white, 520ft par 4) faces a 10 o'clock wind from the right; your RHBH flight plate is exposed, so use an understable driver on a RHFH to ensure a stable flight and avoid drifting too far right."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "On Hole 10 White, Player, the 12 o'clock headwind from the NNW necessitates an overstable distance driver on a left-hand backhand. Throw with a hyzer to keep the disc straight towards the white basket, minding the water OB and sand hazard."
         },
         "fh": {
           "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 11 (white, 520ft par 4), a 10 o'clock wind from the right is best countered with an overstable fairway driver on a RHFH, providing the stability to fight the wind and finish straight."
+          "shot_strategy": "For Hole 10 White, Champ, a left-hand forehand with an overstable fairway driver is effective against the 12 o'clock headwind. Keep the shot straight and controlled towards the white basket, staying clear of the water OB and sand hazard."
+        }
+      }
+    },
+    {
+      "hole_number": "10",
+      "hole_label": "Hole 10 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 344.3,
+        "relative_degrees": 359.7,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind from NNW"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "Player, Hole 10 Blue faces a moderate 12 o'clock headwind. Throw an overstable distance driver on a backhand with a hyzer to fight the wind and achieve a straight flight to the blue basket. Be aware of the water OB and sand hazard."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Champ, on Hole 10 Blue, an overstable fairway driver on a forehand will handle the 12 o'clock headwind. Focus on a flat, powerful release towards the blue basket, avoiding the water OB and sand hazard."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, Hole 11 (white, 520ft par 4) has wind from 10 o'clock from the right; a stable driver on a LHBH will allow its natural fade to complement the wind, guiding it towards the basket."
+          "disc_recommendation": "Overstable Distance Driver",
+          "shot_strategy": "For Hole 10 Blue, Player, the 12 o'clock headwind from the NNW requires an overstable distance driver on a left-hand backhand. Throw with a slight hyzer to keep the disc straight towards the blue basket, minding the water OB and sand hazard."
         },
         "fh": {
-          "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Champ, the 10 o'clock wind from the right on Hole 11 (white, 520ft par 4) can be managed with an understable fairway driver on a LHFH, aiming left to let the wind bring it back."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 10 Blue, Champ, a left-hand forehand with an overstable fairway driver is recommended to combat the 12 o'clock headwind. Keep the shot straight and controlled towards the blue basket, staying clear of the water OB and sand hazard."
         }
       }
     },
     {
       "hole_number": "11",
-      "hole_label": "Hole 11 (Yellow)",
+      "hole_label": "Hole 11 [yellow]",
       "wind_info": {
         "azimuth_degrees": 79.9,
-        "relative_degrees": 302.1,
-        "clock_face": "10 o-clock",
-        "description": "Wind from 10 o'clock"
+        "relative_degrees": 264.1,
+        "clock_face": "9 o-clock crosswind from left",
+        "description": "Strong crosswind from the left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 11 (yellow, 487ft par 4), the 10 o'clock wind from the right means your RHBH flight plate is exposed; throw an understable driver on a RHFH to ensure a stable flight and prevent it from drifting too far right."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 11 (yellow, 487ft par 4), a 10 o'clock wind from the right is best countered with an overstable fairway driver on a RHFH, providing the stability to fight the wind and finish straight."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, Hole 11 (yellow, 487ft par 4) has wind from 10 o'clock from the right; a stable driver on a LHBH will allow its natural fade to complement the wind, guiding it towards the basket."
-        },
-        "fh": {
           "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Champ, the 10 o'clock wind from the right on Hole 11 (yellow, 487ft par 4) can be managed with an understable fairway driver on a LHFH, aiming left to let the wind bring it back."
-        }
-      }
-    },
-    {
-      "hole_number": "12",
-      "hole_label": "Hole 12",
-      "wind_info": {
-        "azimuth_degrees": 330.0,
-        "relative_degrees": 52.0,
-        "clock_face": "2 o-clock",
-        "description": "Wind from 2 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 12 (blue, 414ft par 3), the 2 o'clock wind requires an overstable driver on a RHBH to fight the wind and achieve a controlled flight, staying away from the river OB."
+          "shot_strategy": "Player, Hole 11 Yellow has a strong 9 o'clock crosswind from the left. Throw an understable fairway driver on an anhyzer angle with your backhand to counter the wind's push and guide it towards the yellow basket. Be mindful of the drop zone."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 12 (blue, 414ft par 3), the 2 o'clock wind is best met with an overstable driver on a RHFH, providing the necessary stability to penetrate the wind and finish straight, while respecting the river OB."
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "Champ, on Hole 11 Yellow, an overstable putter on a forehand is your best bet against the strong 9 o'clock crosswind from the left. Focus on a flat, controlled throw towards the yellow basket to avoid errant flights."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, Hole 12 (blue, 414ft par 3) has a significant 2 o'clock wind; use an overstable driver on a LHBH, aiming slightly right to allow for the wind to push it towards the basket and away from the river OB."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "For Hole 11 Yellow, Player, the strong 9 o'clock crosswind from the left requires an understable fairway driver on a left-hand backhand. Aim for a smooth anhyzer to fight the wind and guide the disc towards the yellow basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, against the 2 o'clock wind on Hole 12 (blue, 414ft par 3), an overstable driver on a LHFH will give you the best chance to fight the wind and land on the green, while staying left of the river OB."
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "On Hole 11 Yellow, Champ, a left-hand forehand with an overstable putter will be stable against the strong 9 o'clock crosswind from the left. Keep the shot straight and controlled towards the yellow basket, mindful of the drop zone."
         }
       }
     },
     {
-      "hole_number": "12",
-      "hole_label": "Hole 12 (White)",
+      "hole_number": "11",
+      "hole_label": "Hole 11 [white]",
       "wind_info": {
-        "azimuth_degrees": 316.5,
-        "relative_degrees": 65.5,
-        "clock_face": "2 o-clock",
-        "description": "Wind from 2 o'clock"
+        "azimuth_degrees": 71.1,
+        "relative_degrees": 272.9,
+        "clock_face": "9 o-clock crosswind from left",
+        "description": "Strong crosswind from the left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hole 12 (white, 256ft par 3) faces a 2 o'clock wind; an overstable driver on a RHBH will fight this wind and provide a controlled fade, keeping the disc away from the river OB."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Player, Hole 11 White faces a strong 9 o'clock crosswind from the left. Utilize an understable fairway driver on an anhyzer with your backhand to guide it towards the white basket, fighting the wind's strong push. Be mindful of the drop zone."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 12 (white, 256ft par 3), the 2 o'clock wind is best tackled with an overstable driver on a RHFH, ensuring a stable flight that penetrates the wind and avoids the river OB."
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "Champ, for Hole 11 White, an overstable putter on a forehand is recommended to combat the strong 9 o'clock crosswind from the left. Aim for a flat, controlled throw towards the white basket, avoiding errant flights."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, with a 2 o'clock wind on Hole 12 (white, 256ft par 3), an overstable driver on a LHBH should be thrown aiming slightly right to account for the wind pushing it left, while staying right of the river OB."
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "On Hole 11 White, Player, the strong 9 o'clock crosswind from the left necessitates an understable fairway driver on a left-hand backhand. Throw with an anhyzer to fight the wind and guide the disc towards the white basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, the 2 o'clock wind on Hole 12 (white, 256ft par 3) demands an overstable driver on a LHFH to fight the wind and maintain accuracy, keeping to the left of the river OB."
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "For Hole 11 White, Champ, a left-hand forehand with an overstable putter will be stable against the strong 9 o'clock crosswind from the left. Keep the shot straight and controlled towards the white basket, mindful of the drop zone."
+        }
+      }
+    },
+    {
+      "hole_number": "11",
+      "hole_label": "Hole 11 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 83.5,
+        "relative_degrees": 260.5,
+        "clock_face": "9 o-clock crosswind from left",
+        "description": "Strong crosswind from the left"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Player, Hole 11 Blue has a strong 9 o'clock crosswind from the left. Throw an understable fairway driver on an anhyzer with your backhand to fight the wind and guide it towards the blue basket. Be mindful of the drop zone."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "Champ, on Hole 11 Blue, an overstable putter on a forehand is your best bet against the strong 9 o'clock crosswind from the left. Focus on a flat, controlled throw towards the blue basket to avoid errant flights."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "For Hole 11 Blue, Player, the strong 9 o'clock crosswind from the left requires an understable fairway driver on a left-hand backhand. Throw with an anhyzer to fight the wind and guide the disc towards the blue basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "On Hole 11 Blue, Champ, a left-hand forehand with an overstable putter will be stable against the strong 9 o'clock crosswind from the left. Keep the shot straight and controlled towards the blue basket, mindful of the drop zone."
         }
       }
     },
     {
       "hole_number": "12",
-      "hole_label": "Hole 12 (Yellow)",
+      "hole_label": "Hole 12 [yellow]",
       "wind_info": {
         "azimuth_degrees": 306.5,
-        "relative_degrees": 75.5,
-        "clock_face": "3 o-clock crosswind from left",
-        "description": "Crosswind from 3 o'clock (left)"
+        "relative_degrees": 37.5,
+        "clock_face": "1 o-clock",
+        "description": "Slight headwind from NNE"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "On Hole 12 (yellow, 202ft par 3), the 3 o'clock crosswind from the left requires a stable fairway driver thrown on a RHBH with a hyzer to fight the wind and fade towards the basket, while avoiding the river OB."
+          "shot_strategy": "Player, Hole 12 Yellow faces a slight 1 o'clock headwind. Use a stable fairway driver on a backhand for a straight flight towards the yellow basket. Be aware of the river OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 12 (yellow, 202ft par 3), an overstable fairway driver on a RHFH is recommended to counteract the 3 o'clock crosswind from the left, ensuring a controlled flight that lands safely away from the river OB."
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "Champ, on Hole 12 Yellow, a stable putter on a forehand will handle the slight 1 o'clock headwind. Aim for a controlled, flat shot towards the yellow basket, avoiding the river OB to the left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Player, Hole 12 (yellow, 202ft par 3) has wind from 3 o'clock from the left; use an understable fairway driver on a LHBH, aiming left to let the wind bring it back to the pin, while staying right of the river OB."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 12 Yellow, Player, the slight 1 o'clock headwind from the NNE calls for a stable fairway driver on a left-hand backhand. Keep the disc straight towards the yellow basket, minding the river OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, against the 3 o'clock crosswind from the left on Hole 12 (yellow, 202ft par 3), a stable fairway driver on a LHFH will provide the necessary stability to resist the wind and stay on target, while avoiding the river OB."
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "On Hole 12 Yellow, Champ, a left-hand forehand with a stable putter is recommended to combat the slight 1 o'clock headwind. Keep the shot straight and controlled towards the yellow basket, staying clear of the river OB to the left."
         }
       }
     },
     {
-      "hole_number": "13",
-      "hole_label": "Hole 13",
+      "hole_number": "12",
+      "hole_label": "Hole 12 [white]",
       "wind_info": {
-        "azimuth_degrees": 332.0,
-        "relative_degrees": 50.0,
-        "clock_face": "2 o-clock",
-        "description": "Wind from 2 o'clock"
+        "azimuth_degrees": 316.5,
+        "relative_degrees": 27.5,
+        "clock_face": "1 o-clock",
+        "description": "Slight headwind from NNE"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 13 (blue, 413ft par 3), the 2 o'clock wind requires an overstable driver on a RHBH to fight the wind and achieve a controlled flight."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Player, Hole 12 White has a slight 1 o'clock headwind. Utilize a stable fairway driver on a backhand for a straight flight towards the white basket. Be aware of the river OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 13 (blue, 413ft par 3), the 2 o'clock wind is best met with an overstable driver on a RHFH, providing the necessary stability to penetrate the wind and finish straight."
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "Champ, for Hole 12 White, a stable putter on a forehand will manage the slight 1 o'clock headwind. Aim for a controlled, flat shot towards the white basket, avoiding the river OB to the left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, Hole 13 (blue, 413ft par 3) has a significant 2 o'clock wind; use an overstable driver on a LHBH, aiming slightly right to allow for the wind to push it towards the basket."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "On Hole 12 White, Player, the slight 1 o'clock headwind from the NNE requires a stable fairway driver on a left-hand backhand. Keep the disc straight towards the white basket, minding the river OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, against the 2 o'clock wind on Hole 13 (blue, 413ft par 3), an overstable driver on a LHFH will give you the best chance to fight the wind and land on the green."
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "For Hole 12 White, Champ, a left-hand forehand with a stable putter is effective against the slight 1 o'clock headwind. Keep the shot straight and controlled towards the white basket, staying clear of the river OB to the left."
         }
       }
     },
     {
-      "hole_number": "13",
-      "hole_label": "Hole 13 (White)",
+      "hole_number": "12",
+      "hole_label": "Hole 12 [blue]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 52.0,
-        "clock_face": "2 o-clock",
-        "description": "Wind from 2 o'clock"
+        "relative_degrees": 14.0,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind from NNW"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hole 13 (white, 500ft par 4) faces a 2 o'clock wind; an overstable driver on a RHBH will fight this wind and provide a controlled fade."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 12 Blue faces a moderate 12 o'clock headwind. Throw an overstable fairway driver on a backhand with a hyzer to fight the wind and achieve a straight flight to the blue basket. Be aware of the river OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 13 (white, 500ft par 4), the 2 o'clock wind is best tackled with an overstable driver on a RHFH, ensuring a stable flight that penetrates the wind."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, on Hole 12 Blue, an overstable approach disc on a forehand will handle the 12 o'clock headwind. Focus on a flat, powerful release towards the blue basket, avoiding the river OB to the left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, with a 2 o'clock wind on Hole 13 (white, 500ft par 4), an overstable driver on a LHBH should be thrown aiming slightly right to account for the wind pushing it left."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For Hole 12 Blue, Player, the 12 o'clock headwind from the NNW requires an overstable fairway driver on a left-hand backhand. Throw with a slight hyzer to keep the disc straight towards the blue basket, minding the river OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, the 2 o'clock wind on Hole 13 (white, 500ft par 4) demands an overstable driver on a LHFH to fight the wind and maintain accuracy."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "On Hole 12 Blue, Champ, a left-hand forehand with an overstable approach disc is recommended to combat the 12 o'clock headwind. Keep the shot straight and controlled towards the blue basket, staying clear of the river OB to the left."
         }
       }
     },
     {
       "hole_number": "13",
-      "hole_label": "Hole 13 (Yellow)",
+      "hole_label": "Hole 13 [yellow]",
       "wind_info": {
         "azimuth_degrees": 322.9,
-        "relative_degrees": 59.1,
-        "clock_face": "2 o-clock",
-        "description": "Wind from 2 o'clock"
+        "relative_degrees": 21.1,
+        "clock_face": "1 o-clock",
+        "description": "Slight headwind from NNE"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 13 (yellow, 229ft par 3), the 2 o'clock wind requires an overstable driver on a RHBH to fight the wind and achieve a controlled flight."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Player, Hole 13 Yellow has a slight 1 o'clock headwind. Use a stable fairway driver on a backhand for a straight flight towards the yellow basket. The wind should not significantly alter the flight."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 13 (yellow, 229ft par 3), the 2 o'clock wind is best met with an overstable driver on a RHFH, providing the necessary stability to penetrate the wind and finish straight."
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "Champ, on Hole 13 Yellow, a stable putter on a forehand will manage the slight 1 o'clock headwind. Aim for a controlled, flat shot towards the yellow basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, Hole 13 (yellow, 229ft par 3) has a significant 2 o'clock wind; use an overstable driver on a LHBH, aiming slightly right to allow for the wind to push it towards the basket."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 13 Yellow, Player, the slight 1 o'clock headwind from the NNE calls for a stable fairway driver on a left-hand backhand. Keep the disc straight towards the yellow basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, against the 2 o'clock wind on Hole 13 (yellow, 229ft par 3), an overstable driver on a LHFH will give you the best chance to fight the wind and land on the green."
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "On Hole 13 Yellow, Champ, a left-hand forehand with a stable putter is recommended to combat the slight 1 o'clock headwind. Keep the shot straight and controlled towards the yellow basket."
         }
       }
     },
     {
-      "hole_number": "14",
-      "hole_label": "Hole 14",
+      "hole_number": "13",
+      "hole_label": "Hole 13 [white]",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 52.0,
-        "clock_face": "2 o-clock",
-        "description": "Wind from 2 o'clock"
+        "relative_degrees": 14.0,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind from NNW"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 14 (blue, 399ft par 3), the 2 o'clock wind requires an overstable driver on a RHBH to fight the wind and achieve a controlled flight, staying away from the creek OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 14 (blue, 399ft par 3), the 2 o'clock wind is best met with an overstable driver on a RHFH, providing the necessary stability to penetrate the wind and finish straight, while respecting the creek OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, Hole 14 (blue, 399ft par 3) has a significant 2 o'clock wind; use an overstable driver on a LHBH, aiming slightly right to allow for the wind to push it towards the basket and away from the creek OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, against the 2 o'clock wind on Hole 14 (blue, 399ft par 3), an overstable driver on a LHFH will give you the best chance to fight the wind and land on the green, while staying left of the creek OB."
-        }
-      }
-    },
-    {
-      "hole_number": "14",
-      "hole_label": "Hole 14 (White)",
-      "wind_info": {
-        "azimuth_degrees": 330.0,
-        "relative_degrees": 52.0,
-        "clock_face": "2 o-clock",
-        "description": "Wind from 2 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hole 14 (white, 399ft par 3) faces a 2 o'clock wind; an overstable driver on a RHBH will fight this wind and provide a controlled fade, keeping the disc away from the creek OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 14 (white, 399ft par 3), the 2 o'clock wind is best tackled with an overstable driver on a RHFH, ensuring a stable flight that penetrates the wind and avoids the creek OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, with a 2 o'clock wind on Hole 14 (white, 399ft par 3), an overstable driver on a LHBH should be thrown aiming slightly right to account for the wind pushing it left, while staying right of the creek OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, the 2 o'clock wind on Hole 14 (white, 399ft par 3) demands an overstable driver on a LHFH to fight the wind and maintain accuracy, keeping to the left of the creek OB."
-        }
-      }
-    },
-    {
-      "hole_number": "14",
-      "hole_label": "Hole 14 (Yellow)",
-      "wind_info": {
-        "azimuth_degrees": 336.2,
-        "relative_degrees": 45.8,
-        "clock_face": "2 o-clock",
-        "description": "Wind from 2 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 14 (yellow, 296ft par 3), the 2 o'clock wind requires an overstable driver on a RHBH to fight the wind and achieve a controlled flight, staying away from the creek OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 14 (yellow, 296ft par 3), the 2 o'clock wind is best met with an overstable driver on a RHFH, providing the necessary stability to penetrate the wind and finish straight, while respecting the creek OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, Hole 14 (yellow, 296ft par 3) has a significant 2 o'clock wind; use an overstable driver on a LHBH, aiming slightly right to allow for the wind to push it towards the basket and away from the creek OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, against the 2 o'clock wind on Hole 14 (yellow, 296ft par 3), an overstable driver on a LHFH will give you the best chance to fight the wind and land on the green, while staying left of the creek OB."
-        }
-      }
-    },
-    {
-      "hole_number": "15",
-      "hole_label": "Hole 15",
-      "wind_info": {
-        "azimuth_degrees": 163.1,
-        "relative_degrees": 218.9,
-        "clock_face": "7 o-clock",
-        "description": "Wind from 7 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 15 (blue, 762ft par 4), the 7 o'clock wind suggests a stable driver thrown on a RHBH, allowing for a controlled flight with a gentle fade towards the basket, while avoiding the water OB."
-        },
-        "fh": {
           "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 15 (blue, 762ft par 4), an overstable fairway driver on a RHFH is a good choice against the 7 o'clock wind, offering a predictable flight path and staying away from the water OB."
+          "shot_strategy": "Player, Hole 13 White faces a moderate 12 o'clock headwind. Throw an overstable fairway driver on a backhand with a hyzer to fight the wind and achieve a straight flight to the white basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, on Hole 13 White, an overstable approach disc on a forehand will handle the 12 o'clock headwind. Focus on a flat, powerful release towards the white basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, Hole 15 (blue, 762ft par 4) has wind from 7 o'clock; an understable driver on a LHBH should carry well and finish towards the target, while minding the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 7 o'clock wind on Hole 15 (blue, 762ft par 4) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control and avoiding the water OB."
-        }
-      }
-    },
-    {
-      "hole_number": "15",
-      "hole_label": "Hole 15 (White)",
-      "wind_info": {
-        "azimuth_degrees": 168.5,
-        "relative_degrees": 213.5,
-        "clock_face": "7 o-clock",
-        "description": "Wind from 7 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Hole 15 (white, 609ft par 4) faces a 7 o'clock wind; a stable driver on a RHBH will provide a controlled flight and a reliable fade towards the basket, keeping away from the water OB."
-        },
-        "fh": {
           "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 15 (white, 609ft par 4), an overstable fairway driver on a RHFH is a good choice against the 7 o'clock wind, offering a predictable finish and avoiding the water OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 7 o'clock wind on Hole 15 (white, 609ft par 4), an understable driver on a LHBH should carry well and finish towards the target, while minding the water OB."
+          "shot_strategy": "For Hole 13 White, Player, the 12 o'clock headwind from the NNW requires an overstable fairway driver on a left-hand backhand. Throw with a slight hyzer to keep the disc straight towards the white basket."
         },
         "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 7 o'clock wind on Hole 15 (white, 609ft par 4) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control and avoiding the water OB."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "On Hole 13 White, Champ, a left-hand forehand with an overstable approach disc is recommended to combat the 12 o'clock headwind. Keep the shot straight and controlled towards the white basket."
         }
       }
     },
     {
-      "hole_number": "15",
-      "hole_label": "Hole 15 (Yellow)",
+      "hole_number": "13",
+      "hole_label": "Hole 13 [blue]",
       "wind_info": {
-        "azimuth_degrees": 173.2,
-        "relative_degrees": 208.8,
-        "clock_face": "7 o-clock",
-        "description": "Wind from 7 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 15 (yellow, 412ft par 4), the 7 o'clock wind suggests a stable driver thrown on a RHBH with a slight hyzer to manage the flight and fade towards the basket, while staying clear of the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "On Hole 15 (yellow, 412ft par 4), an overstable fairway driver on a RHFH will provide the stability needed to counter the 7 o'clock wind and stay on line, avoiding the water OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, Hole 15 (yellow, 412ft par 4) has wind from 7 o'clock; an understable driver on a LHBH should carry well and finish towards the target, while minding the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 7 o'clock wind on Hole 15 (yellow, 412ft par 4) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control and avoiding the water OB."
-        }
-      }
-    },
-    {
-      "hole_number": "16",
-      "hole_label": "Hole 16",
-      "wind_info": {
-        "azimuth_degrees": 141.1,
-        "relative_degrees": 240.9,
-        "clock_face": "8 o-clock",
-        "description": "Wind from 8 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "On Hole 16 (blue, 1054ft par 5), the 8 o'clock wind suggests a stable driver thrown on a RHBH, allowing for a controlled flight with a gentle fade towards the basket, while avoiding the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 16 (blue, 1054ft par 5), an overstable fairway driver on a RHFH is a good choice against the 8 o'clock wind, offering a predictable flight path and staying away from the water OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, Hole 16 (blue, 1054ft par 5) has wind from 8 o'clock; an understable driver on a LHBH should carry well and finish towards the target, while minding the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 8 o'clock wind on Hole 16 (blue, 1054ft par 5) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control and avoiding the water OB."
-        }
-      }
-    },
-    {
-      "hole_number": "16",
-      "hole_label": "Hole 16 (White)",
-      "wind_info": {
-        "azimuth_degrees": 142.1,
-        "relative_degrees": 239.9,
-        "clock_face": "8 o-clock",
-        "description": "Wind from 8 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Hole 16 (white, 655ft par 4) faces a 8 o'clock wind; a stable driver on a RHBH will provide a controlled flight and a reliable fade towards the basket, keeping away from the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 16 (white, 655ft par 4), an overstable fairway driver on a RHFH is a good choice against the 8 o'clock wind, offering a predictable finish and avoiding the water OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, with a 8 o'clock wind on Hole 16 (white, 655ft par 4), an understable driver on a LHBH should carry well and finish towards the target, while minding the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 8 o'clock wind on Hole 16 (white, 655ft par 4) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control and avoiding the water OB."
-        }
-      }
-    },
-    {
-      "hole_number": "16",
-      "hole_label": "Hole 16 (Yellow)",
-      "wind_info": {
-        "azimuth_degrees": 141.8,
-        "relative_degrees": 240.2,
-        "clock_face": "8 o-clock",
-        "description": "Wind from 8 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "For Hole 16 (yellow, 361ft par 3), the 8 o'clock wind suggests a stable driver thrown on a RHBH with a slight hyzer to manage the flight and fade towards the basket, while staying clear of the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "On Hole 16 (yellow, 361ft par 3), an overstable fairway driver on a RHFH will provide the stability needed to counter the 8 o'clock wind and stay on line, avoiding the water OB."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Player, Hole 16 (yellow, 361ft par 3) has wind from 8 o'clock; an understable driver on a LHBH should carry well and finish towards the target, while minding the water OB."
-        },
-        "fh": {
-          "disc_recommendation": "Stable Fairway Driver",
-          "shot_strategy": "Champ, the 8 o'clock wind on Hole 16 (yellow, 361ft par 3) is best handled with a stable fairway driver on a LHFH, ensuring accuracy and control and avoiding the water OB."
-        }
-      }
-    },
-    {
-      "hole_number": "17",
-      "hole_label": "Hole 17",
-      "wind_info": {
-        "azimuth_degrees": 97.7,
-        "relative_degrees": 284.3,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Crosswind from 9 o'clock (right)"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 17 (blue, 460ft par 4), the 9 o'clock crosswind from the right means your RHBH flight plate is exposed; throw an understable driver on a RHFH to ensure a stable flight and prevent it from drifting too far left."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 17 (blue, 460ft par 4), a 9 o'clock crosswind from the right is best countered with an overstable fairway driver on a RHFH, providing the stability to fight the wind and finish straight."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, Hole 17 (blue, 460ft par 4) has wind from 9 o'clock from the right; a stable driver on a LHBH will allow its natural fade to complement the wind, guiding it towards the basket."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Champ, the 9 o'clock crosswind from the right on Hole 17 (blue, 460ft par 4) can be managed with an understable fairway driver on a LHFH, aiming right to let the wind bring it back."
-        }
-      }
-    },
-    {
-      "hole_number": "17",
-      "hole_label": "Hole 17 (White)",
-      "wind_info": {
-        "azimuth_degrees": 98.7,
-        "relative_degrees": 283.3,
-        "clock_face": "9 o-clock crosswind from right",
-        "description": "Crosswind from 9 o'clock (right)"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "Hole 17 (white, 294ft par 3) faces a 9 o'clock crosswind from the right; your RHBH flight plate is exposed, so use an understable driver on a RHFH to ensure a stable flight and prevent it from drifting too far left."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 17 (white, 294ft par 3), a 9 o'clock crosswind from the right is best countered with an overstable fairway driver on a RHFH, providing the stability to fight the wind and finish straight."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, Hole 17 (white, 294ft par 3) has wind from 9 o'clock from the right; a stable driver on a LHBH will allow its natural fade to complement the wind, guiding it towards the basket."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Champ, the 9 o'clock crosswind from the right on Hole 17 (white, 294ft par 3) can be managed with an understable fairway driver on a LHFH, aiming right to let the wind bring it back."
-        }
-      }
-    },
-    {
-      "hole_number": "17",
-      "hole_label": "Hole 17 (Yellow)",
-      "wind_info": {
-        "azimuth_degrees": 85.5,
-        "relative_degrees": 296.5,
-        "clock_face": "10 o-clock",
-        "description": "Wind from 10 o'clock"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Understable Driver",
-          "shot_strategy": "On Hole 17 (yellow, 252ft par 3), the 10 o'clock wind from the right means your RHBH flight plate is exposed; throw an understable driver on a RHFH to ensure a stable flight and prevent it from drifting too far left."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable Fairway Driver",
-          "shot_strategy": "For Hole 17 (yellow, 252ft par 3), a 10 o'clock wind from the right is best countered with an overstable fairway driver on a RHFH, providing the stability to fight the wind and finish straight."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Stable Driver",
-          "shot_strategy": "Player, Hole 17 (yellow, 252ft par 3) has wind from 10 o'clock from the right; a stable driver on a LHBH will allow its natural fade to complement the wind, guiding it towards the basket."
-        },
-        "fh": {
-          "disc_recommendation": "Understable Fairway Driver",
-          "shot_strategy": "Champ, the 10 o'clock wind from the right on Hole 17 (yellow, 252ft par 3) can be managed with an understable fairway driver on a LHFH, aiming right to let the wind bring it back."
-        }
-      }
-    },
-    {
-      "hole_number": "18",
-      "hole_label": "Hole 18",
-      "wind_info": {
-        "azimuth_degrees": 10.0,
+        "azimuth_degrees": 332.0,
         "relative_degrees": 12.0,
         "clock_face": "12 o-clock headwind",
-        "description": "Headwind from 12 o'clock"
+        "description": "Moderate headwind from NNW"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 18 (blue, 508ft par 4), the 12 o'clock headwind requires an overstable driver thrown on a RHBH to fight the wind and achieve a controlled flight, staying away from the roadway OB on the left."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 13 Blue faces a moderate 12 o'clock headwind. Throw an overstable fairway driver on a backhand with a hyzer to fight the wind and achieve a straight flight to the blue basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 18 (blue, 508ft par 4), the 12 o'clock headwind is best met with an overstable driver on a RHFH, providing the necessary stability to penetrate the wind and finish straight, while respecting the roadway OB."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, on Hole 13 Blue, an overstable approach disc on a forehand will handle the 12 o'clock headwind. Focus on a flat, powerful release towards the blue basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, Hole 18 (blue, 508ft par 4) has a significant 12 o'clock headwind; use an overstable driver on a LHBH, aiming slightly right to allow for the wind to push it towards the basket and away from the roadway OB."
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For Hole 13 Blue, Player, the 12 o'clock headwind from the NNW requires an overstable fairway driver on a left-hand backhand. Throw with a slight hyzer to keep the disc straight towards the blue basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, against the 12 o'clock headwind on Hole 18 (blue, 508ft par 4), an overstable driver on a LHFH will give you the best chance to fight the wind and land on the green, while staying left of the roadway OB."
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "On Hole 13 Blue, Champ, a left-hand forehand with an overstable approach disc is recommended to combat the 12 o'clock headwind. Keep the shot straight and controlled towards the blue basket."
         }
       }
     },
     {
-      "hole_number": "18",
-      "hole_label": "Hole 18 (White)",
+      "hole_number": "14",
+      "hole_label": "Hole 14 [yellow]",
       "wind_info": {
-        "azimuth_degrees": 7.0,
-        "relative_degrees": 15.0,
-        "clock_face": "1 o-clock",
-        "description": "Wind from 1 o'clock"
+        "azimuth_degrees": 336.2,
+        "relative_degrees": 7.8,
+        "clock_face": "12 o-clock headwind",
+        "description": "Slight headwind from NNW"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Hole 18 (white, 431ft par 4) faces a 1 o'clock headwind; an overstable driver on a RHBH will fight this wind and provide a controlled fade, keeping the disc away from the roadway OB on the left."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Player, Hole 14 Yellow has a slight 12 o'clock headwind. Use a stable fairway driver on a backhand for a straight flight towards the yellow basket. Be aware of the creek area OB."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 18 (white, 431ft par 4), the 1 o'clock headwind is best tackled with an overstable driver on a RHFH, ensuring a stable flight that penetrates the wind and avoids the roadway OB."
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "Champ, on Hole 14 Yellow, a stable putter on a forehand will manage the slight 12 o'clock headwind. Aim for a controlled, flat shot towards the yellow basket, avoiding the creek OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, with a 1 o'clock headwind on Hole 18 (white, 431ft par 4), an overstable driver on a LHBH should be thrown aiming slightly right to account for the wind pushing it left, while staying right of the roadway OB."
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 14 Yellow, Player, the slight 12 o'clock headwind from the NNW calls for a stable fairway driver on a left-hand backhand. Keep the disc straight towards the yellow basket, minding the creek OB."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, the 1 o'clock headwind on Hole 18 (white, 431ft par 4) demands an overstable driver on a LHFH to fight the wind and maintain accuracy, keeping to the left of the roadway OB."
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "On Hole 14 Yellow, Champ, a left-hand forehand with a stable putter is recommended to combat the slight 12 o'clock headwind. Keep the shot straight and controlled towards the yellow basket, staying clear of the creek OB."
+        }
+      }
+    },
+    {
+      "hole_number": "14",
+      "hole_label": "Hole 14 [white]",
+      "wind_info": {
+        "azimuth_degrees": 330.0,
+        "relative_degrees": 14.0,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind from NNW"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 14 White faces a moderate 12 o'clock headwind. Throw an overstable fairway driver on a backhand with a hyzer to fight the wind and achieve a straight flight to the white basket. Be aware of the creek area OB."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, for Hole 14 White, an overstable approach disc on a forehand will handle the 12 o'clock headwind. Focus on a flat, powerful release towards the white basket, avoiding the creek OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "On Hole 14 White, Player, the moderate 12 o'clock headwind from the NNW requires an overstable fairway driver on a left-hand backhand. Throw with a slight hyzer to keep the disc straight towards the white basket, minding the creek OB."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "For Hole 14 White, Champ, a left-hand forehand with an overstable approach disc is effective against the 12 o'clock headwind. Keep the shot straight and controlled towards the white basket, staying clear of the creek OB."
+        }
+      }
+    },
+    {
+      "hole_number": "14",
+      "hole_label": "Hole 14 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 330.0,
+        "relative_degrees": 14.0,
+        "clock_face": "12 o-clock headwind",
+        "description": "Moderate headwind from NNW"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "Player, Hole 14 Blue faces a moderate 12 o'clock headwind. Throw an overstable fairway driver on a backhand with a hyzer to fight the wind and achieve a straight flight to the blue basket. Be aware of the creek area OB."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "Champ, on Hole 14 Blue, an overstable approach disc on a forehand will handle the 12 o'clock headwind. Focus on a flat, powerful release towards the blue basket, avoiding the creek OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable Fairway Driver",
+          "shot_strategy": "For Hole 14 Blue, Player, the moderate 12 o'clock headwind from the NNW requires an overstable fairway driver on a left-hand backhand. Throw with a slight hyzer to keep the disc straight towards the blue basket, minding the creek OB."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Approach Disc",
+          "shot_strategy": "On Hole 14 Blue, Champ, a left-hand forehand with an overstable approach disc is recommended to combat the 12 o'clock headwind. Keep the shot straight and controlled towards the blue basket, staying clear of the creek OB."
+        }
+      }
+    },
+    {
+      "hole_number": "15",
+      "hole_label": "Hole 15 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 173.2,
+        "relative_degrees": 170.8,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Strong tailwind from SSE"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, Hole 15 Yellow has a strong 6 o'clock tailwind. Use an understable distance driver on a backhand for maximum distance towards the yellow basket. Be mindful of the water OB."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Champ, on Hole 15 Yellow, the strong 6 o'clock tailwind is perfect for an understable fairway driver thrown forehand. Aim for a smooth, controlled flight to reach the yellow basket, avoiding the water OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "For Hole 15 Yellow, Player, the strong 6 o'clock tailwind from the SSE is ideal for an understable distance driver on a left-hand backhand. Aim for a straight flight to maximize distance towards the yellow basket, respecting the water OB."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "On Hole 15 Yellow, Champ, a left-hand forehand with an understable fairway driver will carry exceptionally well with the 6 o'clock tailwind. Execute a smooth release for maximum distance to the yellow basket, avoiding the water OB."
+        }
+      }
+    },
+    {
+      "hole_number": "15",
+      "hole_label": "Hole 15 [white]",
+      "wind_info": {
+        "azimuth_degrees": 168.5,
+        "relative_degrees": 175.5,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Strong tailwind from SSE"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, Hole 15 White faces a strong 6 o'clock tailwind. Utilize an understable distance driver on a backhand for maximum carry towards the white basket. A clean release is crucial to harness the wind's power. Be mindful of the water OB."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Champ, for Hole 15 White, the strong 6 o'clock tailwind is perfect for an understable fairway driver thrown forehand. Focus on a controlled flight to reach the white basket, avoiding the water OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "On Hole 15 White, Player, the strong 6 o'clock tailwind from the SSE requires an understable distance driver on a left-hand backhand. Aim for a straight flight to maximize distance towards the white basket, respecting the water OB."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "For Hole 15 White, Champ, a left-hand forehand with an understable fairway driver will carry exceptionally well with the 6 o'clock tailwind. Execute a smooth release for maximum distance to the white basket, avoiding the water OB."
+        }
+      }
+    },
+    {
+      "hole_number": "15",
+      "hole_label": "Hole 15 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 163.1,
+        "relative_degrees": 180.9,
+        "clock_face": "6 o-clock tailwind",
+        "description": "Strong tailwind from SSE"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, Hole 15 Blue has a strong 6 o'clock tailwind. Use an understable distance driver on a backhand for maximum distance towards the blue basket. Be mindful of the water OB."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Champ, on Hole 15 Blue, the strong 6 o'clock tailwind is perfect for an understable fairway driver thrown forehand. Aim for a smooth, controlled flight to reach the blue basket, avoiding the water OB."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "For Hole 15 Blue, Player, the strong 6 o'clock tailwind from the SSE is ideal for an understable distance driver on a left-hand backhand. Aim for a straight flight to maximize distance towards the blue basket, respecting the water OB."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "On Hole 15 Blue, Champ, a left-hand forehand with an understable fairway driver will carry exceptionally well with the 6 o'clock tailwind. Execute a smooth release for maximum distance to the blue basket, avoiding the water OB."
+        }
+      }
+    },
+    {
+      "hole_number": "16",
+      "hole_label": "Hole 16 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 141.8,
+        "relative_degrees": 202.2,
+        "clock_face": "7 o-clock",
+        "description": "Tailwind from SE"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Player, Hole 16 Yellow has a 7 o'clock wind. Utilize an understable fairway driver on a backhand for a smooth flight towards the yellow basket. Be aware of the water OB to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Putter",
+          "shot_strategy": "Champ, on Hole 16 Yellow, an understable putter on a forehand will provide a controlled flight with the 7 o'clock wind. Aim for a straight shot to the yellow basket, avoiding the water OB to the left."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "For Hole 16 Yellow, Player, the 7 o'clock wind from the SE is suitable for an understable fairway driver on a left-hand backhand. Keep the disc straight towards the yellow basket, minding the water OB to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Putter",
+          "shot_strategy": "On Hole 16 Yellow, Champ, a left-hand forehand with an understable putter will offer a controlled flight with the 7 o'clock wind. Keep the shot straight and controlled towards the yellow basket, staying clear of the water OB to the left."
+        }
+      }
+    },
+    {
+      "hole_number": "16",
+      "hole_label": "Hole 16 [white]",
+      "wind_info": {
+        "azimuth_degrees": 142.1,
+        "relative_degrees": 201.9,
+        "clock_face": "7 o-clock",
+        "description": "Tailwind from SE"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Player, Hole 16 White has a 7 o'clock wind. Use an understable fairway driver on a backhand for a smooth flight towards the white basket. Be aware of the water OB to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Putter",
+          "shot_strategy": "Champ, on Hole 16 White, an understable putter on a forehand will provide a controlled flight with the 7 o'clock wind. Aim for a straight shot to the white basket, avoiding the water OB to the left."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "For Hole 16 White, Player, the 7 o'clock wind from the SE is suitable for an understable fairway driver on a left-hand backhand. Keep the disc straight towards the white basket, minding the water OB to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Putter",
+          "shot_strategy": "On Hole 16 White, Champ, a left-hand forehand with an understable putter will offer a controlled flight with the 7 o'clock wind. Keep the shot straight and controlled towards the white basket, staying clear of the water OB to the left."
+        }
+      }
+    },
+    {
+      "hole_number": "16",
+      "hole_label": "Hole 16 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 141.1,
+        "relative_degrees": 202.9,
+        "clock_face": "7 o-clock",
+        "description": "Tailwind from SE"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "Player, Hole 16 Blue has a 7 o'clock wind. Use an understable distance driver on a backhand for a smooth flight towards the blue basket. Be aware of the water OB to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Champ, on Hole 16 Blue, an understable fairway driver on a forehand will provide a controlled flight with the 7 o'clock wind. Aim for a straight shot to the blue basket, avoiding the water OB to the left."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Distance Driver",
+          "shot_strategy": "For Hole 16 Blue, Player, the 7 o'clock wind from the SE is suitable for an understable distance driver on a left-hand backhand. Keep the disc straight towards the blue basket, minding the water OB to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "On Hole 16 Blue, Champ, a left-hand forehand with an understable fairway driver will offer a controlled flight with the 7 o'clock wind. Keep the shot straight and controlled towards the blue basket, staying clear of the water OB to the left."
+        }
+      }
+    },
+    {
+      "hole_number": "17",
+      "hole_label": "Hole 17 [yellow]",
+      "wind_info": {
+        "azimuth_degrees": 85.5,
+        "relative_degrees": 258.5,
+        "clock_face": "9 o-clock crosswind from left",
+        "description": "Strong crosswind from the left"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Player, Hole 17 Yellow has a strong 9 o'clock crosswind from the left. Throw an understable fairway driver on an anhyzer with your backhand to counter the wind's push and guide it towards the yellow basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "Champ, on Hole 17 Yellow, an overstable putter on a forehand is your best bet against the strong 9 o'clock crosswind from the left. Focus on a flat, controlled throw towards the yellow basket."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "For Hole 17 Yellow, Player, the strong 9 o'clock crosswind from the left requires an understable fairway driver on a left-hand backhand. Aim for a smooth anhyzer to fight the wind and guide the disc towards the yellow basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "On Hole 17 Yellow, Champ, a left-hand forehand with an overstable putter will be stable against the strong 9 o'clock crosswind from the left. Keep the shot straight and controlled towards the yellow basket."
+        }
+      }
+    },
+    {
+      "hole_number": "17",
+      "hole_label": "Hole 17 [white]",
+      "wind_info": {
+        "azimuth_degrees": 98.7,
+        "relative_degrees": 245.3,
+        "clock_face": "8 o-clock",
+        "description": "Strong crosswind from the left"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Player, Hole 17 White faces a strong 8 o'clock crosswind from the left. Utilize an understable fairway driver on an anhyzer with your backhand to counter the wind's push and guide it towards the white basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "Champ, for Hole 17 White, an overstable putter on a forehand is recommended to combat the strong 8 o'clock crosswind from the left. Aim for a flat, controlled throw towards the white basket."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "On Hole 17 White, Player, the strong 8 o'clock crosswind from the left necessitates an understable fairway driver on a left-hand backhand. Throw with an anhyzer to fight the wind and guide the disc towards the white basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "For Hole 17 White, Champ, a left-hand forehand with an overstable putter will be stable against the strong 8 o'clock crosswind from the left. Keep the shot straight and controlled towards the white basket."
+        }
+      }
+    },
+    {
+      "hole_number": "17",
+      "hole_label": "Hole 17 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 97.7,
+        "relative_degrees": 246.3,
+        "clock_face": "8 o-clock",
+        "description": "Strong crosswind from the left"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "Player, Hole 17 Blue has a strong 8 o'clock crosswind from the left. Throw an understable fairway driver on an anhyzer with your backhand to counter the wind's push and guide it towards the blue basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "Champ, on Hole 17 Blue, an overstable putter on a forehand is your best bet against the strong 8 o'clock crosswind from the left. Focus on a flat, controlled throw towards the blue basket."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Understable Fairway Driver",
+          "shot_strategy": "For Hole 17 Blue, Player, the strong 8 o'clock crosswind from the left requires an understable fairway driver on a left-hand backhand. Throw with an anhyzer to fight the wind and guide the disc towards the blue basket."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable Putter",
+          "shot_strategy": "On Hole 17 Blue, Champ, a left-hand forehand with an overstable putter will be stable against the strong 8 o'clock crosswind from the left. Keep the shot straight and controlled towards the blue basket."
         }
       }
     },
     {
       "hole_number": "18",
-      "hole_label": "Hole 18 (Yellow)",
+      "hole_label": "Hole 18 [yellow]",
       "wind_info": {
         "azimuth_degrees": 11.5,
-        "relative_degrees": 10.5,
-        "clock_face": "12 o-clock headwind",
-        "description": "Headwind from 12 o'clock"
+        "relative_degrees": 332.5,
+        "clock_face": "11 o-clock",
+        "description": "Slight headwind from NNW"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "On Hole 18 (yellow, 300ft par 3), the 12 o'clock headwind requires an overstable driver on a RHBH to fight the wind and achieve a controlled flight, staying away from the roadway OB on the left."
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "Player, Hole 18 Yellow has a slight 11 o'clock headwind. Use a stable putter on a backhand for a straight flight to the yellow basket. Be aware of the roadway OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "For Hole 18 (yellow, 300ft par 3), the 12 o'clock headwind is best met with an overstable driver on a RHFH, providing the necessary stability to penetrate the wind and finish straight, while respecting the roadway OB."
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "Champ, on Hole 18 Yellow, a stable putter on a forehand will manage the slight 11 o'clock headwind. Aim for a controlled, flat shot to the yellow basket, avoiding the OB to the left."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Player, Hole 18 (yellow, 300ft par 3) has a significant 12 o'clock headwind; use an overstable driver on a LHBH, aiming slightly right to allow for the wind to push it towards the basket and away from the roadway OB."
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "For Hole 18 Yellow, Player, the slight 11 o'clock headwind from the NNW calls for a stable putter on a left-hand backhand. Keep the disc straight towards the yellow basket, minding the OB to the left."
         },
         "fh": {
-          "disc_recommendation": "Overstable Driver",
-          "shot_strategy": "Champ, against the 12 o'clock headwind on Hole 18 (yellow, 300ft par 3), an overstable driver on a LHFH will give you the best chance to fight the wind and land on the green, while staying left of the roadway OB."
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "On Hole 18 Yellow, Champ, a left-hand forehand with a stable putter is recommended to combat the slight 11 o'clock headwind. Keep the shot straight and controlled towards the yellow basket, staying clear of the OB to the left."
+        }
+      }
+    },
+    {
+      "hole_number": "18",
+      "hole_label": "Hole 18 [white]",
+      "wind_info": {
+        "azimuth_degrees": 7.0,
+        "relative_degrees": 337.0,
+        "clock_face": "11 o-clock",
+        "description": "Slight headwind from NNW"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Player, Hole 18 White has a slight 11 o'clock headwind. Utilize a stable fairway driver on a backhand for a straight flight to the white basket. Be aware of the roadway OB to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "Champ, for Hole 18 White, a stable putter on a forehand will manage the slight 11 o'clock headwind. Aim for a controlled, flat shot to the white basket, avoiding the OB to the left."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "On Hole 18 White, Player, the slight 11 o'clock headwind from the NNW requires a stable fairway driver on a left-hand backhand. Keep the disc straight towards the white basket, minding the OB to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "For Hole 18 White, Champ, a left-hand forehand with a stable putter is effective against the slight 11 o'clock headwind. Keep the shot straight and controlled towards the white basket, staying clear of the OB to the left."
+        }
+      }
+    },
+    {
+      "hole_number": "18",
+      "hole_label": "Hole 18 [blue]",
+      "wind_info": {
+        "azimuth_degrees": 10.0,
+        "relative_degrees": 334.0,
+        "clock_face": "11 o-clock",
+        "description": "Slight headwind from NNW"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "Player, Hole 18 Blue faces a slight 11 o'clock headwind. Throw a stable fairway driver on a backhand with a touch of hyzer to achieve a straight flight to the blue basket. Be aware of the roadway OB to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "Champ, on Hole 18 Blue, a stable putter on a forehand will handle the slight 11 o'clock headwind. Focus on a flat, controlled throw towards the blue basket, avoiding the OB to the left."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable Fairway Driver",
+          "shot_strategy": "For Hole 18 Blue, Player, the slight 11 o'clock headwind from the NNW requires a stable fairway driver on a left-hand backhand. Throw with a slight hyzer to keep the disc straight towards the blue basket, minding the OB to the left."
+        },
+        "fh": {
+          "disc_recommendation": "Stable Putter",
+          "shot_strategy": "On Hole 18 Blue, Champ, a left-hand forehand with a stable putter is recommended to combat the slight 11 o'clock headwind. Keep the shot straight and controlled towards the blue basket, staying clear of the OB to the left."
         }
       }
     }
