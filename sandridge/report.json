@@ -1,37 +1,37 @@
 {
   "course": "Sand Ridge Disc Golf Course",
-  "report_generated_at": "2026-03-28 15:17 EDT",
+  "report_generated_at": "2026-03-28 16:31 EDT",
   "current_wind": {
-    "speed_mph": 7.3,
-    "direction_degrees": 258,
-    "gusts_mph": 9.2,
-    "description": "7.3 mph from 258\u00b0 gusts to 9.2 mph"
+    "speed_mph": 5.4,
+    "direction_degrees": 272,
+    "gusts_mph": 10.1,
+    "description": "5.4 mph from 272\u00b0 gusts to 10.1 mph"
   },
   "forecast_5hr": [
     {
-      "time_edt": "2026-03-28 14:00 EDT",
-      "speed_mph": 7.3,
-      "direction_degrees": 258
-    },
-    {
       "time_edt": "2026-03-28 15:00 EDT",
-      "speed_mph": 5.8,
-      "direction_degrees": 254
+      "speed_mph": 5.4,
+      "direction_degrees": 272
     },
     {
       "time_edt": "2026-03-28 16:00 EDT",
-      "speed_mph": 6.0,
-      "direction_degrees": 243
+      "speed_mph": 5.8,
+      "direction_degrees": 247
     },
     {
       "time_edt": "2026-03-28 17:00 EDT",
-      "speed_mph": 9.9,
-      "direction_degrees": 205
+      "speed_mph": 6.3,
+      "direction_degrees": 212
     },
     {
       "time_edt": "2026-03-28 18:00 EDT",
-      "speed_mph": 11.9,
-      "direction_degrees": 196
+      "speed_mph": 10.6,
+      "direction_degrees": 202
+    },
+    {
+      "time_edt": "2026-03-28 19:00 EDT",
+      "speed_mph": 6.3,
+      "direction_degrees": 188
     }
   ],
   "holes": [
@@ -40,28 +40,28 @@
       "hole_label": "Hole 1",
       "wind_info": {
         "azimuth_degrees": 84.3,
-        "relative_degrees": 173.7,
+        "relative_degrees": 187.7,
         "clock_face": "6 o-clock tailwind",
         "description": "6 o-clock tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "understable",
-          "shot_strategy": "With a 6 o-clock tailwind on this 392ft par 3, your RHBH throw should use a understable disc \u2014 the wind conditions favor a controlled hyzer release to maximize accuracy while utilizing the tailwind for extra distance. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "distance understable",
+          "shot_strategy": "With 6 o-clock tailwind on Hole 1, throw an understable disc for extra distance on this 392ft par 3 Watch for OB: Roadway to the right and past the basket."
         },
         "fh": {
-          "disc_recommendation": "understable",
-          "shot_strategy": "For this 392ft par 3 facing 6 o-clock tailwind, a RHFH approach with a understable disc provides excellent stability \u2014 use a flat to slight anhyzer release to shape the shot around any fairway obstacles while maintaining forward momentum. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "distance understable",
+          "shot_strategy": "For Hole 1 with 6 o-clock tailwind, your RHFH is a good option \u2014 use a distance understable disc to handle this 392ft shot Watch for OB: Roadway to the right and past the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "understable",
-          "shot_strategy": "With 6 o-clock tailwind on this 392ft par 3, your LHBH throw benefits from the tailwind \u2014 select a understable disc and execute a smooth hyzer release, allowing the wind to carry the disc while maintaining control over the flight path. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "distance understable",
+          "shot_strategy": "With 6 o-clock tailwind on Hole 1, your LHBH needs careful execution \u2014 use a distance understable disc for this 392ft par 3 Watch for OB: Roadway to the right and past the basket."
         },
         "fh": {
-          "disc_recommendation": "understable",
-          "shot_strategy": "For this 392ft par 3 with 6 o-clock tailwind, a LHFH shot using a understable disc works well \u2014 the tailwind assists distance, so focus on a controlled release with moderate anhyzer to shape the shot accurately toward the basket. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "distance understable",
+          "shot_strategy": "For Hole 1 with 6 o-clock tailwind, your LHFH can work well \u2014 use a distance understable disc to manage this 392ft shot Watch for OB: Roadway to the right and past the basket."
         }
       }
     },
@@ -70,28 +70,28 @@
       "hole_label": "Hole 2",
       "wind_info": {
         "azimuth_degrees": 40.8,
-        "relative_degrees": 217.2,
-        "clock_face": "7 o-clock",
-        "description": "7 o-clock"
+        "relative_degrees": 231.2,
+        "clock_face": "8 o-clock",
+        "description": "8 o-clock"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "With a 7 o-clock on this 211ft par 3, your RHBH throw should use a stable disc \u2014 the wind conditions favor a controlled hyzer release to maximize accuracy while utilizing the tailwind for extra distance. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "With 8 o-clock conditions on Hole 2, throw a stable disc on this 211ft par 3 Watch for OB: Beyond Staked property line.."
         },
         "fh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "For this 211ft par 3 facing 7 o-clock, a RHFH approach with a stable disc provides excellent stability \u2014 use a flat to slight anhyzer release to shape the shot around any fairway obstacles while maintaining forward momentum. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "For Hole 2 with 8 o-clock, your RHFH is a good option \u2014 use a midrange stable disc to handle this 211ft shot Watch for OB: Beyond Staked property line.."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "With 7 o-clock on this 211ft par 3, your LHBH throw benefits from the tailwind \u2014 select a stable disc and execute a smooth hyzer release, allowing the wind to carry the disc while maintaining control over the flight path. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "With 8 o-clock on Hole 2, your LHBH needs careful execution \u2014 use a midrange stable disc for this 211ft par 3 Watch for OB: Beyond Staked property line.."
         },
         "fh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "For this 211ft par 3 with 7 o-clock, a LHFH shot using a stable disc works well \u2014 the tailwind assists distance, so focus on a controlled release with moderate anhyzer to shape the shot accurately toward the basket. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "For Hole 2 with 8 o-clock, your LHFH can work well \u2014 use a midrange stable disc to manage this 211ft shot Watch for OB: Beyond Staked property line.."
         }
       }
     },
@@ -100,28 +100,28 @@
       "hole_label": "Hole 3",
       "wind_info": {
         "azimuth_degrees": 20.0,
-        "relative_degrees": 238.0,
+        "relative_degrees": 252.0,
         "clock_face": "8 o-clock",
         "description": "8 o-clock"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "With a 8 o-clock on this 221ft par 3, your RHBH throw should use a stable disc \u2014 the wind conditions favor a controlled hyzer release to maximize accuracy while utilizing the tailwind for extra distance."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "With 8 o-clock conditions on Hole 3, throw a stable disc on this 221ft par 3."
         },
         "fh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "For this 221ft par 3 facing 8 o-clock, a RHFH approach with a stable disc provides excellent stability \u2014 use a flat to slight anhyzer release to shape the shot around any fairway obstacles while maintaining forward momentum."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "For Hole 3 with 8 o-clock, your RHFH is a good option \u2014 use a midrange stable disc to handle this 221ft shot."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "With 8 o-clock on this 221ft par 3, your LHBH throw benefits from the tailwind \u2014 select a stable disc and execute a smooth hyzer release, allowing the wind to carry the disc while maintaining control over the flight path."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "With 8 o-clock on Hole 3, your LHBH needs careful execution \u2014 use a midrange stable disc for this 221ft par 3."
         },
         "fh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "For this 221ft par 3 with 8 o-clock, a LHFH shot using a stable disc works well \u2014 the tailwind assists distance, so focus on a controlled release with moderate anhyzer to shape the shot accurately toward the basket."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "For Hole 3 with 8 o-clock, your LHFH can work well \u2014 use a midrange stable disc to manage this 221ft shot."
         }
       }
     },
@@ -130,28 +130,28 @@
       "hole_label": "Hole 4",
       "wind_info": {
         "azimuth_degrees": 7.2,
-        "relative_degrees": 250.8,
-        "clock_face": "8 o-clock",
-        "description": "8 o-clock"
+        "relative_degrees": 264.8,
+        "clock_face": "9 o-clock crosswind from left",
+        "description": "9 o-clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "With a 8 o-clock on this 229ft par 3, your RHBH throw should use a stable disc \u2014 the wind conditions favor a controlled hyzer release to maximize accuracy while utilizing the tailwind for extra distance."
+          "disc_recommendation": "midrange stable to overstable",
+          "shot_strategy": "With 9 o-clock crosswind from left on Hole 4, use a stable disc to handle the crosswind on this 229ft par 3."
         },
         "fh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "For this 229ft par 3 facing 8 o-clock, a RHFH approach with a stable disc provides excellent stability \u2014 use a flat to slight anhyzer release to shape the shot around any fairway obstacles while maintaining forward momentum."
+          "disc_recommendation": "midrange stable to overstable",
+          "shot_strategy": "For Hole 4 with 9 o-clock crosswind from left, your RHFH is a good option \u2014 use a midrange stable to overstable disc to handle this 229ft shot."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "With 8 o-clock on this 229ft par 3, your LHBH throw benefits from the tailwind \u2014 select a stable disc and execute a smooth hyzer release, allowing the wind to carry the disc while maintaining control over the flight path."
+          "disc_recommendation": "midrange stable to overstable",
+          "shot_strategy": "With 9 o-clock crosswind from left on Hole 4, your LHBH needs careful execution \u2014 use a midrange stable to overstable disc for this 229ft par 3."
         },
         "fh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "For this 229ft par 3 with 8 o-clock, a LHFH shot using a stable disc works well \u2014 the tailwind assists distance, so focus on a controlled release with moderate anhyzer to shape the shot accurately toward the basket."
+          "disc_recommendation": "midrange stable to overstable",
+          "shot_strategy": "For Hole 4 with 9 o-clock crosswind from left, your LHFH can work well \u2014 use a midrange stable to overstable disc to manage this 229ft shot."
         }
       }
     },
@@ -160,28 +160,28 @@
       "hole_label": "Hole 5",
       "wind_info": {
         "azimuth_degrees": 168.7,
-        "relative_degrees": 89.3,
+        "relative_degrees": 103.3,
         "clock_face": "3 o-clock crosswind from right",
         "description": "3 o-clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "overstable",
-          "shot_strategy": "With a 3 o-clock crosswind from right on this 179ft par 3, your RHBH throw should use a overstable disc \u2014 the wind conditions favor a controlled hyzer release to maximize accuracy while utilizing the tailwind for extra distance."
+          "disc_recommendation": "midrange stable to overstable",
+          "shot_strategy": "With 3 o-clock crosswind from right on Hole 5, use a stable disc to handle the crosswind on this 179ft par 3 Hazard: Any lie not inside the island is given a One stroke penalty."
         },
         "fh": {
-          "disc_recommendation": "overstable",
-          "shot_strategy": "For this 179ft par 3 facing 3 o-clock crosswind from right, a RHFH approach with a overstable disc provides excellent stability \u2014 use a flat to slight anhyzer release to shape the shot around any fairway obstacles while maintaining forward momentum."
+          "disc_recommendation": "midrange stable to overstable",
+          "shot_strategy": "For Hole 5 with 3 o-clock crosswind from right, your RHFH is a good option \u2014 use a midrange stable to overstable disc to handle this 179ft shot Hazard: Any lie not inside the island is given a One stroke penalty."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "overstable",
-          "shot_strategy": "With 3 o-clock crosswind from right on this 179ft par 3, your LHBH throw benefits from the tailwind \u2014 select a overstable disc and execute a smooth hyzer release, allowing the wind to carry the disc while maintaining control over the flight path."
+          "disc_recommendation": "midrange stable to overstable",
+          "shot_strategy": "With 3 o-clock crosswind from right on Hole 5, your LHBH needs careful execution \u2014 use a midrange stable to overstable disc for this 179ft par 3 Hazard: Any lie not inside the island is given a One stroke penalty."
         },
         "fh": {
-          "disc_recommendation": "overstable",
-          "shot_strategy": "For this 179ft par 3 with 3 o-clock crosswind from right, a LHFH shot using a overstable disc works well \u2014 the tailwind assists distance, so focus on a controlled release with moderate anhyzer to shape the shot accurately toward the basket."
+          "disc_recommendation": "midrange stable to overstable",
+          "shot_strategy": "For Hole 5 with 3 o-clock crosswind from right, your LHFH can work well \u2014 use a midrange stable to overstable disc to manage this 179ft shot Hazard: Any lie not inside the island is given a One stroke penalty."
         }
       }
     },
@@ -190,28 +190,28 @@
       "hole_label": "Hole 6",
       "wind_info": {
         "azimuth_degrees": 72.4,
-        "relative_degrees": 185.6,
-        "clock_face": "6 o-clock tailwind",
-        "description": "6 o-clock tailwind"
+        "relative_degrees": 199.6,
+        "clock_face": "7 o-clock",
+        "description": "7 o-clock"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "understable",
-          "shot_strategy": "With a 6 o-clock tailwind on this 202ft par 3, your RHBH throw should use a understable disc \u2014 the wind conditions favor a controlled hyzer release to maximize accuracy while utilizing the tailwind for extra distance. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "With 7 o-clock conditions on Hole 6, throw a stable disc on this 202ft par 3 Watch for OB: Entire right side of fairway is OB."
         },
         "fh": {
-          "disc_recommendation": "understable",
-          "shot_strategy": "For this 202ft par 3 facing 6 o-clock tailwind, a RHFH approach with a understable disc provides excellent stability \u2014 use a flat to slight anhyzer release to shape the shot around any fairway obstacles while maintaining forward momentum. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "For Hole 6 with 7 o-clock, your RHFH is a good option \u2014 use a midrange stable disc to handle this 202ft shot Watch for OB: Entire right side of fairway is OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "understable",
-          "shot_strategy": "With 6 o-clock tailwind on this 202ft par 3, your LHBH throw benefits from the tailwind \u2014 select a understable disc and execute a smooth hyzer release, allowing the wind to carry the disc while maintaining control over the flight path. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "With 7 o-clock on Hole 6, your LHBH needs careful execution \u2014 use a midrange stable disc for this 202ft par 3 Watch for OB: Entire right side of fairway is OB."
         },
         "fh": {
-          "disc_recommendation": "understable",
-          "shot_strategy": "For this 202ft par 3 with 6 o-clock tailwind, a LHFH shot using a understable disc works well \u2014 the tailwind assists distance, so focus on a controlled release with moderate anhyzer to shape the shot accurately toward the basket. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "For Hole 6 with 7 o-clock, your LHFH can work well \u2014 use a midrange stable disc to manage this 202ft shot Watch for OB: Entire right side of fairway is OB."
         }
       }
     },
@@ -220,28 +220,28 @@
       "hole_label": "Hole 7",
       "wind_info": {
         "azimuth_degrees": 20.8,
-        "relative_degrees": 237.2,
+        "relative_degrees": 251.2,
         "clock_face": "8 o-clock",
         "description": "8 o-clock"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "With a 8 o-clock on this 232ft par 3, your RHBH throw should use a stable disc \u2014 the wind conditions favor a controlled hyzer release to maximize accuracy while utilizing the tailwind for extra distance. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "With 8 o-clock conditions on Hole 7, throw a stable disc on this 232ft par 3 Watch for OB: Staked property line \u2014 anything north is OB."
         },
         "fh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "For this 232ft par 3 facing 8 o-clock, a RHFH approach with a stable disc provides excellent stability \u2014 use a flat to slight anhyzer release to shape the shot around any fairway obstacles while maintaining forward momentum. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "For Hole 7 with 8 o-clock, your RHFH is a good option \u2014 use a midrange stable disc to handle this 232ft shot Watch for OB: Staked property line \u2014 anything north is OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "With 8 o-clock on this 232ft par 3, your LHBH throw benefits from the tailwind \u2014 select a stable disc and execute a smooth hyzer release, allowing the wind to carry the disc while maintaining control over the flight path. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "With 8 o-clock on Hole 7, your LHBH needs careful execution \u2014 use a midrange stable disc for this 232ft par 3 Watch for OB: Staked property line \u2014 anything north is OB."
         },
         "fh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "For this 232ft par 3 with 8 o-clock, a LHFH shot using a stable disc works well \u2014 the tailwind assists distance, so focus on a controlled release with moderate anhyzer to shape the shot accurately toward the basket. Be aware of the OB area and adjust your line to avoid it."
+          "disc_recommendation": "midrange stable",
+          "shot_strategy": "For Hole 7 with 8 o-clock, your LHFH can work well \u2014 use a midrange stable disc to manage this 232ft shot Watch for OB: Staked property line \u2014 anything north is OB."
         }
       }
     },
@@ -249,29 +249,29 @@
       "hole_number": 8,
       "hole_label": "Hole 8",
       "wind_info": {
-        "azimuth_degrees": 270,
-        "relative_degrees": 123,
-        "clock_face": "9 o'clock crosswind from right",
-        "description": "9 o'clock crosswind from right"
+        "azimuth_degrees": 235.0,
+        "relative_degrees": 22.0,
+        "clock_face": "1 o-clock",
+        "description": "1 o-clock"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable driver",
-          "shot_strategy": "With a 9 o'clock crosswind from the right, your RHBH flight plate is exposed \u2014 throw a controlled RHFH with an overstable disc to fight the leftward push and maintain accuracy on this 320ft par 3."
+          "shot_strategy": "With a 1 o-clock wind, your RHBH is manageable but watch the OB line to the north \u2014 throw a controlled overstable driver with a slight hyzer to fight the wind and stay safely away from the northern property line OB."
         },
         "fh": {
           "disc_recommendation": "Overstable fairway driver",
-          "shot_strategy": "The 9 o'clock crosswind from the right favors RHFH \u2014 use an overstable fairway driver with a slight hyzer to counteract the wind pushing left and land safely on the green."
+          "shot_strategy": "For this 1 o-clock wind, RHFH is comfortable \u2014 use an overstable fairway driver on a flat release to maintain accuracy on the 187ft par 3 while avoiding the OB property line extending eastward from hole 7."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable midrange",
-          "shot_strategy": "For left-handers, the 9 o'clock crosswind from the right works with your LHBH natural fade \u2014 throw a stable midrange with controlled power to ride the wind right-to-left on this 320ft par 3."
+          "disc_recommendation": "Overstable midrange",
+          "shot_strategy": "With a 1 o-clock wind, your LHBH is manageable \u2014 throw an overstable midrange with a slight hyzer to control the wind while staying clear of the northern OB property line on this 187ft hole."
         },
         "fh": {
-          "disc_recommendation": "Overstable driver",
-          "shot_strategy": "LHFH is also viable against this 9 o'clock crosswind from the right \u2014 use an overstable driver with a flat release to maintain a straight line and avoid being pushed too far left."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "For this 1 o-clock wind, LHFH works well \u2014 use an overstable fairway driver on a flat release to maintain accuracy and distance while keeping your disc away from the OB property line to the north."
         }
       }
     },
@@ -279,29 +279,29 @@
       "hole_number": 9,
       "hole_label": "Hole 9",
       "wind_info": {
-        "azimuth_degrees": 285,
-        "relative_degrees": 138,
-        "clock_face": "10 o'clock crosswind from right",
-        "description": "10 o'clock crosswind from right"
+        "azimuth_degrees": 264.5,
+        "relative_degrees": 352.5,
+        "clock_face": "12 o-clock headwind",
+        "description": "12 o-clock headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable fairway driver",
-          "shot_strategy": "The 10 o'clock crosswind from the right exposes your RHBH flight plate \u2014 prefer RHFH with an overstable fairway driver using a controlled hyzer to fight the leftward wind on this 285ft par 3."
+          "disc_recommendation": "Overstable putter",
+          "shot_strategy": "With a 12 o-clock headwind, your RHBH needs extra stability \u2014 throw an overstable putter with a firm, flat release on this short 134ft par 3 to prevent the headwind from lifting and turning your disc."
         },
         "fh": {
-          "disc_recommendation": "Stable driver",
-          "shot_strategy": "RHFH handles this 10 o'clock crosswind from the right well \u2014 throw a stable driver with a flat release to maintain accuracy and avoid being pushed left of the basket on Hole 9."
+          "disc_recommendation": "Overstable approach disc",
+          "shot_strategy": "For this 12 o-clock headwind, RHFH is reliable \u2014 use an overstable approach disc with a flat release to punch through the headwind on the 134ft hole 9, maintaining a straight flight to the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable midrange",
-          "shot_strategy": "For left-handers, the 10 o'clock crosswind from the right complements LHBH fade \u2014 use an understable midrange with smooth power to work with the right-to-left wind on this 285ft par 3."
+          "disc_recommendation": "Overstable putter",
+          "shot_strategy": "With a 12 o-clock headwind, your LHBH needs extra stability \u2014 throw an overstable putter with a firm, flat release to fight the headwind on this 134ft par 3, keeping your disc from being pushed off line."
         },
         "fh": {
-          "disc_recommendation": "Overstable fairway driver",
-          "shot_strategy": "LHFH is a solid choice against this 10 o'clock crosswind from the right \u2014 throw an overstable fairway driver with a slight anhyzer to counteract the wind and land near the basket."
+          "disc_recommendation": "Overstable approach disc",
+          "shot_strategy": "For this 12 o-clock headwind, LHFH is reliable \u2014 use an overstable approach disc with a flat release to maintain accuracy through the headwind on the short 134ft hole 9."
         }
       }
     },
@@ -309,29 +309,29 @@
       "hole_number": 10,
       "hole_label": "Hole 10 [A]",
       "wind_info": {
-        "azimuth_degrees": 300,
-        "relative_degrees": 153,
-        "clock_face": "11 o'clock headwind",
-        "description": "11 o'clock headwind"
+        "azimuth_degrees": 332.4,
+        "relative_degrees": 284.6,
+        "clock_face": "9 o-clock crosswind from left",
+        "description": "9 o-clock crosswind from left"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Very overstable driver",
-          "shot_strategy": "With an 11 o'clock headwind on Hole 10 [A], throw a very overstable RHBH driver with extra height to fight the wind and maintain distance on this 475ft par 4."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With a 9 o-clock crosswind from left, your RHBH flight plate is exposed \u2014 throw an overstable distance driver on a hyzer line to fight the leftward push on this 475ft par 3, remembering to pass to the RIGHT of the mandatory marker and watch for the OB line along the fairway."
         },
         "fh": {
-          "disc_recommendation": "Overstable distance driver",
-          "shot_strategy": "The 11 o'clock headwind requires an overstable distance driver on RHFH \u2014 use a flat release with extra power to penetrate the wind and reach the 475ft par 4 basket."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "For this 9 o-clock crosswind from left, RHFH is safer \u2014 use an overstable fairway driver on a controlled hyzer to manage the crosswind on hole 10 [A], ensuring you pass right of the mandatory marker and avoid the OB line that runs along the fairway."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Very overstable driver",
-          "shot_strategy": "Left-handers face the same 11 o'clock headwind on Hole 10 [A] \u2014 throw a very overstable LHBH driver with controlled power to maintain accuracy and distance on this long par 4."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With a 9 o-clock crosswind from left, your LHBH natural fade works with the wind \u2014 throw an overstable distance driver on a hyzer line to use the crosswind to your advantage on the 475ft hole 10 [A], passing right of the mandatory marker and staying clear of the OB line."
         },
         "fh": {
-          "disc_recommendation": "Overstable distance driver",
-          "shot_strategy": "LHFH handles the 11 o'clock headwind well \u2014 use an overstable distance driver with a flat release to cut through the wind and reach the 475ft par 4 basket."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "For this 9 o-clock crosswind from left, LHFH is comfortable \u2014 use an overstable fairway driver on a flat to slight hyzer release to control the crosswind on hole 10 [A], remembering the mandatory marker requires a right-side pass and watching for the OB boundary."
         }
       }
     },
@@ -339,29 +339,29 @@
       "hole_number": 10,
       "hole_label": "Hole 10 [B]",
       "wind_info": {
-        "azimuth_degrees": 300,
-        "relative_degrees": 153,
-        "clock_face": "11 o'clock headwind",
-        "description": "11 o'clock headwind"
+        "azimuth_degrees": 327.6,
+        "relative_degrees": 289.4,
+        "clock_face": "10 o-clock",
+        "description": "10 o-clock"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Extremely overstable driver",
-          "shot_strategy": "The 11 o'clock headwind on Hole 10 [B] demands an extremely overstable RHBH driver \u2014 throw with extra height and power to fight the wind and reach the 560ft par 4 basket."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With a 10 o-clock wind, your RHBH flight plate is exposed \u2014 throw an overstable distance driver on a strong hyzer line to fight the leftward wind on the longer 560ft par 4 hole 10 [B], ensuring you pass right of the mandatory marker and avoid the OB line that extends toward the basket."
         },
         "fh": {
-          "disc_recommendation": "Very overstable distance driver",
-          "shot_strategy": "For the 560ft par 4 Hole 10 [B] with 11 o'clock headwind, use a very overstable RHFH distance driver with maximum controlled power to penetrate the wind and maintain distance."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "For this 10 o-clock wind, RHFH is the safer choice \u2014 use an overstable distance driver on a controlled hyzer to manage the crosswind on hole 10 [B], passing right of the mandatory marker and staying away from the OB line that runs along this 560ft fairway."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Extremely overstable driver",
-          "shot_strategy": "Left-handers need maximum stability against the 11 o'clock headwind on Hole 10 [B] \u2014 throw an extremely overstable LHBH driver with full power to reach the 560ft par 4 basket."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With a 10 o-clock wind, your LHBH natural fade works with the wind \u2014 throw an overstable distance driver on a hyzer line to use the crosswind to your advantage on the 560ft par 4 hole 10 [B], remembering the mandatory right-side pass and watching for OB near the basket."
         },
         "fh": {
-          "disc_recommendation": "Very overstable distance driver",
-          "shot_strategy": "LHFH requires a very overstable distance driver to handle the 11 o'clock headwind on the 560ft par 4 Hole 10 [B] \u2014 use a flat release with maximum controlled power."
+          "disc_recommendation": "Overstable distance driver",
+          "shot_strategy": "For this 10 o-clock wind, LHFH is comfortable \u2014 use an overstable distance driver on a flat to slight hyzer release to control the crosswind on hole 10 [B], ensuring you pass right of the mandatory marker and avoid the OB boundary on this longer layout."
         }
       }
     },
@@ -369,29 +369,29 @@
       "hole_number": 11,
       "hole_label": "Hole 11",
       "wind_info": {
-        "azimuth_degrees": 315,
-        "relative_degrees": 168,
-        "clock_face": "12 o'clock headwind",
-        "description": "12 o'clock headwind"
+        "azimuth_degrees": 246.6,
+        "relative_degrees": 10.4,
+        "clock_face": "12 o-clock headwind",
+        "description": "12 o-clock headwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "Overstable midrange",
-          "shot_strategy": "With a 12 o'clock direct headwind on Hole 11, throw an overstable RHBH midrange with extra height to fight the wind and maintain accuracy on this 245ft par 3."
+          "shot_strategy": "With a 12 o-clock headwind, your RHBH needs extra stability \u2014 throw an overstable midrange with a firm, flat release on this 229ft par 3 to punch through the headwind, being especially careful to avoid the multiple OB areas including the water hazard, tarmac, and playground."
         },
         "fh": {
-          "disc_recommendation": "Stable fairway driver",
-          "shot_strategy": "The 12 o'clock headwind requires a stable RHFH fairway driver \u2014 use a flat release with controlled power to penetrate the wind and land safely on the 245ft par 3 green."
+          "disc_recommendation": "Overstable approach disc",
+          "shot_strategy": "For this 12 o-clock headwind, RHFH is reliable \u2014 use an overstable approach disc with a flat release to maintain accuracy through the headwind on hole 11, staying clear of the water OB, tarmac OB, and playground OB areas that surround this basket."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable midrange",
-          "shot_strategy": "Left-handers face the same 12 o'clock headwind on Hole 11 \u2014 throw an overstable LHBH midrange with extra height to maintain accuracy and avoid being pushed short on this 245ft par 3."
+          "shot_strategy": "With a 12 o-clock headwind, your LHBH needs extra stability \u2014 throw an overstable midrange with a firm release to fight the headwind on the 229ft hole 11, avoiding the water hazard OB, tarmac OB, and playground OB that make this hole particularly challenging."
         },
         "fh": {
-          "disc_recommendation": "Stable fairway driver",
-          "shot_strategy": "LHFH handles the 12 o'clock headwind well \u2014 use a stable fairway driver with a flat release to cut through the wind and reach the 245ft par 3 basket."
+          "disc_recommendation": "Overstable approach disc",
+          "shot_strategy": "For this 12 o-clock headwind, LHFH is reliable \u2014 use an overstable approach disc with a flat release to maintain control through the headwind on hole 11, steering clear of the multiple OB zones including water, tarmac, and the playground area."
         }
       }
     },
@@ -399,29 +399,29 @@
       "hole_number": 12,
       "hole_label": "Hole 12",
       "wind_info": {
-        "azimuth_degrees": 330,
-        "relative_degrees": 183,
-        "clock_face": "1 o'clock headwind",
-        "description": "1 o'clock headwind"
+        "azimuth_degrees": 317.9,
+        "relative_degrees": 299.1,
+        "clock_face": "10 o-clock",
+        "description": "10 o-clock"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable fairway driver",
-          "shot_strategy": "The 1 o'clock headwind on Hole 12 requires an overstable RHBH fairway driver \u2014 throw with extra height to fight the wind and maintain distance on this 315ft par 3."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With a 10 o-clock wind, your RHBH flight plate is exposed \u2014 throw an overstable fairway driver on a hyzer line to fight the leftward push on this 224ft par 3, staying clear of the tarmac OB to the right and the fence OB beyond the basket."
         },
         "fh": {
-          "disc_recommendation": "Stable driver",
-          "shot_strategy": "RHFH handles the 1 o'clock headwind well on Hole 12 \u2014 use a stable driver with a flat release to penetrate the wind and reach the 315ft par 3 basket."
+          "disc_recommendation": "Overstable midrange",
+          "shot_strategy": "For this 10 o-clock wind, RHFH is safer \u2014 use an overstable midrange on a controlled hyzer to manage the crosswind on hole 12, avoiding the tarmac OB area to the right and the fence OB that runs behind the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable fairway driver",
-          "shot_strategy": "Left-handers need an overstable LHBH fairway driver against the 1 o'clock headwind on Hole 12 \u2014 throw with controlled power to maintain accuracy on this 315ft par 3."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With a 10 o-clock wind, your LHBH natural fade works with the wind \u2014 throw an overstable fairway driver on a hyzer line to use the crosswind to your advantage on the 224ft hole 12, steering clear of the tarmac OB and fence OB areas."
         },
         "fh": {
-          "disc_recommendation": "Stable driver",
-          "shot_strategy": "LHFH is effective against the 1 o'clock headwind on Hole 12 \u2014 use a stable driver with a flat release to cut through the wind and land near the basket."
+          "disc_recommendation": "Overstable midrange",
+          "shot_strategy": "For this 10 o-clock wind, LHFH is comfortable \u2014 use an overstable midrange on a flat to slight hyzer release to control the crosswind on hole 12, avoiding the tarmac OB to the right and the fence OB beyond the basket."
         }
       }
     },
@@ -429,29 +429,29 @@
       "hole_number": 13,
       "hole_label": "Hole 13 [A]",
       "wind_info": {
-        "azimuth_degrees": 345,
-        "relative_degrees": 198,
-        "clock_face": "2 o'clock crosswind from left",
-        "description": "2 o'clock crosswind from left"
+        "azimuth_degrees": 167.5,
+        "relative_degrees": 89.5,
+        "clock_face": "3 o-clock crosswind from right",
+        "description": "3 o-clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable driver",
-          "shot_strategy": "With a 2 o'clock crosswind from the left on Hole 13 [A], RHBH is manageable \u2014 throw a stable driver with a hyzer release to work with the wind pushing right on this 380ft par 3."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With a 3 o-clock crosswind from right, your RHBH is comfortable \u2014 throw an overstable fairway driver on a hyzer line to use the right-to-left wind to your advantage on the 366ft par 3 hole 13 [A], remembering to hit the mandatory marker and avoiding the tarmac OB areas on both sides of the fairway."
         },
         "fh": {
           "disc_recommendation": "Overstable fairway driver",
-          "shot_strategy": "RHFH also handles the 2 o'clock crosswind from the left well \u2014 use an overstable fairway driver with a flat release to maintain accuracy and avoid being pushed too far right on Hole 13 [A]."
+          "shot_strategy": "For this 3 o-clock crosswind from right, RHFH exposes the flight plate \u2014 use an overstable distance driver on a strong hyzer to fight the rightward push on hole 13 [A], ensuring you pass the mandatory marker and stay clear of the tarmac OB zones that border this fairway."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable driver",
-          "shot_strategy": "For left-handers, the 2 o'clock crosswind from the left exposes your LHBH flight plate \u2014 prefer LHFH with an overstable driver to fight the rightward push on this 380ft par 3."
+          "shot_strategy": "With a 3 o-clock crosswind from right, your LHBH fade right AND wind pushes right \u2014 double trouble \u2014 throw an overstable distance driver on a severe hyzer to fight the combined forces on the 366ft hole 13 [A], hitting the mandatory marker and avoiding the tarmac OB areas."
         },
         "fh": {
-          "disc_recommendation": "Stable fairway driver",
-          "shot_strategy": "LHFH handles the 2 o'clock crosswind from the left effectively \u2014 throw a stable fairway driver with a slight anhyzer to counteract the wind pushing right on Hole 13 [A]."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "For this 3 o-clock crosswind from right, LHFH is safer \u2014 use an overstable fairway driver on a controlled hyzer to manage the crosswind on hole 13 [A], ensuring you pass the mandatory marker and steer clear of the tarmac OB zones on both sides of the fairway."
         }
       }
     },
@@ -459,29 +459,29 @@
       "hole_number": 13,
       "hole_label": "Hole 13 [B]",
       "wind_info": {
-        "azimuth_degrees": 345,
-        "relative_degrees": 198,
-        "clock_face": "2 o'clock crosswind from left",
-        "description": "2 o'clock crosswind from left"
+        "azimuth_degrees": 163.5,
+        "relative_degrees": 93.5,
+        "clock_face": "3 o-clock crosswind from right",
+        "description": "3 o-clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable distance driver",
-          "shot_strategy": "The 2 o'clock crosswind from the left on Hole 13 [B] favors RHBH \u2014 throw a stable distance driver with a hyzer release to work with the wind pushing right on this 420ft par 4."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With a 3 o-clock crosswind from right, your RHBH is comfortable \u2014 throw an overstable fairway driver on a hyzer line to use the right-to-left wind to your advantage on the 370ft par 3 hole 13 [B], ensuring you pass the mandatory marker and avoiding the tarmac OB areas that surround this layout."
         },
         "fh": {
-          "disc_recommendation": "Overstable driver",
-          "shot_strategy": "RHFH is also viable against the 2 o'clock crosswind from the left on Hole 13 [B] \u2014 use an overstable driver with a flat release to maintain control and accuracy on this 420ft par 4."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "For this 3 o-clock crosswind from right, RHFH exposes the flight plate \u2014 use an overstable distance driver on a strong hyzer to fight the rightward push on hole 13 [B], hitting the mandatory marker and staying clear of the tarmac OB zones that border this 370ft fairway."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable distance driver",
-          "shot_strategy": "Left-handers should prefer LHFH against the 2 o'clock crosswind from the left on Hole 13 [B] \u2014 throw an overstable distance driver to fight the rightward wind push on this 420ft par 4."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With a 3 o-clock crosswind from right, your LHBH fade right AND wind pushes right \u2014 double trouble \u2014 throw an overstable distance driver on a severe hyzer to fight the combined forces on the 370ft hole 13 [B], ensuring you pass the mandatory marker and avoid the tarmac OB areas."
         },
         "fh": {
-          "disc_recommendation": "Stable driver",
-          "shot_strategy": "LHFH handles the 2 o'clock crosswind from the left effectively on Hole 13 [B] \u2014 use a stable driver with controlled power to maintain accuracy and avoid being pushed right of the fairway."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "For this 3 o-clock crosswind from right, LHFH is safer \u2014 use an overstable fairway driver on a controlled hyzer to manage the crosswind on hole 13 [B], hitting the mandatory marker and steering clear of the tarmac OB zones on both sides of the fairway."
         }
       }
     },
@@ -489,29 +489,29 @@
       "hole_number": 14,
       "hole_label": "Hole 14 [A]",
       "wind_info": {
-        "azimuth_degrees": 0,
-        "relative_degrees": 213,
-        "clock_face": "3 o'clock crosswind from left",
-        "description": "3 o'clock crosswind from left"
+        "azimuth_degrees": 285.8,
+        "relative_degrees": 331.2,
+        "clock_face": "11 o-clock",
+        "description": "11 o-clock"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable driver",
-          "shot_strategy": "With a 3 o'clock crosswind from the left on Hole 14 [A], RHBH is favorable \u2014 throw an understable driver with a hyzer release to work with the wind pushing right on this 290ft par 3."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With an 11 o-clock wind, your RHBH flight plate is exposed \u2014 throw an overstable fairway driver on a hyzer line to fight the leftward push on this 279ft par 3, staying clear of the baseball field fence OB and tarmac OB areas that border the right side of the fairway."
         },
         "fh": {
-          "disc_recommendation": "Stable fairway driver",
-          "shot_strategy": "RHFH handles the 3 o'clock crosswind from the left well \u2014 use a stable fairway driver with a flat release to maintain accuracy and avoid being pushed too far right on Hole 14 [A]."
+          "disc_recommendation": "Overstable midrange",
+          "shot_strategy": "For this 11 o-clock wind, RHFH is safer \u2014 use an overstable midrange on a controlled hyzer to manage the crosswind on hole 14 [A], avoiding the baseball field fence OB and tarmac OB that make the right side of this 279ft hole particularly hazardous."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "Overstable driver",
-          "shot_strategy": "For left-handers, the 3 o'clock crosswind from the left exposes your LHBH flight plate \u2014 prefer LHFH with an overstable driver to fight the rightward push on this 290ft par 3."
+          "shot_strategy": "With an 11 o-clock wind, your LHBH natural fade works with the wind \u2014 throw an overstable fairway driver on a hyzer line to use the crosswind to your advantage on the 279ft hole 14 [A], steering clear of the baseball field fence OB and tarmac OB areas to the right."
         },
         "fh": {
-          "disc_recommendation": "Stable midrange",
-          "shot_strategy": "LHFH is effective against the 3 o'clock crosswind from the left on Hole 14 [A] \u2014 throw a stable midrange with controlled power to maintain accuracy and land safely on the green."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "For this 11 o-clock wind, LHFH is comfortable \u2014 use an overstable midrange on a flat to slight hyzer release to control the crosswind on hole 14 [A], avoiding the baseball field fence OB and tarmac OB that border the right side of this fairway."
         }
       }
     },
@@ -519,29 +519,29 @@
       "hole_number": 14,
       "hole_label": "Hole 14 [B]",
       "wind_info": {
-        "azimuth_degrees": 0,
-        "relative_degrees": 213,
-        "clock_face": "3 o'clock crosswind from left",
-        "description": "3 o'clock crosswind from left"
+        "azimuth_degrees": 270.0,
+        "relative_degrees": 347.0,
+        "clock_face": "12 o-clock headwind",
+        "description": "12 o-clock headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable fairway driver",
-          "shot_strategy": "The 3 o'clock crosswind from the left on Hole 14 [B] works with RHBH \u2014 throw an understable fairway driver with a hyzer release to ride the wind pushing right on this 340ft par 3."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With a 12 o-clock headwind, your RHBH needs extra stability \u2014 throw an overstable fairway driver with a firm, flat release on this 285ft par 3 to punch through the headwind, staying clear of the baseball field fence OB and tarmac OB areas that make the right side of hole 14 [B] particularly challenging."
         },
         "fh": {
-          "disc_recommendation": "Stable driver",
-          "shot_strategy": "RHFH handles the 3 o'clock crosswind from the left effectively on Hole 14 [B] \u2014 use a stable driver with a flat release to maintain control and accuracy on this 340ft par 3."
+          "disc_recommendation": "Overstable approach disc",
+          "shot_strategy": "For this 12 o-clock headwind, RHFH is reliable \u2014 use an overstable approach disc with a flat release to maintain accuracy through the headwind on hole 14 [B], avoiding the baseball field fence OB and tarmac OB that border the right side of this 285ft layout."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable fairway driver",
-          "shot_strategy": "Left-handers should prefer LHFH against the 3 o'clock crosswind from the left on Hole 14 [B] \u2014 throw an overstable fairway driver to fight the rightward wind push on this 340ft par 3."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With a 12 o-clock headwind, your LHBH needs extra stability \u2014 throw an overstable fairway driver with a firm release to fight the headwind on the 285ft hole 14 [B], steering clear of the baseball field fence OB and tarmac OB areas to the right."
         },
         "fh": {
-          "disc_recommendation": "Stable fairway driver",
-          "shot_strategy": "LHFH is a solid choice for the 3 o'clock crosswind from the left on Hole 14 [B] \u2014 use a stable fairway driver with controlled power to maintain accuracy and avoid being pushed right of the basket."
+          "disc_recommendation": "Overstable approach disc",
+          "shot_strategy": "For this 12 o-clock headwind, LHFH is reliable \u2014 use an overstable approach disc with a flat release to maintain control through the headwind on hole 14 [B], avoiding the baseball field fence OB and tarmac OB that make the right side of this hole hazardous."
         }
       }
     },
@@ -550,28 +550,28 @@
       "hole_label": "Hole 15",
       "wind_info": {
         "azimuth_degrees": 83.8,
-        "relative_degrees": 174.2,
+        "relative_degrees": 188.2,
         "clock_face": "6 o-clock tailwind",
         "description": "6 o-clock tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "understable",
-          "shot_strategy": "With a 6 o-clock tailwind on this 307ft par 3, your RHBH shot will benefit from the tailwind pushing the disc forward \u2014 throw a understable disc with a controlled hyzer release to maximize distance while maintaining accuracy."
+          "shot_strategy": "With a 6 o-clock tailwind behind you on Hole 15, your RHBH will get extra distance \u2014 throw an understable disc on a slight hyzer to maximize carry while maintaining control over this 307ft shot."
         },
         "fh": {
           "disc_recommendation": "understable",
-          "shot_strategy": "For this 307ft par 3 with 6 o-clock tailwind, a RHFH throw with a understable disc provides excellent control \u2014 use a flat release and let the tailwind carry the disc toward the basket while maintaining a stable flight path."
+          "shot_strategy": "With a 6 o-clock tailwind behind you on Hole 15, your RHFH will get extra distance \u2014 throw an understable disc with flat release to maximize the tailwind boost on this 307ft shot."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "understable",
-          "shot_strategy": "With 6 o-clock tailwind on this 307ft par 3, your LHBH throw should use a understable disc \u2014 the tailwind will help carry your shot, so focus on a smooth hyzer release to keep the disc from turning over too much."
+          "shot_strategy": "With a 6 o-clock tailwind behind you on Hole 15, your LHBH will get extra distance \u2014 throw an understable disc on a slight anhyzer to maximize carry while maintaining control over this 307ft shot."
         },
         "fh": {
           "disc_recommendation": "understable",
-          "shot_strategy": "For this 307ft par 3 facing 6 o-clock tailwind, a LHFH approach with a understable disc works well \u2014 the tailwind assists distance, so use a controlled anhyzer release to shape the shot around any obstacles while maintaining forward momentum."
+          "shot_strategy": "With a 6 o-clock tailwind behind you on Hole 15, your LHFH will get extra distance \u2014 throw an understable disc with flat release to maximize the tailwind boost on this 307ft shot."
         }
       }
     },
@@ -580,28 +580,28 @@
       "hole_label": "Hole 16",
       "wind_info": {
         "azimuth_degrees": 104.3,
-        "relative_degrees": 153.7,
-        "clock_face": "5 o-clock",
-        "description": "5 o-clock"
+        "relative_degrees": 167.7,
+        "clock_face": "6 o-clock tailwind",
+        "description": "6 o-clock tailwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "With a 5 o-clock on this 213ft par 3, your RHBH shot will benefit from the tailwind pushing the disc forward \u2014 throw a stable disc with a controlled hyzer release to maximize distance while maintaining accuracy. Be mindful of the OB area to the right of the fairway and adjust your line accordingly."
+          "disc_recommendation": "midrange understable",
+          "shot_strategy": "With a 6 o-clock tailwind behind you on Hole 16, your RHBH will get extra distance \u2014 throw an understable disc on a slight hyzer to maximize carry while maintaining control over this 213ft shot Watch for OB: North face of wall and beyond is Out of Bounds (Third Coast Championship only)."
         },
         "fh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "For this 213ft par 3 with 5 o-clock, a RHFH throw with a stable disc provides excellent control \u2014 use a flat release and let the tailwind carry the disc toward the basket while maintaining a stable flight path. Be mindful of the OB area to the right of the fairway and adjust your line accordingly."
+          "disc_recommendation": "midrange understable",
+          "shot_strategy": "With a 6 o-clock tailwind behind you on Hole 16, your RHFH will get extra distance \u2014 throw an understable disc with flat release to maximize the tailwind boost on this 213ft shot Watch for OB: North face of wall and beyond is Out of Bounds (Third Coast Championship only)."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "With 5 o-clock on this 213ft par 3, your LHBH throw should use a stable disc \u2014 the tailwind will help carry your shot, so focus on a smooth hyzer release to keep the disc from turning over too much. Be mindful of the OB area to the right of the fairway and adjust your line accordingly."
+          "disc_recommendation": "midrange understable",
+          "shot_strategy": "With a 6 o-clock tailwind behind you on Hole 16, your LHBH will get extra distance \u2014 throw an understable disc on a slight anhyzer to maximize carry while maintaining control over this 213ft shot Watch for OB: North face of wall and beyond is Out of Bounds (Third Coast Championship only)."
         },
         "fh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "For this 213ft par 3 facing 5 o-clock, a LHFH approach with a stable disc works well \u2014 the tailwind assists distance, so use a controlled anhyzer release to shape the shot around any obstacles while maintaining forward momentum. Be mindful of the OB area to the right of the fairway and adjust your line accordingly."
+          "disc_recommendation": "midrange understable",
+          "shot_strategy": "With a 6 o-clock tailwind behind you on Hole 16, your LHFH will get extra distance \u2014 throw an understable disc with flat release to maximize the tailwind boost on this 213ft shot Watch for OB: North face of wall and beyond is Out of Bounds (Third Coast Championship only)."
         }
       }
     },
@@ -610,28 +610,28 @@
       "hole_label": "Hole 17",
       "wind_info": {
         "azimuth_degrees": 90.0,
-        "relative_degrees": 168.0,
+        "relative_degrees": 182.0,
         "clock_face": "6 o-clock tailwind",
         "description": "6 o-clock tailwind"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "understable",
-          "shot_strategy": "With a 6 o-clock tailwind on this 295ft par 3, your RHBH shot will benefit from the tailwind pushing the disc forward \u2014 throw a understable disc with a controlled hyzer release to maximize distance while maintaining accuracy."
+          "shot_strategy": "With a 6 o-clock tailwind behind you on Hole 17, your RHBH will get extra distance \u2014 throw an understable disc on a slight hyzer to maximize carry while maintaining control over this 295ft shot."
         },
         "fh": {
           "disc_recommendation": "understable",
-          "shot_strategy": "For this 295ft par 3 with 6 o-clock tailwind, a RHFH throw with a understable disc provides excellent control \u2014 use a flat release and let the tailwind carry the disc toward the basket while maintaining a stable flight path."
+          "shot_strategy": "With a 6 o-clock tailwind behind you on Hole 17, your RHFH will get extra distance \u2014 throw an understable disc with flat release to maximize the tailwind boost on this 295ft shot."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "understable",
-          "shot_strategy": "With 6 o-clock tailwind on this 295ft par 3, your LHBH throw should use a understable disc \u2014 the tailwind will help carry your shot, so focus on a smooth hyzer release to keep the disc from turning over too much."
+          "shot_strategy": "With a 6 o-clock tailwind behind you on Hole 17, your LHBH will get extra distance \u2014 throw an understable disc on a slight anhyzer to maximize carry while maintaining control over this 295ft shot."
         },
         "fh": {
           "disc_recommendation": "understable",
-          "shot_strategy": "For this 295ft par 3 facing 6 o-clock tailwind, a LHFH approach with a understable disc works well \u2014 the tailwind assists distance, so use a controlled anhyzer release to shape the shot around any obstacles while maintaining forward momentum."
+          "shot_strategy": "With a 6 o-clock tailwind behind you on Hole 17, your LHFH will get extra distance \u2014 throw an understable disc with flat release to maximize the tailwind boost on this 295ft shot."
         }
       }
     },
@@ -640,28 +640,28 @@
       "hole_label": "Hole 18 [A]",
       "wind_info": {
         "azimuth_degrees": 276.2,
-        "relative_degrees": 341.8,
-        "clock_face": "11 o-clock",
-        "description": "11 o-clock"
+        "relative_degrees": 355.8,
+        "clock_face": "12 o-clock headwind",
+        "description": "12 o-clock headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "With a 11 o-clock on this 564ft par 4, your RHBH shot will benefit from the tailwind pushing the disc forward \u2014 throw a stable disc with a controlled hyzer release to maximize distance while maintaining accuracy. Be mindful of the OB area to the right of the fairway and adjust your line accordingly."
+          "disc_recommendation": "distance overstable",
+          "shot_strategy": "Facing a 12 o-clock headwind on Hole 18 [A], your RHBH needs extra stability \u2014 throw an overstable disc with clean release to fight the headwind and maintain accuracy on this 564ft par 4 Watch for OB: Soccer Pitch(s) out of Bounds."
         },
         "fh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "For this 564ft par 4 with 11 o-clock, a RHFH throw with a stable disc provides excellent control \u2014 use a flat release and let the tailwind carry the disc toward the basket while maintaining a stable flight path. Be mindful of the OB area to the right of the fairway and adjust your line accordingly."
+          "disc_recommendation": "distance overstable",
+          "shot_strategy": "Facing a 12 o-clock headwind on Hole 18 [A], your RHFH needs extra stability \u2014 throw an overstable disc with firm wrist to penetrate the headwind and maintain control on this 564ft par 4 Watch for OB: Soccer Pitch(s) out of Bounds."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "With 11 o-clock on this 564ft par 4, your LHBH throw should use a stable disc \u2014 the tailwind will help carry your shot, so focus on a smooth hyzer release to keep the disc from turning over too much. Be mindful of the OB area to the right of the fairway and adjust your line accordingly."
+          "disc_recommendation": "distance overstable",
+          "shot_strategy": "Facing a 12 o-clock headwind on Hole 18 [A], your LHBH needs extra stability \u2014 throw an overstable disc with clean release to fight the headwind and maintain accuracy on this 564ft par 4 Watch for OB: Soccer Pitch(s) out of Bounds."
         },
         "fh": {
-          "disc_recommendation": "stable",
-          "shot_strategy": "For this 564ft par 4 facing 11 o-clock, a LHFH approach with a stable disc works well \u2014 the tailwind assists distance, so use a controlled anhyzer release to shape the shot around any obstacles while maintaining forward momentum. Be mindful of the OB area to the right of the fairway and adjust your line accordingly."
+          "disc_recommendation": "distance overstable",
+          "shot_strategy": "Facing a 12 o-clock headwind on Hole 18 [A], your LHFH needs extra stability \u2014 throw an overstable disc with firm wrist to penetrate the headwind and maintain control on this 564ft par 4 Watch for OB: Soccer Pitch(s) out of Bounds."
         }
       }
     },
@@ -670,88 +670,88 @@
       "hole_label": "Hole 18 [B]",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 348.0,
+        "relative_degrees": 2.0,
         "clock_face": "12 o-clock headwind",
         "description": "12 o-clock headwind"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "overstable",
-          "shot_strategy": "With a 12 o-clock headwind on this 562ft par 4, your RHBH shot will benefit from the tailwind pushing the disc forward \u2014 throw a overstable disc with a controlled hyzer release to maximize distance while maintaining accuracy. Be mindful of the OB area to the right of the fairway and adjust your line accordingly."
+          "disc_recommendation": "distance overstable",
+          "shot_strategy": "Facing a 12 o-clock headwind on Hole 18 [B], your RHBH needs extra stability \u2014 throw an overstable disc with clean release to fight the headwind and maintain accuracy on this 562ft par 4 Watch for OB: Soccer Pitch(s) out of Bounds."
         },
         "fh": {
-          "disc_recommendation": "overstable",
-          "shot_strategy": "For this 562ft par 4 with 12 o-clock headwind, a RHFH throw with a overstable disc provides excellent control \u2014 use a flat release and let the tailwind carry the disc toward the basket while maintaining a stable flight path. Be mindful of the OB area to the right of the fairway and adjust your line accordingly."
+          "disc_recommendation": "distance overstable",
+          "shot_strategy": "Facing a 12 o-clock headwind on Hole 18 [B], your RHFH needs extra stability \u2014 throw an overstable disc with firm wrist to penetrate the headwind and maintain control on this 562ft par 4 Watch for OB: Soccer Pitch(s) out of Bounds."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "overstable",
-          "shot_strategy": "With 12 o-clock headwind on this 562ft par 4, your LHBH throw should use a overstable disc \u2014 the tailwind will help carry your shot, so focus on a smooth hyzer release to keep the disc from turning over too much. Be mindful of the OB area to the right of the fairway and adjust your line accordingly."
+          "disc_recommendation": "distance overstable",
+          "shot_strategy": "Facing a 12 o-clock headwind on Hole 18 [B], your LHBH needs extra stability \u2014 throw an overstable disc with clean release to fight the headwind and maintain accuracy on this 562ft par 4 Watch for OB: Soccer Pitch(s) out of Bounds."
         },
         "fh": {
-          "disc_recommendation": "overstable",
-          "shot_strategy": "For this 562ft par 4 facing 12 o-clock headwind, a LHFH approach with a overstable disc works well \u2014 the tailwind assists distance, so use a controlled anhyzer release to shape the shot around any obstacles while maintaining forward momentum. Be mindful of the OB area to the right of the fairway and adjust your line accordingly."
+          "disc_recommendation": "distance overstable",
+          "shot_strategy": "Facing a 12 o-clock headwind on Hole 18 [B], your LHFH needs extra stability \u2014 throw an overstable disc with firm wrist to penetrate the headwind and maintain control on this 562ft par 4 Watch for OB: Soccer Pitch(s) out of Bounds."
         }
       }
     },
     {
-      "hole_number": "T1-B",
+      "hole_number": 19,
       "hole_label": "Hole T1-B",
       "wind_info": {
         "azimuth_degrees": 117.1,
-        "relative_degrees": 140.9,
+        "relative_degrees": 154.9,
         "clock_face": "5 o-clock",
         "description": "5 o-clock"
       },
       "tips_rh": {
         "bh": {
           "disc_recommendation": "stable",
-          "shot_strategy": "With a 5 o-clock on this 303ft par 3, your RHBH shot will benefit from the tailwind pushing the disc forward \u2014 throw a stable disc with a controlled hyzer release to maximize distance while maintaining accuracy. Be mindful of the OB area to the right of the fairway and adjust your line accordingly. Watch for the hazard area near the basket \u2014 landing inside incurs a penalty stroke."
+          "shot_strategy": "With a 5 o-clock tailwind from the left on Hole T1-B, your RHBH will get extra distance with some rightward push \u2014 throw an understable disc on a slight anhyzer to ride the wind for maximum distance on this 303ft shot Watch for OB: Out of Bounds Hazard area: Add one stroke penalty if landing inside this area."
         },
         "fh": {
           "disc_recommendation": "stable",
-          "shot_strategy": "For this 303ft par 3 with 5 o-clock, a RHFH throw with a stable disc provides excellent control \u2014 use a flat release and let the tailwind carry the disc toward the basket while maintaining a stable flight path. Be mindful of the OB area to the right of the fairway and adjust your line accordingly. Watch for the hazard area near the basket \u2014 landing inside incurs a penalty stroke."
+          "shot_strategy": "With a 5 o-clock tailwind from the left on Hole T1-B, your RHFH will get extra distance with minimal fade \u2014 throw a stable disc with flat release to maximize the tailwind effect on this 303ft shot Watch for OB: Out of Bounds Hazard area: Add one stroke penalty if landing inside this area."
         }
       },
       "tips_lh": {
         "bh": {
           "disc_recommendation": "stable",
-          "shot_strategy": "With 5 o-clock on this 303ft par 3, your LHBH throw should use a stable disc \u2014 the tailwind will help carry your shot, so focus on a smooth hyzer release to keep the disc from turning over too much. Be mindful of the OB area to the right of the fairway and adjust your line accordingly. Watch for the hazard area near the basket \u2014 landing inside incurs a penalty stroke."
+          "shot_strategy": "With a 5 o-clock tailwind from the left on Hole T1-B, your LHBH will get extra distance with some leftward push \u2014 throw an understable disc on a slight hyzer to ride the wind for maximum distance on this 303ft shot Watch for OB: Out of Bounds Hazard area: Add one stroke penalty if landing inside this area."
         },
         "fh": {
           "disc_recommendation": "stable",
-          "shot_strategy": "For this 303ft par 3 facing 5 o-clock, a LHFH approach with a stable disc works well \u2014 the tailwind assists distance, so use a controlled anhyzer release to shape the shot around any obstacles while maintaining forward momentum. Be mindful of the OB area to the right of the fairway and adjust your line accordingly. Watch for the hazard area near the basket \u2014 landing inside incurs a penalty stroke."
+          "shot_strategy": "With a 5 o-clock tailwind from the left on Hole T1-B, your LHFH will get extra distance with minimal fade \u2014 throw a stable disc with flat release to maximize the tailwind effect on this 303ft shot Watch for OB: Out of Bounds Hazard area: Add one stroke penalty if landing inside this area."
         }
       }
     },
     {
-      "hole_number": "T17-B",
+      "hole_number": 20,
       "hole_label": "Hole T17-B",
       "wind_info": {
         "azimuth_degrees": 181.8,
-        "relative_degrees": 76.2,
+        "relative_degrees": 90.2,
         "clock_face": "3 o-clock crosswind from right",
         "description": "3 o-clock crosswind from right"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "overstable",
-          "shot_strategy": "With a 3 o-clock crosswind from right on this 363ft par 3, your RHBH shot will benefit from the tailwind pushing the disc forward \u2014 throw a overstable disc with a controlled hyzer release to maximize distance while maintaining accuracy. Remember the mandatory marker \u2014 your shot must pass on the correct side before proceeding to the basket."
+          "disc_recommendation": "stable to overstable",
+          "shot_strategy": "With a 3 o-clock crosswind from right on Hole T17-B, your RHBH fade works with the wind pushing left \u2014 use a stable disc on a controlled hyzer to let the wind assist your natural fade on this 363ft shot Mandatory: Triple Mandatory plus 1 more."
         },
         "fh": {
-          "disc_recommendation": "overstable",
-          "shot_strategy": "For this 363ft par 3 with 3 o-clock crosswind from right, a RHFH throw with a overstable disc provides excellent control \u2014 use a flat release and let the tailwind carry the disc toward the basket while maintaining a stable flight path. Remember the mandatory marker \u2014 your shot must pass on the correct side before proceeding to the basket."
+          "disc_recommendation": "stable to overstable",
+          "shot_strategy": "With a 3 o-clock crosswind from right on Hole T17-B, your RHFH fade works against the wind pushing left \u2014 use an overstable disc with clean release to fight the crosswind and maintain accuracy on this 363ft shot Mandatory: Triple Mandatory plus 1 more."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "overstable",
-          "shot_strategy": "With 3 o-clock crosswind from right on this 363ft par 3, your LHBH throw should use a overstable disc \u2014 the tailwind will help carry your shot, so focus on a smooth hyzer release to keep the disc from turning over too much. Remember the mandatory marker \u2014 your shot must pass on the correct side before proceeding to the basket."
+          "disc_recommendation": "stable to overstable",
+          "shot_strategy": "With a 3 o-clock crosswind from right on Hole T17-B, your LHBH fade works against the wind pushing left \u2014 use an overstable disc on a controlled hyzer to fight the crosswind and maintain accuracy on this 363ft shot Mandatory: Triple Mandatory plus 1 more."
         },
         "fh": {
-          "disc_recommendation": "overstable",
-          "shot_strategy": "For this 363ft par 3 facing 3 o-clock crosswind from right, a LHFH approach with a overstable disc works well \u2014 the tailwind assists distance, so use a controlled anhyzer release to shape the shot around any obstacles while maintaining forward momentum. Remember the mandatory marker \u2014 your shot must pass on the correct side before proceeding to the basket."
+          "disc_recommendation": "stable to overstable",
+          "shot_strategy": "With a 3 o-clock crosswind from right on Hole T17-B, your LHFH fade works with the wind pushing left \u2014 use a stable disc with clean release to let the wind assist your natural fade on this 363ft shot Mandatory: Triple Mandatory plus 1 more."
         }
       }
     }
