@@ -1,1657 +1,1597 @@
 {
   "course": "Lake Arvesta Sports Complex",
-  "report_generated_at": "2026-03-28 01:11 EDT",
+  "report_generated_at": "2026-03-28 10:27 EDT",
   "current_wind": {
-    "speed_mph": 10.2,
-    "direction_degrees": 327,
-    "gusts_mph": 24.6,
-    "description": "10.2 mph from 327\u00b0 (NW), gusts to 24.6 mph"
+    "speed_mph": 1.8,
+    "direction_degrees": 150.0,
+    "gusts_mph": 5.8,
+    "description": "1.8 mph from 150\u00b0 (gusts to 5.8 mph)"
   },
   "forecast_5hr": [
     {
-      "time_edt": "2026-03-28 00:00 EDT",
-      "speed_mph": 10.2,
-      "direction_degrees": 327
+      "time_edt": "2026-03-28T09:00 EDT",
+      "speed_mph": 1.8,
+      "direction_degrees": 150.0
     },
     {
-      "time_edt": "2026-03-28 01:00 EDT",
-      "speed_mph": 9.1,
-      "direction_degrees": 349
+      "time_edt": "2026-03-28T10:00 EDT",
+      "speed_mph": 5.6,
+      "direction_degrees": 247.0
     },
     {
-      "time_edt": "2026-03-28 02:00 EDT",
-      "speed_mph": 7.1,
-      "direction_degrees": 340
-    },
-    {
-      "time_edt": "2026-03-28 03:00 EDT",
+      "time_edt": "2026-03-28T11:00 EDT",
       "speed_mph": 8.7,
-      "direction_degrees": 334
+      "direction_degrees": 258.0
     },
     {
-      "time_edt": "2026-03-28 04:00 EDT",
-      "speed_mph": 8.5,
-      "direction_degrees": 348
+      "time_edt": "2026-03-28T12:00 EDT",
+      "speed_mph": 10.1,
+      "direction_degrees": 249.0
+    },
+    {
+      "time_edt": "2026-03-28T13:00 EDT",
+      "speed_mph": 11.0,
+      "direction_degrees": 237.0
     }
   ],
   "holes": [
     {
-      "hole_number": 1,
+      "hole_number": "1",
       "hole_label": "Hole 1 (Yellow)",
       "wind_info": {
         "azimuth_degrees": 150.0,
-        "relative_degrees": 0,
-        "clock_face": "6 o-clock tailwind",
-        "description": "6 o-clock tailwind (tailwind)"
+        "relative_degrees": 0.0,
+        "clock_face": "12 o-clock headwind",
+        "description": "12 o-clock headwind conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "With a 6 o-clock tailwind, your RHBH will get extra distance \u2014 throw an understable disc with a slight hyzer to maximize carry on this 270ft par 3. OB: Water"
+          "disc_recommendation": "Overstable midrange",
+          "shot_strategy": "For Hole 1 (Yellow) at 270ft par 3 with 12 o-clock headwind, throw a controlled RHBH. Watch for Water on Hole 1."
         },
         "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "The 6 o-clock tailwind gives your RHFH extra push \u2014 use a stable to understable disc with controlled power to hit the landing zone on this 270ft hole. OB: Water"
+          "disc_recommendation": "Overstable midrange",
+          "shot_strategy": "On Hole 1 (Yellow), use a RHFH to handle the 12 o-clock headwind. The 270ft Yellow layout demands accuracy. Watch for Water on Hole 1."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "The 6 o-clock tailwind gives your LHBH extra distance \u2014 throw an understable disc with a slight anhyzer to maximize carry on this 270ft par 3. OB: Water"
+          "disc_recommendation": "Overstable midrange",
+          "shot_strategy": "For Hole 1 (Yellow) facing 12 o-clock headwind, a LHBH provides stability for the 270ft par 3. Watch for Water on Hole 1."
         },
         "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "With a 6 o-clock tailwind, your LHFH gets a helpful push \u2014 use a stable to understable disc with smooth power to reach the target on this 270ft hole. OB: Water"
+          "disc_recommendation": "Overstable midrange",
+          "shot_strategy": "On Hole 1 (Yellow), a LHFH handles the 12 o-clock headwind well. The Yellow layout's 270ft distance requires controlled power. Watch for Water on Hole 1."
         }
       }
     },
     {
-      "hole_number": 1,
+      "hole_number": "1",
       "hole_label": "Hole 1 (White)",
       "wind_info": {
         "azimuth_degrees": 197.3,
-        "relative_degrees": 0,
-        "clock_face": "4 o-clock",
-        "description": "4 o-clock (crosswind)"
+        "relative_degrees": 312.7,
+        "clock_face": "10 o-clock",
+        "description": "10 o-clock conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 686ft par 4. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 1 (White) at 686ft par 4 with 10 o-clock, throw a controlled RHBH. Watch for Water on Hole 1."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 686ft. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 1 (White), use a RHFH to handle the 10 o-clock. The 686ft White layout demands accuracy. Watch for Water on Hole 1."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 686ft par 4. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 1 (White) facing 10 o-clock, a LHBH provides stability for the 686ft par 4. Watch for Water on Hole 1."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 686ft. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 1 (White), a LHFH handles the 10 o-clock well. The White layout's 686ft distance requires controlled power. Watch for Water on Hole 1."
         }
       }
     },
     {
-      "hole_number": 1,
+      "hole_number": "1",
       "hole_label": "Hole 1 (Blue)",
       "wind_info": {
         "azimuth_degrees": 196.9,
-        "relative_degrees": 0,
-        "clock_face": "4 o-clock",
-        "description": "4 o-clock (crosswind)"
+        "relative_degrees": 313.1,
+        "clock_face": "10 o-clock",
+        "description": "10 o-clock conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 598ft par 3. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 1 (Blue) at 598ft par 3 with 10 o-clock, throw a controlled RHBH. Watch for Water on Hole 1."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 598ft. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 1 (Blue), use a RHFH to handle the 10 o-clock. The 598ft Blue layout demands accuracy. Watch for Water on Hole 1."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 598ft par 3. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 1 (Blue) facing 10 o-clock, a LHBH provides stability for the 598ft par 3. Watch for Water on Hole 1."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 598ft. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 1 (Blue), a LHFH handles the 10 o-clock well. The Blue layout's 598ft distance requires controlled power. Watch for Water on Hole 1."
         }
       }
     },
     {
-      "hole_number": 2,
+      "hole_number": "2",
       "hole_label": "Hole 2 (Yellow)",
       "wind_info": {
         "azimuth_degrees": 264.9,
-        "relative_degrees": 0,
-        "clock_face": "2 o-clock",
-        "description": "2 o-clock (crosswind)"
+        "relative_degrees": 245.1,
+        "clock_face": "8 o-clock",
+        "description": "8 o-clock conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 270ft par 3."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 2 (Yellow) at 270ft par 3 with 8 o-clock, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 270ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 2 (Yellow), use a RHFH to handle the 8 o-clock. The 270ft Yellow layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 270ft par 3."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 2 (Yellow) facing 8 o-clock, a LHBH provides stability for the 270ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 270ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 2 (Yellow), a LHFH handles the 8 o-clock well. The Yellow layout's 270ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 2,
+      "hole_number": "2",
       "hole_label": "Hole 2 (White)",
       "wind_info": {
         "azimuth_degrees": 271.8,
-        "relative_degrees": 0,
-        "clock_face": "2 o-clock",
-        "description": "2 o-clock (crosswind)"
+        "relative_degrees": 238.2,
+        "clock_face": "8 o-clock",
+        "description": "8 o-clock conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 403ft par 4."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 2 (White) at 403ft par 4 with 8 o-clock, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 403ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 2 (White), use a RHFH to handle the 8 o-clock. The 403ft White layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 403ft par 4."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 2 (White) facing 8 o-clock, a LHBH provides stability for the 403ft par 4."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 403ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 2 (White), a LHFH handles the 8 o-clock well. The White layout's 403ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 2,
+      "hole_number": "2",
       "hole_label": "Hole 2 (Blue)",
       "wind_info": {
         "azimuth_degrees": 283.1,
-        "relative_degrees": 0,
-        "clock_face": "1 o-clock",
-        "description": "1 o-clock (headwind)"
+        "relative_degrees": 226.9,
+        "clock_face": "8 o-clock",
+        "description": "8 o-clock conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 508ft par 4."
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 2 (Blue) at 508ft par 4 with 8 o-clock, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 508ft."
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 2 (Blue), use a RHFH to handle the 8 o-clock. The 508ft Blue layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 508ft par 4."
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 2 (Blue) facing 8 o-clock, a LHBH provides stability for the 508ft par 4."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 508ft."
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 2 (Blue), a LHFH handles the 8 o-clock well. The Blue layout's 508ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 3,
+      "hole_number": "3",
       "hole_label": "Hole 3 (Yellow)",
       "wind_info": {
         "azimuth_degrees": 235.6,
-        "relative_degrees": 0,
-        "clock_face": "3 o-clock crosswind from right",
-        "description": "3 o-clock crosswind from right (crosswind)"
+        "relative_degrees": 274.4,
+        "clock_face": "9 o-clock crosswind from left",
+        "description": "9 o-clock crosswind from left conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With a 3 o-clock crosswind from right, your RHBH flight plate is exposed \u2014 throw a controlled RHFH with an overstable disc to fight the leftward push on this 248ft par 3."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 3 (Yellow) at 248ft par 3 with 9 o-clock crosswind from left, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "The 3 o-clock crosswind from right is favorable for RHFH \u2014 use a stable disc with a hyzer release to let the wind carry your shot toward the target on this 248ft hole."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 3 (Yellow), use a RHFH to handle the 9 o-clock crosswind from left. The 248ft Yellow layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With a 3 o-clock crosswind from right, your LHBH fade goes right and wind pushes left \u2014 they work together, so throw a stable disc with controlled power on this 248ft par 3."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 3 (Yellow) facing 9 o-clock crosswind from left, a LHBH provides stability for the 248ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "The 3 o-clock crosswind from right exposes your LHFH flight plate \u2014 prefer LHBH with a stable disc to let the wind work with your natural fade on this 248ft hole."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 3 (Yellow), a LHFH handles the 9 o-clock crosswind from left well. The Yellow layout's 248ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 3,
+      "hole_number": "3",
       "hole_label": "Hole 3 (White)",
       "wind_info": {
         "azimuth_degrees": 231.7,
-        "relative_degrees": 0,
-        "clock_face": "3 o-clock crosswind from right",
-        "description": "3 o-clock crosswind from right (crosswind)"
+        "relative_degrees": 278.3,
+        "clock_face": "9 o-clock crosswind from left",
+        "description": "9 o-clock crosswind from left conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With a 3 o-clock crosswind from right, your RHBH flight plate is exposed \u2014 throw a controlled RHFH with an overstable disc to fight the leftward push on this 420ft par 4."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 3 (White) at 420ft par 4 with 9 o-clock crosswind from left, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "The 3 o-clock crosswind from right is favorable for RHFH \u2014 use a stable disc with a hyzer release to let the wind carry your shot toward the target on this 420ft hole."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 3 (White), use a RHFH to handle the 9 o-clock crosswind from left. The 420ft White layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With a 3 o-clock crosswind from right, your LHBH fade goes right and wind pushes left \u2014 they work together, so throw a stable disc with controlled power on this 420ft par 4."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 3 (White) facing 9 o-clock crosswind from left, a LHBH provides stability for the 420ft par 4."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "The 3 o-clock crosswind from right exposes your LHFH flight plate \u2014 prefer LHBH with a stable disc to let the wind work with your natural fade on this 420ft hole."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 3 (White), a LHFH handles the 9 o-clock crosswind from left well. The White layout's 420ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 3,
+      "hole_number": "3",
       "hole_label": "Hole 3 (Blue)",
       "wind_info": {
         "azimuth_degrees": 219.3,
-        "relative_degrees": 0,
-        "clock_face": "4 o-clock",
-        "description": "4 o-clock (crosswind)"
+        "relative_degrees": 290.7,
+        "clock_face": "10 o-clock",
+        "description": "10 o-clock conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 591ft par 4."
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 3 (Blue) at 591ft par 4 with 10 o-clock, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 591ft."
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 3 (Blue), use a RHFH to handle the 10 o-clock. The 591ft Blue layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 591ft par 4."
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 3 (Blue) facing 10 o-clock, a LHBH provides stability for the 591ft par 4."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 591ft."
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 3 (Blue), a LHFH handles the 10 o-clock well. The Blue layout's 591ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 4,
+      "hole_number": "4",
       "hole_label": "Hole 4 (Yellow)",
       "wind_info": {
         "azimuth_degrees": 168.6,
-        "relative_degrees": 0,
-        "clock_face": "5 o-clock",
-        "description": "5 o-clock (tailwind)"
+        "relative_degrees": 341.4,
+        "clock_face": "11 o-clock",
+        "description": "11 o-clock conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 500ft par 4."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 4 (Yellow) at 500ft par 4 with 11 o-clock, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 500ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 4 (Yellow), use a RHFH to handle the 11 o-clock. The 500ft Yellow layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 500ft par 4."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 4 (Yellow) facing 11 o-clock, a LHBH provides stability for the 500ft par 4."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 500ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 4 (Yellow), a LHFH handles the 11 o-clock well. The Yellow layout's 500ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 4,
+      "hole_number": "4",
       "hole_label": "Hole 4 (White)",
       "wind_info": {
         "azimuth_degrees": 164.4,
-        "relative_degrees": 0,
-        "clock_face": "5 o-clock",
-        "description": "5 o-clock (tailwind)"
+        "relative_degrees": 345.6,
+        "clock_face": "12 o-clock headwind",
+        "description": "12 o-clock headwind conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 814ft par 4."
+          "disc_recommendation": "Distance driver",
+          "shot_strategy": "For Hole 4 (White) at 814ft par 4 with 12 o-clock headwind, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 814ft."
+          "disc_recommendation": "Distance driver",
+          "shot_strategy": "On Hole 4 (White), use a RHFH to handle the 12 o-clock headwind. The 814ft White layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 814ft par 4."
+          "disc_recommendation": "Distance driver",
+          "shot_strategy": "For Hole 4 (White) facing 12 o-clock headwind, a LHBH provides stability for the 814ft par 4."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 814ft."
+          "disc_recommendation": "Distance driver",
+          "shot_strategy": "On Hole 4 (White), a LHFH handles the 12 o-clock headwind well. The White layout's 814ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 4,
+      "hole_number": "4",
       "hole_label": "Hole 4 (Blue)",
       "wind_info": {
         "azimuth_degrees": 167.1,
-        "relative_degrees": 0,
-        "clock_face": "5 o-clock",
-        "description": "5 o-clock (tailwind)"
+        "relative_degrees": 342.9,
+        "clock_face": "11 o-clock",
+        "description": "11 o-clock conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 1014ft par 5."
+          "disc_recommendation": "Distance driver",
+          "shot_strategy": "For Hole 4 (Blue) at 1014ft par 5 with 11 o-clock, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 1014ft."
+          "disc_recommendation": "Distance driver",
+          "shot_strategy": "On Hole 4 (Blue), use a RHFH to handle the 11 o-clock. The 1014ft Blue layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 1014ft par 5."
+          "disc_recommendation": "Distance driver",
+          "shot_strategy": "For Hole 4 (Blue) facing 11 o-clock, a LHBH provides stability for the 1014ft par 5."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 1014ft."
+          "disc_recommendation": "Distance driver",
+          "shot_strategy": "On Hole 4 (Blue), a LHFH handles the 11 o-clock well. The Blue layout's 1014ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 5,
+      "hole_number": "5",
       "hole_label": "Hole 5 (Yellow)",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 0,
-        "clock_face": "2 o-clock",
-        "description": "2 o-clock (crosswind)"
+        "relative_degrees": 240.0,
+        "clock_face": "8 o-clock",
+        "description": "8 o-clock conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 196ft par 3. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 5 (Yellow) at 196ft par 3 with 8 o-clock, throw a controlled RHBH. Watch for Water on Hole 5."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 196ft. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 5 (Yellow), use a RHFH to handle the 8 o-clock. The 196ft Yellow layout demands accuracy. Watch for Water on Hole 5."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 196ft par 3. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 5 (Yellow) facing 8 o-clock, a LHBH provides stability for the 196ft par 3. Watch for Water on Hole 5."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 196ft. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 5 (Yellow), a LHFH handles the 8 o-clock well. The Yellow layout's 196ft distance requires controlled power. Watch for Water on Hole 5."
         }
       }
     },
     {
-      "hole_number": 5,
+      "hole_number": "5",
       "hole_label": "Hole 5 (White)",
       "wind_info": {
         "azimuth_degrees": 266.3,
-        "relative_degrees": 0,
-        "clock_face": "2 o-clock",
-        "description": "2 o-clock (crosswind)"
+        "relative_degrees": 243.7,
+        "clock_face": "8 o-clock",
+        "description": "8 o-clock conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 286ft par 3. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 5 (White) at 286ft par 3 with 8 o-clock, throw a controlled RHBH. Watch for Water on Hole 5."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 286ft. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 5 (White), use a RHFH to handle the 8 o-clock. The 286ft White layout demands accuracy. Watch for Water on Hole 5."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 286ft par 3. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 5 (White) facing 8 o-clock, a LHBH provides stability for the 286ft par 3. Watch for Water on Hole 5."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 286ft. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 5 (White), a LHFH handles the 8 o-clock well. The White layout's 286ft distance requires controlled power. Watch for Water on Hole 5."
         }
       }
     },
     {
-      "hole_number": 5,
+      "hole_number": "5",
       "hole_label": "Hole 5 (Blue)",
       "wind_info": {
         "azimuth_degrees": 270.0,
-        "relative_degrees": 0,
-        "clock_face": "2 o-clock",
-        "description": "2 o-clock (crosswind)"
+        "relative_degrees": 240.0,
+        "clock_face": "8 o-clock",
+        "description": "8 o-clock conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 366ft par 3. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 5 (Blue) at 366ft par 3 with 8 o-clock, throw a controlled RHBH. Watch for Water on Hole 5."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 366ft. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 5 (Blue), use a RHFH to handle the 8 o-clock. The 366ft Blue layout demands accuracy. Watch for Water on Hole 5."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 366ft par 3. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 5 (Blue) facing 8 o-clock, a LHBH provides stability for the 366ft par 3. Watch for Water on Hole 5."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 2 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 366ft. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 5 (Blue), a LHFH handles the 8 o-clock well. The Blue layout's 366ft distance requires controlled power. Watch for Water on Hole 5."
         }
       }
     },
     {
-      "hole_number": 6,
+      "hole_number": "6",
       "hole_label": "Hole 6 (Yellow)",
       "wind_info": {
         "azimuth_degrees": 229.4,
-        "relative_degrees": 0,
-        "clock_face": "3 o-clock crosswind from right",
-        "description": "3 o-clock crosswind from right (crosswind)"
+        "relative_degrees": 280.6,
+        "clock_face": "9 o-clock crosswind from left",
+        "description": "9 o-clock crosswind from left conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With a 3 o-clock crosswind from right, your RHBH flight plate is exposed \u2014 throw a controlled RHFH with an overstable disc to fight the leftward push on this 480ft par 4. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 6 (Yellow) at 480ft par 4 with 9 o-clock crosswind from left, throw a controlled RHBH. Watch for Water on Hole 6."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "The 3 o-clock crosswind from right is favorable for RHFH \u2014 use a stable disc with a hyzer release to let the wind carry your shot toward the target on this 480ft hole. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 6 (Yellow), use a RHFH to handle the 9 o-clock crosswind from left. The 480ft Yellow layout demands accuracy. Watch for Water on Hole 6."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With a 3 o-clock crosswind from right, your LHBH fade goes right and wind pushes left \u2014 they work together, so throw a stable disc with controlled power on this 480ft par 4. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 6 (Yellow) facing 9 o-clock crosswind from left, a LHBH provides stability for the 480ft par 4. Watch for Water on Hole 6."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "The 3 o-clock crosswind from right exposes your LHFH flight plate \u2014 prefer LHBH with a stable disc to let the wind work with your natural fade on this 480ft hole. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 6 (Yellow), a LHFH handles the 9 o-clock crosswind from left well. The Yellow layout's 480ft distance requires controlled power. Watch for Water on Hole 6."
         }
       }
     },
     {
-      "hole_number": 6,
+      "hole_number": "6",
       "hole_label": "Hole 6 (White)",
       "wind_info": {
         "azimuth_degrees": 233.0,
-        "relative_degrees": 0,
-        "clock_face": "3 o-clock crosswind from right",
-        "description": "3 o-clock crosswind from right (crosswind)"
+        "relative_degrees": 277.0,
+        "clock_face": "9 o-clock crosswind from left",
+        "description": "9 o-clock crosswind from left conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With a 3 o-clock crosswind from right, your RHBH flight plate is exposed \u2014 throw a controlled RHFH with an overstable disc to fight the leftward push on this 550ft par 4. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 6 (White) at 550ft par 4 with 9 o-clock crosswind from left, throw a controlled RHBH. Watch for Water on Hole 6."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "The 3 o-clock crosswind from right is favorable for RHFH \u2014 use a stable disc with a hyzer release to let the wind carry your shot toward the target on this 550ft hole. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 6 (White), use a RHFH to handle the 9 o-clock crosswind from left. The 550ft White layout demands accuracy. Watch for Water on Hole 6."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With a 3 o-clock crosswind from right, your LHBH fade goes right and wind pushes left \u2014 they work together, so throw a stable disc with controlled power on this 550ft par 4. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 6 (White) facing 9 o-clock crosswind from left, a LHBH provides stability for the 550ft par 4. Watch for Water on Hole 6."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "The 3 o-clock crosswind from right exposes your LHFH flight plate \u2014 prefer LHBH with a stable disc to let the wind work with your natural fade on this 550ft hole. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 6 (White), a LHFH handles the 9 o-clock crosswind from left well. The White layout's 550ft distance requires controlled power. Watch for Water on Hole 6."
         }
       }
     },
     {
-      "hole_number": 6,
+      "hole_number": "6",
       "hole_label": "Hole 6 (Blue)",
       "wind_info": {
         "azimuth_degrees": 216.3,
-        "relative_degrees": 0,
-        "clock_face": "4 o-clock",
-        "description": "4 o-clock (crosswind)"
+        "relative_degrees": 293.7,
+        "clock_face": "10 o-clock",
+        "description": "10 o-clock conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 696ft par 4. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 6 (Blue) at 696ft par 4 with 10 o-clock, throw a controlled RHBH. Watch for Water on Hole 6."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 696ft. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 6 (Blue), use a RHFH to handle the 10 o-clock. The 696ft Blue layout demands accuracy. Watch for Water on Hole 6."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 696ft par 4. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 6 (Blue) facing 10 o-clock, a LHBH provides stability for the 696ft par 4. Watch for Water on Hole 6."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 4 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 696ft. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 6 (Blue), a LHFH handles the 10 o-clock well. The Blue layout's 696ft distance requires controlled power. Watch for Water on Hole 6."
         }
       }
     },
     {
-      "hole_number": 7,
-      "hole_label": "Hole 7 (Yellow)",
+      "hole_number": "7",
+      "hole_label": "7(Yellow)",
       "wind_info": {
-        "azimuth_degrees": 176.6,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "5 o-clock",
-        "description": "5 o-clock (tailwind)"
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "9 o'clock crosswind from right conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 295ft par 3."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 7 (Yellow) at 295ft par 3 with a 9 o'clock crosswind from right, throw a controlled RHBH. The Yellow layout requires precise wind management for this distance."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 295ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 7 (Yellow), use a RHFH to handle the 9 o'clock crosswind from right. The 295ft Yellow layout demands accuracy in these conditions."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 295ft par 3."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 7 (Yellow) facing a 9 o'clock crosswind from right, a LHBH provides stability for the 295ft par 3. Adjust your release for the crosswind effect."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 295ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 7 (Yellow), a LHFH handles the 9 o'clock crosswind from right well. The Yellow layout's 295ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 7,
-      "hole_label": "Hole 7 (White)",
+      "hole_number": "7",
+      "hole_label": "7(White)",
       "wind_info": {
-        "azimuth_degrees": 182.2,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "5 o-clock",
-        "description": "5 o-clock (tailwind)"
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "9 o'clock crosswind from right conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 535ft par 4."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 7 (White) at 535ft par 4 with a 9 o'clock crosswind from right, throw a controlled RHBH. The White layout requires precise wind management for this distance."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 535ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 7 (White), use a RHFH to handle the 9 o'clock crosswind from right. The 535ft White layout demands accuracy in these conditions."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 535ft par 4."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 7 (White) facing a 9 o'clock crosswind from right, a LHBH provides stability for the 535ft par 4. Adjust your release for the crosswind effect."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 535ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 7 (White), a LHFH handles the 9 o'clock crosswind from right well. The White layout's 535ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 7,
-      "hole_label": "Hole 7 (Blue)",
+      "hole_number": "7",
+      "hole_label": "7(Blue)",
       "wind_info": {
-        "azimuth_degrees": 164.8,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "5 o-clock",
-        "description": "5 o-clock (tailwind)"
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "9 o'clock crosswind from right conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 675ft par 4."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 7 (Blue) at 675ft par 4 with a 9 o'clock crosswind from right, throw a controlled RHBH. The Blue layout requires precise wind management for this distance."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 675ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 7 (Blue), use a RHFH to handle the 9 o'clock crosswind from right. The 675ft Blue layout demands accuracy in these conditions."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 675ft par 4."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 7 (Blue) facing a 9 o'clock crosswind from right, a LHBH provides stability for the 675ft par 4. Adjust your release for the crosswind effect."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 675ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 7 (Blue), a LHFH handles the 9 o'clock crosswind from right well. The Blue layout's 675ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 8,
-      "hole_label": "Hole 8 (Yellow)",
+      "hole_number": "8",
+      "hole_label": "8(Yellow)",
       "wind_info": {
-        "azimuth_degrees": 356.3,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "11 o-clock",
-        "description": "11 o-clock (headwind)"
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "3 o'clock crosswind from left conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 412ft par 4. OB: Roadway and beyond (left side)"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 8 (Yellow) at 412ft par 4 with a 3 o'clock crosswind from left, throw a controlled RHBH. The Yellow layout requires precise wind management for this distance. Watch for OB areas on Hole 8 - the Yellow layout has specific boundary considerations."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 412ft. OB: Roadway and beyond (left side)"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 8 (Yellow), use a RHFH to handle the 3 o'clock crosswind from left. The 412ft Yellow layout demands accuracy in these conditions. Watch for OB areas on Hole 8 - the Yellow layout has specific boundary considerations."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 412ft par 4. OB: Roadway and beyond (left side)"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 8 (Yellow) facing a 3 o'clock crosswind from left, a LHBH provides stability for the 412ft par 4. Adjust your release for the crosswind effect. Watch for OB areas on Hole 8 - the Yellow layout has specific boundary considerations."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 412ft. OB: Roadway and beyond (left side)"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 8 (Yellow), a LHFH handles the 3 o'clock crosswind from left well. The Yellow layout's 412ft distance requires controlled power. Watch for OB areas on Hole 8 - the Yellow layout has specific boundary considerations."
         }
       }
     },
     {
-      "hole_number": 8,
-      "hole_label": "Hole 8 (White)",
+      "hole_number": "8",
+      "hole_label": "8(White)",
       "wind_info": {
-        "azimuth_degrees": 0.1,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "11 o-clock",
-        "description": "11 o-clock (headwind)"
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "3 o'clock crosswind from left conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 600ft par 4. OB: Roadway and beyond (left side)"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 8 (White) at 600ft par 4 with a 3 o'clock crosswind from left, throw a controlled RHBH. The White layout requires precise wind management for this distance. Watch for OB areas on Hole 8 - the White layout has specific boundary considerations."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 600ft. OB: Roadway and beyond (left side)"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 8 (White), use a RHFH to handle the 3 o'clock crosswind from left. The 600ft White layout demands accuracy in these conditions. Watch for OB areas on Hole 8 - the White layout has specific boundary considerations."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 600ft par 4. OB: Roadway and beyond (left side)"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 8 (White) facing a 3 o'clock crosswind from left, a LHBH provides stability for the 600ft par 4. Adjust your release for the crosswind effect. Watch for OB areas on Hole 8 - the White layout has specific boundary considerations."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 600ft. OB: Roadway and beyond (left side)"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 8 (White), a LHFH handles the 3 o'clock crosswind from left well. The White layout's 600ft distance requires controlled power. Watch for OB areas on Hole 8 - the White layout has specific boundary considerations."
         }
       }
     },
     {
-      "hole_number": 8,
-      "hole_label": "Hole 8 (Blue)",
+      "hole_number": "8",
+      "hole_label": "8(Blue)",
       "wind_info": {
-        "azimuth_degrees": 347.4,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "11 o-clock",
-        "description": "11 o-clock (headwind)"
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "3 o'clock crosswind from left conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 776ft par 4. OB: Roadway and beyond (left side)"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 8 (Blue) at 776ft par 4 with a 3 o'clock crosswind from left, throw a controlled RHBH. The Blue layout requires precise wind management for this distance. Watch for OB areas on Hole 8 - the Blue layout has specific boundary considerations."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 776ft. OB: Roadway and beyond (left side)"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 8 (Blue), use a RHFH to handle the 3 o'clock crosswind from left. The 776ft Blue layout demands accuracy in these conditions. Watch for OB areas on Hole 8 - the Blue layout has specific boundary considerations."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 776ft par 4. OB: Roadway and beyond (left side)"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 8 (Blue) facing a 3 o'clock crosswind from left, a LHBH provides stability for the 776ft par 4. Adjust your release for the crosswind effect. Watch for OB areas on Hole 8 - the Blue layout has specific boundary considerations."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 776ft. OB: Roadway and beyond (left side)"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 8 (Blue), a LHFH handles the 3 o'clock crosswind from left well. The Blue layout's 776ft distance requires controlled power. Watch for OB areas on Hole 8 - the Blue layout has specific boundary considerations."
         }
       }
     },
     {
-      "hole_number": 9,
-      "hole_label": "Hole 9 (Yellow)",
+      "hole_number": "9",
+      "hole_label": "9(Yellow/White/Blue)",
       "wind_info": {
-        "azimuth_degrees": 296.3,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "1 o-clock",
-        "description": "1 o-clock (headwind)"
+        "clock_face": "headwind",
+        "description": "Headwind conditions"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 195ft par 3. Note: All three layouts (Yellow, White, Blue) play to the same physical basket. OB: Roadway is OB, fence behind basket"
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 9 with a headwind, throw a controlled RHBH with an overstable disc to maintain stability. Since all three layouts share the same basket, focus on wind management rather than distance variation. Watch for OB areas - adjust your line to stay in bounds."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 195ft. Note: All three layouts (Yellow, White, Blue) play to the same physical basket. OB: Roadway is OB, fence behind basket"
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 9, use a RHFH with an overstable fairway driver to combat the headwind. The shared basket means wind strategy is identical across Yellow, White, and Blue layouts. Watch for OB areas - adjust your line to stay in bounds."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 195ft par 3. Note: All three layouts (Yellow, White, Blue) play to the same physical basket. OB: Roadway is OB, fence behind basket"
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 9 facing a headwind, a LHBH with an overstable driver provides necessary stability. All layouts converge on the same target, so wind management is key. Watch for OB areas - adjust your line to stay in bounds."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 195ft. Note: All three layouts (Yellow, White, Blue) play to the same physical basket. OB: Roadway is OB, fence behind basket"
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 9, a LHFH with an overstable fairway driver is recommended to fight the headwind. The shared basket simplifies strategy across all layout distances. Watch for OB areas - adjust your line to stay in bounds."
         }
       }
     },
     {
-      "hole_number": 9,
-      "hole_label": "Hole 9 (White)",
+      "hole_number": "10",
+      "hole_label": "10(Yellow)",
       "wind_info": {
-        "azimuth_degrees": 296.3,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "1 o-clock",
-        "description": "1 o-clock (headwind)"
+        "clock_face": "tailwind",
+        "description": "Tailwind conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 195ft par 3. Note: All three layouts (Yellow, White, Blue) play to the same physical basket. OB: Roadway is OB, fence behind basket"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 10 (Yellow) at 388ft par 4 with a tailwind, throw a controlled RHBH. The Yellow layout requires precise wind management for this distance. Watch for OB areas on Hole 10 - the Yellow layout has specific boundary considerations. Be aware of hazard areas on Hole 10 - landing in marked zones incurs penalty strokes."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 195ft. Note: All three layouts (Yellow, White, Blue) play to the same physical basket. OB: Roadway is OB, fence behind basket"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 10 (Yellow), use a RHFH to handle the tailwind. The 388ft Yellow layout demands accuracy in these conditions. Watch for OB areas on Hole 10 - the Yellow layout has specific boundary considerations. Be aware of hazard areas on Hole 10 - landing in marked zones incurs penalty strokes."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 195ft par 3. Note: All three layouts (Yellow, White, Blue) play to the same physical basket. OB: Roadway is OB, fence behind basket"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 10 (Yellow) facing a tailwind, a LHBH provides stability for the 388ft par 4. Adjust your release for the crosswind effect. Watch for OB areas on Hole 10 - the Yellow layout has specific boundary considerations. Be aware of hazard areas on Hole 10 - landing in marked zones incurs penalty strokes."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 195ft. Note: All three layouts (Yellow, White, Blue) play to the same physical basket. OB: Roadway is OB, fence behind basket"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 10 (Yellow), a LHFH handles the tailwind well. The Yellow layout's 388ft distance requires controlled power. Watch for OB areas on Hole 10 - the Yellow layout has specific boundary considerations. Be aware of hazard areas on Hole 10 - landing in marked zones incurs penalty strokes."
         }
       }
     },
     {
-      "hole_number": 9,
-      "hole_label": "Hole 9 (Blue)",
+      "hole_number": "10",
+      "hole_label": "10(White)",
       "wind_info": {
-        "azimuth_degrees": 296.3,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "1 o-clock",
-        "description": "1 o-clock (headwind)"
+        "clock_face": "tailwind",
+        "description": "Tailwind conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 195ft par 3. Note: All three layouts (Yellow, White, Blue) play to the same physical basket. OB: Roadway is OB, fence behind basket"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 10 (White) at 637ft par 4 with a tailwind, throw a controlled RHBH. The White layout requires precise wind management for this distance. Watch for OB areas on Hole 10 - the White layout has specific boundary considerations. Be aware of hazard areas on Hole 10 - landing in marked zones incurs penalty strokes."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 195ft. Note: All three layouts (Yellow, White, Blue) play to the same physical basket. OB: Roadway is OB, fence behind basket"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 10 (White), use a RHFH to handle the tailwind. The 637ft White layout demands accuracy in these conditions. Watch for OB areas on Hole 10 - the White layout has specific boundary considerations. Be aware of hazard areas on Hole 10 - landing in marked zones incurs penalty strokes."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 195ft par 3. Note: All three layouts (Yellow, White, Blue) play to the same physical basket. OB: Roadway is OB, fence behind basket"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 10 (White) facing a tailwind, a LHBH provides stability for the 637ft par 4. Adjust your release for the crosswind effect. Watch for OB areas on Hole 10 - the White layout has specific boundary considerations. Be aware of hazard areas on Hole 10 - landing in marked zones incurs penalty strokes."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 195ft. Note: All three layouts (Yellow, White, Blue) play to the same physical basket. OB: Roadway is OB, fence behind basket"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 10 (White), a LHFH handles the tailwind well. The White layout's 637ft distance requires controlled power. Watch for OB areas on Hole 10 - the White layout has specific boundary considerations. Be aware of hazard areas on Hole 10 - landing in marked zones incurs penalty strokes."
         }
       }
     },
     {
-      "hole_number": 10,
-      "hole_label": "Hole 10 (Yellow)",
+      "hole_number": "10",
+      "hole_label": "10(Blue)",
       "wind_info": {
-        "azimuth_degrees": 353.5,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "11 o-clock",
-        "description": "11 o-clock (headwind)"
+        "clock_face": "tailwind",
+        "description": "Tailwind conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 388ft par 4. OB: Water Hazard: Sand trap near blue basket (1 stroke penalty)"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 10 (Blue) at 1003ft par 5 with a tailwind, throw a controlled RHBH. The Blue layout requires precise wind management for this distance. Watch for OB areas on Hole 10 - the Blue layout has specific boundary considerations. Be aware of hazard areas on Hole 10 - landing in marked zones incurs penalty strokes."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 388ft. OB: Water Hazard: Sand trap near blue basket (1 stroke penalty)"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 10 (Blue), use a RHFH to handle the tailwind. The 1003ft Blue layout demands accuracy in these conditions. Watch for OB areas on Hole 10 - the Blue layout has specific boundary considerations. Be aware of hazard areas on Hole 10 - landing in marked zones incurs penalty strokes."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 388ft par 4. OB: Water Hazard: Sand trap near blue basket (1 stroke penalty)"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 10 (Blue) facing a tailwind, a LHBH provides stability for the 1003ft par 5. Adjust your release for the crosswind effect. Watch for OB areas on Hole 10 - the Blue layout has specific boundary considerations. Be aware of hazard areas on Hole 10 - landing in marked zones incurs penalty strokes."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 388ft. OB: Water Hazard: Sand trap near blue basket (1 stroke penalty)"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 10 (Blue), a LHFH handles the tailwind well. The Blue layout's 1003ft distance requires controlled power. Watch for OB areas on Hole 10 - the Blue layout has specific boundary considerations. Be aware of hazard areas on Hole 10 - landing in marked zones incurs penalty strokes."
         }
       }
     },
     {
-      "hole_number": 10,
-      "hole_label": "Hole 10 (White)",
+      "hole_number": "11",
+      "hole_label": "11(Yellow)",
       "wind_info": {
-        "azimuth_degrees": 357.3,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "11 o-clock",
-        "description": "11 o-clock (headwind)"
+        "clock_face": "headwind",
+        "description": "Headwind conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 637ft par 4. OB: Water Hazard: Sand trap near blue basket (1 stroke penalty)"
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 11 (Yellow) at 487ft par 4 with a headwind, throw a controlled RHBH. The Yellow layout requires precise wind management for this distance."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 637ft. OB: Water Hazard: Sand trap near blue basket (1 stroke penalty)"
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 11 (Yellow), use a RHFH to handle the headwind. The 487ft Yellow layout demands accuracy in these conditions."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 637ft par 4. OB: Water Hazard: Sand trap near blue basket (1 stroke penalty)"
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 11 (Yellow) facing a headwind, a LHBH provides stability for the 487ft par 4. Adjust your release for the crosswind effect."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 637ft. OB: Water Hazard: Sand trap near blue basket (1 stroke penalty)"
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 11 (Yellow), a LHFH handles the headwind well. The Yellow layout's 487ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 10,
-      "hole_label": "Hole 10 (Blue)",
+      "hole_number": "11",
+      "hole_label": "11(White)",
       "wind_info": {
-        "azimuth_degrees": 344.3,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "11 o-clock",
-        "description": "11 o-clock (headwind)"
+        "clock_face": "headwind",
+        "description": "Headwind conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 1003ft par 5. OB: Water Hazard: Sand trap near blue basket (1 stroke penalty)"
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 11 (White) at 520ft par 4 with a headwind, throw a controlled RHBH. The White layout requires precise wind management for this distance."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 1003ft. OB: Water Hazard: Sand trap near blue basket (1 stroke penalty)"
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 11 (White), use a RHFH to handle the headwind. The 520ft White layout demands accuracy in these conditions."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 1003ft par 5. OB: Water Hazard: Sand trap near blue basket (1 stroke penalty)"
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 11 (White) facing a headwind, a LHBH provides stability for the 520ft par 4. Adjust your release for the crosswind effect."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 1003ft. OB: Water Hazard: Sand trap near blue basket (1 stroke penalty)"
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 11 (White), a LHFH handles the headwind well. The White layout's 520ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 11,
-      "hole_label": "Hole 11 (Yellow)",
+      "hole_number": "11",
+      "hole_label": "11(Blue)",
       "wind_info": {
-        "azimuth_degrees": 79.9,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "8 o-clock",
-        "description": "8 o-clock (crosswind)"
+        "clock_face": "headwind",
+        "description": "Headwind conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 487ft par 4."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 11 (Blue) at 679ft par 4 with a headwind, throw a controlled RHBH. The Blue layout requires precise wind management for this distance."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 487ft."
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 11 (Blue), use a RHFH to handle the headwind. The 679ft Blue layout demands accuracy in these conditions."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 487ft par 4."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 11 (Blue) facing a headwind, a LHBH provides stability for the 679ft par 4. Adjust your release for the crosswind effect."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 487ft."
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 11 (Blue), a LHFH handles the headwind well. The Blue layout's 679ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 11,
-      "hole_label": "Hole 11 (White)",
+      "hole_number": "12",
+      "hole_label": "12(Yellow)",
       "wind_info": {
-        "azimuth_degrees": 71.1,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "9 o-clock crosswind from left",
-        "description": "9 o-clock crosswind from left (crosswind)"
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With a 9 o-clock crosswind from left, your RHBH is protected \u2014 throw a stable disc with a hyzer release to let the wind work with your natural fade on this 520ft par 4."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 12 (Yellow) at 202ft par 3 with a 12 o'clock headwind, throw a controlled RHBH. The Yellow layout requires precise wind management for this distance. Watch for OB areas on Hole 12 - the Yellow layout has specific boundary considerations."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "The 9 o-clock crosswind from left exposes your RHFH flight plate \u2014 prefer RHBH with an overstable disc to fight the rightward push on this 520ft hole."
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 12 (Yellow), use a RHFH to handle the 12 o'clock headwind. The 202ft Yellow layout demands accuracy in these conditions. Watch for OB areas on Hole 12 - the Yellow layout has specific boundary considerations."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With a 9 o-clock crosswind from left, your LHBH fade right AND wind pushes right \u2014 double trouble, so prefer LHFH with an overstable disc to fight the push on this 520ft par 4."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 12 (Yellow) facing a 12 o'clock headwind, a LHBH provides stability for the 202ft par 3. Adjust your release for the crosswind effect. Watch for OB areas on Hole 12 - the Yellow layout has specific boundary considerations."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "The 9 o-clock crosswind from left is favorable for LHFH \u2014 use a stable disc with a hyzer release to let the wind carry your shot toward the target on this 520ft hole."
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 12 (Yellow), a LHFH handles the 12 o'clock headwind well. The Yellow layout's 202ft distance requires controlled power. Watch for OB areas on Hole 12 - the Yellow layout has specific boundary considerations."
         }
       }
     },
     {
-      "hole_number": 11,
-      "hole_label": "Hole 11 (Blue)",
+      "hole_number": "12",
+      "hole_label": "12(White)",
       "wind_info": {
-        "azimuth_degrees": 83.5,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "8 o-clock",
-        "description": "8 o-clock (crosswind)"
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 679ft par 4."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 12 (White) at 256ft par 3 with a 12 o'clock headwind, throw a controlled RHBH. The White layout requires precise wind management for this distance. Watch for OB areas on Hole 12 - the White layout has specific boundary considerations."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 679ft."
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 12 (White), use a RHFH to handle the 12 o'clock headwind. The 256ft White layout demands accuracy in these conditions. Watch for OB areas on Hole 12 - the White layout has specific boundary considerations."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 679ft par 4."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 12 (White) facing a 12 o'clock headwind, a LHBH provides stability for the 256ft par 3. Adjust your release for the crosswind effect. Watch for OB areas on Hole 12 - the White layout has specific boundary considerations."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 679ft."
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 12 (White), a LHFH handles the 12 o'clock headwind well. The White layout's 256ft distance requires controlled power. Watch for OB areas on Hole 12 - the White layout has specific boundary considerations."
         }
       }
     },
     {
-      "hole_number": 12,
-      "hole_label": "Hole 12 (Yellow)",
+      "hole_number": "12",
+      "hole_label": "12(Blue)",
       "wind_info": {
-        "azimuth_degrees": 306.5,
+        "azimuth_degrees": 0,
         "relative_degrees": 0,
-        "clock_face": "1 o-clock",
-        "description": "1 o-clock (headwind)"
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 202ft par 3. OB: River"
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 12 (Blue) at 414ft par 3 with a 12 o'clock headwind, throw a controlled RHBH. The Blue layout requires precise wind management for this distance. Watch for OB areas on Hole 12 - the Blue layout has specific boundary considerations."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 202ft. OB: River"
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 12 (Blue), use a RHFH to handle the 12 o'clock headwind. The 414ft Blue layout demands accuracy in these conditions. Watch for OB areas on Hole 12 - the Blue layout has specific boundary considerations."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 202ft par 3. OB: River"
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 12 (Blue) facing a 12 o'clock headwind, a LHBH provides stability for the 414ft par 3. Adjust your release for the crosswind effect. Watch for OB areas on Hole 12 - the Blue layout has specific boundary considerations."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 1 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 202ft. OB: River"
+          "disc_recommendation": "Overstable fairway",
+          "shot_strategy": "On Hole 12 (Blue), a LHFH handles the 12 o'clock headwind well. The Blue layout's 414ft distance requires controlled power. Watch for OB areas on Hole 12 - the Blue layout has specific boundary considerations."
         }
       }
     },
     {
-      "hole_number": 12,
-      "hole_label": "Hole 12 (White)",
-      "wind_info": {
-        "azimuth_degrees": 316.5,
-        "relative_degrees": 0,
-        "clock_face": "12 o-clock headwind",
-        "description": "12 o-clock headwind (headwind)"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your RHBH needs extra stability \u2014 throw an overstable disc with more power to fight the wind on this 256ft par 3. OB: River"
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong RHFH \u2014 use an overstable disc with full power and a flat release to penetrate through the wind on this 256ft hole. OB: River"
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your LHBH needs extra stability \u2014 throw an overstable disc with committed power to penetrate the wind on this 256ft par 3. OB: River"
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong LHFH \u2014 use an overstable disc with full power and a flat release to fight through the wind on this 256ft hole. OB: River"
-        }
-      }
-    },
-    {
-      "hole_number": 12,
-      "hole_label": "Hole 12 (Blue)",
-      "wind_info": {
-        "azimuth_degrees": 330.0,
-        "relative_degrees": 0,
-        "clock_face": "12 o-clock headwind",
-        "description": "12 o-clock headwind (headwind)"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your RHBH needs extra stability \u2014 throw an overstable disc with more power to fight the wind on this 414ft par 3. OB: River"
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong RHFH \u2014 use an overstable disc with full power and a flat release to penetrate through the wind on this 414ft hole. OB: River"
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your LHBH needs extra stability \u2014 throw an overstable disc with committed power to penetrate the wind on this 414ft par 3. OB: River"
-        },
-        "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong LHFH \u2014 use an overstable disc with full power and a flat release to fight through the wind on this 414ft hole. OB: River"
-        }
-      }
-    },
-    {
-      "hole_number": 13,
+      "hole_number": "13",
       "hole_label": "Hole 13 (Yellow)",
       "wind_info": {
         "azimuth_degrees": 322.9,
-        "relative_degrees": 0,
-        "clock_face": "12 o-clock headwind",
-        "description": "12 o-clock headwind (headwind)"
+        "relative_degrees": 187.1,
+        "clock_face": "6 o-clock tailwind",
+        "description": "6 o-clock tailwind conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your RHBH needs extra stability \u2014 throw an overstable disc with more power to fight the wind on this 229ft par 3."
+          "disc_recommendation": "Neutral midrange",
+          "shot_strategy": "For Hole 13 (Yellow) at 229ft par 3 with 6 o-clock tailwind, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong RHFH \u2014 use an overstable disc with full power and a flat release to penetrate through the wind on this 229ft hole."
+          "disc_recommendation": "Neutral midrange",
+          "shot_strategy": "On Hole 13 (Yellow), use a RHFH to handle the 6 o-clock tailwind. The 229ft Yellow layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your LHBH needs extra stability \u2014 throw an overstable disc with committed power to penetrate the wind on this 229ft par 3."
+          "disc_recommendation": "Neutral midrange",
+          "shot_strategy": "For Hole 13 (Yellow) facing 6 o-clock tailwind, a LHBH provides stability for the 229ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong LHFH \u2014 use an overstable disc with full power and a flat release to fight through the wind on this 229ft hole."
+          "disc_recommendation": "Neutral midrange",
+          "shot_strategy": "On Hole 13 (Yellow), a LHFH handles the 6 o-clock tailwind well. The Yellow layout's 229ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 13,
+      "hole_number": "13",
       "hole_label": "Hole 13 (White)",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 0,
-        "clock_face": "12 o-clock headwind",
-        "description": "12 o-clock headwind (headwind)"
+        "relative_degrees": 180.0,
+        "clock_face": "6 o-clock tailwind",
+        "description": "6 o-clock tailwind conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your RHBH needs extra stability \u2014 throw an overstable disc with more power to fight the wind on this 500ft par 4."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 13 (White) at 500ft par 4 with 6 o-clock tailwind, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong RHFH \u2014 use an overstable disc with full power and a flat release to penetrate through the wind on this 500ft hole."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "On Hole 13 (White), use a RHFH to handle the 6 o-clock tailwind. The 500ft White layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your LHBH needs extra stability \u2014 throw an overstable disc with committed power to penetrate the wind on this 500ft par 4."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 13 (White) facing 6 o-clock tailwind, a LHBH provides stability for the 500ft par 4."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong LHFH \u2014 use an overstable disc with full power and a flat release to fight through the wind on this 500ft hole."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "On Hole 13 (White), a LHFH handles the 6 o-clock tailwind well. The White layout's 500ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 13,
+      "hole_number": "13",
       "hole_label": "Hole 13 (Blue)",
       "wind_info": {
         "azimuth_degrees": 332.0,
-        "relative_degrees": 0,
-        "clock_face": "12 o-clock headwind",
-        "description": "12 o-clock headwind (headwind)"
+        "relative_degrees": 178.0,
+        "clock_face": "6 o-clock tailwind",
+        "description": "6 o-clock tailwind conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your RHBH needs extra stability \u2014 throw an overstable disc with more power to fight the wind on this 413ft par 3."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 13 (Blue) at 413ft par 3 with 6 o-clock tailwind, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong RHFH \u2014 use an overstable disc with full power and a flat release to penetrate through the wind on this 413ft hole."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "On Hole 13 (Blue), use a RHFH to handle the 6 o-clock tailwind. The 413ft Blue layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your LHBH needs extra stability \u2014 throw an overstable disc with committed power to penetrate the wind on this 413ft par 3."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 13 (Blue) facing 6 o-clock tailwind, a LHBH provides stability for the 413ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong LHFH \u2014 use an overstable disc with full power and a flat release to fight through the wind on this 413ft hole."
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "On Hole 13 (Blue), a LHFH handles the 6 o-clock tailwind well. The Blue layout's 413ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 14,
+      "hole_number": "14",
       "hole_label": "Hole 14 (Yellow)",
       "wind_info": {
         "azimuth_degrees": 336.2,
-        "relative_degrees": 0,
-        "clock_face": "12 o-clock headwind",
-        "description": "12 o-clock headwind (headwind)"
+        "relative_degrees": 173.8,
+        "clock_face": "6 o-clock tailwind",
+        "description": "6 o-clock tailwind conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your RHBH needs extra stability \u2014 throw an overstable disc with more power to fight the wind on this 296ft par 3. OB: Creek area at bottom of hill \u2014 entire creek is OB"
+          "disc_recommendation": "Neutral midrange",
+          "shot_strategy": "For Hole 14 (Yellow) at 296ft par 3 with 6 o-clock tailwind, throw a controlled RHBH. Watch for Creek area at bottom of hill \u2014 entire creek is OB on Hole 14."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong RHFH \u2014 use an overstable disc with full power and a flat release to penetrate through the wind on this 296ft hole. OB: Creek area at bottom of hill \u2014 entire creek is OB"
+          "disc_recommendation": "Neutral midrange",
+          "shot_strategy": "On Hole 14 (Yellow), use a RHFH to handle the 6 o-clock tailwind. The 296ft Yellow layout demands accuracy. Watch for Creek area at bottom of hill \u2014 entire creek is OB on Hole 14."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your LHBH needs extra stability \u2014 throw an overstable disc with committed power to penetrate the wind on this 296ft par 3. OB: Creek area at bottom of hill \u2014 entire creek is OB"
+          "disc_recommendation": "Neutral midrange",
+          "shot_strategy": "For Hole 14 (Yellow) facing 6 o-clock tailwind, a LHBH provides stability for the 296ft par 3. Watch for Creek area at bottom of hill \u2014 entire creek is OB on Hole 14."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong LHFH \u2014 use an overstable disc with full power and a flat release to fight through the wind on this 296ft hole. OB: Creek area at bottom of hill \u2014 entire creek is OB"
+          "disc_recommendation": "Neutral midrange",
+          "shot_strategy": "On Hole 14 (Yellow), a LHFH handles the 6 o-clock tailwind well. The Yellow layout's 296ft distance requires controlled power. Watch for Creek area at bottom of hill \u2014 entire creek is OB on Hole 14."
         }
       }
     },
     {
-      "hole_number": 14,
+      "hole_number": "14",
       "hole_label": "Hole 14 (White)",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 0,
-        "clock_face": "12 o-clock headwind",
-        "description": "12 o-clock headwind (headwind)"
+        "relative_degrees": 180.0,
+        "clock_face": "6 o-clock tailwind",
+        "description": "6 o-clock tailwind conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your RHBH needs extra stability \u2014 throw an overstable disc with more power to fight the wind on this 399ft par 3. Note: White and Blue layouts play to the same physical basket. OB: Creek area at bottom of hill \u2014 entire creek is OB"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 14 (White) at 399ft par 3 with 6 o-clock tailwind, throw a controlled RHBH. Watch for Creek area at bottom of hill \u2014 entire creek is OB on Hole 14."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong RHFH \u2014 use an overstable disc with full power and a flat release to penetrate through the wind on this 399ft hole. Note: White and Blue layouts play to the same physical basket. OB: Creek area at bottom of hill \u2014 entire creek is OB"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "On Hole 14 (White), use a RHFH to handle the 6 o-clock tailwind. The 399ft White layout demands accuracy. Watch for Creek area at bottom of hill \u2014 entire creek is OB on Hole 14."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your LHBH needs extra stability \u2014 throw an overstable disc with committed power to penetrate the wind on this 399ft par 3. Note: White and Blue layouts play to the same physical basket. OB: Creek area at bottom of hill \u2014 entire creek is OB"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 14 (White) facing 6 o-clock tailwind, a LHBH provides stability for the 399ft par 3. Watch for Creek area at bottom of hill \u2014 entire creek is OB on Hole 14."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong LHFH \u2014 use an overstable disc with full power and a flat release to fight through the wind on this 399ft hole. Note: White and Blue layouts play to the same physical basket. OB: Creek area at bottom of hill \u2014 entire creek is OB"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "On Hole 14 (White), a LHFH handles the 6 o-clock tailwind well. The White layout's 399ft distance requires controlled power. Watch for Creek area at bottom of hill \u2014 entire creek is OB on Hole 14."
         }
       }
     },
     {
-      "hole_number": 14,
+      "hole_number": "14",
       "hole_label": "Hole 14 (Blue)",
       "wind_info": {
         "azimuth_degrees": 330.0,
-        "relative_degrees": 0,
-        "clock_face": "12 o-clock headwind",
-        "description": "12 o-clock headwind (headwind)"
+        "relative_degrees": 180.0,
+        "clock_face": "6 o-clock tailwind",
+        "description": "6 o-clock tailwind conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your RHBH needs extra stability \u2014 throw an overstable disc with more power to fight the wind on this 399ft par 3. Note: White and Blue layouts play to the same physical basket. OB: Creek area at bottom of hill \u2014 entire creek is OB"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 14 (Blue) at 399ft par 3 with 6 o-clock tailwind, throw a controlled RHBH. Watch for Creek area at bottom of hill \u2014 entire creek is OB on Hole 14."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong RHFH \u2014 use an overstable disc with full power and a flat release to penetrate through the wind on this 399ft hole. Note: White and Blue layouts play to the same physical basket. OB: Creek area at bottom of hill \u2014 entire creek is OB"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "On Hole 14 (Blue), use a RHFH to handle the 6 o-clock tailwind. The 399ft Blue layout demands accuracy. Watch for Creek area at bottom of hill \u2014 entire creek is OB on Hole 14."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "Facing a 12 o-clock headwind, your LHBH needs extra stability \u2014 throw an overstable disc with committed power to penetrate the wind on this 399ft par 3. Note: White and Blue layouts play to the same physical basket. OB: Creek area at bottom of hill \u2014 entire creek is OB"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 14 (Blue) facing 6 o-clock tailwind, a LHBH provides stability for the 399ft par 3. Watch for Creek area at bottom of hill \u2014 entire creek is OB on Hole 14."
         },
         "fh": {
-          "disc_recommendation": "Overstable",
-          "shot_strategy": "The 12 o-clock headwind requires a strong LHFH \u2014 use an overstable disc with full power and a flat release to fight through the wind on this 399ft hole. Note: White and Blue layouts play to the same physical basket. OB: Creek area at bottom of hill \u2014 entire creek is OB"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "On Hole 14 (Blue), a LHFH handles the 6 o-clock tailwind well. The Blue layout's 399ft distance requires controlled power. Watch for Creek area at bottom of hill \u2014 entire creek is OB on Hole 14."
         }
       }
     },
     {
-      "hole_number": 15,
+      "hole_number": "15",
       "hole_label": "Hole 15 (Yellow)",
       "wind_info": {
         "azimuth_degrees": 173.2,
-        "relative_degrees": 0,
-        "clock_face": "5 o-clock",
-        "description": "5 o-clock (tailwind)"
+        "relative_degrees": 336.8,
+        "clock_face": "11 o-clock",
+        "description": "11 o-clock conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 412ft par 4. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 15 (Yellow) at 412ft par 4 with 11 o-clock, throw a controlled RHBH. Watch for Water on Hole 15."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 412ft. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 15 (Yellow), use a RHFH to handle the 11 o-clock. The 412ft Yellow layout demands accuracy. Watch for Water on Hole 15."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 412ft par 4. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 15 (Yellow) facing 11 o-clock, a LHBH provides stability for the 412ft par 4. Watch for Water on Hole 15."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 412ft. OB: Water"
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 15 (Yellow), a LHFH handles the 11 o-clock well. The Yellow layout's 412ft distance requires controlled power. Watch for Water on Hole 15."
         }
       }
     },
     {
-      "hole_number": 15,
+      "hole_number": "15",
       "hole_label": "Hole 15 (White)",
       "wind_info": {
         "azimuth_degrees": 168.5,
-        "relative_degrees": 0,
-        "clock_face": "5 o-clock",
-        "description": "5 o-clock (tailwind)"
+        "relative_degrees": 341.5,
+        "clock_face": "11 o-clock",
+        "description": "11 o-clock conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 609ft par 4. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 15 (White) at 609ft par 4 with 11 o-clock, throw a controlled RHBH. Watch for Water on Hole 15."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 609ft. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 15 (White), use a RHFH to handle the 11 o-clock. The 609ft White layout demands accuracy. Watch for Water on Hole 15."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 609ft par 4. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "For Hole 15 (White) facing 11 o-clock, a LHBH provides stability for the 609ft par 4. Watch for Water on Hole 15."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 609ft. OB: Water"
+          "disc_recommendation": "Fairway driver",
+          "shot_strategy": "On Hole 15 (White), a LHFH handles the 11 o-clock well. The White layout's 609ft distance requires controlled power. Watch for Water on Hole 15."
         }
       }
     },
     {
-      "hole_number": 15,
+      "hole_number": "15",
       "hole_label": "Hole 15 (Blue)",
       "wind_info": {
         "azimuth_degrees": 163.1,
-        "relative_degrees": 0,
-        "clock_face": "5 o-clock",
-        "description": "5 o-clock (tailwind)"
+        "relative_degrees": 346.9,
+        "clock_face": "12 o-clock headwind",
+        "description": "12 o-clock headwind conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 762ft par 4. OB: Water"
+          "disc_recommendation": "Driver",
+          "shot_strategy": "For Hole 15 (Blue) at 762ft par 4 with 12 o-clock headwind, throw a controlled RHBH. Watch for Water on Hole 15."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 762ft. OB: Water"
+          "disc_recommendation": "Driver",
+          "shot_strategy": "On Hole 15 (Blue), use a RHFH to handle the 12 o-clock headwind. The 762ft Blue layout demands accuracy. Watch for Water on Hole 15."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 762ft par 4. OB: Water"
+          "disc_recommendation": "Driver",
+          "shot_strategy": "For Hole 15 (Blue) facing 12 o-clock headwind, a LHBH provides stability for the 762ft par 4. Watch for Water on Hole 15."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 5 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 762ft. OB: Water"
+          "disc_recommendation": "Driver",
+          "shot_strategy": "On Hole 15 (Blue), a LHFH handles the 12 o-clock headwind well. The Blue layout's 762ft distance requires controlled power. Watch for Water on Hole 15."
         }
       }
     },
     {
-      "hole_number": 16,
+      "hole_number": "16",
       "hole_label": "Hole 16 (Yellow)",
       "wind_info": {
         "azimuth_degrees": 141.8,
-        "relative_degrees": 0,
-        "clock_face": "6 o-clock tailwind",
-        "description": "6 o-clock tailwind (tailwind)"
+        "relative_degrees": 8.2,
+        "clock_face": "12 o-clock headwind",
+        "description": "12 o-clock headwind conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "With a 6 o-clock tailwind, your RHBH will get extra distance \u2014 throw an understable disc with a slight hyzer to maximize carry on this 361ft par 3. OB: Water"
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 16 (Yellow) at 361ft par 3 with 12 o-clock headwind, throw a controlled RHBH. Watch for Water on Hole 16."
         },
         "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "The 6 o-clock tailwind gives your RHFH extra push \u2014 use a stable to understable disc with controlled power to hit the landing zone on this 361ft hole. OB: Water"
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "On Hole 16 (Yellow), use a RHFH to handle the 12 o-clock headwind. The 361ft Yellow layout demands accuracy. Watch for Water on Hole 16."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "The 6 o-clock tailwind gives your LHBH extra distance \u2014 throw an understable disc with a slight anhyzer to maximize carry on this 361ft par 3. OB: Water"
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "For Hole 16 (Yellow) facing 12 o-clock headwind, a LHBH provides stability for the 361ft par 3. Watch for Water on Hole 16."
         },
         "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "With a 6 o-clock tailwind, your LHFH gets a helpful push \u2014 use a stable to understable disc with smooth power to reach the target on this 361ft hole. OB: Water"
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "On Hole 16 (Yellow), a LHFH handles the 12 o-clock headwind well. The Yellow layout's 361ft distance requires controlled power. Watch for Water on Hole 16."
         }
       }
     },
     {
-      "hole_number": 16,
+      "hole_number": "16",
       "hole_label": "Hole 16 (White)",
       "wind_info": {
         "azimuth_degrees": 142.1,
-        "relative_degrees": 0,
-        "clock_face": "6 o-clock tailwind",
-        "description": "6 o-clock tailwind (tailwind)"
+        "relative_degrees": 7.9,
+        "clock_face": "12 o-clock headwind",
+        "description": "12 o-clock headwind conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "With a 6 o-clock tailwind, your RHBH will get extra distance \u2014 throw an understable disc with a slight hyzer to maximize carry on this 655ft par 4. OB: Water"
+          "disc_recommendation": "Driver",
+          "shot_strategy": "For Hole 16 (White) at 655ft par 4 with 12 o-clock headwind, throw a controlled RHBH. Watch for Water on Hole 16."
         },
         "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "The 6 o-clock tailwind gives your RHFH extra push \u2014 use a stable to understable disc with controlled power to hit the landing zone on this 655ft hole. OB: Water"
+          "disc_recommendation": "Driver",
+          "shot_strategy": "On Hole 16 (White), use a RHFH to handle the 12 o-clock headwind. The 655ft White layout demands accuracy. Watch for Water on Hole 16."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "The 6 o-clock tailwind gives your LHBH extra distance \u2014 throw an understable disc with a slight anhyzer to maximize carry on this 655ft par 4. OB: Water"
+          "disc_recommendation": "Driver",
+          "shot_strategy": "For Hole 16 (White) facing 12 o-clock headwind, a LHBH provides stability for the 655ft par 4. Watch for Water on Hole 16."
         },
         "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "With a 6 o-clock tailwind, your LHFH gets a helpful push \u2014 use a stable to understable disc with smooth power to reach the target on this 655ft hole. OB: Water"
+          "disc_recommendation": "Driver",
+          "shot_strategy": "On Hole 16 (White), a LHFH handles the 12 o-clock headwind well. The White layout's 655ft distance requires controlled power. Watch for Water on Hole 16."
         }
       }
     },
     {
-      "hole_number": 16,
+      "hole_number": "16",
       "hole_label": "Hole 16 (Blue)",
       "wind_info": {
         "azimuth_degrees": 141.1,
-        "relative_degrees": 0,
-        "clock_face": "6 o-clock tailwind",
-        "description": "6 o-clock tailwind (tailwind)"
+        "relative_degrees": 8.9,
+        "clock_face": "12 o-clock headwind",
+        "description": "12 o-clock headwind conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "With a 6 o-clock tailwind, your RHBH will get extra distance \u2014 throw an understable disc with a slight hyzer to maximize carry on this 1054ft par 5. OB: Water"
+          "disc_recommendation": "Distance driver",
+          "shot_strategy": "For Hole 16 (Blue) at 1054ft par 5 with 12 o-clock headwind, throw a controlled RHBH. Watch for Water on Hole 16."
         },
         "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "The 6 o-clock tailwind gives your RHFH extra push \u2014 use a stable to understable disc with controlled power to hit the landing zone on this 1054ft hole. OB: Water"
+          "disc_recommendation": "Distance driver",
+          "shot_strategy": "On Hole 16 (Blue), use a RHFH to handle the 12 o-clock headwind. The 1054ft Blue layout demands accuracy. Watch for Water on Hole 16."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "The 6 o-clock tailwind gives your LHBH extra distance \u2014 throw an understable disc with a slight anhyzer to maximize carry on this 1054ft par 5. OB: Water"
+          "disc_recommendation": "Distance driver",
+          "shot_strategy": "For Hole 16 (Blue) facing 12 o-clock headwind, a LHBH provides stability for the 1054ft par 5. Watch for Water on Hole 16."
         },
         "fh": {
-          "disc_recommendation": "Understable",
-          "shot_strategy": "With a 6 o-clock tailwind, your LHFH gets a helpful push \u2014 use a stable to understable disc with smooth power to reach the target on this 1054ft hole. OB: Water"
+          "disc_recommendation": "Distance driver",
+          "shot_strategy": "On Hole 16 (Blue), a LHFH handles the 12 o-clock headwind well. The Blue layout's 1054ft distance requires controlled power. Watch for Water on Hole 16."
         }
       }
     },
     {
-      "hole_number": 17,
+      "hole_number": "17",
       "hole_label": "Hole 17 (Yellow)",
       "wind_info": {
         "azimuth_degrees": 85.5,
-        "relative_degrees": 0,
-        "clock_face": "8 o-clock",
-        "description": "8 o-clock (crosswind)"
+        "relative_degrees": 64.5,
+        "clock_face": "2 o-clock",
+        "description": "2 o-clock conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 252ft par 3."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 17 (Yellow) at 252ft par 3 with 2 o-clock, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 252ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 17 (Yellow), use a RHFH to handle the 2 o-clock. The 252ft Yellow layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 252ft par 3."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 17 (Yellow) facing 2 o-clock, a LHBH provides stability for the 252ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 252ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 17 (Yellow), a LHFH handles the 2 o-clock well. The Yellow layout's 252ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 17,
+      "hole_number": "17",
       "hole_label": "Hole 17 (White)",
       "wind_info": {
         "azimuth_degrees": 98.7,
-        "relative_degrees": 0,
-        "clock_face": "8 o-clock",
-        "description": "8 o-clock (crosswind)"
+        "relative_degrees": 51.3,
+        "clock_face": "2 o-clock",
+        "description": "2 o-clock conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 294ft par 3."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 17 (White) at 294ft par 3 with 2 o-clock, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 294ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 17 (White), use a RHFH to handle the 2 o-clock. The 294ft White layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 294ft par 3."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 17 (White) facing 2 o-clock, a LHBH provides stability for the 294ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 294ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 17 (White), a LHFH handles the 2 o-clock well. The White layout's 294ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 17,
+      "hole_number": "17",
       "hole_label": "Hole 17 (Blue)",
       "wind_info": {
         "azimuth_degrees": 97.7,
-        "relative_degrees": 0,
-        "clock_face": "8 o-clock",
-        "description": "8 o-clock (crosswind)"
+        "relative_degrees": 52.3,
+        "clock_face": "2 o-clock",
+        "description": "2 o-clock conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 460ft par 4."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 17 (Blue) at 460ft par 4 with 2 o-clock, throw a controlled RHBH."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 460ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 17 (Blue), use a RHFH to handle the 2 o-clock. The 460ft Blue layout demands accuracy."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 460ft par 4."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "For Hole 17 (Blue) facing 2 o-clock, a LHBH provides stability for the 460ft par 4."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 8 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 460ft."
+          "disc_recommendation": "Neutral fairway",
+          "shot_strategy": "On Hole 17 (Blue), a LHFH handles the 2 o-clock well. The Blue layout's 460ft distance requires controlled power."
         }
       }
     },
     {
-      "hole_number": 18,
+      "hole_number": "18",
       "hole_label": "Hole 18 (Yellow)",
       "wind_info": {
         "azimuth_degrees": 11.5,
-        "relative_degrees": 0,
-        "clock_face": "11 o-clock",
-        "description": "11 o-clock (headwind)"
+        "relative_degrees": 138.5,
+        "clock_face": "5 o-clock",
+        "description": "5 o-clock conditions for Yellow layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 300ft par 3. OB: Roadway and beyond on left side"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 18 (Yellow) at 300ft par 3 with 5 o-clock, throw a controlled RHBH. Watch for Roadway and beyond on left side on Hole 18."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 300ft. OB: Roadway and beyond on left side"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "On Hole 18 (Yellow), use a RHFH to handle the 5 o-clock. The 300ft Yellow layout demands accuracy. Watch for Roadway and beyond on left side on Hole 18."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 300ft par 3. OB: Roadway and beyond on left side"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 18 (Yellow) facing 5 o-clock, a LHBH provides stability for the 300ft par 3. Watch for Roadway and beyond on left side on Hole 18."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 300ft. OB: Roadway and beyond on left side"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "On Hole 18 (Yellow), a LHFH handles the 5 o-clock well. The Yellow layout's 300ft distance requires controlled power. Watch for Roadway and beyond on left side on Hole 18."
         }
       }
     },
     {
-      "hole_number": 18,
+      "hole_number": "18",
       "hole_label": "Hole 18 (White)",
       "wind_info": {
         "azimuth_degrees": 7.0,
-        "relative_degrees": 0,
-        "clock_face": "11 o-clock",
-        "description": "11 o-clock (headwind)"
+        "relative_degrees": 143.0,
+        "clock_face": "5 o-clock",
+        "description": "5 o-clock conditions for White layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 431ft par 4. OB: Roadway and beyond on left side"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 18 (White) at 431ft par 4 with 5 o-clock, throw a controlled RHBH. Watch for Roadway and beyond on left side on Hole 18."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 431ft. OB: Roadway and beyond on left side"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "On Hole 18 (White), use a RHFH to handle the 5 o-clock. The 431ft White layout demands accuracy. Watch for Roadway and beyond on left side on Hole 18."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 431ft par 4. OB: Roadway and beyond on left side"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "For Hole 18 (White) facing 5 o-clock, a LHBH provides stability for the 431ft par 4. Watch for Roadway and beyond on left side on Hole 18."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 431ft. OB: Roadway and beyond on left side"
+          "disc_recommendation": "Neutral driver",
+          "shot_strategy": "On Hole 18 (White), a LHFH handles the 5 o-clock well. The White layout's 431ft distance requires controlled power. Watch for Roadway and beyond on left side on Hole 18."
         }
       }
     },
     {
-      "hole_number": 18,
+      "hole_number": "18",
       "hole_label": "Hole 18 (Blue)",
       "wind_info": {
         "azimuth_degrees": 10.0,
-        "relative_degrees": 0,
-        "clock_face": "11 o-clock",
-        "description": "11 o-clock (headwind)"
+        "relative_degrees": 140.0,
+        "clock_face": "5 o-clock",
+        "description": "5 o-clock conditions for Blue layout"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your RHBH based on wind strength \u2014 use a stable disc with controlled power on this 508ft par 4. OB: Roadway and beyond on left side"
+          "disc_recommendation": "Driver",
+          "shot_strategy": "For Hole 18 (Blue) at 508ft par 4 with 5 o-clock, throw a controlled RHBH. Watch for Roadway and beyond on left side on Hole 18."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your RHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 508ft. OB: Roadway and beyond on left side"
+          "disc_recommendation": "Driver",
+          "shot_strategy": "On Hole 18 (Blue), use a RHFH to handle the 5 o-clock. The 508ft Blue layout demands accuracy. Watch for Roadway and beyond on left side on Hole 18."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, adjust your LHBH based on wind strength \u2014 use a stable disc with controlled power on this 508ft par 4. OB: Roadway and beyond on left side"
+          "disc_recommendation": "Driver",
+          "shot_strategy": "For Hole 18 (Blue) facing 5 o-clock, a LHBH provides stability for the 508ft par 4. Watch for Roadway and beyond on left side on Hole 18."
         },
         "fh": {
-          "disc_recommendation": "Stable",
-          "shot_strategy": "With 11 o-clock conditions, your LHFH can be effective \u2014 choose a disc that matches the wind strength and hole distance of 508ft. OB: Roadway and beyond on left side"
+          "disc_recommendation": "Driver",
+          "shot_strategy": "On Hole 18 (Blue), a LHFH handles the 5 o-clock well. The Blue layout's 508ft distance requires controlled power. Watch for Roadway and beyond on left side on Hole 18."
         }
       }
     }
