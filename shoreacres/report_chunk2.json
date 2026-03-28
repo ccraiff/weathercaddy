@@ -1,0 +1,99 @@
+{
+  "course": "Shore Acres Disc Golf Park",
+  "report_generated_at": "2026-03-27 23:59 EDT",
+  "current_wind": {
+    "speed_mph": 14.2,
+    "direction_degrees": 316,
+    "gusts_mph": 25.1,
+    "description": "14.2 mph from 316\u00b0 (NW), gusts to 25.1 mph"
+  },
+  "forecast_5hr": [
+    {
+      "time_edt": "2026-03-27 22:00 EDT",
+      "speed_mph": 14.2,
+      "direction_degrees": 316
+    },
+    {
+      "time_edt": "2026-03-27 23:00 EDT",
+      "speed_mph": 13.2,
+      "direction_degrees": 330
+    },
+    {
+      "time_edt": "2026-03-28 00:00 EDT",
+      "speed_mph": 12.2,
+      "direction_degrees": 343
+    },
+    {
+      "time_edt": "2026-03-28 01:00 EDT",
+      "speed_mph": 12.0,
+      "direction_degrees": 333
+    },
+    {
+      "time_edt": "2026-03-28 02:00 EDT",
+      "speed_mph": 15.3,
+      "direction_degrees": 329
+    }
+  ],
+  "holes": [
+    {
+      "hole_number": 15,
+      "hole_label": "Hole 15 (Yellow)",
+      "wind_info": {
+        "azimuth_degrees": 159.0,
+        "relative_degrees": 157.0,
+        "clock_face": "5 o-clock",
+        "description": "5 o-clock crosswind from right"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Placeholder"
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Placeholder"
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Placeholder"
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Placeholder"
+        }
+      }
+    },
+    {
+      "hole_number": 15,
+      "hole_label": "Hole 15 (Black)",
+      "wind_info": {
+        "azimuth_degrees": 176.0,
+        "relative_degrees": 140.0,
+        "clock_face": "5 o-clock",
+        "description": "5 o-clock crosswind from right"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Placeholder"
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Placeholder"
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Placeholder"
+        },
+        "fh": {
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Placeholder"
+        }
+      }
+    }
+  ]
+}
