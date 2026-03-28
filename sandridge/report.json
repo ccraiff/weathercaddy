@@ -1,37 +1,37 @@
 {
   "course": "Sand Ridge Disc Golf Course",
-  "report_generated_at": "2026-03-27 22:24 EDT",
+  "report_generated_at": "2026-03-28 07:26 EDT",
   "current_wind": {
-    "speed_mph": 1.2,
-    "direction_degrees": 22,
-    "gusts_mph": 6.9,
-    "description": "Light breeze from NNE"
+    "speed_mph": 8.7,
+    "direction_degrees": 347,
+    "gusts_mph": 15.7,
+    "description": "8.7 mph from 347\u00b0 gusts to 15.7 mph"
   },
   "forecast_5hr": [
     {
-      "time_edt": "2026-03-27 21:00 EDT",
-      "speed_mph": 1.2,
-      "direction_degrees": 22
+      "time_edt": "2026-03-28 06:00 EDT",
+      "speed_mph": 8.7,
+      "direction_degrees": 347
     },
     {
-      "time_edt": "2026-03-27 22:00 EDT",
-      "speed_mph": 3.6,
-      "direction_degrees": 338
+      "time_edt": "2026-03-28 07:00 EDT",
+      "speed_mph": 7.5,
+      "direction_degrees": 350
     },
     {
-      "time_edt": "2026-03-27 23:00 EDT",
-      "speed_mph": 4.7,
-      "direction_degrees": 325
+      "time_edt": "2026-03-28 08:00 EDT",
+      "speed_mph": 7.6,
+      "direction_degrees": 2
     },
     {
-      "time_edt": "2026-03-28 00:00 EDT",
-      "speed_mph": 7.8,
-      "direction_degrees": 321
+      "time_edt": "2026-03-28 09:00 EDT",
+      "speed_mph": 5.9,
+      "direction_degrees": 349
     },
     {
-      "time_edt": "2026-03-28 01:00 EDT",
-      "speed_mph": 12.5,
-      "direction_degrees": 336
+      "time_edt": "2026-03-28 10:00 EDT",
+      "speed_mph": 5.4,
+      "direction_degrees": 312
     }
   ],
   "holes": [
@@ -39,29 +39,29 @@
       "hole_number": 1,
       "hole_label": "Hole 1",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 84.3,
+        "relative_degrees": 262.7,
+        "clock_face": "9 o-clock crosswind from left",
+        "description": "9 o-clock crosswind from left for Hole 1"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 1, use an overstable disc for control."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "With a 9 o-clock crosswind from left, your RHBH flight plate is exposed to the wind \u2014 throw a controlled RHFH with an overstable disc to fight the leftward push on this 392ft par 3. Watch for Roadway to the right and past the basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 1, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 9 o-clock crosswind from left, RHFH is the safer choice as it keeps the flight plate protected \u2014 use an overstable disc and aim slightly right of your target to account for the wind pushing left on Hole 1. Watch for Roadway to the right and past the basket."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 1 with these conditions."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "With a 9 o-clock crosswind from left, your LHBH natural fade works with the wind direction \u2014 use a stable to overstable disc and aim slightly left of your target on this 392ft par 3. Watch for Roadway to the right and past the basket."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 1 with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 9 o-clock crosswind from left, LHFH is also viable \u2014 use an overstable disc and focus on a clean release to minimize the wind effect on Hole 1. Watch for Roadway to the right and past the basket."
         }
       }
     },
@@ -69,29 +69,29 @@
       "hole_number": 2,
       "hole_label": "Hole 2",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 40.8,
+        "relative_degrees": 306.2,
+        "clock_face": "10 o-clock",
+        "description": "10 o-clock for Hole 2"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 2, use an overstable disc for control."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "With a 10 o-clock, your RHBH flight plate is exposed to the wind \u2014 throw a controlled RHFH with an overstable disc to fight the leftward push on this 211ft par 3. Watch for Beyond Staked property line.."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 2, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 10 o-clock, RHFH is the safer choice as it keeps the flight plate protected \u2014 use an overstable disc and aim slightly right of your target to account for the wind pushing left on Hole 2. Watch for Beyond Staked property line.."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 2 with these conditions."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "With a 10 o-clock, your LHBH natural fade works with the wind direction \u2014 use a stable to overstable disc and aim slightly left of your target on this 211ft par 3. Watch for Beyond Staked property line.."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 2 with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 10 o-clock, LHFH is also viable \u2014 use an overstable disc and focus on a clean release to minimize the wind effect on Hole 2. Watch for Beyond Staked property line.."
         }
       }
     },
@@ -99,29 +99,29 @@
       "hole_number": 3,
       "hole_label": "Hole 3",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 20.0,
+        "relative_degrees": 327.0,
+        "clock_face": "11 o-clock",
+        "description": "11 o-clock for Hole 3"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 3, use an overstable disc for control."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "With a 11 o-clock, both RHBH and RHFH are manageable \u2014 use an overstable disc and throw with extra power to penetrate the wind on this 221ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 3, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 11 o-clock, RHFH works well \u2014 use an overstable disc and focus on a flat release to maintain stability in the headwind on Hole 3."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 3 with these conditions."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "With a 11 o-clock, both LHBH and LHFH are manageable \u2014 use an overstable disc and throw with extra power to penetrate the wind on this 221ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 3 with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 11 o-clock, LHFH works well \u2014 use an overstable disc and focus on a flat release to maintain stability in the headwind on Hole 3."
         }
       }
     },
@@ -129,29 +129,29 @@
       "hole_number": 4,
       "hole_label": "Hole 4",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 7.2,
+        "relative_degrees": 339.8,
+        "clock_face": "11 o-clock",
+        "description": "11 o-clock for Hole 4"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 4, use an overstable disc for control."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "With a 11 o-clock, both RHBH and RHFH are manageable \u2014 use an overstable disc and throw with extra power to penetrate the wind on this 229ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 4, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 11 o-clock, RHFH works well \u2014 use an overstable disc and focus on a flat release to maintain stability in the headwind on Hole 4."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 4 with these conditions."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "With a 11 o-clock, both LHBH and LHFH are manageable \u2014 use an overstable disc and throw with extra power to penetrate the wind on this 229ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 4 with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 11 o-clock, LHFH works well \u2014 use an overstable disc and focus on a flat release to maintain stability in the headwind on Hole 4."
         }
       }
     },
@@ -159,29 +159,29 @@
       "hole_number": 5,
       "hole_label": "Hole 5",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 168.7,
+        "relative_degrees": 178.3,
+        "clock_face": "6 o-clock tailwind",
+        "description": "6 o-clock tailwind for Hole 5"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 5, use an overstable disc for control."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "With a 6 o-clock tailwind, you'll get extra distance \u2014 use an understable to stable disc and throw with normal power, allowing the tailwind to carry your shot on this 179ft par 3. Avoid the Any lie not inside the island is given a One stroke penalty to prevent penalty strokes."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 5, forehand is a good option with current wind."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "For this 6 o-clock tailwind, RHFH will also benefit from the tailwind \u2014 use an understable to stable disc and focus on a clean release to maximize distance on Hole 5. Avoid the Any lie not inside the island is given a One stroke penalty to prevent penalty strokes."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 5 with these conditions."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "With a 6 o-clock tailwind, you'll get extra distance \u2014 use an understable to stable disc and throw with normal power, allowing the tailwind to carry your shot on this 179ft par 3. Avoid the Any lie not inside the island is given a One stroke penalty to prevent penalty strokes."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 5 with current wind."
+          "disc_recommendation": "Understable to Stable",
+          "shot_strategy": "For this 6 o-clock tailwind, LHFH will also benefit from the tailwind \u2014 use an understable to stable disc and focus on a clean release to maximize distance on Hole 5. Avoid the Any lie not inside the island is given a One stroke penalty to prevent penalty strokes."
         }
       }
     },
@@ -189,29 +189,29 @@
       "hole_number": 6,
       "hole_label": "Hole 6",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 72.4,
+        "relative_degrees": 274.6,
+        "clock_face": "9 o-clock crosswind from left",
+        "description": "9 o-clock crosswind from left for Hole 6"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 6, use an overstable disc for control."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "With a 9 o-clock crosswind from left, your RHBH flight plate is exposed to the wind \u2014 throw a controlled RHFH with an overstable disc to fight the leftward push on this 202ft par 3. Watch for Entire right side of fairway is OB."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 6, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 9 o-clock crosswind from left, RHFH is the safer choice as it keeps the flight plate protected \u2014 use an overstable disc and aim slightly right of your target to account for the wind pushing left on Hole 6. Watch for Entire right side of fairway is OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 6 with these conditions."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "With a 9 o-clock crosswind from left, your LHBH natural fade works with the wind direction \u2014 use a stable to overstable disc and aim slightly left of your target on this 202ft par 3. Watch for Entire right side of fairway is OB."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 6 with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 9 o-clock crosswind from left, LHFH is also viable \u2014 use an overstable disc and focus on a clean release to minimize the wind effect on Hole 6. Watch for Entire right side of fairway is OB."
         }
       }
     },
@@ -219,29 +219,29 @@
       "hole_number": 7,
       "hole_label": "Hole 7",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 20.8,
+        "relative_degrees": 326.2,
+        "clock_face": "11 o-clock",
+        "description": "11 o-clock for Hole 7"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 7, use an overstable disc for control."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "With a 11 o-clock, both RHBH and RHFH are manageable \u2014 use an overstable disc and throw with extra power to penetrate the wind on this 232ft par 3. Watch for Staked property line \u2014 anything north is OB."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 7, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 11 o-clock, RHFH works well \u2014 use an overstable disc and focus on a flat release to maintain stability in the headwind on Hole 7. Watch for Staked property line \u2014 anything north is OB."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 7 with these conditions."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "With a 11 o-clock, both LHBH and LHFH are manageable \u2014 use an overstable disc and throw with extra power to penetrate the wind on this 232ft par 3. Watch for Staked property line \u2014 anything north is OB."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 7 with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 11 o-clock, LHFH works well \u2014 use an overstable disc and focus on a flat release to maintain stability in the headwind on Hole 7. Watch for Staked property line \u2014 anything north is OB."
         }
       }
     },
@@ -249,29 +249,29 @@
       "hole_number": 8,
       "hole_label": "Hole 8",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 285,
+        "relative_degrees": 138,
+        "clock_face": "9 o'clock crosswind from right",
+        "description": "9 o'clock crosswind from right for Hole 8"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 8, use an overstable disc for control."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With 9 o'clock crosswind from right on Hole 8, your RHBH flight plate is exposed \u2014 throw an overstable driver on a hyzer line to minimize leftward drift."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 8, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "The 9 o'clock crosswind from right on Hole 8 favors RHFH \u2014 use an overstable fairway driver with a flat release to fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 8 with these conditions."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "The 9 o'clock crosswind from right on Hole 8 works with LHBH natural fade \u2014 use a stable driver to let the wind assist your rightward finish."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 8 with current wind."
+          "disc_recommendation": "Understable fairway driver",
+          "shot_strategy": "For LHFH on Hole 8's 9 o'clock crosswind from right, choose an overstable fairway driver with hyzer to counter the leftward push."
         }
       }
     },
@@ -279,59 +279,89 @@
       "hole_number": 9,
       "hole_label": "Hole 9",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 300,
+        "relative_degrees": 153,
+        "clock_face": "10 o'clock crosswind from right",
+        "description": "10 o'clock crosswind from right for Hole 9"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 9, use an overstable disc for control."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With 10 o'clock crosswind from right on Hole 9, your RHBH flight plate is exposed \u2014 throw an overstable driver on a hyzer line to minimize leftward drift."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 9, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "The 10 o'clock crosswind from right on Hole 9 favors RHFH \u2014 use an overstable fairway driver with a flat release to fight the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 9 with these conditions."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "The 10 o'clock crosswind from right on Hole 9 works with LHBH natural fade \u2014 use a stable driver to let the wind assist your rightward finish."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 9 with current wind."
+          "disc_recommendation": "Understable fairway driver",
+          "shot_strategy": "For LHFH on Hole 9's 10 o'clock crosswind from right, choose an overstable fairway driver with hyzer to counter the leftward push."
         }
       }
     },
     {
       "hole_number": 10,
-      "hole_label": "Hole 10",
+      "hole_label": "Hole 10 [A]",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 315,
+        "relative_degrees": 168,
+        "clock_face": "11 o'clock headwind",
+        "description": "11 o'clock headwind for Hole 10 [A]"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 10, use an overstable disc for control."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Facing 11 o'clock headwind on Hole 10 [A] (A basket), throw an overstable distance driver on RHBH with extra height to combat the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 10, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "The 11 o'clock headwind on Hole 10 [A] (A basket) requires maximum stability \u2014 use a very overstable driver on RHFH to penetrate through the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 10 with these conditions."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "With 11 o'clock headwind on Hole 10 [A] (A basket), disc up to an overstable driver on LHBH to maintain distance through the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 10 with current wind."
+          "disc_recommendation": "Understable fairway driver",
+          "shot_strategy": "The 11 o'clock headwind on Hole 10 [A] (A basket) demands extra stability \u2014 use a very overstable driver on LHFH to power through the wind."
+        }
+      }
+    },
+    {
+      "hole_number": 10,
+      "hole_label": "Hole 10 [B]",
+      "wind_info": {
+        "azimuth_degrees": 330,
+        "relative_degrees": 183,
+        "clock_face": "11 o'clock headwind",
+        "description": "11 o'clock headwind for Hole 10 [B]"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Facing 11 o'clock headwind on Hole 10 [B] (B basket), throw an overstable distance driver on RHBH with extra height to combat the headwind."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "The 11 o'clock headwind on Hole 10 [B] (B basket) requires maximum stability \u2014 use a very overstable driver on RHFH to penetrate through the wind."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "With 11 o'clock headwind on Hole 10 [B] (B basket), disc up to an overstable driver on LHBH to maintain distance through the headwind."
+        },
+        "fh": {
+          "disc_recommendation": "Understable fairway driver",
+          "shot_strategy": "The 11 o'clock headwind on Hole 10 [B] (B basket) demands extra stability \u2014 use a very overstable driver on LHFH to power through the wind."
         }
       }
     },
@@ -339,29 +369,29 @@
       "hole_number": 11,
       "hole_label": "Hole 11",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 345,
+        "relative_degrees": 198,
+        "clock_face": "12 o'clock headwind",
+        "description": "12 o'clock headwind for Hole 11"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 11, use an overstable disc for control."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Facing 12 o'clock headwind on Hole 11, throw an overstable distance driver on RHBH with extra height to combat the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 11, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "The 12 o'clock headwind on Hole 11 requires maximum stability \u2014 use a very overstable driver on RHFH to penetrate through the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 11 with these conditions."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "With 12 o'clock headwind on Hole 11, disc up to an overstable driver on LHBH to maintain distance through the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 11 with current wind."
+          "disc_recommendation": "Understable fairway driver",
+          "shot_strategy": "The 12 o'clock headwind on Hole 11 demands extra stability \u2014 use a very overstable driver on LHFH to power through the wind."
         }
       }
     },
@@ -369,89 +399,149 @@
       "hole_number": 12,
       "hole_label": "Hole 12",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 360,
+        "relative_degrees": 213,
+        "clock_face": "1 o'clock headwind",
+        "description": "1 o'clock headwind for Hole 12"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 12, use an overstable disc for control."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "Facing 1 o'clock headwind on Hole 12, throw an overstable distance driver on RHBH with extra height to combat the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 12, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "The 1 o'clock headwind on Hole 12 requires maximum stability \u2014 use a very overstable driver on RHFH to penetrate through the wind."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 12 with these conditions."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "With 1 o'clock headwind on Hole 12, disc up to an overstable driver on LHBH to maintain distance through the headwind."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 12 with current wind."
+          "disc_recommendation": "Understable fairway driver",
+          "shot_strategy": "The 1 o'clock headwind on Hole 12 demands extra stability \u2014 use a very overstable driver on LHFH to power through the wind."
         }
       }
     },
     {
       "hole_number": 13,
-      "hole_label": "Hole 13",
+      "hole_label": "Hole 13 [A]",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 375,
+        "relative_degrees": 228,
+        "clock_face": "2 o'clock crosswind from left",
+        "description": "2 o'clock crosswind from left for Hole 13 [A]"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 13, use an overstable disc for control."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With 2 o'clock crosswind from left on Hole 13 [A] (A basket), your RHBH fade works with the wind \u2014 throw an overstable driver on a hyzer line to ride the rightward push."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 13, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "The 2 o'clock crosswind from left on Hole 13 [A] (A basket) exposes your RHFH flight plate \u2014 use an overstable fairway driver to minimize rightward drift."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 13 with these conditions."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Facing 2 o'clock crosswind from left on Hole 13 [A] (A basket), your LHBH faces double trouble \u2014 use a very overstable driver with extra hyzer to fight the rightward push."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 13 with current wind."
+          "disc_recommendation": "Understable fairway driver",
+          "shot_strategy": "The 2 o'clock crosswind from left on Hole 13 [A] (A basket) is favorable for LHFH \u2014 throw an understable fairway driver to work with the rightward wind."
+        }
+      }
+    },
+    {
+      "hole_number": 13,
+      "hole_label": "Hole 13 [B]",
+      "wind_info": {
+        "azimuth_degrees": 390,
+        "relative_degrees": 243,
+        "clock_face": "2 o'clock crosswind from left",
+        "description": "2 o'clock crosswind from left for Hole 13 [B]"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With 2 o'clock crosswind from left on Hole 13 [B] (B basket), your RHBH fade works with the wind \u2014 throw an overstable driver on a hyzer line to ride the rightward push."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "The 2 o'clock crosswind from left on Hole 13 [B] (B basket) exposes your RHFH flight plate \u2014 use an overstable fairway driver to minimize rightward drift."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Facing 2 o'clock crosswind from left on Hole 13 [B] (B basket), your LHBH faces double trouble \u2014 use a very overstable driver with extra hyzer to fight the rightward push."
+        },
+        "fh": {
+          "disc_recommendation": "Understable fairway driver",
+          "shot_strategy": "The 2 o'clock crosswind from left on Hole 13 [B] (B basket) is favorable for LHFH \u2014 throw an understable fairway driver to work with the rightward wind."
         }
       }
     },
     {
       "hole_number": 14,
-      "hole_label": "Hole 14",
+      "hole_label": "Hole 14 [A]",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 405,
+        "relative_degrees": 258,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "3 o'clock crosswind from left for Hole 14 [A]"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 14, use an overstable disc for control."
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With 3 o'clock crosswind from left on Hole 14 [A] (A basket), your RHBH fade works with the wind \u2014 throw an overstable driver on a hyzer line to ride the rightward push."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 14, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "The 3 o'clock crosswind from left on Hole 14 [A] (A basket) exposes your RHFH flight plate \u2014 use an overstable fairway driver to minimize rightward drift."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 14 with these conditions."
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Facing 3 o'clock crosswind from left on Hole 14 [A] (A basket), your LHBH faces double trouble \u2014 use a very overstable driver with extra hyzer to fight the rightward push."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 14 with current wind."
+          "disc_recommendation": "Understable fairway driver",
+          "shot_strategy": "The 3 o'clock crosswind from left on Hole 14 [A] (A basket) is favorable for LHFH \u2014 throw an understable fairway driver to work with the rightward wind."
+        }
+      }
+    },
+    {
+      "hole_number": 14,
+      "hole_label": "Hole 14 [B]",
+      "wind_info": {
+        "azimuth_degrees": 420,
+        "relative_degrees": 273,
+        "clock_face": "3 o'clock crosswind from left",
+        "description": "3 o'clock crosswind from left for Hole 14 [B]"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Overstable driver",
+          "shot_strategy": "With 3 o'clock crosswind from left on Hole 14 [B] (B basket), your RHBH fade works with the wind \u2014 throw an overstable driver on a hyzer line to ride the rightward push."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable fairway driver",
+          "shot_strategy": "The 3 o'clock crosswind from left on Hole 14 [B] (B basket) exposes your RHFH flight plate \u2014 use an overstable fairway driver to minimize rightward drift."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Stable driver",
+          "shot_strategy": "Facing 3 o'clock crosswind from left on Hole 14 [B] (B basket), your LHBH faces double trouble \u2014 use a very overstable driver with extra hyzer to fight the rightward push."
+        },
+        "fh": {
+          "disc_recommendation": "Understable fairway driver",
+          "shot_strategy": "The 3 o'clock crosswind from left on Hole 14 [B] (B basket) is favorable for LHFH \u2014 throw an understable fairway driver to work with the rightward wind."
         }
       }
     },
@@ -459,29 +549,29 @@
       "hole_number": 15,
       "hole_label": "Hole 15",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 0,
+        "relative_degrees": 0,
+        "clock_face": "",
+        "description": " for Hole 15"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 15, use an overstable disc for control."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "With  conditions, use a stable disc and adjust your aim based on the wind direction for this 307ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 15, forehand is a good option with current wind."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "For  conditions on Hole 15, use a stable disc and focus on a clean release to minimize wind effects."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 15 with these conditions."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "With  conditions, use a stable disc and adjust your aim based on the wind direction for this 307ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 15 with current wind."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "For  conditions on Hole 15, use a stable disc and focus on a clean release to minimize wind effects."
         }
       }
     },
@@ -489,29 +579,29 @@
       "hole_number": 16,
       "hole_label": "Hole 16",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 0,
+        "relative_degrees": 0,
+        "clock_face": "",
+        "description": " for Hole 16"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 16, use an overstable disc for control."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "With  conditions, use a stable disc and adjust your aim based on the wind direction for this 213ft par 3. Watch for North face of wall and beyond is Out of Bounds (Third Coast Championship only)."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 16, forehand is a good option with current wind."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "For  conditions on Hole 16, use a stable disc and focus on a clean release to minimize wind effects. Watch for North face of wall and beyond is Out of Bounds (Third Coast Championship only)."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 16 with these conditions."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "With  conditions, use a stable disc and adjust your aim based on the wind direction for this 213ft par 3. Watch for North face of wall and beyond is Out of Bounds (Third Coast Championship only)."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 16 with current wind."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "For  conditions on Hole 16, use a stable disc and focus on a clean release to minimize wind effects. Watch for North face of wall and beyond is Out of Bounds (Third Coast Championship only)."
         }
       }
     },
@@ -519,239 +609,149 @@
       "hole_number": 17,
       "hole_label": "Hole 17",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 0,
+        "relative_degrees": 0,
+        "clock_face": "",
+        "description": " for Hole 17"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 17, use an overstable disc for control."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "With  conditions, use a stable disc and adjust your aim based on the wind direction for this 295ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 17, forehand is a good option with current wind."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "For  conditions on Hole 17, use a stable disc and focus on a clean release to minimize wind effects."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 17 with these conditions."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "With  conditions, use a stable disc and adjust your aim based on the wind direction for this 295ft par 3."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 17 with current wind."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "For  conditions on Hole 17, use a stable disc and focus on a clean release to minimize wind effects."
         }
       }
     },
     {
       "hole_number": 18,
-      "hole_label": "Hole 18",
+      "hole_label": "Hole 18 [A]",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 276.2,
+        "relative_degrees": 70.8,
+        "clock_face": "2 o-clock",
+        "description": "2 o-clock for Hole 18 [A]"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 18, use an overstable disc for control."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "With a 2 o-clock, RHBH keeps the flight plate away from the wind \u2014 use a stable to overstable disc and aim slightly left of your target on this 564ft par 4. Watch for Soccer Pitch(s) out of Bounds - Tarmac and Beyond Out of Bounds."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 18, forehand is a good option with current wind."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 2 o-clock, RHFH exposes the flight plate \u2014 use an overstable disc and throw with extra hyzer to fight the rightward push on Hole 18. Watch for Soccer Pitch(s) out of Bounds - Tarmac and Beyond Out of Bounds."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 18 with these conditions."
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "With a 2 o-clock, your LHBH fade and wind both push right \u2014 use an overstable disc and consider LHFH instead for better control on this 564ft par 4. Watch for Soccer Pitch(s) out of Bounds - Tarmac and Beyond Out of Bounds."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 18 with current wind."
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "For this 2 o-clock, LHFH is the safer choice as it keeps the flight plate protected \u2014 use a stable to overstable disc and aim slightly right of your target on Hole 18. Watch for Soccer Pitch(s) out of Bounds - Tarmac and Beyond Out of Bounds."
         }
       }
     },
     {
-      "hole_number": 19,
+      "hole_number": 18,
+      "hole_label": "Hole 18 [B]",
+      "wind_info": {
+        "azimuth_degrees": 270.0,
+        "relative_degrees": 77.0,
+        "clock_face": "3 o-clock crosswind from right",
+        "description": "3 o-clock crosswind from right for Hole 18 [B]"
+      },
+      "tips_rh": {
+        "bh": {
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "With a 3 o-clock crosswind from right, RHBH keeps the flight plate away from the wind \u2014 use a stable to overstable disc and aim slightly left of your target on this 562ft par 4. Watch for Soccer Pitch(s) out of Bounds - Tarmac and Beyond Out of Bounds."
+        },
+        "fh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "For this 3 o-clock crosswind from right, RHFH exposes the flight plate \u2014 use an overstable disc and throw with extra hyzer to fight the rightward push on Hole 18. Watch for Soccer Pitch(s) out of Bounds - Tarmac and Beyond Out of Bounds."
+        }
+      },
+      "tips_lh": {
+        "bh": {
+          "disc_recommendation": "Overstable",
+          "shot_strategy": "With a 3 o-clock crosswind from right, your LHBH fade and wind both push right \u2014 use an overstable disc and consider LHFH instead for better control on this 562ft par 4. Watch for Soccer Pitch(s) out of Bounds - Tarmac and Beyond Out of Bounds."
+        },
+        "fh": {
+          "disc_recommendation": "Stable to Overstable",
+          "shot_strategy": "For this 3 o-clock crosswind from right, LHFH is the safer choice as it keeps the flight plate protected \u2014 use a stable to overstable disc and aim slightly right of your target on Hole 18. Watch for Soccer Pitch(s) out of Bounds - Tarmac and Beyond Out of Bounds."
+        }
+      }
+    },
+    {
+      "hole_number": 101,
       "hole_label": "Hole T1-B",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 0,
+        "relative_degrees": 0,
+        "clock_face": "",
+        "description": " for Hole T1-B"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 19, use an overstable disc for control."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "With  conditions, use a stable disc and adjust your aim based on the wind direction for this 303ft par 3. Watch for Out of Bounds. Avoid the Add one stroke penalty if landing inside this area.\u00a0 Play from where it lies. to prevent penalty strokes."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 19, forehand is a good option with current wind."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "For  conditions on Hole T1-B, use a stable disc and focus on a clean release to minimize wind effects. Watch for Out of Bounds. Avoid the Add one stroke penalty if landing inside this area.\u00a0 Play from where it lies. to prevent penalty strokes."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 19 with these conditions."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "With  conditions, use a stable disc and adjust your aim based on the wind direction for this 303ft par 3. Watch for Out of Bounds. Avoid the Add one stroke penalty if landing inside this area.\u00a0 Play from where it lies. to prevent penalty strokes."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 19 with current wind."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "For  conditions on Hole T1-B, use a stable disc and focus on a clean release to minimize wind effects. Watch for Out of Bounds. Avoid the Add one stroke penalty if landing inside this area.\u00a0 Play from where it lies. to prevent penalty strokes."
         }
       }
     },
     {
-      "hole_number": 20,
-      "hole_label": "Hole T2-B",
+      "hole_number": 102,
+      "hole_label": "Hole T17-B",
       "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
+        "azimuth_degrees": 0,
+        "relative_degrees": 0,
+        "clock_face": "",
+        "description": " for Hole T17-B"
       },
       "tips_rh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 20, use an overstable disc for control."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "With  conditions, use a stable disc and adjust your aim based on the wind direction for this 363ft par 3. Remember the mandatory marker on this hole."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 20, forehand is a good option with current wind."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "For  conditions on Hole T17-B, use a stable disc and focus on a clean release to minimize wind effects. Remember the mandatory marker on this hole."
         }
       },
       "tips_lh": {
         "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 20 with these conditions."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "With  conditions, use a stable disc and adjust your aim based on the wind direction for this 363ft par 3. Remember the mandatory marker on this hole."
         },
         "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 20 with current wind."
-        }
-      }
-    },
-    {
-      "hole_number": 21,
-      "hole_label": "Hole T3-B",
-      "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 21, use an overstable disc for control."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 21, forehand is a good option with current wind."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 21 with these conditions."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 21 with current wind."
-        }
-      }
-    },
-    {
-      "hole_number": 22,
-      "hole_label": "Hole T4-B",
-      "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 22, use an overstable disc for control."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 22, forehand is a good option with current wind."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 22 with these conditions."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 22 with current wind."
-        }
-      }
-    },
-    {
-      "hole_number": 23,
-      "hole_label": "Hole T5-B",
-      "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 23, use an overstable disc for control."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 23, forehand is a good option with current wind."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 23 with these conditions."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 23 with current wind."
-        }
-      }
-    },
-    {
-      "hole_number": 24,
-      "hole_label": "Hole T6-B",
-      "wind_info": {
-        "azimuth_degrees": 0.0,
-        "relative_degrees": 0.0,
-        "clock_face": "headwind",
-        "description": "Headwind"
-      },
-      "tips_rh": {
-        "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "With current wind conditions on Hole 24, use an overstable disc for control."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "For Hole 24, forehand is a good option with current wind."
-        }
-      },
-      "tips_lh": {
-        "bh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand backhand works well on Hole 24 with these conditions."
-        },
-        "fh": {
-          "disc_recommendation": "Overstable disc",
-          "shot_strategy": "Left-hand forehand is viable on Hole 24 with current wind."
+          "disc_recommendation": "Stable",
+          "shot_strategy": "For  conditions on Hole T17-B, use a stable disc and focus on a clean release to minimize wind effects. Remember the mandatory marker on this hole."
         }
       }
     }
